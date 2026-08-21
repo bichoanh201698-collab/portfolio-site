@@ -184,7 +184,34 @@
     "desc_vi": "Bộ dự án freelance cho De Skin Journey — thương hiệu chăm sóc da bền vững, khoa học — bao gồm làm mới nhận diện thương hiệu, thiết kế ấn phẩm in và hình ảnh mạng xã hội.",
     "desc_en": "A freelance collection of graphic design work for De Skin Journey, a sustainable, science-based skincare brand — covering visual identity renewal, print design, and social media graphics.",
     "link": "#",
-    "image": "/assets/uploads/07-de-skin-journey-freelance.jpg"
+    "image": "/assets/uploads/07-de-skin-journey-freelance.jpg",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Đây là bộ sưu tập dự án thiết kế đồ họa cho De Skin Journey, một thương hiệu chăm sóc sắc đẹp và làn da hướng đến sự bền vững và khoa học. Dự án bao gồm việc xây dựng một nhận diện hình ảnh mới, gồm làm mới thiết kế thương hiệu, thiết kế ấn phẩm in và hình ảnh mạng xã hội, phản ánh đúng giá trị và sứ mệnh của thương hiệu. Chúng tôi đã thành công mang đến một diện mạo mới mẻ, độc đáo giúp thương hiệu gây ấn tượng và nổi bật.", "text_en": "Here is the collection of a graphic design project for De Skin Journey, a beauty and skincare brand focused on sustainable, scientific care. The project involved creating a new visual identity, including brand design renewal, print design, and social media graphics, that reflects the brand's values and mission. We have successfully brought a new and unique look to the brand that impresses and stands out." },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-06.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-13.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-14.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-15.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-16.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-17.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-18.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-19.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-20.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-21.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-22.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-23.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-24.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b25", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-25.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "01c678ca5764",
@@ -198,7 +225,15 @@
     "desc_vi": "Hợp tác cùng Furin Creative Lab, thực hiện phác thảo dáng tạo hình kỹ thuật số để định hướng giải phẫu cho buổi chụp ảnh sản phẩm mì Zeppin của Acecook.",
     "desc_en": "Working with Furin Creative Lab, provided digital posing sketches to guide the model's anatomy for Acecook's Zeppin instant-noodle photoshoot.",
     "link": "#",
-    "image": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches.jpg"
+    "image": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches.jpg",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Với vai trò hợp tác cùng Furin Creative Lab, tôi thực hiện phác thảo dáng tạo hình kỹ thuật số cho buổi chụp ảnh sản phẩm Zeppin. Các bản phác thảo này định hướng giải phẫu và tư thế của người mẫu để thể hiện tốt nhất sản phẩm mì ăn liền Nhật Bản.", "text_en": "As a cooperator with Furin Creative Lab, I provide digital sketching for model posing at Zeppin's photoshoot. These sketches guide the model's anatomy and posing to best showcase the Japanese instant noodle product." },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-05.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-06.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "d69dd1b7ad0f",
@@ -212,7 +247,11 @@
     "desc_vi": "Dự án thiết kế ứng dụng di động cho lĩnh vực tài chính/ngân hàng, thể hiện các màn hình UI cho toàn bộ luồng sử dụng — xem bản demo đầy đủ trên Behance.",
     "desc_en": "A mobile app design exploration for a finance/banking product, showcasing UI screens for the full user flow — see the complete prototype on Behance.",
     "link": "https://www.behance.net/gallery/203515273/FinanceBanking-Mobile-App-Design",
-    "image": "/assets/uploads/09-finance-banking-mobile-app-design.png"
+    "image": "/assets/uploads/09-finance-banking-mobile-app-design.png",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/09-finance-banking-mobile-app-design-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/09-finance-banking-mobile-app-design-03.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "93de9a929181",
@@ -226,7 +265,35 @@
     "desc_vi": "Thiết kế logo cho 云译 — công ty dịch thuật tiếng Trung — kết hợp thẩm mỹ hiện đại với thư pháp truyền thống Trung Hoa, sử dụng tông xanh dương đậm thể hiện sự tin cậy và chuyên nghiệp.",
     "desc_en": "Designed the logo for 云译, a Chinese translation company, blending modern aesthetics with traditional Chinese calligraphy in a bold blue that conveys trust and professionalism.",
     "link": "#",
-    "image": "/assets/uploads/10-yunyi-logo-guidelines.png"
+    "image": "/assets/uploads/10-yunyi-logo-guidelines.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Tôi có cơ hội thiết kế logo cho một công ty dịch thuật tiếng Trung có tên 云译, nghĩa là \"Dịch thuật Đám mây\".", "text_en": "I had the pleasure of designing a logo for a Chinese translation company called 云译, which translates to 'Cloud Translation'." },
+      { "id": "b2", "type": "text", "text_vi": "Cái tên được lấy cảm hứng từ khái niệm điện toán đám mây, nơi dữ liệu được lưu trữ và xử lý trên các máy chủ từ xa, thay vì trên máy chủ tại chỗ.", "text_en": "The name was inspired by the concept of cloud computing, where data is stored and processed on remote servers, as opposed to on-premise servers." },
+      { "id": "b3", "type": "text", "text_vi": "Khách hàng mong muốn một logo truyền tải được sự hiện đại, đổi mới và đáng tin cậy.", "text_en": "The client wanted a logo that would convey a sense of modernity, innovation, and reliability." },
+      { "id": "b4", "type": "text", "text_vi": "Sau khi nghiên cứu về thư pháp và các yếu tố thiết kế truyền thống Trung Hoa, tôi quyết định tạo ra một logo kết hợp thẩm mỹ hiện đại với thư pháp truyền thống Trung Quốc.", "text_en": "After researching Chinese typography and traditional design elements, I decided to create a logo that combines modern aesthetics with traditional Chinese calligraphy." },
+      { "id": "b5", "type": "text", "text_vi": "Tôi chọn màu xanh dương đậm để đại diện cho sự tin cậy, tính chuyên nghiệp và bầu trời — thường được liên tưởng đến đám mây.", "text_en": "I chose a bold blue color to represent trust, professionalism, and the sky, which is often associated with the cloud." },
+      { "id": "b6", "type": "text", "text_vi": "Logo có hình dạng đám mây cách điệu với tên công ty được viết bằng chữ thư pháp bên dưới.", "text_en": "The logo features a stylized cloud shape with the company name written in calligraphic script underneath it." },
+      { "id": "b7", "type": "text", "text_vi": "Logo được khách hàng đón nhận và sẽ được sử dụng trên website, danh thiếp cùng các ấn phẩm quảng bá khác.", "text_en": "The logo was well received by the client and will be used on their website, business cards, and other promotional materials." },
+      { "id": "b8", "type": "text", "text_vi": "Đó là một trải nghiệm thú vị khi được làm việc cùng khách hàng và hiện thực hóa tầm nhìn của họ thông qua thiết kế.", "text_en": "It was a pleasure to work with the client and bring their vision to life through design." },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-13.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-14.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-15.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-16.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-17.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b25", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-18.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b26", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-19.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "61d86b3e95a2",
