@@ -235,7 +235,22 @@
     "desc_vi": "Thiết kế logo và bảng màu thương hiệu cho The Love (\"Love and be loved\") — thông tin chi tiết dự án sẽ được cập nhật sau.",
     "desc_en": "Logo and brand color palette design for The Love (\"Love and be loved\") — full case details to be updated.",
     "link": "#",
-    "image": "/assets/uploads/17-the-love-logo-design.png"
+    "image": "/assets/uploads/17-the-love-logo-design.png",
+    "blocks": [
+      {
+        "id": "5337fb428ca2",
+        "type": "image",
+        "src": "/assets/uploads/55e58e7de613e85d.gif",
+        "caption_vi": "test",
+        "caption_en": "test"
+      },
+      {
+        "id": "2338caa2dfb1",
+        "type": "text",
+        "text_vi": "test thử",
+        "text_en": "asdf"
+      }
+    ]
   },
   {
     "id": "b41ad51dc9af",
