@@ -443,7 +443,33 @@
     "desc_vi": "Định hướng nghệ thuật (art direction) cho Au Oii, xây dựng định hướng hình ảnh tổng thể cho thương hiệu mỹ phẩm.",
     "desc_en": "Art direction for Au Oii, a cosmetics brand, shaping its overall visual image direction.",
     "link": "#",
-    "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png"
+    "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-03.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-04.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-05.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-06.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-07.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-08.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-09.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-10.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-11.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-13.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-14.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-15.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-16.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-17.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-18.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-19.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-20.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-21.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-22.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-23.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-24.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-25.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "f6fead43f8bf",
@@ -457,7 +483,18 @@
     "desc_vi": "Thực hiện các bản nháp banner và icon đồ họa cho sản phẩm Ensure Gold của Abbott, làm nổi bật lợi ích sản phẩm bằng hình ảnh bắt mắt phục vụ quảng bá.",
     "desc_en": "Draft graphic banners and icons for Abbott's Ensure Gold, designed to highlight product benefits with visually striking, promotion-ready assets.",
     "link": "#",
-    "image": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts.png"
+    "image": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Trong dự án này, tôi thực hiện nhiều bản nháp banner và icon đồ họa cho Abbott nhằm quảng bá sản phẩm mới \"Ensure Gold\". Tập trung làm nổi bật lợi ích và tính năng sản phẩm, tôi tạo ra những thiết kế bắt mắt, thu hút sự chú ý của người xem và truyền tải thông điệp hiệu quả. Kết quả là một bộ sưu tập thiết kế sống động, ấn tượng, quảng bá hiệu quả \"Ensure Gold\" cùng những lợi ích của sản phẩm đến khách hàng tiềm năng.", "text_en": "In this project, I created various drafts of graphic design banners and icons for Abbott to promote their new product \"Ensure Gold\". With a focus on highlighting the benefits and features of the product, I crafted visually striking designs that catch the viewer's attention and communicate the message effectively. The end result is a collection of vibrant and eye-catching designs that effectively promote \"Ensure Gold\" and its benefits to potential customers." },
+      { "id": "b2", "type": "text", "text_vi": "Dự án này hiện chưa được công bố đầy đủ và bảo lưu mọi quyền. Các thiết kế và ý tưởng được trình bày chỉ nhằm mục đích xem trước, không được sử dụng hoặc sao chép khi chưa có sự cho phép của chủ sở hữu. Mọi hành vi sử dụng hoặc phát tán trái phép dự án này đều bị nghiêm cấm và có thể dẫn đến hành động pháp lý.", "text_en": "This project is currently unavailable for full publication and all rights are reserved. The designs and concepts presented are for preview purposes only and cannot be used or reproduced without prior permission from the owner. Any unauthorized use or distribution of this project is strictly prohibited and may result in legal action." },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-04.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-08.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "d773346fde85",
@@ -471,7 +508,12 @@
     "desc_vi": "Thiết kế logo và bảng màu thương hiệu cho The Love (\"Love and be loved\") — thông tin chi tiết dự án sẽ được cập nhật sau.",
     "desc_en": "Logo and brand color palette design for The Love (\"Love and be loved\") — full case details to be updated.",
     "link": "#",
-    "image": "/assets/uploads/17-the-love-logo-design.png"
+    "image": "/assets/uploads/17-the-love-logo-design.png",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/17-the-love-logo-design-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/17-the-love-logo-design-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/17-the-love-logo-design-04.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "b41ad51dc9af",
