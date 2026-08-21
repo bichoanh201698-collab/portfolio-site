@@ -527,7 +527,33 @@
     "desc_vi": "Thiết kế hình ảnh mạng xã hội cho EZVIZ — thương hiệu camera an ninh gia đình.",
     "desc_en": "Social media design work for EZVIZ, a home security camera brand.",
     "link": "#",
-    "image": "/assets/uploads/18-ezviz-camera-social-media-design.png"
+    "image": "/assets/uploads/18-ezviz-camera-social-media-design.png",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-13.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-14.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-15.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-16.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-17.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-18.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-19.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-20.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-21.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-22.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-23.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-24.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-25.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "6f3f4bc376ef",
@@ -541,7 +567,22 @@
     "desc_vi": "Phụ trách phát triển kịch bản, xây dựng hình ảnh và sản xuất video hoạt hình để quảng bá sản phẩm nước súc miệng T-B Fresh (Traphaco) và nhận diện thương hiệu.",
     "desc_en": "Oversaw script development, visual creation, and animated video production to promote T-B Fresh (Traphaco) mouthwash and its brand identity.",
     "link": "#",
-    "image": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos.png"
+    "image": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Đây là dự án tôi phụ trách, trong đó tôi xây dựng kịch bản, thực hiện hình ảnh và sản xuất một video hoạt hình cho thương hiệu nước súc miệng T-B nhằm quảng bá cả sản phẩm lẫn thương hiệu.", "text_en": "This is a project I've overseen, where I developed the script, created the visuals, and produced an animated video for the T-B mouthwash brand to promote both the product and the brand itself." },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-13.jpg", "caption_vi": "Khung hình poster của video quảng cáo hoạt hình.", "caption_en": "Poster frame from the animated promotional video." },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-12.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "007cec30c262",
@@ -555,7 +596,12 @@
     "desc_vi": "Bộ sưu tập các bản vẽ tay và phác thảo ý tưởng cá nhân.",
     "desc_en": "A personal collection of hand-drawn sketches and idea drawings.",
     "link": "#",
-    "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg"
+    "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/20-hand-drawing-idea-sketch-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/20-hand-drawing-idea-sketch-03.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/20-hand-drawing-idea-sketch-04.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "d7345678aa19",
@@ -569,7 +615,33 @@
     "desc_vi": "Thực hiện thiết kế hình ảnh cho La Roche-Posay (L'Oréal) — thương hiệu chăm sóc da được bác sĩ da liễu khuyên dùng số 1 thế giới, thành lập năm 1975 và có mặt tại hơn 60 quốc gia.",
     "desc_en": "Visual design work for La Roche-Posay (L'Oréal), the world's number-one dermatologist-recommended skincare brand, established in 1975 and available in 60+ countries.",
     "link": "#",
-    "image": "/assets/uploads/21-la-roche-posay.png"
+    "image": "/assets/uploads/21-la-roche-posay.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Được hơn 25.000 bác sĩ da liễu trên toàn thế giới khuyên dùng, La Roche-Posay là thương hiệu chăm sóc da được giới chuyên môn khuyên dùng số một toàn cầu. Sứ mệnh của thương hiệu là mang đến độ an toàn và hiệu quả sản phẩm cao nhất để đáp ứng mọi nhu cầu của da, kể cả làn da nhạy cảm nhất. La Roche-Posay được thành lập năm 1975 bởi Rene Levayer, một dược sĩ người Pháp đầy tâm huyết, mong muốn tạo ra những giải pháp chăm sóc da hiệu quả cho bệnh nhân, đặc biệt là những người có làn da nhạy cảm. Ngày nay, La Roche-Posay có mặt tại hơn 60 quốc gia với đầy đủ các dòng sản phẩm chăm sóc da dành cho mọi loại da.", "text_en": "Recommended by over 25,000 Dermatologists worldwide, La Roche-Posay is the number one professionally recommended skincare brand around the globe. Their mission is to offer the highest product safety and efficacy to address every skin need, even the most sensitive skin. La Roche-Posay was created in 1975 by Rene Levayer, a passionate french pharmacist who wanted to create effective skincare solutions for patients, particularly those with sensitive skin. Today, La Roche-Posay is found in over 60 countries offering an exclusive range of skincare products for every skin type." },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/21-la-roche-posay-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/21-la-roche-posay-03.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/21-la-roche-posay-04.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/21-la-roche-posay-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/21-la-roche-posay-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/21-la-roche-posay-07.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/21-la-roche-posay-08.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/21-la-roche-posay-09.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/21-la-roche-posay-10.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/21-la-roche-posay-11.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/21-la-roche-posay-12.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/21-la-roche-posay-13.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/21-la-roche-posay-14.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/21-la-roche-posay-15.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/21-la-roche-posay-16.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/21-la-roche-posay-17.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/21-la-roche-posay-18.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/21-la-roche-posay-19.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/21-la-roche-posay-20.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/21-la-roche-posay-21.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/21-la-roche-posay-22.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/21-la-roche-posay-23.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/21-la-roche-posay-24.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "40dc7b455412",
