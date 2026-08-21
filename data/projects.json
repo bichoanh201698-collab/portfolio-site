@@ -307,7 +307,37 @@
     "desc_vi": "Thực hiện thiết kế hình ảnh cho Vichy (L'Oréal) — thương hiệu tiên phong khái niệm mỹ phẩm dược liệu (dermocosmetics) từ năm 1931, với hơn 80 năm nghiên cứu chuyên sâu về chăm sóc da.",
     "desc_en": "Visual design work for Vichy (L'Oréal), the brand that pioneered dermocosmetics in 1931, continuing over 80 years of advanced skincare research.",
     "link": "#",
-    "image": "/assets/uploads/11-vichy-laboratoires.jpg"
+    "image": "/assets/uploads/11-vichy-laboratoires.jpg",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Vichy đã khai sinh khái niệm mỹ phẩm dược liệu (dermocosmetics) vào năm 1931. Kể từ đó, với hơn 80 năm nghiên cứu chuyên sâu, Vichy tiếp nối di sản của người sáng lập — Bác sĩ Haller — với những giải pháp chăm sóc da tiên phong trong lĩnh vực này.", "text_en": "Vichy invented the concept of dermocosmetics in 1931. Since then, with over 80 years of advanced research, Vichy has continued the legacy of its founder Dr Haller with pioneering skincare solutions in the field of skincare." },
+      { "id": "b2", "type": "text", "text_vi": "Thương hiệu mang đến các giải pháp được thiết kế phù hợp với nhiều lối sống và loại da khác nhau, đồng hành cùng phụ nữ qua từng giai đoạn cuộc đời.", "text_en": "It offers solutions designed for different lifestyles and skin types, accompanying women throughout each stage of their life." },
+      { "id": "b3", "type": "text", "text_vi": "Các công thức độc đáo của Vichy kết hợp nước khoáng suối nóng giàu khoáng chất với các thành phần da liễu nổi tiếng, được lựa chọn riêng cho từng nhu cầu của làn da.", "text_en": "Vichy's unique formulations combine mineral rich thermal spa water with renowned dermatological ingredients selected for each individual skin need." },
+      { "id": "b4", "type": "text", "text_vi": "Tin vào sức khỏe nghĩa là nhìn nhận làn da theo một cách riêng biệt. Vichy tin rằng sức khỏe là con đường hiệu quả, an toàn và tiên tiến nhất để đạt được vẻ đẹp bền vững, và vẻ đẹp thực sự bắt nguồn từ một làn da khỏe mạnh.", "text_en": "Believing in health, means looking at skin in a unique way. They believe that health is the most effective, secure and advanced path to sustainable beauty and that true beauty stems from healthy-looking skin." },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-03.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-05.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-08.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-10.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-13.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-14.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-15.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-16.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-17.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-18.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-19.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-20.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-21.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b25", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-22.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b26", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-23.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b27", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-24.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b28", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-25.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "b0dc3d5c5fb3",
@@ -321,7 +351,22 @@
     "desc_vi": "Bộ sưu tập thiết kế bài đăng mạng xã hội (2019–2022) cho các thương hiệu làm đẹp và phòng khám — The Han, Sian Skin Clinic và Bến Thành Clinic — trải rộng từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa.",
     "desc_en": "A curated collection of social media post designs (2019–2022) for beauty and clinic brands — The Han, Sian Skin Clinic, and Ben Thanh Clinic — spanning skincare, cosmetics, and medical treatments.",
     "link": "#",
-    "image": "/assets/uploads/12-beauty-clinic-collection.jpg"
+    "image": "/assets/uploads/12-beauty-clinic-collection.jpg",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Tôi đã tuyển chọn một bộ sưu tập ấn tượng các thiết kế bài đăng mạng xã hội cho các thương hiệu làm đẹp và phòng khám từ năm 2019 đến 2022. Từ chăm sóc da, mỹ phẩm cho đến các dịch vụ thẩm mỹ y khoa, các thiết kế của tôi thể hiện vẻ đẹp và chuyên môn của từng thương hiệu, đồng thời thu hút người theo dõi và khách hàng mới. Bộ sưu tập này là minh chứng cho niềm đam mê của tôi trong việc tạo ra những thiết kế ấn tượng về mặt thị giác, giúp thương hiệu nổi bật trên mạng xã hội.", "text_en": "I have curated a stunning collection of social media post designs for beauty and clinic brands from 2019 to 2022. From skincare to cosmetics and medical treatments, my designs showcase the beauty and expertise of each brand, while engaging their followers and attracting new customers. This collection is a testament to my passion for creating visually stunning designs that help brands stand out on social media." },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-13.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "6510be0034e5",
@@ -335,7 +380,38 @@
     "desc_vi": "Dự án freelance phát triển hình ảnh thương hiệu cho Shuyi khi mở rộng vào thị trường Việt Nam, xây dựng bản sắc thị giác nâng tầm thẩm mỹ và thu hút người xem.",
     "desc_en": "Freelance brand visual development for Shuyi's expansion into the Vietnamese market, crafting a visual essence that elevates aesthetic appeal and engages the audience.",
     "link": "https://www.shuyisxc.com/",
-    "image": "/assets/uploads/13-shuyi-vietnam.jpg"
+    "image": "/assets/uploads/13-shuyi-vietnam.jpg",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Tổng quan thương hiệu: Shuyi — 7000 cửa hàng trên toàn quốc.", "text_en": "Brand Overview: Shuyi: 7000 stores nationwide" },
+      { "id": "b2", "type": "text", "text_vi": "Từ năm 2007 đến 2023, Shuyi đã phát triển từ một cửa hàng lên đến 7000 cửa hàng trên toàn quốc. Thương hiệu chuyển mình từ 85°Tea thành Shuyi, biểu trưng cho sự chuyển đổi từ khởi nghiệp đơn lẻ sang khởi nghiệp tập thể. Với cam kết bền vững về chất lượng và đổi mới, Shuyi hướng đến mang lại trải nghiệm mới mẻ về đồ uống trà lành mạnh cho lối sống hiện đại.", "text_en": "From 2007 to 2023, Shuyi grew from one store to 7000 nationwide. It evolved from 85°Tea to Shuyi, symbolizing a transition from solo to collective entrepreneurship. With a steadfast commitment to quality and innovation, Shuyi aims to provide a fresh experience of healthy tea drinks for modern lifestyles." },
+      { "id": "b3", "type": "text", "text_vi": "Năm 2022, thương hiệu nhận được khoản đầu tư gần 1 tỷ nhân dân tệ, củng cố vị thế dẫn đầu trong ngành. Ngày nay, với tám chi nhánh, năm văn phòng và hàng nghìn đối tác nhượng quyền, Shuyi Burnt Grass là một nền tảng khởi nghiệp đang phát triển mạnh mẽ.", "text_en": "In 2022, it secured nearly 1 billion yuan investment, consolidating its leadership position in the industry. Today, with eight branches, five offices, and thousands of franchise partners, Shuyi Burnt Grass stands as a thriving entrepreneurial platform." },
+      { "id": "b4", "type": "text", "text_vi": "Tôi vinh dự được hợp tác cùng thương hiệu Shuyi danh tiếng, đảm nhận vai trò nhà thiết kế freelance, phụ trách xây dựng bản sắc thị giác cho sự hiện diện của thương hiệu tại Việt Nam. Thông qua năng lực nghệ thuật và tầm nhìn sáng tạo, tôi cam kết tạo ra những thiết kế cuốn hút, không chỉ nâng tầm thẩm mỹ thương hiệu mà còn thực sự chạm đến đối tượng khán giả, tạo dấu ấn lâu dài và sự gắn kết ý nghĩa.", "text_en": "I am privileged to partner with the esteemed Shuyi brand, assuming the role of a freelance designer dedicated to crafting the visual essence of the brand's presence in Vietnam. Through my artistic prowess and creative vision, I am committed to curating captivating designs that not only elevate the brand's aesthetic appeal but also resonate deeply with its audience, fostering a lasting impression and meaningful engagement." },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-11.gif", "caption_vi": "", "caption_en": "" },
+      { "id": "b15", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b16", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-13.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b17", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-14.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b18", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-15.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b19", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-16.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b20", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-17.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b21", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-18.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b22", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-19.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b23", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-20.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b24", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-21.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b25", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-22.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b26", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-23.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b27", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-24.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b28", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-25.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b29", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-26.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "4933a28f3512",
@@ -349,7 +425,11 @@
     "desc_vi": "Thiết kế UI/UX cho trang landing page tuyển dụng của KMS Technology — xem case study đầy đủ trên Behance.",
     "desc_en": "Designed the UI/UX for KMS Technology's career landing page — see the full case study on Behance.",
     "link": "https://www.behance.net/gallery/203505649/UIUX-KMS-Career-Landing-Page-Design",
-    "image": "/assets/uploads/14-uiux-kms-career-landing-page.png"
+    "image": "/assets/uploads/14-uiux-kms-career-landing-page.png",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/14-uiux-kms-career-landing-page-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/14-uiux-kms-career-landing-page-03.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "61d43edcd352",
