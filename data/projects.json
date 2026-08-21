@@ -655,7 +655,11 @@
     "desc_vi": "Thực hiện thiết kế hình ảnh cho sự kiện khai trương JOMOO Việt Nam.",
     "desc_en": "Visual design work for JOMOO Vietnam's grand opening event.",
     "link": "#",
-    "image": "/assets/uploads/22-jomoo-vietnam-grand-opening.png"
+    "image": "/assets/uploads/22-jomoo-vietnam-grand-opening.png",
+    "blocks": [
+      { "id": "b1", "type": "image", "src": "/assets/uploads/22-jomoo-vietnam-grand-opening-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/22-jomoo-vietnam-grand-opening-03.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "5c0fe30497d0",
@@ -669,7 +673,23 @@
     "desc_vi": "Bộ hướng dẫn thiết kế làm mới website cho De Skin Journey, mang đến trải nghiệm hoàn toàn mới, thể hiện cam kết chăm sóc da khoa học của thương hiệu và cải thiện khả năng tiếp cận thông tin.",
     "desc_en": "Website renewal design guidelines for De Skin Journey, delivering a completely new experience that showcases the brand's commitment to scientific skincare while improving information accessibility.",
     "link": "#",
-    "image": "/assets/uploads/23-de-skin-journey-website-renewal.png"
+    "image": "/assets/uploads/23-de-skin-journey-website-renewal.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Việc làm mới website của De Skin Journey là dự án tôi thực hiện với sự tỉ mỉ và chăm chút kỹ lưỡng. Bộ hướng dẫn của tôi tập trung vào việc tạo ra một trải nghiệm hoàn toàn mới, đồng thời thể hiện cam kết của thương hiệu đối với việc chăm sóc da dựa trên khoa học. Diện mạo mới của website sẽ phản ánh đúng cá tính và giá trị của thương hiệu, đồng thời giúp người truy cập dễ dàng tìm thấy thông tin cần thiết. Tôi rất mong chờ được thấy kết quả cuối cùng và tin rằng website mới sẽ giúp De Skin Journey kết nối với khách hàng một cách ý nghĩa hơn.", "text_en": "De Skin Journey's website renewal is a project that I have undertaken with great care and attention to detail. My guidelines focus on creating a completely new experience while showcasing the brand's commitment to scientific skincare. The website's new look and feel will reflect the brand's personality and values, while making it easy for visitors to find the information they need. I am excited to see the final results and believe that the new website will help De Skin Journey connect with customers in a more meaningful way." },
+      { "id": "b2", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-05.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-09.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-10.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-11.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-12.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b13", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-13.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b14", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-14.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "95b74f4ae5ff",
