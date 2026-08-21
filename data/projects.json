@@ -11,7 +11,15 @@
     "desc_vi": "Thiết kế bộ poster và banner kỹ thuật số cho BIDV Awards 2025, truyền tải uy tín và cam kết hướng đến sự xuất sắc của ngân hàng qua các kênh in ấn và kỹ thuật số.",
     "desc_en": "Designed a suite of posters and digital banners for BIDV Awards 2025, visually communicating the bank's prestige and commitment to excellence across print and digital channels.",
     "link": "#",
-    "image": "/assets/uploads/01-bidv-awards-2025-visual-identity.png"
+    "image": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Thực hiện các ấn phẩm quảng bá (Banner và Poster) chuyên nghiệp, giàu sức ảnh hưởng cho BIDV Awards 2025 — Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.", "text_en": "Developing impactful and professional promotional materials (Banners and Posters) for the Bank for Investment and Development of Vietnam JSC (BIDV) Awards 2025." },
+      { "id": "b2", "type": "text", "text_vi": "Truyền tải bằng hình ảnh sự uy tín và cam kết hướng đến sự xuất sắc của BIDV. Bộ thiết kế được xây dựng linh hoạt, đảm bảo tính nhất quán thương hiệu và mức độ tương tác tối đa trên cả kênh in ấn lẫn kỹ thuật số. Bộ nhận diện hình ảnh hướng đến sự hiện đại, truyền cảm hứng, phản ánh hình ảnh một tổ chức tài chính hàng đầu.", "text_en": "To visually communicate BIDV's prestige and commitment to excellence. The design suite was crafted to be highly versatile, ensuring strong brand consistency and maximum engagement across both print and digital channels. The visual identity aims to be modern, inspiring, and reflective of a leading financial institution." },
+      { "id": "b3", "type": "text", "text_vi": "Các hạng mục bàn giao: Poster in ấn, Banner kỹ thuật số (Website & Mạng xã hội), và bộ hình ảnh thương hiệu đồng nhất.", "text_en": "Deliverables: Print Posters, Digital Banners (Website & Social Media), and unified Brand Graphics." },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-03.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-04.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "7cec9c81371d",
@@ -25,7 +33,13 @@
     "desc_vi": "Thực hiện key visual cho VinWonders — điểm đến giải trí hàng đầu Việt Nam, thể hiện những trải nghiệm đa dạng và khó quên dành cho du khách.",
     "desc_en": "Crafted the key visual for VinWonders, Vietnam's leading entertainment destination, capturing its promise of unforgettable, diverse experiences for visitors.",
     "link": "#",
-    "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg"
+    "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Thực hiện key visual cho VinWonders, nhấn mạnh vị thế điểm đến giải trí hàng đầu Việt Nam cùng lời hứa hẹn về những trải nghiệm đa dạng, khó quên.", "text_en": "Crafted the key visual for VinWonders, emphasizing its status as Vietnam's premier entertainment destination and its promise of unforgettable, diverse experiences." },
+      { "id": "b2", "type": "text", "text_vi": "VinWonders, thuộc sở hữu của Vingroup, là thương hiệu giải trí hàng đầu tại Việt Nam, nổi tiếng về uy tín và độ tin cậy trong lĩnh vực du lịch, nghỉ dưỡng và giải trí. Thương hiệu mang đến những trải nghiệm độc đáo cùng không gian giải trí sôi động với dịch vụ khách hàng chuyên nghiệp.", "text_en": "VinWonders, owned by Vingroup, is a leading entertainment brand in Vietnam, known for prestige and reliability in tourism, resorts, and entertainment. It offers unique experiences and a vibrant entertainment space with professional customer service." },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/02-vinwonders-master-key-visuals-02.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/02-vinwonders-master-key-visuals-03.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "938e5d8f3668",
@@ -39,7 +53,15 @@
     "desc_vi": "Bộ sưu tập minh họa kỹ thuật số dễ thương, nhiều màu sắc — động vật, đồ ăn và con người theo phong cách chibi — chủ yếu được thực hiện cho niềm vui cá nhân, nhận vẽ theo yêu cầu.",
     "desc_en": "A personal gallery of cute, colorful digital illustrations — chibi animals, food, and people — created mostly for fun, with custom pieces available on request.",
     "link": "#",
-    "image": "/assets/uploads/03-my-digital-artworks.png"
+    "image": "/assets/uploads/03-my-digital-artworks.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Khám phá bộ sưu tập minh họa kỹ thuật số dễ thương, nhiều màu sắc của tôi — gồm động vật, đồ ăn và con người theo phong cách chibi — lý tưởng để thêm nét đáng yêu cho các dự án kỹ thuật số của bạn. Nhận thực hiện tác phẩm theo yêu cầu.", "text_en": "Explore my gallery of cute and colorful digital illustrations, featuring chibi animals, food, and people – ideal for adding a touch of cuteness to your digital projects. Custom work is available upon request." },
+      { "id": "b2", "type": "text", "text_vi": "Bộ sưu tập Minh họa Kỹ thuật số của tôi mang đến những tác phẩm dễ thương, nhiều màu sắc với các nhân vật phong cách chibi như động vật, đồ ăn và con người. Hoàn hảo để thêm nét đáng yêu cho bài đăng mạng xã hội, blog, website hoặc dự án cá nhân. Phần lớn các minh họa trong bộ sưu tập này được thực hiện trong thời gian rảnh vì niềm vui cá nhân, nhưng vẫn nhận thực hiện minh họa theo yêu cầu riêng.", "text_en": "My Digital Illustrations gallery offers a collection of cute and colorful digital illustrations, featuring chibi-style characters such as animals, food, and people. Perfect for adding a touch of cuteness to your social media posts, blogs, websites, or personal projects. Although most of the illustrations in this gallery are what I do in my free time for fun, custom illustrations are also available upon request." },
+      { "id": "b3", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-03.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-04.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-05.png", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "83fadc8ad1dc",
@@ -53,7 +75,21 @@
     "desc_vi": "Thiết kế mascot shipper phong cách chibi thân thiện cho 247 Express — dịch vụ giao hàng tại Việt Nam — nhằm tăng độ nhận diện thương hiệu và tạo hình ảnh gần gũi với khách hàng.",
     "desc_en": "Designed a friendly chibi shipper mascot for 247 Express, a Vietnamese delivery service, to strengthen brand recognition and build a more approachable customer image.",
     "link": "#",
-    "image": "/assets/uploads/04-247-express-mascot-design.png"
+    "image": "/assets/uploads/04-247-express-mascot-design.png",
+    "blocks": [
+      { "id": "b1", "type": "text", "text_vi": "Tôi tạo ra mascot shipper phong cách chibi nhằm xây dựng một hình ảnh riêng biệt, thân thiện, giúp tăng cường độ nhận diện thương hiệu và sức hút với khách hàng.", "text_en": "I created a chibi shipper mascot to establish a distinct, friendly visual identity, fostering stronger brand recognition and customer appeal." },
+      { "id": "b2", "type": "text", "text_vi": "Từ năm 2005, Công ty Hai Bốn Bảy, được biết đến rộng rãi với tên gọi 247Express, đã là nhà cung cấp đáng tin cậy các giải pháp giao nhận trong nước và quốc tế toàn diện. Bao gồm chuyển phát nhanh, vận chuyển quốc tế, dịch vụ vận tải và nhiều hơn nữa. Với mục tiêu trở thành nhà cung cấp dịch vụ bưu chính và giao nhận hàng đầu tại Việt Nam và xa hơn nữa, 247Express tự hào mang đến cho khách hàng DỊCH VỤ GIAO HÀNG CHẤT LƯỢNG VÀ ĐÁNG TIN CẬY. Bằng cách kết hợp mức giá phải chăng, công nghệ tiên tiến và phong cách phục vụ chuyên nghiệp, công ty đáp ứng hiệu quả các nhu cầu đa dạng của khách hàng.", "text_en": "Since 2005, Hai Bon Bay Company, widely recognized as 247Express, has been a trusted provider of comprehensive domestic and international delivery solutions. These include express delivery, international shipping, transportation services, and more. Dedicated to becoming the leading postal and delivery service provider in Vietnam and beyond, 247Express takes pride in offering customers QUALITY AND RELIABLE DELIVERY SERVICES. By combining affordable pricing, advanced technology, and a professional service approach, the company effectively caters to the diverse needs of its clientele." },
+      { "id": "b3", "type": "text", "text_vi": "Để nâng cao nhận diện thương hiệu, tôi đã thiết kế một mascot shipper phong cách chibi. Mascot này đóng vai trò là hình ảnh đại diện dễ ghi nhớ cho thương hiệu, truyền tải hình ảnh thân thiện và gần gũi đến khách hàng. Một mascot được thực hiện tốt không chỉ củng cố khả năng nhận diện và lòng trung thành với thương hiệu mà còn giúp công ty tạo sự khác biệt so với đối thủ cạnh tranh.", "text_en": "To enhance the brand's identity, I have designed a chibi shipper mascot. This mascot serves as a memorable visual representation of the brand, projecting a friendly and approachable image to customers. A well-crafted mascot not only strengthens brand recognition and loyalty but also helps set the company apart from its competitors." },
+      { "id": "b4", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-02.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b5", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-03.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b6", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-04.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b7", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-05.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b8", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-06.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b9", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-07.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b10", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-08.png", "caption_vi": "", "caption_en": "" },
+      { "id": "b11", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-09.jpg", "caption_vi": "", "caption_en": "" },
+      { "id": "b12", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-10.jpg", "caption_vi": "", "caption_en": "" }
+    ]
   },
   {
     "id": "91ad00c4aeec",
