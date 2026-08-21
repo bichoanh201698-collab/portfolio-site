@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quản trị Portfolio</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="admin-shell">
+
+	<div class="admin-topbar">
+		<div>
+			<p class="eyebrow mb-0">Portfolio CMS</p>
+			<h3 class="mb-0">Quản lý dự án</h3>
+			<p class="text-secondary mb-0">Đăng nhập với: <strong><%= username %></strong></p>
+		</div>
+		<div class="admin-topbar-actions">
+			<a href="/portfolio" target="_blank" class="btn btn-outline btn-small">Xem trang Portfolio</a>
+			<a href="/portfolio/admin/change-password" class="btn btn-outline btn-small">Đổi mật khẩu</a>
+			<form method="POST" action="/portfolio/admin/logout">
+				<button type="submit" class="btn btn-dark btn-small">Đăng xuất</button>
+			</form>
+		</div>
+	</div>
+
+	<div style="margin-bottom:1.5em;">
+		<a href="/portfolio/admin/new" class="btn btn-primary">+ Thêm dự án mới</a>
+	</div>
+
+	<% if (projects.length === 0) { %>
+		<p class="text-secondary">Chưa có dự án nào. Bấm "Thêm dự án mới" để bắt đầu.</p>
+	<% } else { %>
+	<div style="overflow-x:auto;">
+		<table class="admin-table">
+			<thead>
+				<tr>
+					<th>Ảnh</th>
+					<th>Thứ tự</th>
+					<th>Tên dự án (VI / EN)</th>
+					<th>Hành động</th>
+				</tr>
+			</thead>
+			<tbody>
+				<% projects.forEach(function (p) { %>
+				<tr>
+					<td><img src="<%= p.image %>" alt=""></td>
+					<td><%= p.order %></td>
+					<td><%= p.title_vi %><br><span class="text-secondary"><%= p.title_en %></span></td>
+					<td>
+						<div class="admin-table-actions">
+							<a href="/portfolio/admin/<%= p.id %>/edit" class="btn btn-outline btn-small">Sửa</a>
+							<form method="POST" action="/portfolio/admin/<%= p.id %>/delete" onsubmit="return confirm('Xoá dự án này? Hành động không thể hoàn tác.');">
+								<button type="submit" class="btn btn-danger btn-small">Xoá</button>
+							</form>
+						</div>
+					</td>
+				</tr>
+				<% }); %>
+			</tbody>
+		</table>
+	</div>
+	<% } %>
+
+</div>
+
+</body>
+</html>

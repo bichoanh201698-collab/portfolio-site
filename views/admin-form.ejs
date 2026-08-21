@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title><%= project && project.id ? "Sửa dự án" : "Thêm dự án" %> — Portfolio CMS</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="admin-shell">
+
+	<div class="admin-topbar">
+		<div>
+			<p class="eyebrow mb-0">Portfolio CMS</p>
+			<h3 class="mb-0"><%= project && project.id ? "Sửa dự án" : "Thêm dự án mới" %></h3>
+		</div>
+		<div class="admin-topbar-actions">
+			<a href="/portfolio/admin" class="btn btn-outline btn-small">&larr; Quay lại danh sách</a>
+		</div>
+	</div>
+
+	<% if (typeof error !== "undefined" && error) { %>
+		<div class="admin-error"><%= error %></div>
+	<% } %>
+
+	<form method="POST" action="<%= project && project.id ? ('/portfolio/admin/' + project.id + '/edit') : '/portfolio/admin/new' %>" enctype="multipart/form-data">
+
+		<% if (project && project.image) { %>
+			<div class="current-image">
+				<label class="mb-0">Ảnh hiện tại</label>
+				<img src="<%= project.image %>" alt="">
+			</div>
+		<% } %>
+
+		<div class="form-row">
+			<label for="image">Ảnh dự án <%= project && project.id ? "(bỏ trống nếu giữ ảnh cũ)" : "" %></label>
+			<input type="file" id="image" name="image" accept=".png,.jpg,.jpeg,.webp,.gif">
+		</div>
+
+		<div class="admin-form-grid">
+			<div class="form-row">
+				<label for="title_vi">Tên dự án (Tiếng Việt)</label>
+				<input type="text" id="title_vi" name="title_vi" value="<%= (project && project.title_vi) || '' %>" required>
+			</div>
+			<div class="form-row">
+				<label for="title_en">Tên dự án (English)</label>
+				<input type="text" id="title_en" name="title_en" value="<%= (project && project.title_en) || '' %>" required>
+			</div>
+
+			<div class="form-row">
+				<label for="tag1_vi">Tag 1 (Tiếng Việt)</label>
+				<input type="text" id="tag1_vi" name="tag1_vi" value="<%= (project && project.tag1_vi) || '' %>">
+			</div>
+			<div class="form-row">
+				<label for="tag1_en">Tag 1 (English)</label>
+				<input type="text" id="tag1_en" name="tag1_en" value="<%= (project && project.tag1_en) || '' %>">
+			</div>
+
+			<div class="form-row">
+				<label for="tag2_vi">Tag 2 (Tiếng Việt)</label>
+				<input type="text" id="tag2_vi" name="tag2_vi" value="<%= (project && project.tag2_vi) || '' %>">
+			</div>
+			<div class="form-row">
+				<label for="tag2_en">Tag 2 (English)</label>
+				<input type="text" id="tag2_en" name="tag2_en" value="<%= (project && project.tag2_en) || '' %>">
+			</div>
+
+			<div class="form-row form-row-full">
+				<label for="desc_vi">Mô tả ngắn — hiện ở thẻ dự án (Tiếng Việt)</label>
+				<textarea id="desc_vi" name="desc_vi" rows="3" required><%= (project && project.desc_vi) || '' %></textarea>
+			</div>
+			<div class="form-row form-row-full">
+				<label for="desc_en">Mô tả ngắn — hiện ở thẻ dự án (English)</label>
+				<textarea id="desc_en" name="desc_en" rows="3" required><%= (project && project.desc_en) || '' %></textarea>
+			</div>
+
+			<div class="form-row">
+				<label for="link">Link ngoài (tuỳ chọn — demo, GitHub, Behance...)</label>
+				<input type="text" id="link" name="link" value="<%= (project && project.link) || '' %>" placeholder="https://...">
+				<p class="field-hint">Nếu để trống, trang chi tiết sẽ không hiện nút này.</p>
+			</div>
+			<div class="form-row">
+				<label for="order">Thứ tự hiển thị</label>
+				<input type="number" id="order" name="order" value="<%= (project && project.order) || '' %>">
+				<p class="field-hint">Số nhỏ hơn hiển thị trước.</p>
+			</div>
+		</div>
+
+		<button type="submit" class="btn btn-primary"><%= project && project.id ? "Lưu thay đổi" : "Thêm dự án" %></button>
+	</form>
+
+	<% if (project && project.id) { %>
+	<hr class="separator" style="margin:3em 0;">
+
+	<h3>Nội dung chi tiết</h3>
+	<p class="text-secondary">Thêm đoạn văn, ảnh, video — hiển thị theo đúng thứ tự bên dưới ở trang "Xem chi tiết". Dùng nút ↑ ↓ để sắp xếp lại.</p>
+
+	<% const blocks = project.blocks || []; %>
+	<% if (blocks.length === 0) { %>
+		<p class="text-secondary">Chưa có khối nội dung nào.</p>
+	<% } else { %>
+	<div class="block-list">
+		<% blocks.forEach(function (b, i) { %>
+		<div class="block-item">
+			<span class="block-item-type">
+				<%= b.type === "text" ? "Văn bản" : (b.type === "image" ? "Ảnh" : "Video") %>
+			</span>
+			<span class="block-item-preview">
+				<% if (b.type === "text") { %>
+					<%= (b.text_vi || b.text_en || "").slice(0, 90) %>
+				<% } else if (b.type === "image") { %>
+					<img src="<%= b.src %>" alt=""><%= b.caption_vi || b.src %>
+				<% } else { %>
+					<%= b.caption_vi || b.src %>
+				<% } %>
+			</span>
+			<div class="block-item-actions">
+				<form method="POST" action="/portfolio/admin/<%= project.id %>/blocks/<%= b.id %>/move">
+					<input type="hidden" name="direction" value="up">
+					<button type="submit" class="btn btn-outline" <%= i === 0 ? "disabled" : "" %>>↑</button>
+				</form>
+				<form method="POST" action="/portfolio/admin/<%= project.id %>/blocks/<%= b.id %>/move">
+					<input type="hidden" name="direction" value="down">
+					<button type="submit" class="btn btn-outline" <%= i === blocks.length - 1 ? "disabled" : "" %>>↓</button>
+				</form>
+				<a href="/portfolio/admin/<%= project.id %>/blocks/<%= b.id %>/edit" class="btn btn-outline">Sửa</a>
+				<form method="POST" action="/portfolio/admin/<%= project.id %>/blocks/<%= b.id %>/delete" onsubmit="return confirm('Xoá khối này?');">
+					<button type="submit" class="btn btn-danger">Xoá</button>
+				</form>
+			</div>
+		</div>
+		<% }); %>
+	</div>
+	<% } %>
+
+	<div class="add-block-panel">
+		<h6 class="mb-0" style="margin-bottom:1em;">+ Thêm khối nội dung</h6>
+		<form method="POST" action="/portfolio/admin/<%= project.id %>/blocks" enctype="multipart/form-data" id="add-block-form">
+			<div class="form-row">
+				<label for="type">Loại khối</label>
+				<select id="type" name="type">
+					<option value="text">Đoạn văn</option>
+					<option value="image">Ảnh</option>
+					<option value="video">Video</option>
+				</select>
+			</div>
+
+			<div class="block-type-fields" data-block-type="text">
+				<div class="form-row">
+					<label for="text_vi">Nội dung (Tiếng Việt)</label>
+					<textarea id="text_vi" name="text_vi" rows="4"></textarea>
+				</div>
+				<div class="form-row">
+					<label for="text_en">Nội dung (English)</label>
+					<textarea id="text_en" name="text_en" rows="4"></textarea>
+				</div>
+			</div>
+
+			<div class="block-type-fields" data-block-type="image">
+				<div class="form-row">
+					<label for="image_media">Ảnh</label>
+					<input type="file" id="image_media" name="media" accept=".png,.jpg,.jpeg,.webp,.gif">
+				</div>
+			</div>
+
+			<div class="block-type-fields" data-block-type="video">
+				<div class="form-row">
+					<label for="video_media">Upload file video (mp4/webm/mov, tối đa 30MB)</label>
+					<input type="file" id="video_media" name="media" accept=".mp4,.webm,.mov">
+				</div>
+				<div class="form-row">
+					<label for="videoUrl">Hoặc dán link YouTube / Vimeo</label>
+					<input type="text" id="videoUrl" name="videoUrl" placeholder="https://youtube.com/watch?v=...">
+					<p class="field-hint">Chỉ cần điền một trong hai — nếu có file upload thì ưu tiên dùng file.</p>
+				</div>
+			</div>
+
+			<div class="form-row" data-caption-field>
+				<label for="caption_vi">Chú thích (Tiếng Việt, tuỳ chọn)</label>
+				<input type="text" id="caption_vi" name="caption_vi">
+			</div>
+			<div class="form-row" data-caption-field>
+				<label for="caption_en">Chú thích (English, tuỳ chọn)</label>
+				<input type="text" id="caption_en" name="caption_en">
+			</div>
+
+			<button type="submit" class="btn btn-primary">Thêm khối</button>
+		</form>
+	</div>
+
+	<script>
+		(function () {
+			var select = document.getElementById("type");
+			var groups = document.querySelectorAll(".block-type-fields");
+			var captionFields = document.querySelectorAll("[data-caption-field]");
+
+			function sync() {
+				var value = select.value;
+				groups.forEach(function (g) {
+					g.classList.toggle("is-visible", g.getAttribute("data-block-type") === value);
+				});
+				captionFields.forEach(function (f) {
+					f.style.display = value === "text" ? "none" : "";
+				});
+			}
+
+			select.addEventListener("change", sync);
+			sync();
+		})();
+	</script>
+	<% } else { %>
+	<p class="text-secondary" style="margin-top:2em;">Lưu dự án trước, sau đó bạn có thể thêm đoạn văn / ảnh / video cho trang chi tiết.</p>
+	<% } %>
+
+</div>
+
+</body>
+</html>

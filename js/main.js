@@ -1,0 +1,279 @@
+(function () {
+
+	var translations = {
+		vi: {
+			site: { name: "Tên Của Bạn" },
+			nav: { home: "Trang chủ", portfolio: "Portfolio", blog: "Blog", about: "Giới thiệu", contact: "Liên hệ" },
+			lang: { groupLabel: "Chọn ngôn ngữ" },
+			menu: { toggleLabel: "Mở menu" },
+			footer: {
+				copyright: "© 2026 Tên Của Bạn",
+				themeCredit: "Thiết kế dựa trên theme <a href=\"https://andersnoren.se/themes/bjork/\" target=\"_blank\" rel=\"noopener\">Björk</a> của Anders Norén"
+			},
+			home: {
+				pageTitle: "Trang chủ — Tên Của Bạn",
+				hero: {
+					kicker: "Xin chào!",
+					title: "Tôi là Tên Của Bạn — Nhà thiết kế / Lập trình viên sáng tạo nội dung số.",
+					desc: "Đây là góc nhỏ trên internet nơi tôi lưu lại những sản phẩm, bài viết và câu chuyện của mình.",
+					btnContact: "Liên hệ với tôi",
+					btnAbout: "Giới thiệu về tôi"
+				},
+				intro: {
+					p1: "Tôi tin rằng thiết kế tốt bắt đầu từ việc lắng nghe câu chuyện thật đằng sau mỗi sản phẩm, sau đó chuyển hoá nó thành trải nghiệm rõ ràng, dễ dùng.",
+					p2: "Ngoài công việc, tôi thích thử nghiệm những ý tưởng nhỏ, viết lại quá trình học hỏi của mình và chia sẻ chúng trên blog cá nhân."
+				},
+				card1: { title: "Xem portfolio", desc: "Khám phá những dự án tôi đã thực hiện và các kỹ năng tôi đã trau dồi.", btn: "Xem thêm" },
+				card2: { title: "Kết nối với tôi", desc: "Muốn hợp tác hoặc trò chuyện về một dự án mới? Gửi cho tôi một tin nhắn.", btn: "Liên hệ" },
+				card3: { title: "Theo dõi hành trình", desc: "Đọc những bài viết mới nhất của tôi về thiết kế, công nghệ và cuộc sống.", btn: "Đọc blog" }
+			},
+			portfolio: {
+				pageTitle: "Portfolio — Tên Của Bạn",
+				eyebrow: "Sản phẩm của tôi",
+				desc: "Tổng hợp những dự án tôi đã tự tay thực hiện — từ thiết kế, phát triển sản phẩm đến các thử nghiệm cá nhân.",
+				itemDesc: "Mô tả ngắn gọn về dự án: bài toán cần giải quyết, vai trò của bạn và kết quả đạt được.",
+				viewDetails: "Xem chi tiết",
+				item1: { title: "Dự án số 01", tag1: "Thiết kế UI", tag2: "Web" },
+				item2: { title: "Dự án số 02", tag1: "Phát triển", tag2: "Mobile" },
+				item3: { title: "Dự án số 03", tag1: "Thương hiệu", tag2: "Illustration" },
+				item4: { title: "Dự án số 04", tag1: "Web App" },
+				item5: { title: "Dự án số 05", tag1: "Nội dung" },
+				item6: { title: "Dự án số 06", tag1: "Thử nghiệm" },
+				cta: { title: "Có dự án muốn hợp tác?", desc: "Tôi luôn sẵn sàng lắng nghe những ý tưởng mới. Hãy để lại lời nhắn cho tôi.", btn: "Liên hệ ngay" }
+			},
+			blog: {
+				pageTitle: "Blog — Tên Của Bạn",
+				eyebrow: "Nhật ký",
+				desc: "Những bài viết về công việc, quá trình sáng tạo và những điều tôi học được trên đường đi.",
+				excerpt: "Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.",
+				post1: { date: "21 Th08 2026", title: "Tiêu đề bài viết đầu tiên của tôi" },
+				post2: { date: "10 Th08 2026", title: "Những điều tôi học được sau một năm freelance" },
+				post3: { date: "02 Th08 2026", title: "Quy trình thiết kế sản phẩm của tôi" },
+				post4: { date: "25 Th07 2026", title: "Công cụ tôi dùng mỗi ngày" },
+				post5: { date: "14 Th07 2026", title: "Câu chuyện phía sau dự án gần nhất" },
+				post6: { date: "01 Th07 2026", title: "Lời khuyên cho người mới bắt đầu" }
+			},
+			about: {
+				pageTitle: "Giới thiệu — Tên Của Bạn",
+				eyebrow: "Giới thiệu",
+				heroTitle: "Xin chào, tôi là Tên Của Bạn.",
+				heroDesc: "Tôi là một [nghề nghiệp / vai trò] với niềm đam mê [lĩnh vực bạn theo đuổi]. Tôi thích biến những ý tưởng thành sản phẩm thật, và luôn tìm cách học hỏi điều mới mỗi ngày.",
+				btnContact: "Liên hệ với tôi",
+				btnCV: "Tải CV",
+				story: {
+					title: "Câu chuyện của tôi",
+					p1: "Mọi thứ bắt đầu từ một sự tò mò đơn giản: tôi muốn hiểu vì sao một sản phẩm lại khiến người dùng cảm thấy dễ chịu khi sử dụng. Từ đó, tôi bắt đầu học hỏi, thử nghiệm và dần xây dựng phong cách làm việc của riêng mình.",
+					p2: "Ngày nay, tôi kết hợp giữa tư duy thẩm mỹ và kỹ năng thực thi để tạo ra những sản phẩm vừa đẹp, vừa thực sự hữu ích cho người dùng."
+				},
+				skills: {
+					title: "Kỹ năng",
+					item1: "Kỹ năng 1", item2: "Kỹ năng 2", item3: "Kỹ năng 3",
+					item4: "Kỹ năng 4", item5: "Kỹ năng 5", item6: "Kỹ năng 6"
+				},
+				experience: {
+					title: "Kinh nghiệm",
+					role: "Vị trí công việc — Tên công ty",
+					desc: "Mô tả ngắn về công việc và những gì bạn đã đóng góp.",
+					period1: "2024 — Hiện tại"
+				},
+				testimonials: {
+					title: "Mọi người nói gì",
+					namePlaceholder: "Tên Người Nhận Xét",
+					rolePlaceholder: "Vai trò, Công ty",
+					quote1: "“Một đoạn nhận xét ngắn từ đồng nghiệp hoặc khách hàng về quá trình làm việc cùng bạn.”",
+					quote2: "“Một đoạn nhận xét ngắn khác nói về kết quả cụ thể mà bạn mang lại cho dự án.”"
+				}
+			},
+			contact: {
+				pageTitle: "Liên hệ — Tên Của Bạn",
+				eyebrow: "Liên hệ",
+				title: "Hãy cùng trò chuyện",
+				desc: "Bạn có dự án, ý tưởng hợp tác hay chỉ đơn giản muốn chào hỏi? Điền vào biểu mẫu bên dưới hoặc liên hệ trực tiếp qua các kênh của tôi.",
+				form: { name: "Họ và tên", subject: "Chủ đề", message: "Nội dung", submit: "Gửi tin nhắn" },
+				info: { locationLabel: "Địa điểm", locationValue: "Thành phố, Quốc gia", socialLabel: "Mạng xã hội" }
+			}
+		},
+		en: {
+			site: { name: "Your Name" },
+			nav: { home: "Home", portfolio: "Portfolio", blog: "Blog", about: "About", contact: "Contact" },
+			lang: { groupLabel: "Select language" },
+			menu: { toggleLabel: "Open menu" },
+			footer: {
+				copyright: "© 2026 Your Name",
+				themeCredit: "Design based on the <a href=\"https://andersnoren.se/themes/bjork/\" target=\"_blank\" rel=\"noopener\">Björk</a> theme by Anders Norén"
+			},
+			home: {
+				pageTitle: "Home — Your Name",
+				hero: {
+					kicker: "Hi there!",
+					title: "I'm Your Name — a designer and creative developer.",
+					desc: "This is my little corner of the internet where I keep my work, my writing, and my story.",
+					btnContact: "Get in touch",
+					btnAbout: "About me"
+				},
+				intro: {
+					p1: "I believe good design starts with listening to the real story behind every product, then turning it into something clear and easy to use.",
+					p2: "Outside of work, I enjoy experimenting with small ideas, writing about what I learn, and sharing it on my personal blog."
+				},
+				card1: { title: "View my work", desc: "Explore the projects I've built and the skills I've developed along the way.", btn: "See more" },
+				card2: { title: "Get in touch", desc: "Want to collaborate or just chat about a new project? Send me a message.", btn: "Contact" },
+				card3: { title: "Follow the journey", desc: "Read my latest posts about design, technology, and life.", btn: "Read the blog" }
+			},
+			portfolio: {
+				pageTitle: "Portfolio — Your Name",
+				eyebrow: "My Work",
+				desc: "A collection of projects I've built myself — from design and product development to personal experiments.",
+				itemDesc: "Short project description: the problem you solved, your role, and the outcome.",
+				viewDetails: "View details",
+				item1: { title: "Project 01", tag1: "UI Design", tag2: "Web" },
+				item2: { title: "Project 02", tag1: "Development", tag2: "Mobile" },
+				item3: { title: "Project 03", tag1: "Branding", tag2: "Illustration" },
+				item4: { title: "Project 04", tag1: "Web App" },
+				item5: { title: "Project 05", tag1: "Content" },
+				item6: { title: "Project 06", tag1: "Experiment" },
+				cta: { title: "Have a project in mind?", desc: "I'm always happy to hear new ideas. Send me a message.", btn: "Contact me" }
+			},
+			blog: {
+				pageTitle: "Blog — Your Name",
+				eyebrow: "Journal",
+				desc: "Posts about my work, my creative process, and things I learn along the way.",
+				excerpt: "A short summary introducing the post so readers know what to expect before clicking through.",
+				post1: { date: "Aug 21, 2026", title: "The title of my very first post" },
+				post2: { date: "Aug 10, 2026", title: "What I learned after a year of freelancing" },
+				post3: { date: "Aug 2, 2026", title: "My product design process" },
+				post4: { date: "Jul 25, 2026", title: "Tools I use every day" },
+				post5: { date: "Jul 14, 2026", title: "The story behind my latest project" },
+				post6: { date: "Jul 1, 2026", title: "Advice for beginners" }
+			},
+			about: {
+				pageTitle: "About — Your Name",
+				eyebrow: "About",
+				heroTitle: "Hi, I'm Your Name.",
+				heroDesc: "I'm a [your profession / role] passionate about [the field you pursue]. I love turning ideas into real products, and I'm always looking to learn something new.",
+				btnContact: "Get in touch",
+				btnCV: "Download CV",
+				story: {
+					title: "My story",
+					p1: "It all started with a simple curiosity: why does a product feel effortless to use? From there, I began learning, experimenting, and gradually building my own way of working.",
+					p2: "Today, I combine an eye for aesthetics with hands-on execution to create products that are both beautiful and genuinely useful."
+				},
+				skills: {
+					title: "Skills",
+					item1: "Skill 1", item2: "Skill 2", item3: "Skill 3",
+					item4: "Skill 4", item5: "Skill 5", item6: "Skill 6"
+				},
+				experience: {
+					title: "Experience",
+					role: "Job Title — Company Name",
+					desc: "A short description of your role and what you contributed.",
+					period1: "2024 — Present"
+				},
+				testimonials: {
+					title: "What people say",
+					namePlaceholder: "Reviewer Name",
+					rolePlaceholder: "Role, Company",
+					quote1: "“A short testimonial from a colleague or client about working with you.”",
+					quote2: "“Another short testimonial about the specific results you delivered for a project.”"
+				}
+			},
+			contact: {
+				pageTitle: "Contact — Your Name",
+				eyebrow: "Contact",
+				title: "Let's talk",
+				desc: "Have a project, a collaboration idea, or just want to say hi? Fill out the form below or reach out directly through my channels.",
+				form: { name: "Full name", subject: "Subject", message: "Message", submit: "Send message" },
+				info: { locationLabel: "Location", locationValue: "City, Country", socialLabel: "Social" }
+			}
+		}
+	};
+
+	function translate(lang, key) {
+		var parts = key.split(".");
+		var node = translations[lang];
+		for (var i = 0; i < parts.length; i++) {
+			if (node == null) return null;
+			node = node[parts[i]];
+		}
+		return typeof node === "string" ? node : null;
+	}
+
+	function applyLanguage(lang) {
+		document.documentElement.setAttribute("lang", lang);
+
+		document.querySelectorAll("[data-i18n]").forEach(function (el) {
+			var value = translate(lang, el.getAttribute("data-i18n"));
+			if (value !== null) el.textContent = value;
+		});
+
+		document.querySelectorAll("[data-i18n-html]").forEach(function (el) {
+			var value = translate(lang, el.getAttribute("data-i18n-html"));
+			if (value !== null) el.innerHTML = value;
+		});
+
+		document.querySelectorAll("[data-i18n-placeholder]").forEach(function (el) {
+			var value = translate(lang, el.getAttribute("data-i18n-placeholder"));
+			if (value !== null) el.setAttribute("placeholder", value);
+		});
+
+		document.querySelectorAll("[data-i18n-aria]").forEach(function (el) {
+			var value = translate(lang, el.getAttribute("data-i18n-aria"));
+			if (value !== null) el.setAttribute("aria-label", value);
+		});
+
+		// Inline bilingual content (used by CMS-generated pages such as /portfolio,
+		// where text comes from the database instead of the static dictionary above).
+		document.querySelectorAll("[data-i18n-vi]").forEach(function (el) {
+			var value = el.getAttribute(lang === "en" ? "data-i18n-en" : "data-i18n-vi");
+			if (value) el.textContent = value;
+		});
+
+		document.querySelectorAll(".lang-btn").forEach(function (btn) {
+			var isActive = btn.getAttribute("data-lang") === lang;
+			btn.classList.toggle("is-active", isActive);
+			btn.setAttribute("aria-pressed", String(isActive));
+		});
+
+		try { localStorage.setItem("site-lang", lang); } catch (e) {}
+	}
+
+	function getInitialLanguage() {
+		try {
+			var saved = localStorage.getItem("site-lang");
+			if (saved === "vi" || saved === "en") return saved;
+		} catch (e) {}
+		return "vi";
+	}
+
+	document.addEventListener("DOMContentLoaded", function () {
+		try {
+			applyLanguage(getInitialLanguage());
+		} finally {
+			document.documentElement.removeAttribute("data-i18n-loading");
+		}
+
+		document.querySelectorAll(".lang-btn").forEach(function (btn) {
+			btn.addEventListener("click", function () {
+				applyLanguage(btn.getAttribute("data-lang"));
+			});
+		});
+
+		var toggle = document.querySelector(".menu-toggle");
+		var nav = document.querySelector(".mobile-nav");
+
+		if (toggle && nav) {
+			toggle.addEventListener("click", function () {
+				nav.classList.toggle("is-open");
+				var expanded = toggle.getAttribute("aria-expanded") === "true";
+				toggle.setAttribute("aria-expanded", String(!expanded));
+			});
+		}
+
+		var current = window.location.pathname.split("/").pop() || "index.html";
+		document.querySelectorAll(".sidebar-nav a, .mobile-nav a").forEach(function (link) {
+			var href = link.getAttribute("href");
+			if (href === current) {
+				link.classList.add("is-active");
+			}
+		});
+	});
+})();
