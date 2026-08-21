@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quản trị Blog</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="admin-shell">
+
+	<div class="admin-topbar">
+		<div>
+			<p class="eyebrow mb-0">Blog CMS</p>
+			<h3 class="mb-0">Quản lý bài viết</h3>
+			<p class="text-secondary mb-0">Đăng nhập với: <strong><%= username %></strong></p>
+		</div>
+		<div class="admin-topbar-actions">
+			<a href="/blog.html" target="_blank" class="btn btn-outline btn-small">Xem trang Blog</a>
+			<a href="/portfolio/admin" class="btn btn-outline btn-small">Portfolio CMS</a>
+			<a href="/portfolio/admin/change-password" class="btn btn-outline btn-small">Đổi mật khẩu</a>
+			<form method="POST" action="/portfolio/admin/logout">
+				<button type="submit" class="btn btn-dark btn-small">Đăng xuất</button>
+			</form>
+		</div>
+	</div>
+
+	<div style="margin-bottom:1.5em;">
+		<a href="/blog/admin/new" class="btn btn-primary">+ Thêm bài viết mới</a>
+	</div>
+
+	<% if (posts.length === 0) { %>
+		<p class="text-secondary">Chưa có bài viết nào. Bấm "Thêm bài viết mới" để bắt đầu.</p>
+	<% } else { %>
+	<div style="overflow-x:auto;">
+		<table class="admin-table">
+			<thead>
+				<tr>
+					<th>Ảnh</th>
+					<th>Thứ tự</th>
+					<th>Ngày đăng</th>
+					<th>Tiêu đề (VI / EN)</th>
+					<th>Hành động</th>
+				</tr>
+			</thead>
+			<tbody>
+				<% posts.forEach(function (p) { %>
+				<tr>
+					<td><img src="<%= p.image %>" alt=""></td>
+					<td><%= p.order %></td>
+					<td><%= p.date_display_vi || p.date %></td>
+					<td><%= p.title_vi %><br><span class="text-secondary"><%= p.title_en %></span></td>
+					<td>
+						<div class="admin-table-actions">
+							<a href="/blog/<%= p.slug %>" target="_blank" class="btn btn-outline btn-small">Xem</a>
+							<a href="/blog/admin/<%= p.id %>/edit" class="btn btn-outline btn-small">Sửa</a>
+							<form method="POST" action="/blog/admin/<%= p.id %>/delete" onsubmit="return confirm('Xoá bài viết này? Hành động không thể hoàn tác.');">
+								<button type="submit" class="btn btn-danger btn-small">Xoá</button>
+							</form>
+						</div>
+					</td>
+				</tr>
+				<% }); %>
+			</tbody>
+		</table>
+	</div>
+	<% } %>
+
+</div>
+
+</body>
+</html>

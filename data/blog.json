@@ -1,0 +1,71 @@
+[
+  {
+    "id": "b1a2c3d4e5f6",
+    "order": 1,
+    "date": "2025-06-03",
+    "date_display_vi": "03 Th06 2025",
+    "date_display_en": "Jun 3, 2025",
+    "title_vi": "Những đám mây đã từng biết tên tôi",
+    "title_en": "The Clouds That Once Knew My Name",
+    "excerpt_vi": "Một khoảng lặng cho những ngày ngồi một mình dưới bầu trời xanh, và lời nhắc rằng sự bình yên ấy vẫn còn đó, chờ ta quay về.",
+    "excerpt_en": "A quiet meditation on childhood stillness beneath open skies, and a gentle reminder that peace is still there, waiting for you to return.",
+    "tag_vi": "Daily",
+    "tag_en": "Daily",
+    "slug": "nhung-dam-may-da-tung-biet-ten-toi",
+    "image": "/assets/images/feature-1.png",
+    "blocks": [
+      {
+        "id": "blk1a2b3c4d5e",
+        "type": "text",
+        "text_vi": "Ngày xưa, tôi hay ngồi một mình.\n\nKhông vì giận ai, không vì cô đơn. Chỉ là... tôi thích vậy.\n\nMột chiếc ghế đá cũ trong sân trường, dưới chân là cỏ non vừa bị mưa đè rạp xuống, bên tai là tiếng chim non còn ngọng líu lo, và phía trước - là bầu trời xanh ngắt, có vài cụm mây trôi lặng lẽ như đang suy tư điều gì đó.\n\nTôi hay ngồi như thế. Rất lâu.\n\nKhông điện thoại. Không nói chuyện.\n\nChỉ có một cuốn sách đã đọc xong từ lúc nào đó, nằm yên trên đùi.\n\nTôi không vội làm gì khác.\n\nChỉ... cảm nhận.\n\nCảm nhận tiếng gió lùa qua kẽ lá.\n\nCảm nhận nắng ấm áp phả lên má. Cảm nhận cái cách thế giới vẫn xoay, dù tôi chỉ ngồi đó, rất yên.\n\nLúc ấy, tôi không biết gọi tên cái cảm giác đó là gì.\n\nChỉ biết… nó khiến tôi thấy lòng mình rộng ra, như một khung cửa sổ mở toang, để gió, mây, chim, cây và cả sự yên bình ùa vào.\n\nBây giờ, tôi vẫn thích ngồi một mình.\n\nNhưng hiếm khi tôi còn đủ thời gian — hoặc đủ tĩnh.\n\nSáng chạy deadline. Trưa họp. Chiều chấm công. Tối mắc kẹt giữa dòng xe và tiếng còi.\n\nCả ngày cứ như một cuốn phim bị tua nhanh, tôi ngồi đó, có khi đầu đầy suy nghĩ, nhưng tim thì… trống rỗng.\n\nTôi nhớ những ngày cũ - những ngày mà chỉ cần ngồi dưới tán cây ướt sương, là thấy cả thế giới trong tim mình rồi.\n\nCó thể bạn cũng từng như tôi:\n\nTừng thấy mình rất \"gần\" với thiên nhiên, với cỏ cây, với mây trắng.\n\nTừng tin rằng thế giới này thật đẹp và đủ để khiến một đứa nhỏ ngồi hàng giờ mà không chán.\n\nNếu giờ đây bạn cũng đang chạy vội, đang thấy mệt nhoài, thì hãy thử… dừng lại một chút.\n\nNgước nhìn lên trời.\n\nKhông cần nghĩ gì cả.\n\nChỉ cần... nhìn.\n\nVì đâu đó trên bầu trời kia, có một đám mây trôi ngang,\n\nvà một phiên bản \"bình yên\" của bạn - vẫn đang ngồi đó, chờ bạn trở về.",
+        "text_en": "Back then, I used to sit alone a lot.\n\nNot out of anger at anyone, not out of loneliness. I just... liked it that way.\n\nAn old stone bench in the schoolyard, young grass beneath my feet still bent flat from the rain, the lisping chirp of baby birds in my ear, and ahead of me — a deep blue sky, with a few clouds drifting quietly as if lost in thought.\n\nI used to sit like that. For a long time.\n\nNo phone. No talking.\n\nJust a book I'd finished reading at some point, resting quietly on my lap.\n\nI wasn't in any hurry to do anything else.\n\nJust... feeling.\n\nFeeling the wind slip through the gaps between the leaves.\n\nFeeling the warm sun brush against my cheeks. Feeling the way the world kept turning, even as I sat there, so still.\n\nBack then, I didn't know what to call that feeling.\n\nI only knew… it made my heart feel wider, like a window thrown wide open, letting the wind, the clouds, the birds, the trees, and all that stillness pour in.\n\nNow, I still like sitting alone.\n\nBut rarely do I have enough time — or enough quiet.\n\nMornings are for chasing deadlines. Noon for meetings. Afternoons for clocking in and out. Evenings stuck between traffic and honking horns.\n\nThe whole day plays out like a film on fast-forward — I sit there, my head full of thoughts, but my heart... empty.\n\nI miss the old days — the days when just sitting beneath dew-soaked leaves was enough to hold the whole world in my heart.\n\nMaybe you've been like me too:\n\nOnce felt so \"close\" to nature, to the grass and trees, to the white clouds.\n\nOnce believed this world was beautiful enough to keep a child sitting for hours without ever growing bored.\n\nIf you're rushing now too, if you're feeling worn thin, then try... stopping for a moment.\n\nLook up at the sky.\n\nYou don't need to think about anything.\n\nJust... look.\n\nBecause somewhere up there, a cloud is drifting by,\n\nand a \"peaceful\" version of you — is still sitting there, waiting for you to come home."
+      }
+    ]
+  },
+  {
+    "id": "a2b3c4d5e6f7",
+    "order": 2,
+    "date": "2025-06-02",
+    "date_display_vi": "02 Th06 2025",
+    "date_display_en": "Jun 2, 2025",
+    "title_vi": "Lề trái rộng hơn một chút",
+    "title_en": "A Slightly Wider Left Margin",
+    "excerpt_vi": "Một buổi chiều mưa, một tách trà, và ba bài học về khoảng trắng mà một designer học được từ sự tĩnh lặng.",
+    "excerpt_en": "A rainy afternoon, a cup of tea, and three lessons about white space that a designer learned from sitting still.",
+    "tag_vi": "Daily",
+    "tag_en": "Daily",
+    "slug": "le-trai-rong-hon-mot-chut",
+    "image": "/assets/images/feature-2.png",
+    "blocks": [
+      {
+        "id": "blk2a3b4c5d6e",
+        "type": "text",
+        "text_vi": "Chiều thứ Bảy. Mưa ào xuống mái tôn nhà hàng xóm ồn ào như thể hiệu ứng sound collision trong After Effects. Tôi nhìn màn hình iMac - 3 file Figma đang mở, 2 email chưa trả lời, Slack nhấp nháy đòi feedback. \"Lại một ngày cuối tuần hóa công sở\", tôi tự nhủ.\n\nBỗng mẹ tôi gọi điện: \"Trời mưa rồi, mẹ có pha trà nóng, xuống uống đi cho ấm người...\".\n\nClick.\n\nTôi tắt máy.\n\nKhông \"5 phút nữa thôi\".\n\nKhông \"save lại project trước đã\".\n\nChỉ một động tác gập laptop lại.\n\nNgồi bên ấm trà nghi ngút, tôi nhận ra: khoảng trắng (white space) không chỉ tồn tại trong layout.\n\n3 \"composition rules\" tôi học từ sự tĩnh lặng\n\n1. Quy tắc 1/3 của thời gian\n\n❌ Trước đây: Lịch làm việc chiếm 90% calendar\n\n✅ Giờ đây: Tôi chia ngày thành 3 phần bằng nhau:\n\n- 8h design & client work\n- 8h ăn/ngủ/thư giãn\n- 8h học cái mới hoặc... giải trí\n\n\"Khoảng trắng không nhằm để lấp kín, mà là không gian để thở.\"\n\n2. Độ tương phản cảm xúc\n\nTôi tạo sự tương phản rõ rệt giữa \"work mode\" và \"chill mode\":\n\n- Work mode: Bật đèn studio sáng trắng, nghe playlist truyền cảm hứng\n- Chill mode: Thắp nến, nghe tiếng mưa hoặc nhạc lofi\n\nSự chuyển đổi vật lý này giống như việc phân chia layer trong Photoshop - mỗi trạng thái cần layer mask riêng.\n\n3. Phiên bản tối giản (minimalist me)\n\nTôi học cách nói \"không\" với:\n\n- Dự án không khiến tim đập nhanh\n- Cuộc họp không agenda rõ ràng\n- Những khách hàng độc hại có tư duy \"làm màu cho bắt mắt\"\n\nGiống như việc lược bỏ các chi tiết thừa trong bản thiết kế, cuộc sống cần có khoảng trống để những điều quan trọng được nổi bật.\n\nTạm kết: Từ bàn trà ra bàn làm việc\n\nHôm nay, khi ngồi chỉnh layout website khách hàng, tôi cố ý để lề trái rộng hơn 20% so với thói quen cũ. Client hỏi: \"Sao Oanh để chừa nhiều khoảng trống thế?\".\n\nTôi mỉm cười:\n\n\"Để dành chỗ cho những ý tưởng chưa kịp nảy mầm...\"",
+        "text_en": "Saturday afternoon. Rain pours down on the neighbor's tin roof, loud as a sound-collision effect in After Effects. I look at my iMac screen — 3 Figma files open, 2 unanswered emails, Slack blinking for feedback. \"Another weekend turned office,\" I tell myself.\n\nThen my mother calls: \"It's raining, I've made hot tea, come down and warm up...\"\n\nClick.\n\nI shut the machine off.\n\nNo \"just 5 more minutes.\"\n\nNo \"let me save the project first.\"\n\nJust one motion — closing the laptop.\n\nSitting by the steaming pot of tea, I realized: white space doesn't only exist in layout.\n\n3 \"composition rules\" I learned from stillness\n\n1. The rule of thirds — for time\n\n❌ Before: my work schedule took up 90% of the calendar\n\n✅ Now: I split the day into three equal parts:\n\n- 8 hours for design & client work\n- 8 hours for eating/sleeping/resting\n- 8 hours for learning something new, or just having fun\n\n\"White space isn't there to be filled — it's room to breathe.\"\n\n2. Emotional contrast\n\nI create a sharp contrast between \"work mode\" and \"chill mode\":\n\n- Work mode: bright white studio lights, an inspiring playlist\n- Chill mode: candles lit, the sound of rain or lofi music\n\nThis physical switch is like separating layers in Photoshop — each state needs its own layer mask.\n\n3. The minimalist version of me\n\nI learned to say \"no\" to:\n\n- Projects that don't make my heart race\n- Meetings with no clear agenda\n- Toxic clients who think only in terms of \"make it look flashy\"\n\nJust like trimming away the excess details in a design, life needs empty space so the things that matter can stand out.\n\nA tentative close: from the tea table back to the desk\n\nToday, while adjusting the layout for a client's website, I deliberately left the left margin 20% wider than my usual habit. The client asked, \"Why are you leaving so much empty space, Oanh?\"\n\nI smiled.\n\n\"To leave room for ideas that haven't sprouted yet...\""
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6a7b8",
+    "order": 3,
+    "date": "2024-10-10",
+    "date_display_vi": "10 Th10 2024",
+    "date_display_en": "Oct 10, 2024",
+    "title_vi": "Thở thôi, cũng đủ giỏi rồi",
+    "title_en": "Just Breathing Is Enough",
+    "excerpt_vi": "Không phải ngày nào cũng cần giỏi giang — đôi khi, chỉ cần thở, cũng đã là đủ.",
+    "excerpt_en": "Not every day has to be about achieving something — sometimes, just breathing is already enough.",
+    "tag_vi": "Daily",
+    "tag_en": "Daily",
+    "slug": "tho-thoi-cung-du-gioi-roi",
+    "image": "/assets/images/feature-3.png",
+    "blocks": [
+      {
+        "id": "blk3a4b5c6d7e",
+        "type": "text",
+        "text_vi": "Có những sáng tỉnh dậy, mình chẳng muốn làm gì cả.\n\nKhông muốn sáng tạo, không muốn dẫn đầu, không muốn trở thành \"phiên bản tốt hơn\" của chính mình.\n\nMình chỉ muốn là một người bình thường.\n\nDậy trễ một chút. Ăn một bữa sáng nguội ngắt nhưng không vội.\n\nMặc một cái áo không cần ủi. Lướt điện thoại vô nghĩa đến tận trưa.\n\nRồi nằm dài nghe mưa, hay không mưa cũng chẳng sao.\n\nMình từng nghĩ, sống chậm lại là thua cuộc.\n\nRằng nếu không \"cố gắng\", mình sẽ bị bỏ lại phía sau - giữa thế giới mà ai cũng đang hối hả để trở thành điều gì đó lớn lao hơn chính mình hôm qua.\n\nNhưng rồi, mình nhận ra… Có những ngày, chỉ cần sống sót qua được thôi, đã là đủ can đảm rồi.\n\nKhông ai sinh ra để lúc nào cũng phải mạnh mẽ.\n\nKhông ai sinh ra để lúc nào cũng phải \"giỏi hơn hôm qua\".\n\nĐôi khi, việc tự cho phép mình được mệt, được buồn, được lười - lại là một cách dịu dàng để chữa lành.\n\nMình học cách thương mình như cách người ta thương một đứa trẻ: Không gào vào mặt nó vì hôm nay nó không đạt điểm cao.\n\nKhông đòi hỏi nó phải \"có ích\", ngay cả khi nó đang buồn và chẳng hiểu vì sao.\n\nChỉ là, thương. Vậy thôi.\n\nNếu bạn cũng đang có một ngày như vậy - một ngày trống rỗng, một ngày không muốn giỏi giang - thì chào mừng bạn về với thế giới của mình. Nơi mà những người bình thường vẫn đang cố gắng một cách rất nhẹ nhàng. Nơi mà bạn không cần làm gì hết, ngoài việc… thở.\n\nỪ. Hít vào. Thở ra. Vậy là giỏi rồi đó.",
+        "text_en": "There are mornings I wake up not wanting to do anything at all.\n\nNot wanting to create, not wanting to lead, not wanting to become a \"better version\" of myself.\n\nI just want to be an ordinary person.\n\nTo wake up a little late. To eat a cold breakfast without rushing.\n\nTo wear a shirt that doesn't need ironing. To scroll my phone aimlessly until noon.\n\nThen lie down and listen to the rain — or not, it doesn't matter if it isn't raining.\n\nI used to think that slowing down meant losing.\n\nThat if I didn't \"try hard,\" I'd be left behind — in a world where everyone else seems to be rushing to become something greater than who they were yesterday.\n\nBut then I realized… some days, just surviving through them is courage enough.\n\nNo one was born to be strong all the time.\n\nNo one was born to always be \"better than yesterday.\"\n\nSometimes, allowing myself to be tired, to be sad, to be lazy — is itself a gentle way of healing.\n\nI'm learning to love myself the way you'd love a child: not screaming at them for not getting good grades today.\n\nNot demanding they be \"useful,\" even when they're sad and don't know why.\n\nJust — loving them. That's all.\n\nIf you're having a day like this too — an empty day, a day you don't want to be capable of anything — then welcome to my world. A world where ordinary people are still trying, very gently. Where you don't need to do anything at all, except... breathe.\n\nYes. Breathe in. Breathe out. That's already good enough."
+      }
+    ]
+  }
+]

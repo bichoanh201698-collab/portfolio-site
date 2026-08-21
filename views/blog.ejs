@@ -35,7 +35,7 @@
 		<nav class="sidebar-nav">
 			<a href="/" data-i18n="nav.home">Trang chủ</a>
 			<a href="/portfolio" data-i18n="nav.portfolio">Portfolio</a>
-			<a href="/blog.html" data-i18n="nav.blog">Blog</a>
+			<a href="/blog.html" class="is-active" data-i18n="nav.blog">Blog</a>
 			<a href="/about.html" data-i18n="nav.about">Giới thiệu</a>
 			<a href="/contact.html" data-i18n="nav.contact">Liên hệ</a>
 		</nav>
@@ -72,51 +72,21 @@
 		<hr class="separator">
 
 		<section class="section">
+			<% if (posts.length === 0) { %>
+				<p class="text-secondary" data-i18n-vi="Chưa có bài viết nào. Vào trang quản trị để thêm bài viết đầu tiên." data-i18n-en="No posts yet. Go to the admin dashboard to add your first post.">Chưa có bài viết nào. Vào trang quản trị để thêm bài viết đầu tiên.</p>
+			<% } else { %>
 			<div class="grid">
-
+				<% posts.forEach(function (p) { %>
 				<article class="post-card">
-					<a href="#"><img src="/assets/images/feature-1.png" alt=""></a>
-					<span class="post-date" data-i18n="blog.post1.date">21 Th08 2026</span>
-					<h6 class="post-title"><a href="#" data-i18n="blog.post1.title">Tiêu đề bài viết đầu tiên của tôi</a></h6>
-					<p class="post-excerpt" data-i18n="blog.excerpt">Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.</p>
+					<a href="/blog/<%= p.slug %>"><img src="<%= p.image %>" alt=""></a>
+					<% if (p.tag_vi || p.tag_en) { %><span class="tag" data-i18n-vi="<%= p.tag_vi %>" data-i18n-en="<%= p.tag_en %>"><%= p.tag_vi %></span><% } %>
+					<span class="post-date" data-i18n-vi="<%= p.date_display_vi %>" data-i18n-en="<%= p.date_display_en %>"><%= p.date_display_vi %></span>
+					<h6 class="post-title"><a href="/blog/<%= p.slug %>" data-i18n-vi="<%= p.title_vi %>" data-i18n-en="<%= p.title_en %>"><%= p.title_vi %></a></h6>
+					<p class="post-excerpt" data-i18n-vi="<%= p.excerpt_vi %>" data-i18n-en="<%= p.excerpt_en %>"><%= p.excerpt_vi %></p>
 				</article>
-
-				<article class="post-card">
-					<a href="#"><img src="/assets/images/feature-2.png" alt=""></a>
-					<span class="post-date" data-i18n="blog.post2.date">10 Th08 2026</span>
-					<h6 class="post-title"><a href="#" data-i18n="blog.post2.title">Những điều tôi học được sau một năm freelance</a></h6>
-					<p class="post-excerpt" data-i18n="blog.excerpt">Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.</p>
-				</article>
-
-				<article class="post-card">
-					<a href="#"><img src="/assets/images/feature-3.png" alt=""></a>
-					<span class="post-date" data-i18n="blog.post3.date">02 Th08 2026</span>
-					<h6 class="post-title"><a href="#" data-i18n="blog.post3.title">Quy trình thiết kế sản phẩm của tôi</a></h6>
-					<p class="post-excerpt" data-i18n="blog.excerpt">Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.</p>
-				</article>
-
-				<article class="post-card">
-					<a href="#"><img src="/assets/images/feature-1.png" alt=""></a>
-					<span class="post-date" data-i18n="blog.post4.date">25 Th07 2026</span>
-					<h6 class="post-title"><a href="#" data-i18n="blog.post4.title">Công cụ tôi dùng mỗi ngày</a></h6>
-					<p class="post-excerpt" data-i18n="blog.excerpt">Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.</p>
-				</article>
-
-				<article class="post-card">
-					<a href="#"><img src="/assets/images/feature-2.png" alt=""></a>
-					<span class="post-date" data-i18n="blog.post5.date">14 Th07 2026</span>
-					<h6 class="post-title"><a href="#" data-i18n="blog.post5.title">Câu chuyện phía sau dự án gần nhất</a></h6>
-					<p class="post-excerpt" data-i18n="blog.excerpt">Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.</p>
-				</article>
-
-				<article class="post-card">
-					<a href="#"><img src="/assets/images/feature-3.png" alt=""></a>
-					<span class="post-date" data-i18n="blog.post6.date">01 Th07 2026</span>
-					<h6 class="post-title"><a href="#" data-i18n="blog.post6.title">Lời khuyên cho người mới bắt đầu</a></h6>
-					<p class="post-excerpt" data-i18n="blog.excerpt">Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.</p>
-				</article>
-
+				<% }); %>
 			</div>
+			<% } %>
 		</section>
 
 		<footer class="site-footer">

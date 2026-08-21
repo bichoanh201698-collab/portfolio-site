@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sửa khối nội dung — Blog CMS</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="admin-shell">
+
+	<div class="admin-topbar">
+		<div>
+			<p class="eyebrow mb-0">Blog CMS</p>
+			<h3 class="mb-0">Sửa khối: <%= block.type === "text" ? "Đoạn văn" : (block.type === "image" ? "Ảnh" : "Video") %></h3>
+		</div>
+		<div class="admin-topbar-actions">
+			<a href="/blog/admin/<%= post.id %>/edit" class="btn btn-outline btn-small">&larr; Quay lại bài viết</a>
+		</div>
+	</div>
+
+	<form method="POST" action="/blog/admin/<%= post.id %>/blocks/<%= block.id %>/edit" enctype="multipart/form-data">
+
+		<% if (block.type === "text") { %>
+			<div class="form-row">
+				<label for="text_vi">Nội dung (Tiếng Việt)</label>
+				<textarea id="text_vi" name="text_vi" rows="10"><%= block.text_vi || "" %></textarea>
+			</div>
+			<div class="form-row">
+				<label for="text_en">Nội dung (English)</label>
+				<textarea id="text_en" name="text_en" rows="10"><%= block.text_en || "" %></textarea>
+			</div>
+		<% } %>
+
+		<% if (block.type === "image") { %>
+			<% if (block.src) { %>
+				<div class="current-image">
+					<label class="mb-0">Ảnh hiện tại</label>
+					<img src="<%= block.src %>" alt="">
+				</div>
+			<% } %>
+			<div class="form-row">
+				<label for="media">Thay ảnh mới (bỏ trống nếu giữ ảnh cũ)</label>
+				<input type="file" id="media" name="media" accept=".png,.jpg,.jpeg,.webp,.gif">
+			</div>
+			<div class="form-row">
+				<label for="caption_vi">Chú thích (Tiếng Việt)</label>
+				<input type="text" id="caption_vi" name="caption_vi" value="<%= block.caption_vi || '' %>">
+			</div>
+			<div class="form-row">
+				<label for="caption_en">Chú thích (English)</label>
+				<input type="text" id="caption_en" name="caption_en" value="<%= block.caption_en || '' %>">
+			</div>
+		<% } %>
+
+		<% if (block.type === "video") { %>
+			<p class="field-hint" style="margin-top:0;">Nguồn hiện tại: <%= block.src || "(chưa có)" %></p>
+			<div class="form-row">
+				<label for="media">Thay bằng file video mới (bỏ trống nếu giữ nguồn cũ)</label>
+				<input type="file" id="media" name="media" accept=".mp4,.webm,.mov">
+			</div>
+			<div class="form-row">
+				<label for="videoUrl">Hoặc thay bằng link YouTube / Vimeo mới</label>
+				<input type="text" id="videoUrl" name="videoUrl" placeholder="https://youtube.com/watch?v=...">
+			</div>
+			<div class="form-row">
+				<label for="caption_vi">Chú thích (Tiếng Việt)</label>
+				<input type="text" id="caption_vi" name="caption_vi" value="<%= block.caption_vi || '' %>">
+			</div>
+			<div class="form-row">
+				<label for="caption_en">Chú thích (English)</label>
+				<input type="text" id="caption_en" name="caption_en" value="<%= block.caption_en || '' %>">
+			</div>
+		<% } %>
+
+		<button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+	</form>
+
+</div>
+
+</body>
+</html>

@@ -49,14 +49,7 @@
 			blog: {
 				pageTitle: "Blog — Tên Của Bạn",
 				eyebrow: "Nhật ký",
-				desc: "Những bài viết về công việc, quá trình sáng tạo và những điều tôi học được trên đường đi.",
-				excerpt: "Một đoạn tóm tắt ngắn giới thiệu nội dung chính của bài viết để người đọc nắm được trước khi bấm vào xem.",
-				post1: { date: "21 Th08 2026", title: "Tiêu đề bài viết đầu tiên của tôi" },
-				post2: { date: "10 Th08 2026", title: "Những điều tôi học được sau một năm freelance" },
-				post3: { date: "02 Th08 2026", title: "Quy trình thiết kế sản phẩm của tôi" },
-				post4: { date: "25 Th07 2026", title: "Công cụ tôi dùng mỗi ngày" },
-				post5: { date: "14 Th07 2026", title: "Câu chuyện phía sau dự án gần nhất" },
-				post6: { date: "01 Th07 2026", title: "Lời khuyên cho người mới bắt đầu" }
+				desc: "Những bài viết về công việc, quá trình sáng tạo và những điều tôi học được trên đường đi."
 			},
 			about: {
 				pageTitle: "Giới thiệu — Shine Tu",
@@ -141,14 +134,7 @@
 			blog: {
 				pageTitle: "Blog — Your Name",
 				eyebrow: "Journal",
-				desc: "Posts about my work, my creative process, and things I learn along the way.",
-				excerpt: "A short summary introducing the post so readers know what to expect before clicking through.",
-				post1: { date: "Aug 21, 2026", title: "The title of my very first post" },
-				post2: { date: "Aug 10, 2026", title: "What I learned after a year of freelancing" },
-				post3: { date: "Aug 2, 2026", title: "My product design process" },
-				post4: { date: "Jul 25, 2026", title: "Tools I use every day" },
-				post5: { date: "Jul 14, 2026", title: "The story behind my latest project" },
-				post6: { date: "Jul 1, 2026", title: "Advice for beginners" }
+				desc: "Posts about my work, my creative process, and things I learn along the way."
 			},
 			about: {
 				pageTitle: "About — Shine Tu",

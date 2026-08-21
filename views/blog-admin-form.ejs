@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title><%= post && post.id ? "Sửa bài viết" : "Thêm bài viết" %> — Blog CMS</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="admin-shell">
+
+	<div class="admin-topbar">
+		<div>
+			<p class="eyebrow mb-0">Blog CMS</p>
+			<h3 class="mb-0"><%= post && post.id ? "Sửa bài viết" : "Thêm bài viết mới" %></h3>
+		</div>
+		<div class="admin-topbar-actions">
+			<a href="/blog/admin" class="btn btn-outline btn-small">&larr; Quay lại danh sách</a>
+		</div>
+	</div>
+
+	<% if (typeof error !== "undefined" && error) { %>
+		<div class="admin-error"><%= error %></div>
+	<% } %>
+
+	<form method="POST" action="<%= post && post.id ? ('/blog/admin/' + post.id + '/edit') : '/blog/admin/new' %>" enctype="multipart/form-data">
+
+		<% if (post && post.image) { %>
+			<div class="current-image">
+				<label class="mb-0">Ảnh hiện tại</label>
+				<img src="<%= post.image %>" alt="">
+			</div>
+		<% } %>
+
+		<div class="form-row">
+			<label for="image">Ảnh bài viết <%= post && post.id ? "(bỏ trống nếu giữ ảnh cũ)" : "" %></label>
+			<input type="file" id="image" name="image" accept=".png,.jpg,.jpeg,.webp,.gif">
+		</div>
+
+		<div class="admin-form-grid">
+			<div class="form-row">
+				<label for="title_vi">Tiêu đề (Tiếng Việt)</label>
+				<input type="text" id="title_vi" name="title_vi" value="<%= (post && post.title_vi) || '' %>" required>
+			</div>
+			<div class="form-row">
+				<label for="title_en">Tiêu đề (English)</label>
+				<input type="text" id="title_en" name="title_en" value="<%= (post && post.title_en) || '' %>" required>
+			</div>
+
+			<div class="form-row">
+				<label for="date">Ngày đăng (YYYY-MM-DD, dùng để sắp xếp)</label>
+				<input type="date" id="date" name="date" value="<%= (post && post.date) || '' %>">
+			</div>
+			<div class="form-row">
+				<label for="order">Thứ tự hiển thị</label>
+				<input type="number" id="order" name="order" value="<%= (post && post.order) || '' %>">
+				<p class="field-hint">Số nhỏ hơn hiển thị trước.</p>
+			</div>
+
+			<div class="form-row">
+				<label for="date_display_vi">Ngày hiển thị (Tiếng Việt)</label>
+				<input type="text" id="date_display_vi" name="date_display_vi" value="<%= (post && post.date_display_vi) || '' %>" placeholder="VD: 03 Th06 2025">
+			</div>
+			<div class="form-row">
+				<label for="date_display_en">Ngày hiển thị (English)</label>
+				<input type="text" id="date_display_en" name="date_display_en" value="<%= (post && post.date_display_en) || '' %>" placeholder="e.g. Jun 3, 2025">
+			</div>
+
+			<div class="form-row">
+				<label for="tag_vi">Tag (Tiếng Việt)</label>
+				<input type="text" id="tag_vi" name="tag_vi" value="<%= (post && post.tag_vi) || '' %>">
+			</div>
+			<div class="form-row">
+				<label for="tag_en">Tag (English)</label>
+				<input type="text" id="tag_en" name="tag_en" value="<%= (post && post.tag_en) || '' %>">
+			</div>
+
+			<div class="form-row form-row-full">
+				<label for="excerpt_vi">Tóm tắt ngắn — hiện ở thẻ bài viết (Tiếng Việt)</label>
+				<textarea id="excerpt_vi" name="excerpt_vi" rows="3" required><%= (post && post.excerpt_vi) || '' %></textarea>
+			</div>
+			<div class="form-row form-row-full">
+				<label for="excerpt_en">Tóm tắt ngắn — hiện ở thẻ bài viết (English)</label>
+				<textarea id="excerpt_en" name="excerpt_en" rows="3" required><%= (post && post.excerpt_en) || '' %></textarea>
+			</div>
+
+			<div class="form-row form-row-full">
+				<label for="slug">Đường dẫn (slug, tuỳ chọn)</label>
+				<input type="text" id="slug" name="slug" value="<%= (post && post.slug) || '' %>" placeholder="vi-du-duong-dan-bai-viet">
+				<p class="field-hint">Để trống để tự tạo từ tiêu đề. URL công khai: /blog/&lt;slug&gt;</p>
+			</div>
+		</div>
+
+		<button type="submit" class="btn btn-primary"><%= post && post.id ? "Lưu thay đổi" : "Thêm bài viết" %></button>
+	</form>
+
+	<% if (post && post.id) { %>
+	<hr class="separator" style="margin:3em 0;">
+
+	<h3>Nội dung chi tiết</h3>
+	<p class="text-secondary">Thêm đoạn văn, ảnh, video — hiển thị theo đúng thứ tự bên dưới ở trang bài viết. Dùng nút ↑ ↓ để sắp xếp lại.</p>
+
+	<% const blocks = post.blocks || []; %>
+	<% if (blocks.length === 0) { %>
+		<p class="text-secondary">Chưa có khối nội dung nào.</p>
+	<% } else { %>
+	<div class="block-list">
+		<% blocks.forEach(function (b, i) { %>
+		<div class="block-item">
+			<span class="block-item-type">
+				<%= b.type === "text" ? "Văn bản" : (b.type === "image" ? "Ảnh" : "Video") %>
+			</span>
+			<span class="block-item-preview">
+				<% if (b.type === "text") { %>
+					<%= (b.text_vi || b.text_en || "").slice(0, 90) %>
+				<% } else if (b.type === "image") { %>
+					<img src="<%= b.src %>" alt=""><%= b.caption_vi || b.src %>
+				<% } else { %>
+					<%= b.caption_vi || b.src %>
+				<% } %>
+			</span>
+			<div class="block-item-actions">
+				<form method="POST" action="/blog/admin/<%= post.id %>/blocks/<%= b.id %>/move">
+					<input type="hidden" name="direction" value="up">
+					<button type="submit" class="btn btn-outline" <%= i === 0 ? "disabled" : "" %>>↑</button>
+				</form>
+				<form method="POST" action="/blog/admin/<%= post.id %>/blocks/<%= b.id %>/move">
+					<input type="hidden" name="direction" value="down">
+					<button type="submit" class="btn btn-outline" <%= i === blocks.length - 1 ? "disabled" : "" %>>↓</button>
+				</form>
+				<a href="/blog/admin/<%= post.id %>/blocks/<%= b.id %>/edit" class="btn btn-outline">Sửa</a>
+				<form method="POST" action="/blog/admin/<%= post.id %>/blocks/<%= b.id %>/delete" onsubmit="return confirm('Xoá khối này?');">
+					<button type="submit" class="btn btn-danger">Xoá</button>
+				</form>
+			</div>
+		</div>
+		<% }); %>
+	</div>
+	<% } %>
+
+	<div class="add-block-panel">
+		<h6 class="mb-0" style="margin-bottom:1em;">+ Thêm khối nội dung</h6>
+		<form method="POST" action="/blog/admin/<%= post.id %>/blocks" enctype="multipart/form-data" id="add-block-form">
+			<div class="form-row">
+				<label for="type">Loại khối</label>
+				<select id="type" name="type">
+					<option value="text">Đoạn văn</option>
+					<option value="image">Ảnh</option>
+					<option value="video">Video</option>
+				</select>
+			</div>
+
+			<div class="block-type-fields" data-block-type="text">
+				<div class="form-row">
+					<label for="text_vi">Nội dung (Tiếng Việt)</label>
+					<textarea id="text_vi" name="text_vi" rows="8"></textarea>
+				</div>
+				<div class="form-row">
+					<label for="text_en">Nội dung (English)</label>
+					<textarea id="text_en" name="text_en" rows="8"></textarea>
+				</div>
+			</div>
+
+			<div class="block-type-fields" data-block-type="image">
+				<div class="form-row">
+					<label for="image_media">Ảnh</label>
+					<input type="file" id="image_media" name="media" accept=".png,.jpg,.jpeg,.webp,.gif">
+				</div>
+			</div>
+
+			<div class="block-type-fields" data-block-type="video">
+				<div class="form-row">
+					<label for="video_media">Upload file video (mp4/webm/mov, tối đa 30MB)</label>
+					<input type="file" id="video_media" name="media" accept=".mp4,.webm,.mov">
+				</div>
+				<div class="form-row">
+					<label for="videoUrl">Hoặc dán link YouTube / Vimeo</label>
+					<input type="text" id="videoUrl" name="videoUrl" placeholder="https://youtube.com/watch?v=...">
+					<p class="field-hint">Chỉ cần điền một trong hai — nếu có file upload thì ưu tiên dùng file.</p>
+				</div>
+			</div>
+
+			<div class="form-row" data-caption-field>
+				<label for="caption_vi">Chú thích (Tiếng Việt, tuỳ chọn)</label>
+				<input type="text" id="caption_vi" name="caption_vi">
+			</div>
+			<div class="form-row" data-caption-field>
+				<label for="caption_en">Chú thích (English, tuỳ chọn)</label>
+				<input type="text" id="caption_en" name="caption_en">
+			</div>
+
+			<button type="submit" class="btn btn-primary">Thêm khối</button>
+		</form>
+	</div>
+
+	<script>
+		(function () {
+			var select = document.getElementById("type");
+			var groups = document.querySelectorAll(".block-type-fields");
+			var captionFields = document.querySelectorAll("[data-caption-field]");
+
+			function sync() {
+				var value = select.value;
+				groups.forEach(function (g) {
+					g.classList.toggle("is-visible", g.getAttribute("data-block-type") === value);
+				});
+				captionFields.forEach(function (f) {
+					f.style.display = value === "text" ? "none" : "";
+				});
+			}
+
+			select.addEventListener("change", sync);
+			sync();
+		})();
+	</script>
+	<% } else { %>
+	<p class="text-secondary" style="margin-top:2em;">Lưu bài viết trước, sau đó bạn có thể thêm đoạn văn / ảnh / video cho nội dung chi tiết.</p>
+	<% } %>
+
+</div>
+
+</body>
+</html>
