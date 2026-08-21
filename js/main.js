@@ -243,6 +243,16 @@
 			});
 		});
 
+		document.querySelectorAll(".theme-toggle").forEach(function (btn) {
+			btn.setAttribute("aria-pressed", String(document.documentElement.getAttribute("data-theme") === "dark"));
+			btn.addEventListener("click", function () {
+				var next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+				document.documentElement.setAttribute("data-theme", next);
+				btn.setAttribute("aria-pressed", String(next === "dark"));
+				try { localStorage.setItem("theme", next); } catch (e) {}
+			});
+		});
+
 		var toggle = document.querySelector(".menu-toggle");
 		var nav = document.querySelector(".mobile-nav");
 

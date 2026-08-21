@@ -51,7 +51,18 @@
 	--fs-h6: clamp(21px, 2.2vw, 27px);
 }
 
+:root[data-theme="dark"] {
+	--color-foreground: #EDEDED;
+	--color-background: #17171B;
+	--color-primary: #8382FF;
+	--color-secondary: #A0A0A0;
+	--color-tertiary: #313136;
+	--color-quaternary: #222226;
+}
+
 * { box-sizing: border-box; }
+
+body { transition: background-color 0.2s ease, color 0.2s ease; }
 
 html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
@@ -260,6 +271,34 @@ html[data-i18n-loading] body { visibility: hidden; }
 }
 
 .lang-btn.is-active:hover { color: #fff; }
+
+/* Theme toggle ---------------------------------------------------------- */
+
+.theme-toggle {
+	appearance: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	flex: 0 0 auto;
+	width: 34px;
+	height: 34px;
+	border: none;
+	border-radius: 999px;
+	background: var(--color-tertiary);
+	color: var(--color-foreground);
+	cursor: pointer;
+	padding: 0;
+	transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.theme-toggle:hover { color: var(--color-primary); }
+
+.theme-toggle .theme-icon { width: 17px; height: 17px; }
+
+.theme-toggle .theme-icon-moon { display: none; }
+
+:root[data-theme="dark"] .theme-toggle .theme-icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .theme-icon-moon { display: block; }
 
 .mobile-header-right {
 	display: flex;
@@ -557,6 +596,9 @@ input:focus, textarea:focus, select:focus {
 	font-size: var(--fs-small);
 	margin-bottom: 1.25em;
 }
+
+:root[data-theme="dark"] .admin-error { background: #3a2220; color: #f2a29c; }
+:root[data-theme="dark"] .admin-success { background: #1c3524; color: #8fd6a6; }
 
 .admin-table {
 	width: 100%;

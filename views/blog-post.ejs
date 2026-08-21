@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-<script>document.documentElement.setAttribute('data-i18n-loading', '');</script>
+<script>document.documentElement.setAttribute('data-i18n-loading', '');(function(){try{var t=localStorage.getItem('theme');if(t!=='light'&&t!=='dark'){t=(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><%= post.title_vi %> — Shine Tu</title>
@@ -16,6 +16,10 @@
 			<button type="button" class="lang-btn is-active" data-lang="vi">VI</button>
 			<button type="button" class="lang-btn" data-lang="en">EN</button>
 		</div>
+		<button type="button" class="theme-toggle" data-i18n-aria-vi="Chuyển giao diện sáng/tối" data-i18n-aria-en="Toggle light/dark mode" aria-label="Chuyển giao diện sáng/tối">
+			<svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></svg>
+			<svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z"></path></svg>
+		</button>
 		<button class="menu-toggle" data-i18n-aria="menu.toggleLabel" aria-label="Mở menu" aria-expanded="false">
 			<span></span><span></span><span></span>
 		</button>
@@ -44,6 +48,10 @@
 				<button type="button" class="lang-btn is-active" data-lang="vi">VI</button>
 				<button type="button" class="lang-btn" data-lang="en">EN</button>
 			</div>
+			<button type="button" class="theme-toggle" data-i18n-aria-vi="Chuyển giao diện sáng/tối" data-i18n-aria-en="Toggle light/dark mode" aria-label="Chuyển giao diện sáng/tối">
+				<svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></svg>
+				<svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z"></path></svg>
+			</button>
 			<div class="sidebar-social">
 				<a href="https://www.linkedin.com/in/oanh-tu-833847175/" target="_blank" rel="noopener" aria-label="LinkedIn">
 					<svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.38-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28ZM5.34 7.43a2.07 2.07 0 1 1 0-4.13 2.07 2.07 0 0 1 0 4.13ZM7.12 20.45H3.56V9h3.56v11.45Z"/></svg>
