@@ -95,6 +95,11 @@
 						desc: "Nhận các dự án thiết kế tự do về Graphic Design, Branding & Identity cho nhiều khách hàng khác nhau.",
 						period: "Từ 2017"
 					}
+				},
+				testimonials: {
+					title: "Mọi người nói gì",
+					quote1: "\"Tôi có cơ hội làm việc cùng Oanh trong ba tháng khi bạn ấy là designer hợp đồng tại KMS Technology. Trong thời gian đó, Oanh thể hiện sự chuyên nghiệp, khả năng sáng tạo cùng kỹ năng giao tiếp xuất sắc. Bạn ấy đã có những đóng góp giá trị cho nhóm, bao gồm việc hướng dẫn các thành viên khác và luôn giữ thái độ chủ động, tích cực. Sự tận tâm và tài năng của Oanh mang lại lợi ích đáng kể cho các dự án của chúng tôi, và bạn ấy thực sự là một nhân tố quan trọng của nhóm thiết kế.\"",
+					role1: "Quản lý trực tiếp tại KMS Technology"
 				}
 			},
 			contact: {
@@ -200,6 +205,11 @@
 						desc: "Freelance graphic design and branding & identity projects for a range of clients.",
 						period: "Since 2017"
 					}
+				},
+				testimonials: {
+					title: "What people say",
+					quote1: "\"I had the pleasure of working with Oanh for three months while she was a contracted designer at KMS Technology. During this time, Oanh demonstrated her professionalism and creativity, along with excellent communication skills. She made valuable contributions to our team, including mentoring other members and consistently displaying a proactive and positive attitude. Oanh's dedication and talent significantly benefited our projects, and she was a key asset to the design team.\"",
+					role1: "Direct manager at KMS Technology"
 				}
 			},
 			contact: {
