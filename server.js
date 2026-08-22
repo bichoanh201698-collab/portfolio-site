@@ -8,6 +8,7 @@ const crypto = require("crypto");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+const SITE_URL = (process.env.SITE_URL || "https://shinetu.net").replace(/\/+$/, "");
 
 const DATA_DIR = path.join(__dirname, "data");
 const PROJECTS_FILE = path.join(DATA_DIR, "projects.json");
@@ -180,7 +181,7 @@ function resolveVideoBlock(block) {
 // ---------------------------------------------------------------------------
 
 app.get("/portfolio", function (req, res) {
-	res.render("portfolio", { projects: getProjects() });
+	res.render("portfolio", { projects: getProjects(), siteUrl: SITE_URL });
 });
 
 // ---------------------------------------------------------------------------
@@ -438,7 +439,7 @@ app.get("/portfolio/:id", function (req, res) {
 		return b.type === "video" ? Object.assign({}, b, { video: resolveVideoBlock(b) }) : b;
 	});
 
-	res.render("portfolio-detail", { project: project, blocks: blocks });
+	res.render("portfolio-detail", { project: project, blocks: blocks, siteUrl: SITE_URL });
 });
 
 // ---------------------------------------------------------------------------
@@ -446,7 +447,7 @@ app.get("/portfolio/:id", function (req, res) {
 // ---------------------------------------------------------------------------
 
 app.get("/blog.html", function (req, res) {
-	res.render("blog", { posts: getPosts() });
+	res.render("blog", { posts: getPosts(), siteUrl: SITE_URL });
 });
 
 // ---------------------------------------------------------------------------
@@ -633,7 +634,36 @@ app.get("/blog/:slug", function (req, res) {
 		return b.type === "video" ? Object.assign({}, b, { video: resolveVideoBlock(b) }) : b;
 	});
 
-	res.render("blog-post", { post: post, blocks: blocks });
+	res.render("blog-post", { post: post, blocks: blocks, siteUrl: SITE_URL });
+});
+
+// ---------------------------------------------------------------------------
+// SEO: sitemap + robots.txt (generated from live data, not static files, so
+// new projects/posts are picked up automatically)
+// ---------------------------------------------------------------------------
+
+app.get("/sitemap.xml", function (req, res) {
+	const staticPaths = ["/", "/about.html", "/contact.html", "/portfolio", "/blog.html"];
+	const urls = staticPaths
+		.concat(getProjects().map(function (p) { return "/portfolio/" + p.id; }))
+		.concat(getPosts().map(function (p) { return "/blog/" + p.slug; }));
+
+	const body = urls.map(function (u) {
+		return "  <url><loc>" + SITE_URL + u + "</loc></url>";
+	}).join("\n");
+
+	res.set("Content-Type", "application/xml");
+	res.send('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + body + "\n</urlset>");
+});
+
+app.get("/robots.txt", function (req, res) {
+	res.type("text/plain").send(
+		"User-agent: *\n" +
+		"Allow: /\n" +
+		"Disallow: /portfolio/admin\n" +
+		"Disallow: /blog/admin\n" +
+		"Sitemap: " + SITE_URL + "/sitemap.xml\n"
+	);
 });
 
 app.listen(PORT, function () {

@@ -5,6 +5,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><%= project.title_vi %> — Shine Tu</title>
+<meta name="description" content="<%= project.desc_vi %>">
+<link rel="canonical" href="<%= siteUrl %>/portfolio/<%= project.id %>">
+<meta property="og:type" content="article">
+<meta property="og:title" content="<%= project.title_vi %> — Shine Tu">
+<meta property="og:description" content="<%= project.desc_vi %>">
+<meta property="og:url" content="<%= siteUrl %>/portfolio/<%= project.id %>">
+<meta property="og:image" content="<%= siteUrl %><%= project.image %>">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+<%- JSON.stringify({
+	"@context": "https://schema.org",
+	"@type": "CreativeWork",
+	"name": project.title_vi,
+	"description": project.desc_vi,
+	"image": siteUrl + project.image,
+	"url": siteUrl + "/portfolio/" + project.id,
+	"creator": { "@type": "Person", "name": "Shine Tu" }
+}) %>
+</script>
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
