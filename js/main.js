@@ -20,7 +20,7 @@
 					btnAbout: "Giới thiệu về tôi"
 				},
 				intro: {
-					p1: "Với 7 năm kinh nghiệm phục vụ đa dạng khách hàng trong nhiều ngành, tôi tin rằng thiết kế tốt bắt đầu từ việc lắng nghe câu chuyện thật đằng sau mỗi thương hiệu, sau đó chuyển hoá nó thành hình ảnh rõ ràng, chạm đến người xem.",
+					p1: "Từ những dự án thiết kế tự do đầu tiên năm 2017 đến vai trò Senior Graphic Designer tại FireGroup Technology hôm nay, tôi tin rằng thiết kế tốt luôn bắt đầu từ việc lắng nghe câu chuyện thật đằng sau mỗi thương hiệu, rồi chuyển hoá nó thành hình ảnh rõ ràng, chạm đến người xem.",
 					p2: "Ngoài công việc, tôi thích thử nghiệm những ý tưởng nhỏ, viết lại quá trình học hỏi của mình và chia sẻ chúng trên blog cá nhân."
 				},
 				card1: { title: "Xem portfolio", desc: "Khám phá những dự án tôi đã thực hiện và các kỹ năng tôi đã trau dồi.", btn: "Xem thêm" },
@@ -33,7 +33,7 @@
 				}
 			},
 			portfolio: {
-				pageTitle: "Portfolio — Tên Của Bạn",
+				pageTitle: "Portfolio — Shine Tu",
 				eyebrow: "Sản phẩm của tôi",
 				desc: "Tổng hợp những dự án tôi đã tự tay thực hiện — từ thiết kế, phát triển sản phẩm đến các thử nghiệm cá nhân.",
 				itemDesc: "Mô tả ngắn gọn về dự án: bài toán cần giải quyết, vai trò của bạn và kết quả đạt được.",
@@ -47,7 +47,7 @@
 				cta: { title: "Có dự án muốn hợp tác?", desc: "Tôi luôn sẵn sàng lắng nghe những ý tưởng mới. Hãy để lại lời nhắn cho tôi.", btn: "Liên hệ ngay" }
 			},
 			blog: {
-				pageTitle: "Blog — Tên Của Bạn",
+				pageTitle: "Blog — Shine Tu",
 				eyebrow: "Nhật ký",
 				desc: "Những bài viết về công việc, quá trình sáng tạo và những điều tôi học được trên đường đi."
 			},
@@ -60,20 +60,40 @@
 				btnCV: "Tải CV",
 				story: {
 					title: "Câu chuyện của tôi",
-					p1: "Mọi thứ bắt đầu từ một sự tò mò đơn giản: tôi muốn hiểu vì sao một thiết kế lại khiến người xem cảm thấy được chạm đến. Từ đó, tôi bắt đầu học hỏi, thử nghiệm và dần xây dựng phong cách làm việc của riêng mình trong Graphic Design, Branding, Creative Art và UI Design.",
-					p2: "Ngày nay, với vai trò Art Director, tôi dẫn dắt các đội nhóm sáng tạo để tạo ra những sản phẩm vừa đẹp mắt vừa đúng mục tiêu kinh doanh — cho cả khách hàng Việt Nam lẫn quốc tế."
+					p1: "Hành trình của tôi bắt đầu từ năm 2017, khi tôi nhận những dự án thiết kế tự do đầu tiên — vừa làm, vừa học, vừa tìm ra chất riêng của mình trong từng nét vẽ. Từ những bản phác thảo tay đến các chiến dịch thương hiệu chạy trên mạng xã hội và ngoài trời, tôi dần hiểu rằng thiết kế giỏi không nằm ở kỹ thuật, mà ở khả năng biến một ý tưởng mơ hồ thành hình ảnh khiến người xem phải dừng lại.",
+					p2: "Từ vị trí thiết kế viên tại VCCorp đến vai trò dẫn dắt một nhóm thiết kế tại TopCV Vietnam, tôi học được rằng công việc sáng tạo hay nhất luôn là công việc của một tập thể. Hiện tại, với vai trò Senior Graphic Designer tại FireGroup Technology, tôi vẫn giữ nguyên tinh thần đó: mỗi pixel đặt xuống đều nên kể một câu chuyện, và câu chuyện ấy phải vừa đẹp, vừa đúng mục tiêu kinh doanh."
 				},
 				skills: {
 					title: "Kỹ năng",
-					item1: "Thiết kế đồ hoạ (Graphic Design)", item2: "Xây dựng thương hiệu (Branding)", item3: "Creative Art",
-					item4: "Thiết kế UI", item5: "Chỉ đạo nghệ thuật (Art Direction)", item6: "Chỉ đạo sáng tạo (Creative Direction)"
+					item1: "Thiết kế đồ hoạ (Graphic Design)", item2: "Xây dựng thương hiệu (Branding)", item3: "Vẽ tay (Hand-drawing)",
+					item4: "Thiết kế UI", item5: "Adobe Creative Suite", item6: "Chỉ đạo sáng tạo (Creative Direction)"
 				},
 				experience: {
 					title: "Kinh nghiệm",
 					entry1: {
-						role: "Art Director / Senior Creative Designer",
-						desc: "7 năm kinh nghiệm thiết kế đồ hoạ, xây dựng thương hiệu và chỉ đạo sáng tạo cho các khách hàng trong và ngoài nước như L'Oréal, Nestlé, Toshiba, Abbott, KMS Technology, 247 Express, Masan.",
-						period: "2018 — Hiện tại"
+						role: "Senior Graphic Designer — FireGroup Technology",
+						desc: "Thiết kế đồ hoạ cho các sản phẩm số của công ty, tập trung vào Online Graphics và Image Design.",
+						period: "09/2024 — Hiện tại"
+					},
+					entry2: {
+						role: "Senior Graphic Designer — KMS Technology, Inc. (Hợp đồng)",
+						desc: "Phát triển ý tưởng sáng tạo (Creative Concept Design) trong một dự án ngắn hạn.",
+						period: "03/2024 — 06/2024"
+					},
+					entry3: {
+						role: "Team Leader of Graphic Design — TopCV Vietnam",
+						desc: "Dẫn dắt một nhóm 3 designer từ ý tưởng đến hoàn thiện, quản lý tiến độ - nguồn lực - ngân sách, góp ý chuyên môn và giữ vững chất lượng đồng nhất, đồng thời xây dựng môi trường làm việc sáng tạo và gắn kết cho cả nhóm.",
+						period: "07/2023 — 01/2024"
+					},
+					entry4: {
+						role: "Senior Graphic Designer — VCCorp",
+						desc: "Thiết kế thương hiệu (Branding) cho ứng dụng, bài đăng mạng xã hội (Facebook, Instagram, Email...) và biển quảng cáo ngoài trời (OOH); linh hoạt nhiều phong cách từ pixel, cartoon đến hiện thực để đáp ứng từng nhu cầu dự án.",
+						period: "04/2022 — 2023"
+					},
+					entry5: {
+						role: "Creative Graphic Designer — Freelance",
+						desc: "Nhận các dự án thiết kế tự do về Graphic Design, Branding & Identity cho nhiều khách hàng khác nhau.",
+						period: "Từ 2017"
 					}
 				}
 			},
@@ -105,7 +125,7 @@
 					btnAbout: "About me"
 				},
 				intro: {
-					p1: "With 7 years of experience serving diverse clients across industries, I believe good design starts with listening to the real story behind every brand, then turning it into something clear that truly connects.",
+					p1: "From my first freelance projects back in 2017 to my current role as a Senior Graphic Designer at FireGroup Technology, I believe good design always starts with listening to the real story behind every brand, then turning it into something clear that truly connects.",
 					p2: "Outside of work, I enjoy experimenting with small ideas, writing about what I learn, and sharing it on my personal blog."
 				},
 				card1: { title: "View my work", desc: "Explore the projects I've built and the skills I've developed along the way.", btn: "See more" },
@@ -118,7 +138,7 @@
 				}
 			},
 			portfolio: {
-				pageTitle: "Portfolio — Your Name",
+				pageTitle: "Portfolio — Shine Tu",
 				eyebrow: "My Work",
 				desc: "A collection of projects I've built myself — from design and product development to personal experiments.",
 				itemDesc: "Short project description: the problem you solved, your role, and the outcome.",
@@ -132,7 +152,7 @@
 				cta: { title: "Have a project in mind?", desc: "I'm always happy to hear new ideas. Send me a message.", btn: "Contact me" }
 			},
 			blog: {
-				pageTitle: "Blog — Your Name",
+				pageTitle: "Blog — Shine Tu",
 				eyebrow: "Journal",
 				desc: "Posts about my work, my creative process, and things I learn along the way."
 			},
@@ -145,20 +165,40 @@
 				btnCV: "Download CV",
 				story: {
 					title: "My story",
-					p1: "It all started with a simple curiosity: why does a design make someone feel truly seen? From there, I began learning, experimenting, and gradually building my own way of working across Graphic Design, Branding, Creative Art, and UI Design.",
-					p2: "Today, as an Art Director, I lead creative teams to produce work that's both visually striking and aligned with real business goals — for clients in Vietnam and abroad."
+					p1: "My journey began back in 2017, taking on my first freelance design projects — learning by doing, and slowly finding my own voice in every sketch. From hand-drawn illustrations to branding campaigns running across social media and outdoor billboards, I came to understand that great design isn't about technique alone, but about turning a vague idea into an image that makes people pause.",
+					p2: "From a design role at VCCorp to leading a design team at TopCV Vietnam, I learned that the best creative work is always a team effort. Today, as a Senior Graphic Designer at FireGroup Technology, I carry that same spirit forward: every pixel I place should tell a story — one that's both beautiful and true to the business behind it."
 				},
 				skills: {
 					title: "Skills",
-					item1: "Graphic Design", item2: "Branding", item3: "Creative Art",
-					item4: "UI Design", item5: "Art Direction", item6: "Creative Direction"
+					item1: "Graphic Design", item2: "Branding", item3: "Hand-drawing",
+					item4: "UI Design", item5: "Adobe Creative Suite", item6: "Creative Direction"
 				},
 				experience: {
 					title: "Experience",
 					entry1: {
-						role: "Art Director / Senior Creative Designer",
-						desc: "7 years of experience in graphic design, branding, and creative direction for clients in Vietnam and abroad, including L'Oréal, Nestlé, Toshiba, Abbott, KMS Technology, 247 Express, and Masan.",
-						period: "2018 — Present"
+						role: "Senior Graphic Designer — FireGroup Technology",
+						desc: "Graphic design for the company's digital products, focused on online graphics and image design.",
+						period: "Sep 2024 — Present"
+					},
+					entry2: {
+						role: "Senior Graphic Designer — KMS Technology, Inc. (Contract)",
+						desc: "Creative concept design for a short-term engagement.",
+						period: "Mar 2024 — Jun 2024"
+					},
+					entry3: {
+						role: "Team Leader of Graphic Design — TopCV Vietnam",
+						desc: "Led a team of 3 designers from concept to completion, managing timelines, resources, and budgets, giving feedback to keep quality consistent, and building a collaborative, creative team culture.",
+						period: "Jul 2023 — Jan 2024"
+					},
+					entry4: {
+						role: "Senior Graphic Designer — VCCorp",
+						desc: "Branding design for apps, social media posts (Facebook, Instagram, Email...), and outdoor advertising (OOH); working flexibly across styles from pixel art to cartoon to realistic illustration depending on the project.",
+						period: "Apr 2022 — 2023"
+					},
+					entry5: {
+						role: "Creative Graphic Designer — Freelance",
+						desc: "Freelance graphic design and branding & identity projects for a range of clients.",
+						period: "Since 2017"
 					}
 				}
 			},
