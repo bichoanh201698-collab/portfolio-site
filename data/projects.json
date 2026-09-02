@@ -871,8 +871,8 @@
   {
     "id": "d69dd1b7ad0f",
     "order": 9,
-    "title_vi": "Thiết kế ứng dụng di động Tài chính/Ngân hàng",
-    "title_en": "Finance/Banking Mobile App Design",
+    "title_vi": "Ứng dụng Tài chính - Khám phá UI cá nhân",
+    "title_en": "Finance App - Personal UI Exploration",
     "tag1_vi": "Thiết kế UI/UX",
     "tag1_en": "UI/UX Design",
     "tag2_vi": "Ứng dụng di động",
@@ -1091,8 +1091,8 @@
   {
     "id": "61d86b3e95a2",
     "order": 11,
-    "title_vi": "Vichy Laboratoires",
-    "title_en": "Vichy Laboratoires",
+    "title_vi": "Vichy Laboratoires - Bao bì & Truyền thông khoa học",
+    "title_en": "Vichy Laboratoires - Packaging & Scientific Communications",
     "tag1_vi": "Chăm sóc da",
     "tag1_en": "Skincare",
     "tag2_vi": "Mỹ phẩm dược liệu",
@@ -2244,8 +2244,8 @@
     "tag1_en": "Sketching",
     "tag2_vi": "Cá nhân",
     "tag2_en": "Personal Work",
-    "desc_vi": "Một góc phác thảo cá nhân, từ phong cảnh vẽ mực đến nhân vật minh hoạ, nơi ý tưởng được thử trước khi đưa vào các dự án khác.",
-    "desc_en": "A personal sketching corner, from ink landscapes to character studies, where ideas get tested before they carry into other projects.",
+    "desc_vi": "Tôi giữ một góc phác thảo cá nhân, từ phong cảnh vẽ mực đến nhân vật minh hoạ, nơi ý tưởng được thử trước khi đưa vào các dự án khác.",
+    "desc_en": "I keep a personal sketching corner, from ink landscapes to character studies, where ideas get tested before they carry into other projects.",
     "link": "#",
     "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
     "blocks": [
