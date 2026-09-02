@@ -2187,10 +2187,10 @@
       },
       {
         "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-13.jpg",
-        "caption_vi": "Khung hình poster của video quảng cáo hoạt hình.",
-        "caption_en": "Poster frame from the animated promotional video."
+        "type": "video",
+        "src": "/assets/uploads/19-tb-mouthwash-ad-video.mp4",
+        "caption_vi": "Video quảng cáo hoạt hình.",
+        "caption_en": "The animated promotional video."
       },
       {
         "id": "b3",
@@ -2822,38 +2822,38 @@
       },
       {
         "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/25-helen-harper-video-poster-30.jpg",
-        "caption_vi": "Khung hình từ video reel quảng bá.",
-        "caption_en": "Frame from a promotional video reel."
+        "type": "video",
+        "src": "/assets/uploads/25-helen-harper-video-1.mp4",
+        "caption_vi": "Video reel quảng bá.",
+        "caption_en": "Promotional video reel."
       },
       {
         "id": "b13",
-        "type": "image",
-        "src": "/assets/uploads/25-helen-harper-video-poster-31.jpg",
-        "caption_vi": "Khung hình từ video reel quảng bá.",
-        "caption_en": "Frame from a promotional video reel."
+        "type": "video",
+        "src": "/assets/uploads/25-helen-harper-video-2.mp4",
+        "caption_vi": "Video reel quảng bá.",
+        "caption_en": "Promotional video reel."
       },
       {
         "id": "b14",
-        "type": "image",
-        "src": "/assets/uploads/25-helen-harper-video-poster-32.jpg",
-        "caption_vi": "Khung hình từ video reel quảng bá.",
-        "caption_en": "Frame from a promotional video reel."
+        "type": "video",
+        "src": "/assets/uploads/25-helen-harper-video-3.mp4",
+        "caption_vi": "Video reel quảng bá.",
+        "caption_en": "Promotional video reel."
       },
       {
         "id": "b15",
-        "type": "image",
-        "src": "/assets/uploads/25-helen-harper-video-poster-33.jpg",
-        "caption_vi": "Khung hình từ video reel quảng bá.",
-        "caption_en": "Frame from a promotional video reel."
+        "type": "video",
+        "src": "/assets/uploads/25-helen-harper-video-4.mp4",
+        "caption_vi": "Video reel quảng bá.",
+        "caption_en": "Promotional video reel."
       },
       {
         "id": "b16",
-        "type": "image",
-        "src": "/assets/uploads/25-helen-harper-video-poster-34.jpg",
-        "caption_vi": "Khung hình từ video reel quảng bá.",
-        "caption_en": "Frame from a promotional video reel."
+        "type": "video",
+        "src": "/assets/uploads/25-helen-harper-video-5.mp4",
+        "caption_vi": "Video reel quảng bá.",
+        "caption_en": "Promotional video reel."
       },
       {
         "id": "b17",
@@ -3014,10 +3014,17 @@
       },
       {
         "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-30.jpg",
-        "caption_vi": "Khung hình từ video chiến dịch.",
-        "caption_en": "Frame from a campaign video."
+        "type": "video",
+        "src": "/assets/uploads/26-win-store-video-1.mp4",
+        "caption_vi": "Video chiến dịch.",
+        "caption_en": "Campaign video."
+      },
+      {
+        "id": "b4b",
+        "type": "video",
+        "src": "/assets/uploads/26-win-store-video-3.mp4",
+        "caption_vi": "Video chiến dịch.",
+        "caption_en": "Campaign video."
       },
       {
         "id": "b5",
@@ -3119,10 +3126,10 @@
       },
       {
         "id": "b19",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-32.jpg",
-        "caption_vi": "Khung hình từ video chiến dịch.",
-        "caption_en": "Frame from a campaign video."
+        "type": "video",
+        "src": "/assets/uploads/26-win-store-video-2.mp4",
+        "caption_vi": "Video chiến dịch.",
+        "caption_en": "Campaign video."
       },
       {
         "id": "b20",

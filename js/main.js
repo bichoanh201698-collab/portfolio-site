@@ -7,8 +7,7 @@
 			lang: { groupLabel: "Chọn ngôn ngữ" },
 			menu: { toggleLabel: "Mở menu" },
 			footer: {
-				copyright: "© 2026 Shine Tu",
-				themeCredit: "Thiết kế dựa trên theme <a href=\"https://andersnoren.se/themes/bjork/\" target=\"_blank\" rel=\"noopener\">Björk</a> của Anders Norén"
+				copyright: "© 2026 Shine Tu"
 			},
 			home: {
 				pageTitle: "Trang chủ — Shine Tu",
@@ -137,8 +136,7 @@
 			lang: { groupLabel: "Select language" },
 			menu: { toggleLabel: "Open menu" },
 			footer: {
-				copyright: "© 2026 Shine Tu",
-				themeCredit: "Design based on the <a href=\"https://andersnoren.se/themes/bjork/\" target=\"_blank\" rel=\"noopener\">Björk</a> theme by Anders Norén"
+				copyright: "© 2026 Shine Tu"
 			},
 			home: {
 				pageTitle: "Home — Shine Tu",
