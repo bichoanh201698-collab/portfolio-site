@@ -57,7 +57,7 @@
     "tag1_en": "Key Visual",
     "tag2_vi": "Giải trí & Du lịch",
     "tag2_en": "Entertainment & Tourism",
-    "desc_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái trải nghiệm giải trí đa dạng của thương hiệu vào một hình ảnh chiến dịch duy nhất.",
+    "desc_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái vui chơi và giải trí đa dạng của thương hiệu thành một hình ảnh chiến dịch giàu năng lượng.",
     "desc_en": "Developed the key visual direction for a VinWonders campaign pitch, translating the destination's broad entertainment offering into a single energetic visual proposition.",
     "link": "#",
     "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg",
@@ -65,20 +65,14 @@
       {
         "id": "p1",
         "type": "text",
-        "text_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái trải nghiệm giải trí đa dạng của thương hiệu vào một hình ảnh chiến dịch duy nhất.",
+        "text_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái vui chơi và giải trí đa dạng của thương hiệu thành một hình ảnh chiến dịch giàu năng lượng.",
         "text_en": "Developed the key visual direction for a VinWonders campaign pitch, translating the destination's broad entertainment offering into a single energetic visual proposition."
       },
       {
         "id": "p2",
         "type": "text",
-        "text_vi": "Concept tập trung vào cách kết hợp nhiều trải nghiệm, điểm đến và khoảnh khắc cảm xúc trong cùng một master composition nhưng vẫn giữ được hierarchy và khả năng đọc rõ như một campaign visual.",
-        "text_en": "The concept explored how multiple experiences, attractions and emotional moments could coexist within one master composition while still reading clearly as a campaign image."
-      },
-      {
-        "id": "p3",
-        "type": "text",
-        "text_vi": "Proposal không được lựa chọn sau vòng pitching, vì vậy phần được trình bày trong portfolio là quá trình phát triển visual concept và key visual, không phải một campaign đã được triển khai thực tế.",
-        "text_en": "The proposal did not progress beyond the pitching stage, so the work presented here represents the visual concept and key visual development rather than a launched campaign."
+        "text_vi": "Concept kết hợp nhiều điểm đến, trải nghiệm và khoảnh khắc cảm xúc trong cùng một master composition, vừa truyền tải được quy mô và sự sôi động của VinWonders, vừa giữ hierarchy rõ ràng. Tôi phụ trách phát triển visual direction và key visual execution để hiện thực hóa campaign idea thành một hướng hình ảnh có khả năng mở rộng trên các điểm chạm truyền thông.",
+        "text_en": "The concept brought multiple attractions, experiences and emotional moments into one master composition, balancing a sense of scale and excitement with a clear visual hierarchy. I developed the visual direction and key visual execution to demonstrate how the campaign idea could come to life across VinWonders' communication."
       },
       {
         "id": "b3",
@@ -1085,16 +1079,16 @@
     "tag1_en": "Skincare",
     "tag2_vi": "Mỹ phẩm dược liệu",
     "tag2_en": "Dermocosmetics",
-    "desc_vi": "Trong giai đoạn đầu sự nghiệp agency, tôi phụ trách trực tiếp phần thiết kế cho các campaign và hoạt động promotion của Vichy, một trong hai thương hiệu dermocosmetic thuộc L'Oréal nằm trong scope công việc của tôi lúc đó.",
-    "desc_en": "Early in my agency career, I was responsible for the day-to-day visual execution of campaigns and promotional communication for Vichy, one of the two L'Oréal dermocosmetic brands under my scope at the time.",
+    "desc_vi": "Tôi phụ trách trực tiếp phần thiết kế cho các campaign và hoạt động promotion của Vichy, một trong hai thương hiệu dermocosmetic thuộc L'Oréal nằm trong scope công việc của tôi.",
+    "desc_en": "I was responsible for the day-to-day visual execution of campaigns and promotional communication for Vichy, one of the two L'Oréal dermocosmetic brands under my scope.",
     "link": "#",
     "image": "/assets/uploads/11-vichy-laboratoires.jpg",
     "blocks": [
       {
         "id": "p1",
         "type": "text",
-        "text_vi": "Trong giai đoạn đầu sự nghiệp agency, tôi phụ trách trực tiếp phần thiết kế cho các campaign và hoạt động promotion của Vichy, một trong hai thương hiệu dermocosmetic thuộc L'Oréal nằm trong scope công việc của tôi lúc đó.",
-        "text_en": "Early in my agency career, I was responsible for the day-to-day visual execution of campaigns and promotional communication for Vichy, one of the two L'Oréal dermocosmetic brands under my scope at the time."
+        "text_vi": "Tôi phụ trách trực tiếp phần thiết kế cho các campaign và hoạt động promotion của Vichy, một trong hai thương hiệu dermocosmetic thuộc L'Oréal nằm trong scope công việc của tôi.",
+        "text_en": "I was responsible for the day-to-day visual execution of campaigns and promotional communication for Vichy, one of the two L'Oréal dermocosmetic brands under my scope."
       },
       {
         "id": "p2",
@@ -2335,16 +2329,16 @@
     "tag1_en": "Skincare",
     "tag2_vi": "Dược mỹ phẩm",
     "tag2_en": "Pharmacy Brand",
-    "desc_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal ở giai đoạn đầu sự nghiệp.",
-    "desc_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account during the early stage of my career.",
+    "desc_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal.",
+    "desc_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account.",
     "link": "#",
     "image": "/assets/uploads/21-la-roche-posay.png",
     "blocks": [
       {
         "id": "p1",
         "type": "text",
-        "text_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal ở giai đoạn đầu sự nghiệp.",
-        "text_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account during the early stage of my career."
+        "text_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal.",
+        "text_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account."
       },
       {
         "id": "p2",
