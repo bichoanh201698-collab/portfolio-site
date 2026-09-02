@@ -927,8 +927,8 @@
       {
         "id": "b3",
         "type": "text",
-        "text_vi": "Logo cần truyền tải được sự hiện đại, đổi mới và đáng tin cậy, trước khi công ty có một hệ thống nhận diện hoàn chỉnh.",
-        "text_en": "The logo needed to read as modern, innovative and reliable, ahead of the company having a complete identity system."
+        "text_vi": "Trước khi có một hệ thống nhận diện hoàn chỉnh, công ty cần một logo đọc được ngay là một doanh nghiệp công nghệ đáng tin cậy.",
+        "text_en": "Ahead of having a complete identity system, the company needed a logo that read immediately as a trustworthy technology business."
       },
       {
         "id": "b4",
@@ -939,8 +939,8 @@
       {
         "id": "b5",
         "type": "text",
-        "text_vi": "Màu xanh dương đậm (HEX 1971B9) gợi bầu trời, nơi đám mây ở, thể hiện sự tin cậy và chuyên nghiệp, đi cùng đen và trắng để giữ độ tương phản trên nhiều chất liệu.",
-        "text_en": "A bold blue (HEX 1971B9) evokes the sky, where clouds sit, reading as trust and professionalism, paired with black and white to hold contrast across materials."
+        "text_vi": "Màu xanh dương đậm (HEX 1971B9) gợi bầu trời, nơi đám mây ở, đi cùng đen và trắng để giữ độ tương phản trên nhiều chất liệu.",
+        "text_en": "A bold blue (HEX 1971B9) evokes the sky, where clouds sit, paired with black and white to hold contrast across materials."
       },
       {
         "id": "b6",
@@ -1300,21 +1300,21 @@
     "id": "b0dc3d5c5fb3",
     "order": 12,
     "title_vi": "Bộ sưu tập Làm đẹp & Phòng khám",
-    "title_en": "Beauty & Clinic collection",
+    "title_en": "Beauty & Clinic Collection",
     "tag1_vi": "Thiết kế mạng xã hội",
     "tag1_en": "Social Media Design",
     "tag2_vi": "Làm đẹp",
     "tag2_en": "Beauty & Clinic",
-    "desc_vi": "Bộ sưu tập thiết kế bài đăng mạng xã hội (2019–2022) cho các thương hiệu làm đẹp và phòng khám — The Han, Sian Skin Clinic và Bến Thành Clinic — trải rộng từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa.",
-    "desc_en": "A curated collection of social media post designs (2019–2022) for beauty and clinic brands — The Han, Sian Skin Clinic, and Ben Thanh Clinic — spanning skincare, cosmetics, and medical treatments.",
+    "desc_vi": "Bộ sưu tập bài đăng mạng xã hội (2019 - 2022) cho ba thương hiệu làm đẹp và phòng khám: The Han, Sian Skin Clinic, Bến Thành Clinic. Tôi đổi hệ màu theo từng thương hiệu, đỏ vàng ánh kim cho Sian, be nâu ấm cho The Han, trong khi giữ chung một cấu trúc bố cục xuyên suốt ba năm.",
+    "desc_en": "A collection of social media posts (2019-2022) for three beauty and clinic brands: The Han, Sian Skin Clinic, Ben Thanh Clinic. I switched the color system by brand, red and metallic gold for Sian, warm beige and brown for The Han, while keeping one shared layout structure across three years.",
     "link": "#",
     "image": "/assets/uploads/12-beauty-clinic-collection.jpg",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Thiết kế bài đăng mạng xã hội cho các thương hiệu làm đẹp và phòng khám trong giai đoạn 2019–2022 — The Han, Sian Skin Clinic và Bến Thành Clinic — trải rộng từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa trên kênh mạng xã hội của từng thương hiệu.",
-        "text_en": "Social media post designs for beauty and clinic brands between 2019 and 2022 — The Han, Sian Skin Clinic and Ben Thanh Clinic — covering skincare, cosmetics and medical treatments across each brand's social channels."
+        "text_vi": "Bộ sưu tập bài đăng mạng xã hội (2019 - 2022) cho ba thương hiệu làm đẹp và phòng khám khác nhau: The Han, Sian Skin Clinic, Bến Thành Clinic. Tôi đổi hệ màu theo từng thương hiệu: đỏ và vàng ánh kim cho ưu đãi cao cấp của Sian, be và nâu ấm cho bảng giá và nội dung dưỡng da của The Han, trong khi vẫn giữ chung một cấu trúc bố cục, tiêu đề lớn, ảnh sản phẩm hoặc mẫu, logo cố định một góc. Khung đó lặp lại xuyên suốt ba năm, trải từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa trên kênh mạng xã hội của từng thương hiệu.",
+        "text_en": "A collection of social media posts (2019-2022) for three different beauty and clinic brands: The Han, Sian Skin Clinic, Ben Thanh Clinic. I switched the color system by brand: red and metallic gold for Sian's premium promotions, warm beige and brown for The Han's price lists and skincare content, while keeping one shared layout structure, a large headline, a product or model shot, the logo fixed in one corner. That structure repeated across three years, spanning skincare, cosmetics and medical treatments across each brand's social channels."
       },
       {
         "id": "b2",
@@ -1411,34 +1411,34 @@
     "tag1_en": "Branding",
     "tag2_vi": "Freelance",
     "tag2_en": "Freelance",
-    "desc_vi": "Dự án freelance phát triển hình ảnh thương hiệu cho Shuyi khi mở rộng vào thị trường Việt Nam, nằm trong quá trình phát triển ra ngoài hệ thống 7.000 cửa hàng gốc tại Trung Quốc.",
-    "desc_en": "Freelance visual identity work for Shuyi's expansion into the Vietnamese market, part of the brand's rollout beyond its original 7,000 stores in China.",
+    "desc_vi": "Shuyi, tiền thân là 85°Tea, mở rộng từ hệ thống 7.000 cửa hàng gốc tại Trung Quốc sang thị trường Việt Nam. Tôi giữ nguyên linh vật thỏ đỏ có cánh xuyên suốt các ấn phẩm tiếng Việt, từ minh họa hero đến sticker mùa lễ, đặt cạnh ảnh người mẫu thật ở các bài khuyến mãi.",
+    "desc_en": "Shuyi, formerly 85°Tea, expanded from its original 7,000-store network in China into the Vietnamese market. I kept the winged red rabbit mascot constant across the Vietnamese-market materials, from hero illustrations to holiday stickers, paired with real model photography in promotional posts.",
     "link": "https://www.shuyisxc.com/",
     "image": "/assets/uploads/13-shuyi-vietnam.jpg",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Tổng quan thương hiệu: Shuyi — 7000 cửa hàng trên toàn quốc.",
-        "text_en": "Brand Overview: Shuyi: 7000 stores nationwide"
+        "text_vi": "Shuyi, tiền thân là 85°Tea, phát triển từ một cửa hàng ở Trung Quốc thành chuỗi 7.000 cửa hàng trước khi mở rộng sang thị trường Việt Nam.",
+        "text_en": "Shuyi, formerly 85°Tea, grew from one store in China into a chain of 7,000 before expanding into the Vietnamese market."
       },
       {
         "id": "b2",
         "type": "text",
-        "text_vi": "Từ năm 2007 đến 2023, Shuyi đã phát triển từ một cửa hàng lên đến 7000 cửa hàng trên toàn quốc. Thương hiệu chuyển mình từ 85°Tea thành Shuyi, biểu trưng cho sự chuyển đổi từ khởi nghiệp đơn lẻ sang khởi nghiệp tập thể. Với cam kết bền vững về chất lượng và đổi mới, Shuyi hướng đến mang lại trải nghiệm mới mẻ về đồ uống trà lành mạnh cho lối sống hiện đại.",
-        "text_en": "From 2007 to 2023, Shuyi grew from one store to 7000 nationwide. It evolved from 85°Tea to Shuyi, symbolizing a transition from solo to collective entrepreneurship. With a steadfast commitment to quality and innovation, Shuyi aims to provide a fresh experience of healthy tea drinks for modern lifestyles."
+        "text_vi": "Tôi giữ nguyên linh vật thương hiệu, một chú thỏ đỏ có cánh và sừng rồng ôm ly trà sữa, xuyên suốt các ấn phẩm tiếng Việt: từ minh họa hero trên nền núi mây kiểu tranh Trung Hoa, đến bộ sticker mùa lễ như quả cầu tuyết Giáng sinh và thiệp chúc năm mới, luôn đặt cạnh icon đầu thỏ và chữ SHUYI ở góc trên trái.",
+        "text_en": "I kept the brand mascot constant, a winged red rabbit with dragon horns holding a milk tea cup, running through the Vietnamese-market materials: from a hero illustration set against a Chinese landscape-painting backdrop, to a holiday sticker pack such as a Christmas snow globe and a New Year card, always paired with the bunny-head icon and SHUYI wordmark in the top left."
       },
       {
         "id": "b3",
         "type": "text",
-        "text_vi": "Năm 2022, thương hiệu nhận được khoản đầu tư gần 1 tỷ nhân dân tệ, củng cố vị thế dẫn đầu trong ngành. Ngày nay, với tám chi nhánh, năm văn phòng và hàng nghìn đối tác nhượng quyền, Shuyi Burnt Grass là một nền tảng khởi nghiệp đang phát triển mạnh mẽ.",
-        "text_en": "In 2022, it secured nearly 1 billion yuan investment, consolidating its leadership position in the industry. Today, with eight branches, five offices, and thousands of franchise partners, Shuyi Burnt Grass stands as a thriving entrepreneurial platform."
+        "text_vi": "Ở các bài đăng khuyến mãi, linh vật minh họa xuất hiện cạnh ảnh người mẫu thật cùng cầm ly nước, tiêu đề tiếng Việt viết theo giọng gần gũi, hướng đến người tiêu dùng trẻ tại thị trường mới.",
+        "text_en": "In promotional posts, the illustrated mascot sits beside a real model holding the same drink, Vietnamese headlines written in a casual, approachable tone aimed at younger consumers in the new market."
       },
       {
         "id": "b4",
         "type": "text",
-        "text_vi": "Đảm nhận vai trò nhà thiết kế freelance cho Shuyi tại thị trường Việt Nam, phụ trách xây dựng bản sắc thị giác cho sự hiện diện của thương hiệu trong giai đoạn mở rộng.",
-        "text_en": "Worked as a freelance designer on Shuyi's presence in the Vietnamese market, developing the visual identity for the brand's local expansion."
+        "text_vi": "Đảm nhận vai trò nhà thiết kế freelance cho Shuyi tại Việt Nam trong giai đoạn thương hiệu mở rộng ra ngoài hệ thống cửa hàng gốc, giữ đúng một linh vật, một bảng màu, dù đổi giọng nói theo văn hóa từng vùng.",
+        "text_en": "Worked as a freelance designer on Shuyi in Vietnam during the brand's expansion beyond its original store network, keeping one mascot and one color palette even as the voice shifted for a new audience."
       },
       {
         "id": "b5",
@@ -1621,13 +1621,13 @@
     "id": "4933a28f3512",
     "order": 14,
     "title_vi": "Thiết kế UI/UX trang tuyển dụng KMS",
-    "title_en": "UI/UX KMS Career Landing Page Design",
+    "title_en": "KMS Career Landing Page: UI/UX Design",
     "tag1_vi": "Thiết kế UI/UX",
     "tag1_en": "UI/UX Design",
     "tag2_vi": "Landing Page",
     "tag2_en": "Landing Page",
-    "desc_vi": "Thiết kế UI/UX cho trang landing page tuyển dụng của KMS Technology — xem case study đầy đủ trên Behance.",
-    "desc_en": "Designed the UI/UX for KMS Technology's career landing page — see the full case study on Behance.",
+    "desc_vi": "Dự án cá nhân thiết kế lại trang tuyển dụng của KMS Technology. Tôi sửa thanh điều hướng từ nhãn sai chính tả và trạng thái active không nhất quán, thành một hệ thống rõ ràng: Careers Home, các mục theo từng nhóm ứng viên, nút All Jobs nổi bật riêng. Xem toàn bộ case study trên Behance.",
+    "desc_en": "A personal redesign of KMS Technology's career landing page. I fixed the navigation bar from a misspelled label and inconsistent active states into one clear system: Careers Home, sections grouped by candidate type, and a standalone All Jobs button. See the full case study on Behance.",
     "link": "https://www.behance.net/gallery/203505649/UIUX-KMS-Career-Landing-Page-Design",
     "image": "/assets/uploads/14-uiux-kms-career-landing-page.png",
     "blocks": [
