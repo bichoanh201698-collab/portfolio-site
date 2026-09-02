@@ -877,8 +877,8 @@
     "tag1_en": "UI/UX Design",
     "tag2_vi": "Ứng dụng di động",
     "tag2_en": "Mobile App",
-    "desc_vi": "Dự án khám phá UI cá nhân cho ứng dụng tài chính/ngân hàng, thể hiện màn hình cho toàn bộ luồng sử dụng — xem bản đầy đủ trên Behance.",
-    "desc_en": "A personal UI exploration for a finance/banking app, covering screens for the full user flow — see the complete prototype on Behance.",
+    "desc_vi": "Dự án khám phá UI cá nhân cho ứng dụng tài chính, không gắn với client cụ thể. Tôi giữ một nền gradient xanh lá đậm cuộn xoáy làm điểm neo cho số dư và hàng nút thao tác nhanh, lặp lại từ màn hình chủ đến màn hình giao dịch crypto, rồi nối tiếp bằng các widget chi tiêu và tài sản bên dưới. Xem toàn bộ luồng màn hình trên Behance.",
+    "desc_en": "A personal UI exploration for a finance app, not tied to a real client. I kept one dark green swirling gradient as the anchor for the balance and quick-action row, repeated from the home screen to the crypto trading screen, followed by spend and wealth widgets stacked below. See the full screen flow on Behance.",
     "link": "https://www.behance.net/gallery/203515273/FinanceBanking-Mobile-App-Design",
     "image": "/assets/uploads/09-finance-banking-mobile-app-design.png",
     "blocks": [
@@ -901,64 +901,64 @@
   {
     "id": "93de9a929181",
     "order": 10,
-    "title_vi": "云译 - Bộ hướng dẫn Logo",
+    "title_vi": "云译: Bộ hướng dẫn Logo",
     "title_en": "云译 Logo Guidelines",
     "tag1_vi": "Thiết kế Logo",
     "tag1_en": "Logo Design",
     "tag2_vi": "Bộ nhận diện",
     "tag2_en": "Brand Guidelines",
-    "desc_vi": "Thiết kế logo cho 云译 — công ty dịch thuật tiếng Trung — kết hợp thẩm mỹ hiện đại với thư pháp truyền thống Trung Hoa, sử dụng tông xanh dương đậm thể hiện sự tin cậy và chuyên nghiệp.",
-    "desc_en": "Designed the logo for 云译, a Chinese translation company, blending modern aesthetics with traditional Chinese calligraphy in a bold blue that conveys trust and professionalism.",
+    "desc_vi": "云译 là công ty dịch thuật tiếng Trung, tên gọi mang nghĩa Dịch Thuật Đám Mây, lấy cảm hứng từ điện toán đám mây. Tôi dựng chữ 云译 theo lối thư pháp giữ nguyên nét cọ thật, đặt dưới biểu tượng đám mây cách điệu, dùng xanh dương đậm làm màu chủ đạo, cùng một bộ quy định vùng an toàn và cách phối màu để logo đọc đúng trên mọi ấn phẩm.",
+    "desc_en": "云译 is a Chinese translation company whose name means Cloud Translation, inspired by cloud computing. I built the 云译 mark in a calligraphic script that keeps the brush's real texture, set under a stylized cloud icon, in a bold blue as the lead color, with a set of clear-space and color-pairing rules keeping the logo legible across every application.",
     "link": "#",
     "image": "/assets/uploads/10-yunyi-logo-guidelines.png",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Thiết kế logo cho một công ty dịch thuật tiếng Trung có tên 云译, nghĩa là \"Dịch thuật Đám mây\".",
-        "text_en": "Designed a logo for a Chinese translation company named 云译, meaning 'Cloud Translation'."
+        "text_vi": "云译 là công ty dịch thuật tiếng Trung, tên gọi mang nghĩa Dịch Thuật Đám Mây.",
+        "text_en": "云译 is a Chinese translation company, its name meaning Cloud Translation."
       },
       {
         "id": "b2",
         "type": "text",
-        "text_vi": "Cái tên được lấy cảm hứng từ khái niệm điện toán đám mây, nơi dữ liệu được lưu trữ và xử lý trên các máy chủ từ xa, thay vì trên máy chủ tại chỗ.",
-        "text_en": "The name was inspired by the concept of cloud computing, where data is stored and processed on remote servers, as opposed to on-premise servers."
+        "text_vi": "Cái tên lấy cảm hứng từ điện toán đám mây, nơi dữ liệu được lưu trữ và xử lý trên máy chủ từ xa thay vì tại chỗ.",
+        "text_en": "The name draws on cloud computing, where data is stored and processed on remote servers rather than on-premise."
       },
       {
         "id": "b3",
         "type": "text",
-        "text_vi": "Khách hàng mong muốn một logo truyền tải được sự hiện đại, đổi mới và đáng tin cậy.",
-        "text_en": "The client wanted a logo that would convey a sense of modernity, innovation, and reliability."
+        "text_vi": "Logo cần truyền tải được sự hiện đại, đổi mới và đáng tin cậy, trước khi công ty có một hệ thống nhận diện hoàn chỉnh.",
+        "text_en": "The logo needed to read as modern, innovative and reliable, ahead of the company having a complete identity system."
       },
       {
         "id": "b4",
         "type": "text",
-        "text_vi": "Logo kết hợp thẩm mỹ hiện đại với thư pháp truyền thống Trung Hoa, dựa trên nghiên cứu về kiểu chữ và các yếu tố thiết kế truyền thống.",
-        "text_en": "The logo combines modern aesthetics with traditional Chinese calligraphy, drawing on research into Chinese typography and traditional design elements."
+        "text_vi": "Tôi dựng chữ 云译 theo lối thư pháp Trung Hoa, giữ lại nét cọ thật, chỗ mực đậm nhạt và vệt sờn tự nhiên, thay vì vẽ lại bằng đường cong vector sạch sẽ, rồi đặt bên dưới một biểu tượng đám mây cách điệu.",
+        "text_en": "I built the 云译 mark in traditional Chinese calligraphy, keeping the brush's real strokes, the uneven ink weight and natural wear, rather than redrawing it in clean vector curves, then set it under a stylized cloud icon."
       },
       {
         "id": "b5",
         "type": "text",
-        "text_vi": "Màu xanh dương đậm đại diện cho sự tin cậy, tính chuyên nghiệp và bầu trời — thường được liên tưởng đến đám mây.",
-        "text_en": "The bold blue represents trust, professionalism and the sky, commonly associated with clouds."
+        "text_vi": "Màu xanh dương đậm (HEX 1971B9) gợi bầu trời, nơi đám mây ở, thể hiện sự tin cậy và chuyên nghiệp, đi cùng đen và trắng để giữ độ tương phản trên nhiều chất liệu.",
+        "text_en": "A bold blue (HEX 1971B9) evokes the sky, where clouds sit, reading as trust and professionalism, paired with black and white to hold contrast across materials."
       },
       {
         "id": "b6",
         "type": "text",
-        "text_vi": "Logo có hình dạng đám mây cách điệu với tên công ty được viết bằng chữ thư pháp bên dưới.",
-        "text_en": "The logo features a stylized cloud shape with the company name written in calligraphic script underneath it."
+        "text_vi": "Logo hoàn chỉnh gồm biểu tượng đám mây phía trên, tên công ty viết bằng thư pháp phía dưới.",
+        "text_en": "The finished mark pairs the cloud icon above with the company name in calligraphic script below."
       },
       {
         "id": "b7",
         "type": "text",
-        "text_vi": "Bàn giao để sử dụng trên website, danh thiếp và các ấn phẩm thương hiệu khác của khách hàng.",
-        "text_en": "Delivered for use across the client's website, business cards and other brand materials."
+        "text_vi": "Bàn giao để sử dụng trên website, danh thiếp, và các ấn phẩm thương hiệu khác, kể cả áo đồng phục in trực tiếp nét thư pháp màu xanh lên nền trắng.",
+        "text_en": "Delivered for use across the website, business cards and other brand materials, including staff t-shirts printed with the blue calligraphy directly on white."
       },
       {
         "id": "b8",
         "type": "text",
-        "text_vi": "Logo là một phần trong bộ hướng dẫn sử dụng ngắn gọn, quy định về màu sắc, khoảng cách an toàn và cách áp dụng trên các ấn phẩm của công ty.",
-        "text_en": "The logo is part of a short guideline set covering color, clear space and usage across the company's materials."
+        "text_vi": "Bộ hướng dẫn ngắn gọn đi kèm quy định vùng an toàn 10mm quanh logo, không cho bất kỳ chữ hay hình nào chen vào khoảng cách đó, cùng cách phối màu trên nền sáng và nền tối, giữ logo đọc đúng dù xuất hiện ở đâu.",
+        "text_en": "A short guideline set defines a 10mm clear space around the logo, off-limits to any type or graphic, along with color pairings for light and dark backgrounds, keeping the mark legible wherever it appears."
       },
       {
         "id": "b9",
@@ -1097,34 +1097,34 @@
     "tag1_en": "Skincare",
     "tag2_vi": "Mỹ phẩm dược liệu",
     "tag2_en": "Dermocosmetics",
-    "desc_vi": "Thực hiện thiết kế hình ảnh cho Vichy (L'Oréal) — thương hiệu tiên phong khái niệm mỹ phẩm dược liệu (dermocosmetics) từ năm 1931, với hơn 80 năm nghiên cứu chuyên sâu về chăm sóc da.",
-    "desc_en": "Visual design work for Vichy (L'Oréal), the brand that pioneered dermocosmetics in 1931, continuing over 80 years of advanced skincare research.",
+    "desc_vi": "Vichy (L'Oréal) khai sinh khái niệm mỹ phẩm dược liệu từ năm 1931. Công việc tại Việt Nam trải từ bao bì quà Tết đến ấn phẩm khoa học cho từng dòng sản phẩm. Tôi giữ một họa tiết mây vàng lặp lại trên bộ hộp quà theo mùa, và dựng lại dữ liệu lab thành hình ảnh dễ đọc, ví dụ mức giảm 62% đốm thâm sau 8 tuần.",
+    "desc_en": "Vichy (L'Oréal) invented the concept of dermocosmetics in 1931. Work for the Vietnam market spans seasonal Tet packaging to scientific pieces for individual product lines. I kept one gold cloud pattern repeating across the seasonal gift boxes, and turned lab data into a readable visual, such as a 62% reduction in dark spots after 8 weeks.",
     "link": "#",
     "image": "/assets/uploads/11-vichy-laboratoires.jpg",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Thực hiện thiết kế hình ảnh cho Vichy (L'Oréal). Vichy khai sinh khái niệm mỹ phẩm dược liệu (dermocosmetics) vào năm 1931 và duy trì hơn 80 năm nghiên cứu chuyên sâu, tiếp nối di sản của người sáng lập — Bác sĩ Haller.",
-        "text_en": "Visual design work for Vichy (L'Oréal). Vichy invented the concept of dermocosmetics in 1931 and has continued over 80 years of research since, building on the legacy of its founder, Dr Haller."
+        "text_vi": "Vichy (L'Oréal) khai sinh khái niệm mỹ phẩm dược liệu (dermocosmetics) từ năm 1931, tiếp nối hơn 80 năm nghiên cứu về chăm sóc da. Công việc tại Việt Nam trải dài từ bao bì quà tặng theo mùa, chiến dịch hợp tác với nhà bán lẻ, đến ấn phẩm truyền thông khoa học cho từng dòng sản phẩm.",
+        "text_en": "Vichy (L'Oréal) invented the concept of dermocosmetics in 1931, continuing more than 80 years of skincare research since. Work for the Vietnam market spans seasonal gift packaging, retailer collaboration campaigns, and scientific communication pieces for individual product lines."
       },
       {
         "id": "b2",
         "type": "text",
-        "text_vi": "Thương hiệu mang đến các giải pháp được thiết kế phù hợp với nhiều lối sống và loại da khác nhau, đồng hành cùng phụ nữ qua từng giai đoạn cuộc đời.",
-        "text_en": "It offers solutions designed for different lifestyles and skin types, accompanying women throughout each stage of their life."
+        "text_vi": "Cho bộ quà Tết, tôi giữ một họa tiết mây cách điệu màu vàng trên nền xanh dương đậm, lặp lại đúng vị trí và tỷ lệ trên cả ba cỡ hộp, để khi xếp cạnh nhau trên kệ, chúng đọc được như một bộ chứ không phải ba sản phẩm rời.",
+        "text_en": "For the Tet gift set, I kept one stylized gold cloud pattern on a deep teal ground, repeating it at the same position and scale across all three box sizes, so that lined up on a shelf, they read as one set rather than three separate products."
       },
       {
         "id": "b3",
         "type": "text",
-        "text_vi": "Các công thức độc đáo của Vichy kết hợp nước khoáng suối nóng giàu khoáng chất với các thành phần da liễu nổi tiếng, được lựa chọn riêng cho từng nhu cầu của làn da.",
-        "text_en": "Vichy's unique formulations combine mineral rich thermal spa water with renowned dermatological ingredients selected for each individual skin need."
+        "text_vi": "Với các ấn phẩm khoa học như Normaderm Phytosolution, hình ảnh macro của kết cấu sản phẩm (dạng gel xanh, bọt trắng, tinh chất cam) được xếp thành dải màu song song với biểu đồ số liệu thật, ví dụ mức giảm 62% đốm thâm sau mụn trong 8 tuần trên 50 người tham gia thử nghiệm, chuyển dữ liệu phòng lab thành hình ảnh dễ đọc cho người tiêu dùng.",
+        "text_en": "For scientific pieces like Normaderm Phytosolution, macro shots of the formula's texture (green gel, white foam, orange extract) are arranged into parallel color strips alongside a real data chart, a 62% reduction in post-acne dark spots after 8 weeks across 50 trial participants, turning lab data into something a consumer can read at a glance."
       },
       {
         "id": "b4",
         "type": "text",
-        "text_vi": "Tin vào sức khỏe nghĩa là nhìn nhận làn da theo một cách riêng biệt. Vichy tin rằng sức khỏe là con đường hiệu quả, an toàn và tiên tiến nhất để đạt được vẻ đẹp bền vững, và vẻ đẹp thực sự bắt nguồn từ một làn da khỏe mạnh.",
-        "text_en": "Believing in health, means looking at skin in a unique way. They believe that health is the most effective, secure and advanced path to sustainable beauty and that true beauty stems from healthy-looking skin."
+        "text_vi": "Cùng một hệ thống màu theo dòng sản phẩm và cách đặt logo giữ nguyên qua từng chiến dịch hợp tác nhà bán lẻ như Watsons, giúp mọi điểm chạm, dù đối tác hay định dạng nào, vẫn nhận ra ngay là Vichy.",
+        "text_en": "The same color system by product line and logo placement carries through each retailer collaboration, such as the Watsons anniversary campaign, so every touchpoint, whatever the partner or format, still reads immediately as Vichy."
       },
       {
         "id": "b5",
