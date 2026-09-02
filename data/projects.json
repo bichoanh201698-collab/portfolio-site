@@ -3020,18 +3020,11 @@
         "caption_en": "Campaign video."
       },
       {
-        "id": "b4b",
+        "id": "b5",
         "type": "video",
         "src": "/assets/uploads/26-win-store-video-3.mp4",
         "caption_vi": "Video chiến dịch.",
         "caption_en": "Campaign video."
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-31.jpg",
-        "caption_vi": "Khung hình từ video chiến dịch.",
-        "caption_en": "Frame from a campaign video."
       },
       {
         "id": "b6",
