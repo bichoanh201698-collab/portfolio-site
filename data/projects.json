@@ -3088,46 +3088,64 @@
   {
     "id": "585f078b9f9a",
     "order": 1,
-    "title_vi": "Toshiba TV | Senior Designer, Visual Lead & Art Direction",
-    "title_en": "Toshiba TV | Senior Designer, Visual Lead & Art Direction",
+    "title_vi": "Toshiba TV Vietnam | Winning IMC Pitch & Campaign",
+    "title_en": "Toshiba TV Vietnam | Winning IMC Pitch & Campaign",
     "tag1_vi": "Thiết kế quảng cáo",
     "tag1_en": "Advertising Design",
     "tag2_vi": "Điện tử",
     "tag2_en": "Electronics",
-    "desc_vi": "Toshiba trở lại thị trường Việt Nam với chiến dịch xoay quanh thông điệp \"Thật\", nhấn mạnh màu sắc thật, hình ảnh thật và giá trị thật trong bối cảnh nhiều thương hiệu TV tập trung quảng bá các công nghệ xử lý hình ảnh ngày càng rực rỡ và sắc nét hơn thực tế.",
-    "desc_en": "Toshiba returned to the Vietnamese market with a campaign built around \"Thật\" (Real), positioning true-to-life color, image and value against a category increasingly focused on artificial image enhancement.",
+    "desc_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh nhiều thương hiệu TV cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC của chúng tôi chọn một hướng tiếp cận khác với keyword xuyên suốt: \"Thật\".",
+    "desc_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where many brands competed by pushing brighter colors, sharper images and increasingly enhanced picture processing, our IMC team proposed a different position built around one keyword: \"Thật\" (Real).",
     "link": "#",
     "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
     "blocks": [
       {
+        "id": "b0-role",
+        "type": "text",
+        "text_vi": "<strong>Vai trò: Senior Visual Designer / Visual Lead</strong>",
+        "text_en": "<strong>Role: Senior Visual Designer / Visual Lead</strong>"
+      },
+      {
         "id": "b1",
         "type": "text",
-        "text_vi": "Toshiba trở lại thị trường Việt Nam với chiến dịch xoay quanh thông điệp <strong>\"Thật\"</strong>, nhấn mạnh màu sắc thật, hình ảnh thật và giá trị thật trong bối cảnh nhiều thương hiệu TV tập trung quảng bá các công nghệ xử lý hình ảnh ngày càng rực rỡ và sắc nét hơn thực tế.",
-        "text_en": "Toshiba returned to the Vietnamese market with a campaign built around <strong>\"Thật\" (Real)</strong>, positioning true-to-life color, image and value against a category increasingly focused on artificial image enhancement."
+        "text_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh nhiều thương hiệu TV cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC của chúng tôi chọn một hướng tiếp cận khác với keyword xuyên suốt: <strong>\"Thật\".</strong>",
+        "text_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where many brands competed by pushing brighter colors, sharper images and increasingly enhanced picture processing, our IMC team proposed a different position built around one keyword: <strong>\"Thật\" (Real).</strong>"
       },
       {
-        "id": "b1b",
+        "id": "b2",
         "type": "text",
-        "text_vi": "Từ big idea và copy của chiến dịch, tôi chịu trách nhiệm <strong>phát triển concept thị giác, art direction và toàn bộ phần thực thi thiết kế đến output cuối</strong> cho từng key visual. Thay vì áp dụng một layout lặp lại, mỗi thông điệp được phát triển thành một concept riêng nhưng cùng dựa trên một nguyên tắc: trải nghiệm chân thực đến mức ranh giới giữa màn hình TV và thế giới thực gần như biến mất.",
-        "text_en": "Working from the campaign's big idea and copy, I owned the <strong>visual concept development, art direction and final execution</strong> for each key visual. Rather than applying one composition across the campaign, each message was translated into its own visual concept while sharing a consistent idea: the experience feels so real that the boundary between the TV screen and reality disappears."
+        "text_vi": "Concept hướng đến nhóm khách hàng coi trọng màu sắc trung thực, trải nghiệm hình ảnh tự nhiên và giá trị thực, thay vì trả thêm tiền cho hàng loạt tính năng xử lý hình ảnh chủ yếu nhằm khiến hình ảnh trông bắt mắt hơn thực tế.",
+        "text_en": "The idea was to speak to customers who valued true-to-life color, authentic viewing experiences and honest value, rather than paying more for layers of image-enhancing features designed primarily to make pictures look more impressive than reality."
       },
       {
-        "id": "b1c",
+        "id": "b3",
         "type": "text",
-        "text_vi": "Ở mùa bóng đá, trận đấu tràn khỏi màn hình vào không gian gia đình, biến trải nghiệm xem TV tại nhà thành cảm giác như đang có mặt trên sân vận động. Với chiến dịch về âm thanh, tôi xây dựng một thế giới siêu thực lấy cảm hứng từ <strong>Alice in Wonderland</strong>, diễn tả âm thanh sống động và kỳ ảo đến mức người xem như bị cuốn vào một thế giới khác. Các KV về màu sắc và trải nghiệm hình ảnh tiếp tục khai thác thủ pháp hình ảnh vượt khỏi khung TV, sau đó được biến đổi theo từng mùa như Halloween và Tết.",
-        "text_en": "For football season, the match extends into the family's living room, making watching at home feel like being inside the stadium. For the sound campaign, I created a surreal, <strong>Alice in Wonderland</strong>-inspired world to express an immersive and almost magical listening experience. Color and viewing-experience visuals pushed landscapes and environments beyond the TV frame, while seasonal executions adapted the same visual language for Halloween and Tet."
+        "text_vi": "Team pitching gồm 5 thành viên: 2 planner, 1 account, 1 creative manager và tôi, senior visual chịu trách nhiệm chuyển hóa chiến lược và các ý tưởng sáng tạo của team thành ngôn ngữ hình ảnh cho proposal. Proposal này đã thắng pitch và trở thành campaign của Toshiba tại Việt Nam.",
+        "text_en": "The five-person pitch team consisted of two planners, one account, one creative manager and myself as the senior visual responsible for translating the team's strategic and creative ideas into campaign visuals. The proposal won the Toshiba account."
       },
       {
-        "id": "b1d",
+        "id": "b4",
         "type": "text",
-        "text_vi": "Riêng chiến dịch Tết, tôi tham gia xuyên suốt từ concept đến sản xuất hình ảnh, bao gồm tổ chức buổi chụp studio cùng <strong>Gia đình Cam Cam</strong>, art direction tại set và hoàn thiện hình ảnh cho chiến dịch.",
-        "text_en": "For the Tet campaign, I also led the visual production from concept to final output, including the studio photoshoot with <strong>Gia đình Cam Cam</strong>, on-set art direction and the creation of original campaign imagery."
+        "text_vi": "Từ campaign platform và copy đã được xác lập, tôi phát triển concept thị giác, art direction và thực thi hoàn chỉnh cho từng key visual. Mỗi thông điệp có một cách kể chuyện riêng nhưng đều dựa trên cùng một nguyên tắc: <strong>hình ảnh trên TV chân thực đến mức vượt khỏi khung màn hình và hòa vào thế giới thực.</strong>",
+        "text_en": "From the campaign platform and copy, I developed the visual concepts, art direction and final execution for individual key visuals. Each communication objective became its own visual story while sharing one central device: <strong>what appears on the TV screen feels so real that it extends beyond the bezel and becomes part of the physical world.</strong>"
       },
       {
-        "id": "b1e",
+        "id": "b5",
         "type": "text",
-        "text_vi": "Toàn bộ chuỗi KV tạo thành một hệ thống thị giác có thể thay đổi theo sản phẩm, thông điệp và mùa lễ hội nhưng vẫn nhất quán với một lời hứa duy nhất: <strong>trải nghiệm chân thực đến mức khó phân biệt đâu là màn hình, đâu là thực tế.</strong>",
-        "text_en": "Together, the executions formed a flexible visual system that could evolve across products, messages and seasons while staying anchored to one promise: <strong>an experience that feels real.</strong>"
+        "text_vi": "Ở mùa bóng đá, trận đấu tràn khỏi màn hình vào không gian gia đình, biến trải nghiệm xem TV tại nhà thành cảm giác như đang ngồi ngay trên sân vận động. Với campaign về âm thanh, tôi xây dựng một thế giới siêu thực lấy cảm hứng từ Alice in Wonderland để diễn tả trải nghiệm âm thanh sống động và kỳ ảo. Các KV về màu sắc và chất lượng hình ảnh tiếp tục khai thác thủ pháp cảnh vật vượt khỏi màn hình, sau đó được biến đổi theo từng dịp như Halloween, Tết và các campaign theo mùa trong năm.",
+        "text_en": "For football season, the match spills into the family living room, turning home viewing into the feeling of being inside the stadium. For the sound campaign, I created a surreal, Alice in Wonderland-inspired environment to express an immersive and almost magical audio experience. Campaigns focusing on color and picture quality pushed landscapes beyond the screen, while seasonal executions adapted the same principle for Halloween, Tet and other moments throughout the year."
+      },
+      {
+        "id": "b6",
+        "type": "text",
+        "text_vi": "Riêng campaign Tết, tôi tham gia xuyên suốt quá trình sản xuất hình ảnh, từ phát triển visual concept, thực hiện buổi chụp studio cùng Gia đình Cam Cam, art direction tại set cho đến hoàn thiện output cuối cùng.",
+        "text_en": "For the Tet campaign, I was also involved throughout the production process, from visual concept development to the studio photoshoot with Gia đình Cam Cam, on-set art direction and final campaign output."
+      },
+      {
+        "id": "b7",
+        "type": "text",
+        "text_vi": "Kết quả là một hệ thống thị giác có thể liên tục biến đổi theo sản phẩm, tính năng và mùa chiến dịch nhưng vẫn giữ nguyên một lời hứa thương hiệu: <strong>màu thật, trải nghiệm thật, giá trị thật.</strong>",
+        "text_en": "The result was a flexible visual system that allowed Toshiba to communicate different products, features and seasonal stories while consistently reinforcing the same brand promise: <strong>real color, real experience, real value.</strong>"
       },
       {
         "id": "b2",
