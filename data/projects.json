@@ -1650,14 +1650,14 @@
   {
     "id": "61d43edcd352",
     "order": 15,
-    "title_vi": "\"Au Oii\" - Định hướng hình ảnh thương hiệu mỹ phẩm",
-    "title_en": "\"Au Oii\" Cosmetics Brand Art Direction",
+    "title_vi": "AuOii - Định hướng hình ảnh thương hiệu",
+    "title_en": "AuOii Brand Art Direction",
     "tag1_vi": "Định hướng nghệ thuật",
     "tag1_en": "Art Direction",
     "tag2_vi": "Mỹ phẩm",
     "tag2_en": "Cosmetics",
-    "desc_vi": "Định hướng nghệ thuật cho Au Oii, một thương hiệu mỹ phẩm — xây dựng hệ thống hình ảnh tổng thể cho các ấn phẩm truyền thông của thương hiệu.",
-    "desc_en": "Art direction for Au Oii, a cosmetics brand — shaping the overall visual system used across the brand's communication materials.",
+    "desc_vi": "AuOii là dòng mỹ phẩm mẹ và bé, xây dựng quanh khái niệm \"Chạm\", sự kết nối giữa hai mẹ con. Tôi dựng hệ thống hình ảnh trọn vẹn: tông màu, ánh sáng, bộ icon và template mạng xã hội với đường viền hình chóp lặp lại trên mọi ấn phẩm.",
+    "desc_en": "AuOii is a mother and baby cosmetics line built around the concept of \"Chạm,\" touch, the bond between mother and child. I built the full visual system: color tone, lighting direction, icon set and a social template carrying a repeating chevron shape across every post.",
     "link": "#",
     "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png",
     "blocks": [
@@ -1834,22 +1834,22 @@
   {
     "id": "f6fead43f8bf",
     "order": 16,
-    "title_vi": "Abbott - Một số bản nháp đồ họa \"Ensure Gold\"",
-    "title_en": "Abbott - \"Ensure Gold\" some graphic drafts",
+    "title_vi": "Abbott Ensure Gold - Bộ icon và banner truyền thông",
+    "title_en": "Abbott Ensure Gold - Icon & Campaign Graphics",
     "tag1_vi": "Thiết kế đồ họa",
     "tag1_en": "Graphic Design",
     "tag2_vi": "Hàng tiêu dùng",
     "tag2_en": "FMCG",
-    "desc_vi": "Thực hiện bản nháp banner và icon đồ họa cho Ensure Gold — dòng sản phẩm dinh dưỡng của Abbott, tập đoàn chăm sóc sức khỏe toàn cầu — chuyển lợi ích sản phẩm thành hệ thống hình ảnh rõ ràng.",
-    "desc_en": "Draft banners and icon graphics for Ensure Gold, a nutrition product line from Abbott, a global healthcare company — translating product benefits into a clear visual system.",
+    "desc_vi": "Ensure Gold đã có bộ nhận diện toàn cầu và hai chỉ số khoa học được đặt tên sẵn: HMB, YBG. Tôi chuyển hai chỉ số đó thành cặp icon mạ vàng cùng tông với lon sản phẩm, lặp lại trên banner mạng xã hội và ấn phẩm livestream.",
+    "desc_en": "Ensure Gold already carried Abbott's global identity and two named clinical claims, HMB and YBG. I turned them into a pair of gold icons matching the can's own tone, repeated across social banners and livestream graphics.",
     "link": "#",
     "image": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts.png",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Bản nháp banner và icon đồ họa thực hiện cho Abbott để hỗ trợ ra mắt sản phẩm dinh dưỡng \"Ensure Gold\". Công việc tập trung chuyển các lợi ích và tính năng sản phẩm thành hệ thống hình ảnh và icon rõ ràng, dễ đọc.",
-        "text_en": "Draft graphic banners and icons created for Abbott to support the launch of the \"Ensure Gold\" nutrition product. The work focused on translating product benefits and features into a clear, legible visual and icon system."
+        "text_vi": "Ensure Gold thuộc hệ thống dinh dưỡng toàn cầu của Abbott, đến với bộ nhận diện đã được quy định sẵn cùng hai chỉ số khoa học đã có tên: HMB cho khối cơ, YBG cho đề kháng. Từ hai chỉ số đó, tôi thiết kế lại thành cặp icon mạ vàng cùng tông với lon sản phẩm, dùng xuyên suốt trên banner mạng xã hội và ấn phẩm livestream, giúp người xem nhận ra lợi ích sản phẩm chỉ qua hình, không cần đọc hết phần chú thích khoa học.",
+        "text_en": "Ensure Gold sits inside Abbott's global nutrition identity, arriving with its visual system already set and two clinical claims already named: HMB for muscle strength, YBG for immunity. I turned those two claims into a pair of gold icons matching the can's own metallic tone, carried across social banners and livestream graphics, so a viewer reads the product's benefit at a glance, without working through the clinical footnotes."
       },
       {
         "id": "b2",
@@ -1911,14 +1911,14 @@
   {
     "id": "d773346fde85",
     "order": 17,
-    "title_vi": "The Love - Thiết kế Logo",
-    "title_en": "The Love - Logo Design",
+    "title_vi": "TheLove - Thiết kế Logo",
+    "title_en": "TheLove - Logo Design",
     "tag1_vi": "Thiết kế Logo",
     "tag1_en": "Logo Design",
     "tag2_vi": "",
     "tag2_en": "",
-    "desc_vi": "Thiết kế logo và bảng màu thương hiệu cho The Love (\"Love and be loved\").",
-    "desc_en": "Logo and brand color palette design for The Love (\"Love and be loved\").",
+    "desc_vi": "TheLove xây dựng danh tính quanh hình trái tim, không phải nét vẽ phẳng mà là khối đá quý nhiều mặt cắt ánh sắc hồng tím. Tôi thiết kế logo dạng khối đó cùng bộ chữ Aleo đi kèm, giữ được sự mềm mại của thông điệp \"yêu và được yêu\" trong một hình khối rõ ràng, dễ nhận ở mọi kích thước.",
+    "desc_en": "TheLove builds its identity around a heart, not drawn flat but faceted like a gemstone in shifting pink and violet tones. I designed that faceted mark alongside its Aleo typeface pairing, keeping the softness of \"love and be loved\" inside a shape that stays clear and legible at any size.",
     "link": "#",
     "image": "/assets/uploads/17-the-love-logo-design.png",
     "blocks": [
@@ -1948,14 +1948,14 @@
   {
     "id": "b41ad51dc9af",
     "order": 18,
-    "title_vi": "Thiết kế mạng xã hội camera EZVIZ",
-    "title_en": "EZVIZ Camera Social Media Design",
+    "title_vi": "EZVIZ - Thiết kế mạng xã hội dòng camera an ninh",
+    "title_en": "EZVIZ Security Camera Social Media Design",
     "tag1_vi": "Thiết kế mạng xã hội",
     "tag1_en": "Social Media Design",
     "tag2_vi": "Camera an ninh",
     "tag2_en": "Security Camera",
-    "desc_vi": "Thiết kế hình ảnh mạng xã hội cho EZVIZ — thương hiệu camera an ninh gia đình thông minh thuộc Hikvision, hoạt động từ năm 2013.",
-    "desc_en": "Social media graphics for EZVIZ, a smart home security camera brand under Hikvision, active since 2013.",
+    "desc_vi": "EZVIZ đã có bộ nhận diện và tông xanh dương riêng cho từng dòng camera. Tôi dựng một khung bố cục lặp lại, tiêu đề, ảnh sản phẩm cắt nền, dải tính năng, áp dụng cho hàng chục mẫu máy từ H9c Dual đến dòng ống kính kép, giữ toàn bộ nội dung mạng xã hội đồng nhất.",
+    "desc_en": "EZVIZ already carries its own blue tone across each camera line. I built one repeating layout, headline, cutout product shot, feature strip, applied across dozens of models from the H9c Dual to the dual-lens PT series, keeping the entire social feed reading as one system.",
     "link": "#",
     "image": "/assets/uploads/18-ezviz-camera-social-media-design.png",
     "blocks": [
@@ -2132,22 +2132,22 @@
   {
     "id": "6f3f4bc376ef",
     "order": 19,
-    "title_vi": "T-B Mouthwash - Video quảng cáo hoạt hình",
-    "title_en": "T-B Mouthwash Animated promotion videos",
+    "title_vi": "T-B Fresh - Video hoạt hình quảng cáo",
+    "title_en": "T-B Fresh Animated Ad",
     "tag1_vi": "Hoạt hình",
     "tag1_en": "Animation",
     "tag2_vi": "Sản xuất Video",
     "tag2_en": "Video Production",
-    "desc_vi": "Phát triển kịch bản, hình ảnh và sản xuất video hoạt hình quảng bá T-B Fresh — nước súc miệng sát khuẩn của Traphaco, một trong những công ty dược phẩm hàng đầu Việt Nam.",
-    "desc_en": "Developed the script, visuals, and production of an animated video promoting T-B Fresh, an antiseptic mouthwash from Traphaco, one of Vietnam's leading pharmaceutical companies.",
+    "desc_vi": "T-B Fresh là nước súc miệng sát khuẩn của Traphaco. Tôi dựng kịch bản và nhân vật chiếc răng hoạt hình, bẩn bám thức ăn rồi sạch bóng lấp lánh sau khi dùng sản phẩm, kể toàn bộ công dụng chỉ bằng một hình ảnh trước/sau, không cần lời thoại giải thích.",
+    "desc_en": "T-B Fresh is Traphaco's antiseptic mouthwash. I wrote the script and built an animated tooth character, dirty with food debris then sparkling clean after the rinse, telling the whole product benefit through one before/after image, no dialogue needed.",
     "link": "#",
     "image": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos.png",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Xây dựng kịch bản, hình ảnh và sản xuất một video hoạt hình cho T-B Fresh — nước súc miệng sát khuẩn hỗ trợ ngừa viêm họng, viêm lợi của Traphaco — nhằm giới thiệu sản phẩm và củng cố nhận diện thương hiệu.",
-        "text_en": "Developed the script, visuals, and production of an animated video for T-B Fresh, Traphaco's antiseptic mouthwash for gum and throat care, to introduce the product and reinforce brand identity."
+        "text_vi": "T-B Fresh là nước súc miệng sát khuẩn của Traphaco, hỗ trợ ngừa viêm họng và viêm lợi, chưa có nhân vật hình ảnh riêng để kể câu chuyện công dụng. Tôi viết kịch bản và dựng nhân vật chiếc răng hoạt hình: bẩn, bám mảng thức ăn ở cảnh mở đầu, rồi sạch bóng lấp lánh sau khi súc miệng, chuyển toàn bộ lợi ích sản phẩm thành một hình ảnh trước/sau dễ nhớ, không cần lời thoại dài dòng.",
+        "text_en": "T-B Fresh is Traphaco's antiseptic mouthwash for gum and throat care, with no character of its own yet to carry the product story. I wrote the script and built an animated tooth character: dirty with food residue at the opening, then sparkling clean after the rinse, turning the product's whole benefit into one memorable before/after image, no lengthy dialogue needed."
       },
       {
         "id": "b2",
@@ -2238,14 +2238,14 @@
   {
     "id": "007cec30c262",
     "order": 20,
-    "title_vi": "Vẽ tay, phác thảo ý tưởng...",
-    "title_en": "Hand drawing, idea sketch...",
+    "title_vi": "Phác thảo tay - Tuyển tập cá nhân",
+    "title_en": "Hand Sketches - Personal Collection",
     "tag1_vi": "Phác thảo",
     "tag1_en": "Sketching",
     "tag2_vi": "Cá nhân",
     "tag2_en": "Personal Work",
-    "desc_vi": "Bộ sưu tập các bản vẽ tay và phác thảo ý tưởng cá nhân.",
-    "desc_en": "A personal collection of hand-drawn sketches and idea drawings.",
+    "desc_vi": "Một góc phác thảo cá nhân, từ phong cảnh vẽ mực đến nhân vật minh hoạ, nơi ý tưởng được thử trước khi đưa vào các dự án khác.",
+    "desc_en": "A personal sketching corner, from ink landscapes to character studies, where ideas get tested before they carry into other projects.",
     "link": "#",
     "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
     "blocks": [
