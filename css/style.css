@@ -431,9 +431,29 @@ html[data-i18n-loading] body { visibility: hidden; }
 	flex: 1;
 }
 
-.card-body h6 { margin: 0; line-height: 1; font-size: var(--fs-h6); }
+.card-body h6 {
+	margin: 0;
+	line-height: 1.25;
+	font-size: var(--fs-h6);
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	line-clamp: 2;
+	overflow: hidden;
+}
 
-.card-body p { font-size: var(--fs-small); margin: 0; color: var(--color-foreground); }
+.card-body p {
+	font-size: var(--fs-small);
+	margin: 0;
+	color: var(--color-foreground);
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	line-clamp: 3;
+	overflow: hidden;
+}
+
+.card-body > div:last-child { margin-top: auto; padding-top: 0.25rem; }
 
 .card-tags { display: flex; gap: 0.5em; flex-wrap: wrap; }
 
