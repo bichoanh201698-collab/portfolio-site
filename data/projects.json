@@ -1,7 +1,7 @@
 [
   {
     "id": "64a731ee19dc",
-    "order": 1,
+    "order": 2,
     "title_vi": "BIDV Awards 2025: Nhận diện hình ảnh",
     "title_en": "BIDV Awards 2025: Visual Identity",
     "tag1_vi": "Nhận diện hình ảnh",
@@ -56,7 +56,7 @@
   },
   {
     "id": "7cec9c81371d",
-    "order": 2,
+    "order": 3,
     "title_vi": "VinWonders: Hình ảnh chủ đạo Master Key",
     "title_en": "VinWonders: Master Key Visuals",
     "tag1_vi": "Key Visual",
@@ -98,7 +98,7 @@
   },
   {
     "id": "938e5d8f3668",
-    "order": 3,
+    "order": 4,
     "title_vi": "Tác phẩm số của tôi",
     "title_en": "My Digital Artworks",
     "tag1_vi": "Minh họa",
@@ -154,7 +154,7 @@
   },
   {
     "id": "83fadc8ad1dc",
-    "order": 4,
+    "order": 5,
     "title_vi": "247 Express - Thiết kế Mascot",
     "title_en": "247 Express - Mascot Design",
     "tag1_vi": "Thiết kế Mascot",
@@ -251,7 +251,7 @@
   },
   {
     "id": "91ad00c4aeec",
-    "order": 5,
+    "order": 6,
     "title_vi": "POSM Nestlé 2019",
     "title_en": "Nestlé POSM 2019",
     "tag1_vi": "Thiết kế POSM",
@@ -433,7 +433,7 @@
   },
   {
     "id": "9bb37b82aead",
-    "order": 6,
+    "order": 7,
     "title_vi": "Hội nghị HR Tech 2023",
     "title_en": "HR Tech Conference 2023",
     "tag1_vi": "Nhận diện sự kiện",
@@ -623,7 +623,7 @@
   },
   {
     "id": "22b1e4acb8b1",
-    "order": 7,
+    "order": 8,
     "title_vi": "De Skin Journey: Các dự án freelance",
     "title_en": "De Skin Journey: Freelance Projects",
     "tag1_vi": "Nhận diện thương hiệu",
@@ -813,7 +813,7 @@
   },
   {
     "id": "01c678ca5764",
-    "order": 8,
+    "order": 9,
     "title_vi": "Phác thảo dáng chụp: Acecook Zeppin",
     "title_en": "Acecook Zeppin: Photoshoot Posing Sketches",
     "tag1_vi": "Phác thảo",
@@ -870,7 +870,7 @@
   },
   {
     "id": "d69dd1b7ad0f",
-    "order": 9,
+    "order": 10,
     "title_vi": "Ứng dụng Tài chính - Khám phá UI cá nhân",
     "title_en": "Finance App - Personal UI Exploration",
     "tag1_vi": "Thiết kế UI/UX",
@@ -900,7 +900,7 @@
   },
   {
     "id": "93de9a929181",
-    "order": 10,
+    "order": 11,
     "title_vi": "云译: Bộ hướng dẫn Logo",
     "title_en": "云译 Logo Guidelines",
     "tag1_vi": "Thiết kế Logo",
@@ -1090,7 +1090,7 @@
   },
   {
     "id": "61d86b3e95a2",
-    "order": 11,
+    "order": 12,
     "title_vi": "Vichy Laboratoires - Bao bì & Truyền thông khoa học",
     "title_en": "Vichy Laboratoires - Packaging & Scientific Communications",
     "tag1_vi": "Chăm sóc da",
@@ -1298,7 +1298,7 @@
   },
   {
     "id": "b0dc3d5c5fb3",
-    "order": 12,
+    "order": 13,
     "title_vi": "Bộ sưu tập Làm đẹp & Phòng khám",
     "title_en": "Beauty & Clinic Collection",
     "tag1_vi": "Thiết kế mạng xã hội",
@@ -1404,7 +1404,7 @@
   },
   {
     "id": "6510be0034e5",
-    "order": 13,
+    "order": 14,
     "title_vi": "Shuyi Việt Nam",
     "title_en": "Shuyi Vietnam",
     "tag1_vi": "Nhận diện thương hiệu",
@@ -1619,7 +1619,7 @@
   },
   {
     "id": "4933a28f3512",
-    "order": 14,
+    "order": 15,
     "title_vi": "Thiết kế UI/UX trang tuyển dụng KMS",
     "title_en": "KMS Career Landing Page: UI/UX Design",
     "tag1_vi": "Thiết kế UI/UX",
@@ -1649,7 +1649,7 @@
   },
   {
     "id": "61d43edcd352",
-    "order": 15,
+    "order": 16,
     "title_vi": "AuOii - Định hướng hình ảnh thương hiệu",
     "title_en": "AuOii Brand Art Direction",
     "tag1_vi": "Định hướng nghệ thuật",
@@ -1833,7 +1833,7 @@
   },
   {
     "id": "f6fead43f8bf",
-    "order": 16,
+    "order": 17,
     "title_vi": "Abbott Ensure Gold - Bộ icon và banner truyền thông",
     "title_en": "Abbott Ensure Gold - Icon & Campaign Graphics",
     "tag1_vi": "Thiết kế đồ họa",
@@ -1910,7 +1910,7 @@
   },
   {
     "id": "d773346fde85",
-    "order": 17,
+    "order": 18,
     "title_vi": "TheLove - Thiết kế Logo",
     "title_en": "TheLove - Logo Design",
     "tag1_vi": "Thiết kế Logo",
@@ -1947,7 +1947,7 @@
   },
   {
     "id": "b41ad51dc9af",
-    "order": 18,
+    "order": 19,
     "title_vi": "EZVIZ - Thiết kế mạng xã hội dòng camera an ninh",
     "title_en": "EZVIZ Security Camera Social Media Design",
     "tag1_vi": "Thiết kế mạng xã hội",
@@ -2131,7 +2131,7 @@
   },
   {
     "id": "6f3f4bc376ef",
-    "order": 19,
+    "order": 20,
     "title_vi": "T-B Fresh - Video hoạt hình quảng cáo",
     "title_en": "T-B Fresh Animated Ad",
     "tag1_vi": "Hoạt hình",
@@ -2237,7 +2237,7 @@
   },
   {
     "id": "007cec30c262",
-    "order": 20,
+    "order": 21,
     "title_vi": "Phác thảo tay - Tuyển tập cá nhân",
     "title_en": "Hand Sketches - Personal Collection",
     "tag1_vi": "Phác thảo",
@@ -2274,7 +2274,7 @@
   },
   {
     "id": "d7345678aa19",
-    "order": 21,
+    "order": 22,
     "title_vi": "La Roche-Posay - Triển khai chiến dịch Tháng Sức Khỏe Làn Da",
     "title_en": "La Roche-Posay - Skin Health Month Campaign Rollout",
     "tag1_vi": "Chăm sóc da",
@@ -2457,7 +2457,7 @@
   },
   {
     "id": "40dc7b455412",
-    "order": 22,
+    "order": 23,
     "title_vi": "JOMOO Việt Nam - Lễ khai trương",
     "title_en": "JOMOO Vietnam - Grand Opening",
     "tag1_vi": "Sự kiện",
@@ -2487,7 +2487,7 @@
   },
   {
     "id": "5c0fe30497d0",
-    "order": 23,
+    "order": 24,
     "title_vi": "De Skin Journey - Bộ hướng dẫn làm mới website",
     "title_en": "De Skin Journey - Website Renewal Guidelines",
     "tag1_vi": "Thiết kế Web",
@@ -2600,7 +2600,7 @@
   },
   {
     "id": "95b74f4ae5ff",
-    "order": 24,
+    "order": 25,
     "title_vi": "GoGoX - Bộ Key Visual ra mắt thị trường Việt Nam",
     "title_en": "GoGoX - Vietnam Launch Key Visual System",
     "tag1_vi": "Key Visual",
@@ -2712,7 +2712,7 @@
   },
   {
     "id": "e93f63321384",
-    "order": 25,
+    "order": 26,
     "title_vi": "Helen Harper - Hệ thống hình ảnh mạng xã hội",
     "title_en": "Helen Harper - Social Media Visual System",
     "tag1_vi": "Thiết kế mạng xã hội",
@@ -2934,7 +2934,7 @@
   },
   {
     "id": "ef4442ece1c3",
-    "order": 26,
+    "order": 27,
     "title_vi": "Triển khai hệ thống nhận diện chuỗi cửa hàng WIN",
     "title_en": "WIN Retail Chain: Identity Rollout",
     "tag1_vi": "Nhận diện thương hiệu",
@@ -3087,23 +3087,35 @@
   },
   {
     "id": "585f078b9f9a",
-    "order": 27,
-    "title_vi": "Toshiba TV - Chuỗi quảng cáo hình ảnh theo mùa",
-    "title_en": "Toshiba TV - Seasonal Advertising Campaigns",
+    "order": 1,
+    "title_vi": "Toshiba TV - Đề xuất \"Thật\"",
+    "title_en": "Toshiba TV: The \"Real\" Proposal",
     "tag1_vi": "Thiết kế quảng cáo",
     "tag1_en": "Advertising Design",
     "tag2_vi": "Điện tử",
     "tag2_en": "Electronics",
-    "desc_vi": "Toshiba TV có nhiều dòng sản phẩm, cùng chung thông điệp về độ phân giải Ultra HD 4K và màu sắc tự nhiên. Tôi để hình ảnh trên màn hình tràn ra khỏi khung viền, nối liền với khung cảnh xung quanh tivi, lặp lại qua các chiến dịch theo mùa để người xem nhận ra độ chân thực của màu sắc chỉ bằng mắt.",
-    "desc_en": "Toshiba TV spans several product lines sharing one message about Ultra HD 4K resolution and natural color. I let the on-screen image spill past its own bezel into the scene around the TV, repeated across seasonal campaigns so a viewer reads the color's realism by eye.",
+    "desc_vi": "Toshiba TV quay lại thị trường Việt Nam với đề xuất xoay quanh từ khóa \"Thật\" từ đội pitching 5 người, dành cho khách hàng ưu tiên màu thật, hình thật, giá thật. Tôi chuyển ý tưởng đó thành một chi tiết hình ảnh: màn hình tràn ra khỏi khung viền, lặp lại qua nhiều chiến dịch theo mùa.",
+    "desc_en": "Toshiba TV returned to Vietnam with a proposal built around the keyword \"Real\" from a five-person pitch team, for customers who valued real color, real image, real price. I translated that into one visual device: the screen spilling past its bezel, repeated across seasonal campaigns.",
     "link": "#",
     "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Toshiba TV có nhiều dòng sản phẩm với kích thước khác nhau, cùng chung một thông điệp về độ phân giải Ultra HD 4K và màu sắc tự nhiên, được nhắc lại qua nhiều chiến dịch theo mùa suốt năm. Tôi để hình ảnh trên màn hình tràn ra khỏi khung viền, nối liền với khung cảnh xung quanh tivi: khu rừng thu đỏ lá cho chiến dịch âm thanh, khu rừng sương mù cho Halloween, mai đào cho Tết, để người xem nhận ra độ chân thực của màu sắc chỉ bằng mắt, không cần đọc thông số kỹ thuật.",
-        "text_en": "Toshiba TV spans several product lines in different screen sizes, carrying one shared message about Ultra HD 4K resolution and natural color, repeated across seasonal campaigns through the year. I let the image on screen spill past its own bezel into the scene around the TV: a red autumn forest for the audio campaign, a misty forest for Halloween, apricot blossoms for Tet, so a viewer reads the color's realism by eye, without needing to read the spec sheet."
+        "text_vi": "Toshiba TV quay lại thị trường Việt Nam sau một thời gian dài vắng bóng, giữa lúc các hãng tivi khác đẩy mạnh màu sắc và độ nét trong quảng cáo để hình ảnh trông bắt mắt hơn thực tế. Đội pitching gồm 5 người: hai planner, một account, một creative manager, và một senior visual phụ trách hiện thực hóa ý tưởng thành hình ảnh, xây dựng đề xuất xoay quanh từ khóa \"Thật\".",
+        "text_en": "Toshiba TV returned to the Vietnamese market after a long absence, at a time when other TV brands pushed color and sharpness in their ads to look better than real life. The pitch team had five people: two planners, one account, one creative manager, and one senior visual handling the idea's visual execution, building a proposal around the keyword \"Thật\" (Real)."
+      },
+      {
+        "id": "b1b",
+        "type": "text",
+        "text_vi": "Thông điệp nhắm đến nhóm khách hàng ưu tiên màu thật, hình thật, giá thật, thay vì trả thêm cho những tính năng làm đẹp hình ảnh giả tạo. Tôi chuyển ý tưởng đó thành một chi tiết hình ảnh cụ thể: nội dung trên màn hình tràn ra khỏi khung viền tivi, nối liền với khung cảnh xung quanh, xoá đi ranh giới giữa hình trên màn hình và thế giới thật.",
+        "text_en": "The message targeted customers who valued real color, real image, real price, over paying more for artificial image-enhancing features. I translated that into one concrete visual device: on-screen content spilling past the TV's bezel into the surrounding scene, dissolving the line between the screen and the real world."
+      },
+      {
+        "id": "b1c",
+        "type": "text",
+        "text_vi": "Chi tiết này lặp lại qua nhiều chiến dịch theo mùa trong năm: khu rừng thu đỏ lá cho chiến dịch âm thanh, khu rừng sương mù cho Halloween, mai đào cho Tết. Một lời hứa về màu sắc trở thành thứ người xem có thể tự kiểm chứng bằng mắt, không cần đọc thông số kỹ thuật.",
+        "text_en": "The device repeats across seasonal campaigns through the year: a red autumn forest for the sound campaign, a foggy forest for Halloween, peach blossoms for Tet. A promise about color becomes something a viewer can verify with their own eyes, no spec sheet required."
       },
       {
         "id": "b2",
