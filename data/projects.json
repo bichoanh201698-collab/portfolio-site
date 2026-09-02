@@ -3088,22 +3088,22 @@
   {
     "id": "585f078b9f9a",
     "order": 27,
-    "title_vi": "TOSHIBA - THE LEADING WILL BE BACK",
-    "title_en": "TOSHIBA - THE LEADING WILL BE BACK",
+    "title_vi": "Toshiba TV - Chuỗi quảng cáo hình ảnh theo mùa",
+    "title_en": "Toshiba TV - Seasonal Advertising Campaigns",
     "tag1_vi": "Thiết kế quảng cáo",
     "tag1_en": "Advertising Design",
     "tag2_vi": "Điện tử",
     "tag2_en": "Electronics",
-    "desc_vi": "Thiết kế hình ảnh quảng cáo cho Toshiba TV, làm nổi bật độ phân giải Ultra HD 4K và màu sắc tự nhiên.",
-    "desc_en": "Advertising visuals for Toshiba TV, highlighting Ultra HD 4K resolution and natural color.",
+    "desc_vi": "Toshiba TV có nhiều dòng sản phẩm, cùng chung thông điệp về độ phân giải Ultra HD 4K và màu sắc tự nhiên. Tôi để hình ảnh trên màn hình tràn ra khỏi khung viền, nối liền với khung cảnh xung quanh tivi, lặp lại qua các chiến dịch theo mùa để người xem nhận ra độ chân thực của màu sắc chỉ bằng mắt.",
+    "desc_en": "Toshiba TV spans several product lines sharing one message about Ultra HD 4K resolution and natural color. I let the on-screen image spill past its own bezel into the scene around the TV, repeated across seasonal campaigns so a viewer reads the color's realism by eye.",
     "link": "#",
     "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Toshiba TV có nhiều dòng sản phẩm với kích thước đa dạng, phù hợp không gian phòng và nhu cầu sử dụng khác nhau. Hình ảnh quảng cáo tập trung thể hiện độ phân giải Ultra HD 4K và màu sắc tự nhiên của sản phẩm.",
-        "text_en": "Toshiba TV offers a range of screen sizes to fit different rooms and needs. The advertising visuals focus on the product's Ultra HD 4K resolution and natural color reproduction."
+        "text_vi": "Toshiba TV có nhiều dòng sản phẩm với kích thước khác nhau, cùng chung một thông điệp về độ phân giải Ultra HD 4K và màu sắc tự nhiên, được nhắc lại qua nhiều chiến dịch theo mùa suốt năm. Tôi để hình ảnh trên màn hình tràn ra khỏi khung viền, nối liền với khung cảnh xung quanh tivi: khu rừng thu đỏ lá cho chiến dịch âm thanh, khu rừng sương mù cho Halloween, mai đào cho Tết, để người xem nhận ra độ chân thực của màu sắc chỉ bằng mắt, không cần đọc thông số kỹ thuật.",
+        "text_en": "Toshiba TV spans several product lines in different screen sizes, carrying one shared message about Ultra HD 4K resolution and natural color, repeated across seasonal campaigns through the year. I let the image on screen spill past its own bezel into the scene around the TV: a red autumn forest for the audio campaign, a misty forest for Halloween, apricot blossoms for Tet, so a viewer reads the color's realism by eye, without needing to read the spec sheet."
       },
       {
         "id": "b2",
@@ -3159,28 +3159,28 @@
   {
     "id": "1f2445ac8263",
     "order": 28,
-    "title_vi": "Mirae Asset - Chiến dịch theo mùa",
-    "title_en": "Mirae Asset - Season campain",
+    "title_vi": "Mirae Asset Securities - Hệ thống banner quảng cáo",
+    "title_en": "Mirae Asset Securities - Advertising Banner System",
     "tag1_vi": "Thiết kế chiến dịch",
     "tag1_en": "Campaign Design",
     "tag2_vi": "Tài chính",
     "tag2_en": "Finance",
-    "desc_vi": "Thiết kế hình ảnh chiến dịch cho Mirae Asset Financial Group — tập đoàn quản lý tài sản toàn cầu có nguồn gốc từ châu Á, hiện diện tại 15 quốc gia.",
-    "desc_en": "Campaign visual designs for Mirae Asset Financial Group, a global asset manager founded in Asia with a presence in 15 countries.",
+    "desc_vi": "Mirae Asset Securities chạy nhiều đợt quảng cáo khác nhau trong năm, mỗi đợt một thông điệp riêng. Tôi dựng một khung banner lặp lại, nền cam gradient, con số chính đổ khối nổi bật, thanh chân cố định với mã QR và nút kêu gọi hành động, áp dụng cho mọi đợt quảng cáo.",
+    "desc_en": "Mirae Asset Securities runs many different promotions through the year, each with its own message. I built one repeating banner frame, an orange gradient background, a bold blocked headline number, a fixed footer bar with QR codes and a call-to-action button, applied across every promotion.",
     "link": "#",
     "image": "/assets/uploads/28-mirae-asset-season-campaign.jpg",
     "blocks": [
       {
         "id": "b1",
         "type": "text",
-        "text_vi": "Mirae Asset Financial Group là tập đoàn quản lý tài sản toàn cầu, cung cấp các giải pháp đầu tư.",
-        "text_en": "Mirae Asset Financial Group is a global asset management group offering investment solutions."
+        "text_vi": "Mirae Asset Securities là công ty chứng khoán, chạy nhiều đợt quảng cáo khác nhau trong năm: mở tài khoản, hoàn phí giao dịch, đếm ngược ưu đãi, mỗi đợt một thông điệp riêng.",
+        "text_en": "Mirae Asset Securities is a brokerage running many different promotions through the year: account opening, trading cashback, offer countdowns, each with its own message."
       },
       {
         "id": "b2",
         "type": "text",
-        "text_vi": "Mirae Asset Financial Group được thành lập tại châu Á và hiện có mặt tại 15 quốc gia, cung cấp nền tảng đầu tư đa dạng hóa cho nhà đầu tư cá nhân và tổ chức trên toàn thế giới.",
-        "text_en": "Mirae Asset Financial Group was founded in Asia and now operates in 15 countries, offering a diversified investment platform for individual and institutional investors worldwide."
+        "text_vi": "Tôi dựng một khung banner lặp lại: nền cam gradient với tia sáng chéo, con số chính được đổ khối và viền dày để bắt mắt trong một dòng feed, cùng thanh chân cố định gồm mã QR và nút kêu gọi hành động, áp dụng cho mọi đợt quảng cáo để người xem nhận ra thương hiệu ngay cả khi đổi thông điệp.",
+        "text_en": "I built one repeating banner frame: an orange gradient background with diagonal light rays, the key number rendered in bold, outlined blocks to stand out in a feed, and a fixed footer bar with QR codes and a call-to-action button, applied across every promotion so a viewer recognizes the brand even as the message changes."
       },
       {
         "id": "b3",
