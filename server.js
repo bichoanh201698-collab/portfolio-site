@@ -83,14 +83,25 @@ app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static(__dirname));
+
+// Serve only known-public assets and pages — never the whole project
+// directory, which would otherwise expose server.js, package.json, data/
+// (including admin.json's password hash) and .git to any visitor.
+app.use("/css", express.static(path.join(__dirname, "css")));
+app.use("/js", express.static(path.join(__dirname, "js")));
+app.use("/assets", express.static(path.join(__dirname, "assets")));
+app.get("/", function (req, res) { res.sendFile(path.join(__dirname, "index.html")); });
+app.get("/about.html", function (req, res) { res.sendFile(path.join(__dirname, "about.html")); });
+app.get("/contact.html", function (req, res) { res.sendFile(path.join(__dirname, "contact.html")); });
+
+if (process.env.NODE_ENV === "production") app.set("trust proxy", 1);
 
 app.use(session({
 	name: "portfolio.sid",
 	secret: sessionSecret,
 	resave: false,
 	saveUninitialized: false,
-	cookie: { httpOnly: true, sameSite: "lax", maxAge: 8 * 60 * 60 * 1000 }
+	cookie: { httpOnly: true, sameSite: "lax", secure: "auto", maxAge: 8 * 60 * 60 * 1000 }
 }));
 
 function requireAuth(req, res, next) {

@@ -475,6 +475,39 @@ html[data-i18n-loading] body { visibility: hidden; }
 .post-title a:hover { text-decoration: underline; }
 .post-excerpt { font-size: var(--fs-small); color: var(--color-secondary); }
 
+/* Table of contents (in-page scroll nav) -------------------------------- */
+
+.toc-bar {
+	position: sticky;
+	top: 0;
+	z-index: 5;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+	padding: 1em 0;
+	margin-bottom: 1em;
+	background: var(--color-background);
+	border-bottom: 1px solid var(--color-tertiary);
+}
+
+.toc-link {
+	font-size: var(--fs-tiny);
+	font-weight: 600;
+	text-decoration: none;
+	color: var(--color-secondary);
+	padding: 0.35em 0.9em;
+	border-radius: 999px;
+	background: var(--color-tertiary);
+	transition: background 0.15s ease, color 0.15s ease;
+}
+
+.toc-link:hover { color: var(--color-foreground); }
+
+.toc-link.is-active {
+	background: var(--color-primary);
+	color: #fff;
+}
+
 /* Testimonial ------------------------------------------------------------ */
 
 .testimonial {

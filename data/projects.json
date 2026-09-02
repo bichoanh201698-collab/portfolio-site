@@ -11,7 +11,7 @@
     "desc_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
     "desc_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language.",
     "link": "#",
-    "image": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
+    "image": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png",
     "blocks": [
       {
         "id": "p1",
@@ -28,7 +28,7 @@
       {
         "id": "b4",
         "type": "image",
-        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
         "caption_vi": "",
         "caption_en": ""
       },

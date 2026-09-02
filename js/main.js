@@ -13,7 +13,7 @@
 				pageTitle: "Trang chủ — Shine Tu",
 				hero: {
 					kicker: "Xin chào!",
-					title: "Tôi là Shine Tu — Art Director / Senior Creative Designer.",
+					title: "Tôi là Shine Tu — Art Director / Senior Creative.",
 					desc: "Trong một thế giới đầy ồn ào, hãy để thiết kế của bạn được lắng nghe. Đây là góc nhỏ trên internet nơi tôi lưu lại những dự án, bài viết và câu chuyện của mình.",
 					btnContact: "Liên hệ với tôi",
 					btnAbout: "Giới thiệu về tôi"
@@ -59,6 +59,10 @@
 				heroDesc: "Tôi là Art Director với 8 năm kinh nghiệm xây dựng nhận diện thương hiệu, chiến dịch và trải nghiệm số. Công việc của tôi bắt đầu từ một ý tưởng, đi qua từng hệ thống hình ảnh mạch lạc, cho đến khi thành hình cuối cùng — luôn giữ một góc nhìn rõ ràng và làm việc trực tiếp trên từng chi tiết.",
 				btnContact: "Liên hệ với tôi",
 				btnCV: "Tải CV",
+				toc: {
+					story: "Câu chuyện", skills: "Kỹ năng", experience: "Kinh nghiệm",
+					education: "Học vấn", awards: "Giải thưởng", quote: "Trích dẫn"
+				},
 				story: {
 					title: "Câu chuyện của tôi",
 					p1: "Tôi bắt đầu từ năm 2017 với những dự án tự do đầu tiên, rồi tiếp tục tại Butterflynt, GreenHouse và STITCH Studio, VCCorp/Admicro, TopCV và KMS Technology — mỗi nơi là một cách nhìn khác về thương hiệu, chiến dịch, và cách một ý tưởng trở thành hình ảnh thật.",
@@ -116,9 +120,8 @@
 					languages: "Ngôn ngữ: Tiếng Việt, Tiếng Anh (B2), Tiếng Quan Thoại, Tiếng Quảng Đông"
 				},
 				testimonials: {
-					title: "Mọi người nói gì",
-					quote1: "\"Tôi có cơ hội làm việc cùng Oanh trong ba tháng khi bạn ấy là designer hợp đồng tại KMS Technology. Trong thời gian đó, Oanh thể hiện sự chuyên nghiệp, khả năng sáng tạo cùng kỹ năng giao tiếp xuất sắc. Bạn ấy đã có những đóng góp giá trị cho nhóm, bao gồm việc hướng dẫn các thành viên khác và luôn giữ thái độ chủ động, tích cực. Sự tận tâm và tài năng của Oanh mang lại lợi ích đáng kể cho các dự án của chúng tôi, và bạn ấy thực sự là một nhân tố quan trọng của nhóm thiết kế.\"",
-					role1: "Quản lý trực tiếp tại KMS Technology"
+					quote2: "\"Thiết kế là đại sứ thầm lặng của thương hiệu.\"",
+					role2: "Paul Rand, nhà thiết kế đồ hoạ"
 				}
 			},
 			contact: {
@@ -142,7 +145,7 @@
 				pageTitle: "Home — Shine Tu",
 				hero: {
 					kicker: "Hi there!",
-					title: "I'm Shine Tu — Art Director / Senior Creative Designer.",
+					title: "I'm Shine Tu — Art Director / Senior Creative.",
 					desc: "In a world full of noise, let your design be heard. This is my little corner of the internet where I keep my work, my writing, and my story.",
 					btnContact: "Get in touch",
 					btnAbout: "About me"
@@ -188,6 +191,10 @@
 				heroDesc: "I'm an Art Director with 8 years of experience shaping brand identities, campaigns and digital experiences. My work starts from a first idea, moves through coherent visual systems, and carries all the way to its final form — always with a clear point of view and hands-on craft.",
 				btnContact: "Get in touch",
 				btnCV: "Download CV",
+				toc: {
+					story: "Story", skills: "Skills", experience: "Experience",
+					education: "Education", awards: "Awards", quote: "Quote"
+				},
 				story: {
 					title: "My story",
 					p1: "I started in 2017 with my first freelance projects, then continued at Butterflynt, GreenHouse and STITCH Studio, VCCorp/Admicro, TopCV and KMS Technology — each one a different way of thinking about brand, campaign, and how an idea becomes a real image.",
@@ -245,9 +252,8 @@
 					languages: "Languages: Vietnamese, English (B2), Mandarin, Cantonese"
 				},
 				testimonials: {
-					title: "What people say",
-					quote1: "\"I had the pleasure of working with Oanh for three months while she was a contracted designer at KMS Technology. During this time, Oanh demonstrated her professionalism and creativity, along with excellent communication skills. She made valuable contributions to our team, including mentoring other members and consistently displaying a proactive and positive attitude. Oanh's dedication and talent significantly benefited our projects, and she was a key asset to the design team.\"",
-					role1: "Direct manager at KMS Technology"
+					quote2: "\"Design is the silent ambassador of your brand.\"",
+					role2: "Paul Rand, graphic designer"
 				}
 			},
 			contact: {
@@ -366,5 +372,40 @@
 				link.classList.add("is-active");
 			}
 		});
+
+		var tocLinks = document.querySelectorAll(".toc-link");
+		if (tocLinks.length) {
+			var tocBar = document.querySelector(".toc-bar");
+			var sections = Array.prototype.map.call(tocLinks, function (link) {
+				return document.getElementById(link.getAttribute("href").slice(1));
+			}).filter(Boolean);
+
+			var setActive = function (id) {
+				tocLinks.forEach(function (link) {
+					link.classList.toggle("is-active", link.getAttribute("href") === "#" + id);
+				});
+			};
+
+			tocLinks.forEach(function (link) {
+				link.addEventListener("click", function (e) {
+					var target = document.getElementById(link.getAttribute("href").slice(1));
+					if (!target) return;
+					e.preventDefault();
+					var offset = tocBar ? tocBar.offsetHeight + 8 : 0;
+					var top = target.getBoundingClientRect().top + window.pageYOffset - offset;
+					window.scrollTo({ top: top, behavior: "smooth" });
+					setActive(target.id);
+				});
+			});
+
+			if ("IntersectionObserver" in window) {
+				var observer = new IntersectionObserver(function (entries) {
+					entries.forEach(function (entry) {
+						if (entry.isIntersecting) setActive(entry.target.id);
+					});
+				}, { rootMargin: "-40% 0px -55% 0px", threshold: 0 });
+				sections.forEach(function (section) { observer.observe(section); });
+			}
+		}
 	});
 })();
