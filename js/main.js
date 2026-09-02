@@ -20,7 +20,7 @@
 					btnAbout: "Giới thiệu về tôi"
 				},
 				intro: {
-					p1: "Từ những dự án thiết kế tự do đầu tiên năm 2017 đến vai trò Senior Graphic Designer tại FireGroup Technology hôm nay, tôi tin rằng thiết kế tốt luôn bắt đầu từ việc lắng nghe câu chuyện thật đằng sau mỗi thương hiệu, rồi chuyển hoá nó thành hình ảnh rõ ràng, chạm đến người xem.",
+					p1: "Từ những dự án tự do đầu tiên năm 2017 đến vai trò Brand & Creative Lead tại FireGroup hôm nay, tôi làm việc từ ý tưởng đầu tiên đến hệ thống hình ảnh hoàn chỉnh — luôn bắt đầu từ câu chuyện thật đằng sau mỗi thương hiệu.",
 					p2: "Ngoài công việc, tôi thích thử nghiệm những ý tưởng nhỏ, viết lại quá trình học hỏi của mình và chia sẻ chúng trên blog cá nhân."
 				},
 				card1: { title: "Xem portfolio", desc: "Khám phá những dự án tôi đã thực hiện và các kỹ năng tôi đã trau dồi.", btn: "Xem thêm" },
@@ -28,8 +28,10 @@
 				card3: { title: "Theo dõi hành trình", desc: "Đọc những bài viết mới nhất của tôi về thiết kế, sáng tạo và cuộc sống.", btn: "Đọc blog" },
 				clients: {
 					title: "Đã đồng hành cùng",
-					item1: "L'Oréal", item2: "Nestlé", item3: "Toshiba", item4: "Abbott",
-					item5: "KMS Technology", item6: "247 Express", item7: "Masan"
+					item1: "L'Oréal", item2: "Nestlé", item3: "Toshiba", item4: "Vichy",
+					item5: "La Roche-Posay", item6: "247 Express", item7: "GoGoX", item8: "Mirae Asset",
+					item9: "BIDV", item10: "Shuyi", item11: "Acecook Zeppin", item12: "Abbott",
+					item13: "EZVIZ", item14: "JOMOO"
 				}
 			},
 			portfolio: {
@@ -55,46 +57,64 @@
 				pageTitle: "Giới thiệu — Shine Tu",
 				eyebrow: "Giới thiệu",
 				heroTitle: "Xin chào, tôi là Shine Tu.",
-				heroDesc: "Tôi là Art Director / Senior Creative Designer với 7 năm kinh nghiệm phục vụ đa dạng khách hàng trong nhiều ngành, chuyên về Thiết kế đồ hoạ 2D gắn liền với mục tiêu thương mại và marketing. Tôi thích biến những ý tưởng thành sản phẩm thật, và luôn tìm cách học hỏi điều mới mỗi ngày.",
+				heroDesc: "Tôi là Art Director với 8 năm kinh nghiệm xây dựng nhận diện thương hiệu, chiến dịch và trải nghiệm số. Công việc của tôi bắt đầu từ một ý tưởng, đi qua từng hệ thống hình ảnh mạch lạc, cho đến khi thành hình cuối cùng — luôn giữ một góc nhìn rõ ràng và làm việc trực tiếp trên từng chi tiết.",
 				btnContact: "Liên hệ với tôi",
 				btnCV: "Tải CV",
 				story: {
 					title: "Câu chuyện của tôi",
-					p1: "Hành trình của tôi bắt đầu từ năm 2017, khi tôi nhận những dự án thiết kế tự do đầu tiên — vừa làm, vừa học, vừa tìm ra chất riêng của mình trong từng nét vẽ. Từ những bản phác thảo tay đến các chiến dịch thương hiệu chạy trên mạng xã hội và ngoài trời, tôi dần hiểu rằng thiết kế giỏi không nằm ở kỹ thuật, mà ở khả năng biến một ý tưởng mơ hồ thành hình ảnh khiến người xem phải dừng lại.",
-					p2: "Từ vị trí thiết kế viên tại VCCorp đến vai trò dẫn dắt một nhóm thiết kế tại TopCV Vietnam, tôi học được rằng công việc sáng tạo hay nhất luôn là công việc của một tập thể. Hiện tại, với vai trò Senior Graphic Designer tại FireGroup Technology, tôi vẫn giữ nguyên tinh thần đó: mỗi pixel đặt xuống đều nên kể một câu chuyện, và câu chuyện ấy phải vừa đẹp, vừa đúng mục tiêu kinh doanh."
+					p1: "Tôi bắt đầu từ năm 2017 với những dự án tự do đầu tiên, rồi tiếp tục tại Butterflynt, GreenHouse và STITCH Studio, VCCorp/Admicro, TopCV và KMS Technology — mỗi nơi là một cách nhìn khác về thương hiệu, chiến dịch, và cách một ý tưởng trở thành hình ảnh thật.",
+					p2: "Hiện tại tôi giữ vai trò Brand & Creative Lead tại FireGroup, phụ trách định hướng hình ảnh cho các sản phẩm và cộng đồng của công ty — từ nhận diện, trải nghiệm web-app, đến không gian sự kiện và merchandise. Tôi làm việc trực tiếp trên từng chi tiết, và để kết quả tự nói lên phần còn lại."
 				},
 				skills: {
 					title: "Kỹ năng",
-					item1: "Thiết kế đồ hoạ (Graphic Design)", item2: "Xây dựng thương hiệu (Branding)", item3: "Vẽ tay (Hand-drawing)",
-					item4: "Thiết kế UI", item5: "Adobe Creative Suite", item6: "Chỉ đạo sáng tạo (Creative Direction)"
+					item1: "Chỉ đạo nghệ thuật (Art Direction)", item2: "Hệ thống thương hiệu (Brand Systems)", item3: "Chỉ đạo chiến dịch (Campaign Direction)",
+					item4: "Trải nghiệm số (Digital Experiences)", item5: "Vẽ tay (Hand-drawing)", item6: "Adobe Creative Suite",
+					item7: "AI-assisted Prototyping", item8: "HTML/CSS & GitHub"
 				},
 				experience: {
 					title: "Kinh nghiệm",
 					entry1: {
-						role: "Senior Graphic Designer — FireGroup Technology",
-						desc: "Thiết kế đồ hoạ cho các sản phẩm số của công ty, tập trung vào Online Graphics và Image Design.",
+						role: "Brand & Creative Lead — FireGroup",
+						desc: "Định hướng hình ảnh cho TryOpenClaw, ClawExperts và Promer — từ nhận diện thương hiệu, trải nghiệm web-app đến không gian sự kiện, merchandise, social và hậu kỳ, phối hợp cùng đội Growth, Product và Engineering. Promer hiện phục vụ hơn 5.000 merchant, hơn 1 triệu quảng cáo đã tạo, đạt 4.7★ trên Shopify.",
 						period: "09/2024 — Hiện tại"
 					},
 					entry2: {
-						role: "Senior Graphic Designer — KMS Technology, Inc. (Hợp đồng)",
-						desc: "Phát triển ý tưởng sáng tạo (Creative Concept Design) trong một dự án ngắn hạn.",
-						period: "03/2024 — 06/2024"
+						role: "Senior Creative Contractor — KMS Technology",
+						desc: "Thực hiện các dự án sáng tạo theo hợp đồng: illustration, key visual, tài sản số và trang landing page tuyển dụng, phối hợp cùng đội thiết kế nội bộ để đảm bảo tiến độ và chất lượng.",
+						period: "02/2024 — 08/2024"
 					},
 					entry3: {
-						role: "Team Leader of Graphic Design — TopCV Vietnam",
-						desc: "Dẫn dắt một nhóm 3 designer từ ý tưởng đến hoàn thiện, quản lý tiến độ - nguồn lực - ngân sách, góp ý chuyên môn và giữ vững chất lượng đồng nhất, đồng thời xây dựng môi trường làm việc sáng tạo và gắn kết cho cả nhóm.",
+						role: "Design Team Lead — TopCV Vietnam",
+						desc: "Dẫn dắt một nhóm 5 designer trong dự án 6 tháng cho HR Tech Conference 2023 — phát triển ngôn ngữ chiến dịch và triển khai từ key visual đến nội dung sân khấu và sản xuất tại chỗ, phục vụ hơn 800 lãnh đạo doanh nghiệp và nhân sự, 16 diễn giả, tại Landmark 81.",
 						period: "07/2023 — 01/2024"
 					},
 					entry4: {
-						role: "Senior Graphic Designer — VCCorp",
-						desc: "Thiết kế thương hiệu (Branding) cho ứng dụng, bài đăng mạng xã hội (Facebook, Instagram, Email...) và biển quảng cáo ngoài trời (OOH); linh hoạt nhiều phong cách từ pixel, cartoon đến hiện thực để đáp ứng từng nhu cầu dự án.",
-						period: "04/2022 — 2023"
+						role: "Senior Creative Art — VCCorp / Admicro",
+						desc: "Thực hiện các giải pháp thương hiệu và chiến dịch cho nhiều nền tảng khách hàng — từ ý tưởng, minh hoạ đến tài sản sản xuất hoàn chỉnh, đồng thời tư vấn chất lượng và tính nhất quán hình ảnh cho đội ngũ và khách hàng.",
+						period: "04/2022 — 04/2023"
 					},
 					entry5: {
-						role: "Creative Graphic Designer — Freelance",
-						desc: "Nhận các dự án thiết kế tự do về Graphic Design, Branding & Identity cho nhiều khách hàng khác nhau.",
-						period: "Từ 2017"
+						role: "Butterflynt, GreenHouse & STITCH Studio",
+						desc: "Illustration, nhận diện thương hiệu, nội dung số, hệ thống trình bày và hình ảnh sự kiện.",
+						period: "04/2020 — 05/2022"
+					},
+					entry6: {
+						role: "Independent Creative Practice — Freelance",
+						desc: "Các dự án nhận diện thương hiệu, chiến dịch, ra mắt sản phẩm và bán lẻ tự do, cho BIDV, Shuyi, Acecook Zeppin, Abbott, EZVIZ và JOMOO.",
+						period: "2017 — Hiện tại"
 					}
+				},
+				education: {
+					title: "Học vấn",
+					entry1: { role: "Cử nhân Graphic Design — Đại học Mỹ thuật TP.HCM", period: "2017 — 2021" },
+					entry2: { role: "Advanced Diploma in Multimedia (loại Giỏi) — FPT Arena Multimedia", period: "2016 — 2018" },
+					entry3: { role: "Advanced UX/UI với Figma (ColorME), Art Direction (Domestika), chuyên đề Branding (Coursera)", period: "2022 — 2024" }
+				},
+				awards: {
+					title: "Giải thưởng & Ngôn ngữ",
+					entry1: { role: "Giải Nhì — Cuộc thi thiết kế \"Redecorate Your Desktop\"", period: "2018" },
+					entry2: { role: "Giải Ba — Lập trình di động, Đại học Công nghệ Thông tin", period: "2017" },
+					languages: "Ngôn ngữ: Tiếng Việt, Tiếng Anh (B2), Tiếng Quan Thoại, Tiếng Quảng Đông"
 				},
 				testimonials: {
 					title: "Mọi người nói gì",
@@ -106,9 +126,9 @@
 				pageTitle: "Liên hệ — Shine Tu",
 				eyebrow: "Liên hệ",
 				title: "Hãy cùng tạo nên điều tuyệt vời!",
-				desc: "Bạn có dự án, ý tưởng hợp tác hay chỉ đơn giản muốn chào hỏi? Điền vào biểu mẫu bên dưới hoặc liên hệ trực tiếp qua email, LinkedIn, Behance hay Telegram của tôi.",
+				desc: "Bạn có dự án, ý tưởng hợp tác hay chỉ đơn giản muốn chào hỏi? Điền vào biểu mẫu bên dưới hoặc liên hệ trực tiếp qua email, điện thoại, LinkedIn, Behance hay Telegram của tôi.",
 				form: { name: "Họ và tên", subject: "Chủ đề", message: "Nội dung", submit: "Gửi tin nhắn" },
-				info: { locationLabel: "Địa điểm", locationValue: "Việt Nam", socialLabel: "Mạng xã hội" }
+				info: { locationLabel: "Địa điểm", locationValue: "Việt Nam", socialLabel: "Mạng xã hội", phoneLabel: "Điện thoại" }
 			}
 		},
 		en: {
@@ -130,7 +150,7 @@
 					btnAbout: "About me"
 				},
 				intro: {
-					p1: "From my first freelance projects back in 2017 to my current role as a Senior Graphic Designer at FireGroup Technology, I believe good design always starts with listening to the real story behind every brand, then turning it into something clear that truly connects.",
+					p1: "From my first freelance projects in 2017 to my current role as Brand & Creative Lead at FireGroup, I work from a first idea through to a complete visual system — always starting from the real story behind each brand.",
 					p2: "Outside of work, I enjoy experimenting with small ideas, writing about what I learn, and sharing it on my personal blog."
 				},
 				card1: { title: "View my work", desc: "Explore the projects I've built and the skills I've developed along the way.", btn: "See more" },
@@ -138,8 +158,10 @@
 				card3: { title: "Follow the journey", desc: "Read my latest posts about design, creativity, and life.", btn: "Read the blog" },
 				clients: {
 					title: "Worked with",
-					item1: "L'Oréal", item2: "Nestlé", item3: "Toshiba", item4: "Abbott",
-					item5: "KMS Technology", item6: "247 Express", item7: "Masan"
+					item1: "L'Oréal", item2: "Nestlé", item3: "Toshiba", item4: "Vichy",
+					item5: "La Roche-Posay", item6: "247 Express", item7: "GoGoX", item8: "Mirae Asset",
+					item9: "BIDV", item10: "Shuyi", item11: "Acecook Zeppin", item12: "Abbott",
+					item13: "EZVIZ", item14: "JOMOO"
 				}
 			},
 			portfolio: {
@@ -165,46 +187,64 @@
 				pageTitle: "About — Shine Tu",
 				eyebrow: "About",
 				heroTitle: "Hi, I'm Shine Tu.",
-				heroDesc: "I'm an Art Director / Senior Creative Designer with 7 years of experience serving diverse clients across industries, specializing in 2D graphic design aligned with commercial and marketing goals. I love turning ideas into real products, and I'm always looking to learn something new.",
+				heroDesc: "I'm an Art Director with 8 years of experience shaping brand identities, campaigns and digital experiences. My work starts from a first idea, moves through coherent visual systems, and carries all the way to its final form — always with a clear point of view and hands-on craft.",
 				btnContact: "Get in touch",
 				btnCV: "Download CV",
 				story: {
 					title: "My story",
-					p1: "My journey began back in 2017, taking on my first freelance design projects — learning by doing, and slowly finding my own voice in every sketch. From hand-drawn illustrations to branding campaigns running across social media and outdoor billboards, I came to understand that great design isn't about technique alone, but about turning a vague idea into an image that makes people pause.",
-					p2: "From a design role at VCCorp to leading a design team at TopCV Vietnam, I learned that the best creative work is always a team effort. Today, as a Senior Graphic Designer at FireGroup Technology, I carry that same spirit forward: every pixel I place should tell a story — one that's both beautiful and true to the business behind it."
+					p1: "I started in 2017 with my first freelance projects, then continued at Butterflynt, GreenHouse and STITCH Studio, VCCorp/Admicro, TopCV and KMS Technology — each one a different way of thinking about brand, campaign, and how an idea becomes a real image.",
+					p2: "I'm currently Brand & Creative Lead at FireGroup, setting visual direction for the company's products and community — from identity and web-app experiences to event environments and merchandise. I work hands-on with every detail, and let the results speak for the rest."
 				},
 				skills: {
 					title: "Skills",
-					item1: "Graphic Design", item2: "Branding", item3: "Hand-drawing",
-					item4: "UI Design", item5: "Adobe Creative Suite", item6: "Creative Direction"
+					item1: "Art Direction", item2: "Brand Systems", item3: "Campaign Direction",
+					item4: "Digital Experiences", item5: "Hand-drawing", item6: "Adobe Creative Suite",
+					item7: "AI-assisted Prototyping", item8: "HTML/CSS & GitHub"
 				},
 				experience: {
 					title: "Experience",
 					entry1: {
-						role: "Senior Graphic Designer — FireGroup Technology",
-						desc: "Graphic design for the company's digital products, focused on online graphics and image design.",
+						role: "Brand & Creative Lead — FireGroup",
+						desc: "Setting visual direction across TryOpenClaw, ClawExperts and Promer — from brand identity and web-app experiences to event environments, merchandise, social and post-production, working alongside Growth, Product and Engineering. Promer now serves 5,000+ merchants with 1M+ ads generated, at a 4.7★ Shopify rating.",
 						period: "Sep 2024 — Present"
 					},
 					entry2: {
-						role: "Senior Graphic Designer — KMS Technology, Inc. (Contract)",
-						desc: "Creative concept design for a short-term engagement.",
-						period: "Mar 2024 — Jun 2024"
+						role: "Senior Creative Contractor — KMS Technology",
+						desc: "Delivered campaign-based creative work under contract — illustration, key visuals, digital assets and a career landing page, partnering with the internal design team on timeline and quality.",
+						period: "Feb 2024 — Aug 2024"
 					},
 					entry3: {
-						role: "Team Leader of Graphic Design — TopCV Vietnam",
-						desc: "Led a team of 3 designers from concept to completion, managing timelines, resources, and budgets, giving feedback to keep quality consistent, and building a collaborative, creative team culture.",
+						role: "Design Team Lead — TopCV Vietnam",
+						desc: "Led a 5-person design team through a six-month engagement for HR Tech Conference 2023 — developing the campaign language and carrying it from key visual through stage content and on-site production, for 800+ business and HR leaders and 16 speakers at Landmark 81.",
 						period: "Jul 2023 — Jan 2024"
 					},
 					entry4: {
-						role: "Senior Graphic Designer — VCCorp",
-						desc: "Branding design for apps, social media posts (Facebook, Instagram, Email...), and outdoor advertising (OOH); working flexibly across styles from pixel art to cartoon to realistic illustration depending on the project.",
-						period: "Apr 2022 — 2023"
+						role: "Senior Creative Art — VCCorp / Admicro",
+						desc: "Created brand and campaign solutions across multiple client platforms — from concepts and illustration to production-ready assets, advising teams and clients on quality and visual consistency.",
+						period: "Apr 2022 — Apr 2023"
 					},
 					entry5: {
-						role: "Creative Graphic Designer — Freelance",
-						desc: "Freelance graphic design and branding & identity projects for a range of clients.",
-						period: "Since 2017"
+						role: "Butterflynt, GreenHouse & STITCH Studio",
+						desc: "Illustration, brand identity, digital content, presentation systems and event visuals.",
+						period: "Apr 2020 — May 2022"
+					},
+					entry6: {
+						role: "Independent Creative Practice — Freelance",
+						desc: "Ongoing freelance identity, campaign, launch and retail work for BIDV, Shuyi, Acecook Zeppin, Abbott, EZVIZ and JOMOO.",
+						period: "2017 — Present"
 					}
+				},
+				education: {
+					title: "Education",
+					entry1: { role: "Bachelor of Arts in Graphic Design — Ho Chi Minh City University of Fine Arts", period: "2017 — 2021" },
+					entry2: { role: "Advanced Diploma in Multimedia, Distinction Grade — FPT Arena Multimedia", period: "2016 — 2018" },
+					entry3: { role: "Advanced UX/UI with Figma (ColorME), Art Direction (Domestika), Branding specialization (Coursera)", period: "2022 — 2024" }
+				},
+				awards: {
+					title: "Awards & Languages",
+					entry1: { role: "Second Prize — \"Redecorate Your Desktop\" Desktop Wallpaper Design Contest", period: "2018" },
+					entry2: { role: "Third Prize — Mobile Programming, University of Information Technology", period: "2017" },
+					languages: "Languages: Vietnamese, English (B2), Mandarin, Cantonese"
 				},
 				testimonials: {
 					title: "What people say",
@@ -216,9 +256,9 @@
 				pageTitle: "Contact — Shine Tu",
 				eyebrow: "Contact",
 				title: "Let's make great things together!",
-				desc: "Have a project, a collaboration idea, or just want to say hi? Fill out the form below or reach out directly via email, LinkedIn, Behance, or Telegram.",
+				desc: "Have a project, a collaboration idea, or just want to say hi? Fill out the form below or reach out directly via email, phone, LinkedIn, Behance, or Telegram.",
 				form: { name: "Full name", subject: "Subject", message: "Message", submit: "Send message" },
-				info: { locationLabel: "Location", locationValue: "Vietnam", socialLabel: "Social" }
+				info: { locationLabel: "Location", locationValue: "Vietnam", socialLabel: "Social", phoneLabel: "Phone" }
 			}
 		}
 	};
