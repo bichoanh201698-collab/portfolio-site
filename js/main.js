@@ -37,7 +37,7 @@
 			portfolio: {
 				pageTitle: "Portfolio — Shine Tu",
 				eyebrow: "Sản phẩm của tôi",
-				desc: "Tổng hợp những dự án tôi đã tự tay thực hiện — từ thiết kế, phát triển sản phẩm đến các thử nghiệm cá nhân.",
+				desc: "Tuyển chọn các dự án nhận diện thương hiệu, chiến dịch và trải nghiệm số tôi đã trực tiếp thực hiện, từ concept đầu tiên đến sản phẩm hoàn chỉnh.",
 				itemDesc: "Mô tả ngắn gọn về dự án: bài toán cần giải quyết, vai trò của bạn và kết quả đạt được.",
 				viewDetails: "Xem chi tiết",
 				item1: { title: "Dự án số 01", tag1: "Thiết kế UI", tag2: "Web" },
@@ -167,7 +167,7 @@
 			portfolio: {
 				pageTitle: "Portfolio — Shine Tu",
 				eyebrow: "My Work",
-				desc: "A collection of projects I've built myself — from design and product development to personal experiments.",
+				desc: "A selection of brand, campaign and digital experience projects I've worked on directly, from first concept to finished product.",
 				itemDesc: "Short project description: the problem you solved, your role, and the outcome.",
 				viewDetails: "View details",
 				item1: { title: "Project 01", tag1: "UI Design", tag2: "Web" },

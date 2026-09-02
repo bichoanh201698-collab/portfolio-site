@@ -13,12 +13,45 @@
     "link": "#",
     "image": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thiết kế banner và poster cho BIDV Awards 2025 — sự kiện vinh danh nội bộ của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV), một trong bốn ngân hàng thương mại quốc doanh lớn nhất cả nước.", "text_en": "Designed banners and posters for BIDV Awards 2025, an internal recognition event held by the Bank for Investment and Development of Vietnam (BIDV), one of the country's four largest state-owned commercial banks." },
-      { "id": "b2", "type": "text", "text_vi": "Bộ thiết kế được xây dựng để sử dụng linh hoạt trên nhiều kênh — in ấn và kỹ thuật số — với hệ thống màu sắc, bố cục và hình ảnh thống nhất xuyên suốt các ấn phẩm.", "text_en": "The design set was built for flexible use across channels — print and digital — with a consistent color system, layout and imagery running through every piece." },
-      { "id": "b3", "type": "text", "text_vi": "Các hạng mục bàn giao: poster in ấn, banner kỹ thuật số (website và mạng xã hội), và bộ hình ảnh thương hiệu đồng nhất.", "text_en": "Deliverables: print posters, digital banners (website and social media), and a unified set of brand graphics." },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-04.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thiết kế banner và poster cho BIDV Awards 2025 — sự kiện vinh danh nội bộ của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV), một trong bốn ngân hàng thương mại quốc doanh lớn nhất cả nước.",
+        "text_en": "Designed banners and posters for BIDV Awards 2025, an internal recognition event held by the Bank for Investment and Development of Vietnam (BIDV), one of the country's four largest state-owned commercial banks."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Bộ thiết kế được xây dựng để sử dụng linh hoạt trên nhiều kênh — in ấn và kỹ thuật số — với hệ thống màu sắc, bố cục và hình ảnh thống nhất xuyên suốt các ấn phẩm.",
+        "text_en": "The design set was built for flexible use across channels — print and digital — with a consistent color system, layout and imagery running through every piece."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Các hạng mục bàn giao: poster in ấn, banner kỹ thuật số (website và mạng xã hội), và bộ hình ảnh thương hiệu đồng nhất.",
+        "text_en": "Deliverables: print posters, digital banners (website and social media), and a unified set of brand graphics."
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -35,10 +68,32 @@
     "link": "#",
     "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thực hiện key visual cho VinWonders, xây dựng trên bản sắc thương hiệu công viên giải trí toàn quốc thuộc Vingroup.", "text_en": "Designed the key visual for VinWonders, built around its identity as a nationwide theme park and entertainment brand under Vingroup." },
-      { "id": "b2", "type": "text", "text_vi": "VinWonders là thương hiệu công viên giải trí thuộc Vingroup, với các điểm đến tại Phú Quốc, Nha Trang, Hội An, Hải Phòng và Nam Hội An. VinWonders Phú Quốc là công viên giải trí lớn nhất Việt Nam, chia thành sáu phân khu theo mười hai chủ đề.", "text_en": "VinWonders is Vingroup's theme park and entertainment brand, with locations in Phu Quoc, Nha Trang, Hoi An, Hai Phong and Nam Hoi An. VinWonders Phu Quoc is the largest theme park in Vietnam, divided into six zones across twelve themes." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/02-vinwonders-master-key-visuals-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/02-vinwonders-master-key-visuals-03.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thực hiện key visual cho VinWonders, xây dựng trên bản sắc thương hiệu công viên giải trí toàn quốc thuộc Vingroup.",
+        "text_en": "Designed the key visual for VinWonders, built around its identity as a nationwide theme park and entertainment brand under Vingroup."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "VinWonders là thương hiệu công viên giải trí thuộc Vingroup, với các điểm đến tại Phú Quốc, Nha Trang, Hội An, Hải Phòng và Nam Hội An. VinWonders Phú Quốc là công viên giải trí lớn nhất Việt Nam, chia thành sáu phân khu theo mười hai chủ đề.",
+        "text_en": "VinWonders is Vingroup's theme park and entertainment brand, with locations in Phu Quoc, Nha Trang, Hoi An, Hai Phong and Nam Hoi An. VinWonders Phu Quoc is the largest theme park in Vietnam, divided into six zones across twelve themes."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/02-vinwonders-master-key-visuals-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/02-vinwonders-master-key-visuals-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -55,12 +110,46 @@
     "link": "#",
     "image": "/assets/uploads/03-my-digital-artworks.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Bộ sưu tập minh họa phong cách chibi — động vật, đồ ăn và con người. Phần lớn được thực hiện trong thời gian rảnh, nhận vẽ theo yêu cầu.", "text_en": "A collection of chibi-style illustrations — animals, food and people. Most pieces were made in personal time; custom work is available on request." },
-      { "id": "b2", "type": "text", "text_vi": "Bộ sưu tập gồm các nhân vật phong cách chibi — động vật, đồ ăn và con người. Phần lớn minh họa được thực hiện trong thời gian rảnh, một số ít là các đơn đặt vẽ riêng.", "text_en": "The collection features chibi-style characters — animals, food and people. Most illustrations here were made in free time; a smaller number were custom commissions." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/03-my-digital-artworks-05.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Bộ sưu tập minh họa phong cách chibi — động vật, đồ ăn và con người. Phần lớn được thực hiện trong thời gian rảnh, nhận vẽ theo yêu cầu.",
+        "text_en": "A collection of chibi-style illustrations — animals, food and people. Most pieces were made in personal time; custom work is available on request."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Bộ sưu tập gồm các nhân vật phong cách chibi — động vật, đồ ăn và con người. Phần lớn minh họa được thực hiện trong thời gian rảnh, một số ít là các đơn đặt vẽ riêng.",
+        "text_en": "The collection features chibi-style characters — animals, food and people. Most illustrations here were made in free time; a smaller number were custom commissions."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -77,18 +166,87 @@
     "link": "#",
     "image": "/assets/uploads/04-247-express-mascot-design.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thiết kế mascot shipper phong cách chibi nhằm tạo hình ảnh riêng biệt, dễ nhận diện cho thương hiệu tại các điểm tiếp xúc khách hàng.", "text_en": "Designed a chibi shipper mascot to give the brand a distinct, recognizable character across its customer touchpoints." },
-      { "id": "b2", "type": "text", "text_vi": "247Express (Công ty CP Hai Bốn Bảy) hoạt động trong lĩnh vực giao nhận từ năm 2005, cung cấp dịch vụ chuyển phát nhanh trong nước và quốc tế. Công ty vận hành gần 200 bưu cục tại 34 tỉnh thành với khoảng 2.000 nhân sự, và nằm trong Top 5 công ty logistics uy tín năm 2022.", "text_en": "247Express (Hai Bon Bay JSC) has operated in domestic and international delivery since 2005. The company runs close to 200 post offices across 34 provinces with around 2,000 staff, and was named among Vietnam's Top 5 trusted logistics companies in 2022." },
-      { "id": "b3", "type": "text", "text_vi": "Mascot đóng vai trò hình ảnh đại diện, xuất hiện trên các ấn phẩm truyền thông và điểm tiếp xúc khách hàng của thương hiệu.", "text_en": "The mascot appears across the brand's communication materials and customer touchpoints as a consistent visual character." },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-05.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-09.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/04-247-express-mascot-design-10.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thiết kế mascot shipper phong cách chibi nhằm tạo hình ảnh riêng biệt, dễ nhận diện cho thương hiệu tại các điểm tiếp xúc khách hàng.",
+        "text_en": "Designed a chibi shipper mascot to give the brand a distinct, recognizable character across its customer touchpoints."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "247Express (Công ty CP Hai Bốn Bảy) hoạt động trong lĩnh vực giao nhận từ năm 2005, cung cấp dịch vụ chuyển phát nhanh trong nước và quốc tế. Công ty vận hành gần 200 bưu cục tại 34 tỉnh thành với khoảng 2.000 nhân sự, và nằm trong Top 5 công ty logistics uy tín năm 2022.",
+        "text_en": "247Express (Hai Bon Bay JSC) has operated in domestic and international delivery since 2005. The company runs close to 200 post offices across 34 provinces with around 2,000 staff, and was named among Vietnam's Top 5 trusted logistics companies in 2022."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Mascot đóng vai trò hình ảnh đại diện, xuất hiện trên các ấn phẩm truyền thông và điểm tiếp xúc khách hàng của thương hiệu.",
+        "text_en": "The mascot appears across the brand's communication materials and customer touchpoints as a consistent visual character."
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -105,30 +263,172 @@
     "link": "#",
     "image": "/assets/uploads/05-nestle-posm-2019.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Phụ trách thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé — đối chiếu thành phẩm in ấn với bản thiết kế trước khi triển khai tại điểm bán.", "text_en": "Responsible for POSM design and production quality control on Nestlé campaigns — checking printed materials against design specs before store rollout." },
-      { "id": "b2", "type": "text", "text_vi": "Công việc bao gồm nghiệm thu POSM tại xưởng in — kiểm tra màu sắc, chất liệu và độ hoàn thiện trước khi vật phẩm được đưa vào hệ thống điểm bán.", "text_en": "The work involved on-site acceptance testing of printed POSM — checking color accuracy, material and finishing before materials were released to retail points." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-05.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-06.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-07.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-08.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-09.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-10.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-11.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-12.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-13.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-14.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-15.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-16.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-17.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-18.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-19.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-20.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-21.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-22.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/05-nestle-posm-2019-23.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Phụ trách thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé — đối chiếu thành phẩm in ấn với bản thiết kế trước khi triển khai tại điểm bán.",
+        "text_en": "Responsible for POSM design and production quality control on Nestlé campaigns — checking printed materials against design specs before store rollout."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Công việc bao gồm nghiệm thu POSM tại xưởng in — kiểm tra màu sắc, chất liệu và độ hoàn thiện trước khi vật phẩm được đưa vào hệ thống điểm bán.",
+        "text_en": "The work involved on-site acceptance testing of printed POSM — checking color accuracy, material and finishing before materials were released to retail points."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-12.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-17.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-19.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-20.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-21.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-23.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -145,31 +445,180 @@
     "link": "#",
     "image": "/assets/uploads/06-hr-tech-conference-2023.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Nhận nhiệm vụ có thời hạn, dẫn dắt đội ngũ thiết kế 5 người cho HR Tech Conference 2023 do TopCV tổ chức. Hội nghị diễn ra theo hình thức hybrid tại Landmark 81, quy tụ hơn 800 lãnh đạo doanh nghiệp và nhân sự cùng 16 diễn giả. Phát triển ngôn ngữ hình ảnh cho chiến dịch và dẫn dắt công việc từ key visual, triển khai, chuẩn bị không gian sự kiện đến sản xuất hoàn thiện.", "text_en": "Fixed-term engagement leading a five-person design team for HR Tech Conference 2023, organized by TopCV. The conference was held in hybrid format at Landmark 81, bringing together more than 800 business and HR leaders and 16 speakers. Developed the campaign's visual language and guided the work from key visual through rollout, venue preparation and final production." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-10.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-14.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-15.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-16.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-17.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-18.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-19.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-20.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-21.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-22.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-23.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-24.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b25", "type": "image", "src": "/assets/uploads/06-hr-tech-conference-2023-25.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Nhận nhiệm vụ có thời hạn, dẫn dắt đội ngũ thiết kế 5 người cho HR Tech Conference 2023 do TopCV tổ chức. Hội nghị diễn ra theo hình thức hybrid tại Landmark 81, quy tụ hơn 800 lãnh đạo doanh nghiệp và nhân sự cùng 16 diễn giả. Phát triển ngôn ngữ hình ảnh cho chiến dịch và dẫn dắt công việc từ key visual, triển khai, chuẩn bị không gian sự kiện đến sản xuất hoàn thiện.",
+        "text_en": "Fixed-term engagement leading a five-person design team for HR Tech Conference 2023, organized by TopCV. The conference was held in hybrid format at Landmark 81, bringing together more than 800 business and HR leaders and 16 speakers. Developed the campaign's visual language and guided the work from key visual through rollout, venue preparation and final production."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-19.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-20.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-21.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-23.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-24.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/06-hr-tech-conference-2023-25.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -186,31 +635,180 @@
     "link": "#",
     "image": "/assets/uploads/07-de-skin-journey-freelance.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Bộ dự án thiết kế đồ họa cho De Skin Journey, thương hiệu chăm sóc da định vị theo hướng bền vững và khoa học. Công việc bao gồm làm mới nhận diện hình ảnh, thiết kế ấn phẩm in và hình ảnh mạng xã hội, bám theo định hướng giá trị và sứ mệnh thương hiệu đã có.", "text_en": "A collection of graphic design work for De Skin Journey, a skincare brand positioned around sustainability and science-based care. The work covered visual identity renewal, print design and social media graphics, built around the brand's existing values and positioning." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-06.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-14.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-15.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-16.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-17.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-18.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-19.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-20.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-21.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-22.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-23.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-24.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b25", "type": "image", "src": "/assets/uploads/07-de-skin-journey-freelance-25.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Bộ dự án thiết kế đồ họa cho De Skin Journey, thương hiệu chăm sóc da định vị theo hướng bền vững và khoa học. Công việc bao gồm làm mới nhận diện hình ảnh, thiết kế ấn phẩm in và hình ảnh mạng xã hội, bám theo định hướng giá trị và sứ mệnh thương hiệu đã có.",
+        "text_en": "A collection of graphic design work for De Skin Journey, a skincare brand positioned around sustainability and science-based care. The work covered visual identity renewal, print design and social media graphics, built around the brand's existing values and positioning."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-18.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-19.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-20.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-21.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-23.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-24.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-25.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -227,12 +825,47 @@
     "link": "#",
     "image": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Hợp tác cùng Furin Creative Lab, thực hiện phác thảo dáng tạo hình kỹ thuật số cho buổi chụp ảnh sản phẩm Zeppin, định hướng giải phẫu và tư thế người mẫu cho từng khung hình sản phẩm mì ăn liền Nhật Bản.", "text_en": "As a collaborator with Furin Creative Lab, provided digital posing sketches for the Zeppin photoshoot, guiding the model's anatomy and pose for each shot of the Japanese instant-noodle product." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-05.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-06.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Hợp tác cùng Furin Creative Lab, thực hiện phác thảo dáng tạo hình kỹ thuật số cho buổi chụp ảnh sản phẩm Zeppin, định hướng giải phẫu và tư thế người mẫu cho từng khung hình sản phẩm mì ăn liền Nhật Bản.",
+        "text_en": "As a collaborator with Furin Creative Lab, provided digital posing sketches for the Zeppin photoshoot, guiding the model's anatomy and pose for each shot of the Japanese instant-noodle product."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -249,8 +882,20 @@
     "link": "https://www.behance.net/gallery/203515273/FinanceBanking-Mobile-App-Design",
     "image": "/assets/uploads/09-finance-banking-mobile-app-design.png",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/09-finance-banking-mobile-app-design-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/09-finance-banking-mobile-app-design-03.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/09-finance-banking-mobile-app-design-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/09-finance-banking-mobile-app-design-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -267,32 +912,180 @@
     "link": "#",
     "image": "/assets/uploads/10-yunyi-logo-guidelines.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thiết kế logo cho một công ty dịch thuật tiếng Trung có tên 云译, nghĩa là \"Dịch thuật Đám mây\".", "text_en": "Designed a logo for a Chinese translation company named 云译, meaning 'Cloud Translation'." },
-      { "id": "b2", "type": "text", "text_vi": "Cái tên được lấy cảm hứng từ khái niệm điện toán đám mây, nơi dữ liệu được lưu trữ và xử lý trên các máy chủ từ xa, thay vì trên máy chủ tại chỗ.", "text_en": "The name was inspired by the concept of cloud computing, where data is stored and processed on remote servers, as opposed to on-premise servers." },
-      { "id": "b3", "type": "text", "text_vi": "Khách hàng mong muốn một logo truyền tải được sự hiện đại, đổi mới và đáng tin cậy.", "text_en": "The client wanted a logo that would convey a sense of modernity, innovation, and reliability." },
-      { "id": "b4", "type": "text", "text_vi": "Logo kết hợp thẩm mỹ hiện đại với thư pháp truyền thống Trung Hoa, dựa trên nghiên cứu về kiểu chữ và các yếu tố thiết kế truyền thống.", "text_en": "The logo combines modern aesthetics with traditional Chinese calligraphy, drawing on research into Chinese typography and traditional design elements." },
-      { "id": "b5", "type": "text", "text_vi": "Màu xanh dương đậm đại diện cho sự tin cậy, tính chuyên nghiệp và bầu trời — thường được liên tưởng đến đám mây.", "text_en": "The bold blue represents trust, professionalism and the sky, commonly associated with clouds." },
-      { "id": "b6", "type": "text", "text_vi": "Logo có hình dạng đám mây cách điệu với tên công ty được viết bằng chữ thư pháp bên dưới.", "text_en": "The logo features a stylized cloud shape with the company name written in calligraphic script underneath it." },
-      { "id": "b7", "type": "text", "text_vi": "Bàn giao để sử dụng trên website, danh thiếp và các ấn phẩm thương hiệu khác của khách hàng.", "text_en": "Delivered for use across the client's website, business cards and other brand materials." },
-      { "id": "b8", "type": "text", "text_vi": "Logo là một phần trong bộ hướng dẫn sử dụng ngắn gọn, quy định về màu sắc, khoảng cách an toàn và cách áp dụng trên các ấn phẩm của công ty.", "text_en": "The logo is part of a short guideline set covering color, clear space and usage across the company's materials." },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-14.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-15.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-16.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-17.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b25", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-18.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b26", "type": "image", "src": "/assets/uploads/10-yunyi-logo-guidelines-19.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thiết kế logo cho một công ty dịch thuật tiếng Trung có tên 云译, nghĩa là \"Dịch thuật Đám mây\".",
+        "text_en": "Designed a logo for a Chinese translation company named 云译, meaning 'Cloud Translation'."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Cái tên được lấy cảm hứng từ khái niệm điện toán đám mây, nơi dữ liệu được lưu trữ và xử lý trên các máy chủ từ xa, thay vì trên máy chủ tại chỗ.",
+        "text_en": "The name was inspired by the concept of cloud computing, where data is stored and processed on remote servers, as opposed to on-premise servers."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Khách hàng mong muốn một logo truyền tải được sự hiện đại, đổi mới và đáng tin cậy.",
+        "text_en": "The client wanted a logo that would convey a sense of modernity, innovation, and reliability."
+      },
+      {
+        "id": "b4",
+        "type": "text",
+        "text_vi": "Logo kết hợp thẩm mỹ hiện đại với thư pháp truyền thống Trung Hoa, dựa trên nghiên cứu về kiểu chữ và các yếu tố thiết kế truyền thống.",
+        "text_en": "The logo combines modern aesthetics with traditional Chinese calligraphy, drawing on research into Chinese typography and traditional design elements."
+      },
+      {
+        "id": "b5",
+        "type": "text",
+        "text_vi": "Màu xanh dương đậm đại diện cho sự tin cậy, tính chuyên nghiệp và bầu trời — thường được liên tưởng đến đám mây.",
+        "text_en": "The bold blue represents trust, professionalism and the sky, commonly associated with clouds."
+      },
+      {
+        "id": "b6",
+        "type": "text",
+        "text_vi": "Logo có hình dạng đám mây cách điệu với tên công ty được viết bằng chữ thư pháp bên dưới.",
+        "text_en": "The logo features a stylized cloud shape with the company name written in calligraphic script underneath it."
+      },
+      {
+        "id": "b7",
+        "type": "text",
+        "text_vi": "Bàn giao để sử dụng trên website, danh thiếp và các ấn phẩm thương hiệu khác của khách hàng.",
+        "text_en": "Delivered for use across the client's website, business cards and other brand materials."
+      },
+      {
+        "id": "b8",
+        "type": "text",
+        "text_vi": "Logo là một phần trong bộ hướng dẫn sử dụng ngắn gọn, quy định về màu sắc, khoảng cách an toàn và cách áp dụng trên các ấn phẩm của công ty.",
+        "text_en": "The logo is part of a short guideline set covering color, clear space and usage across the company's materials."
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-18.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b26",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-19.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -309,34 +1102,198 @@
     "link": "#",
     "image": "/assets/uploads/11-vichy-laboratoires.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thực hiện thiết kế hình ảnh cho Vichy (L'Oréal). Vichy khai sinh khái niệm mỹ phẩm dược liệu (dermocosmetics) vào năm 1931 và duy trì hơn 80 năm nghiên cứu chuyên sâu, tiếp nối di sản của người sáng lập — Bác sĩ Haller.", "text_en": "Visual design work for Vichy (L'Oréal). Vichy invented the concept of dermocosmetics in 1931 and has continued over 80 years of research since, building on the legacy of its founder, Dr Haller." },
-      { "id": "b2", "type": "text", "text_vi": "Thương hiệu mang đến các giải pháp được thiết kế phù hợp với nhiều lối sống và loại da khác nhau, đồng hành cùng phụ nữ qua từng giai đoạn cuộc đời.", "text_en": "It offers solutions designed for different lifestyles and skin types, accompanying women throughout each stage of their life." },
-      { "id": "b3", "type": "text", "text_vi": "Các công thức độc đáo của Vichy kết hợp nước khoáng suối nóng giàu khoáng chất với các thành phần da liễu nổi tiếng, được lựa chọn riêng cho từng nhu cầu của làn da.", "text_en": "Vichy's unique formulations combine mineral rich thermal spa water with renowned dermatological ingredients selected for each individual skin need." },
-      { "id": "b4", "type": "text", "text_vi": "Tin vào sức khỏe nghĩa là nhìn nhận làn da theo một cách riêng biệt. Vichy tin rằng sức khỏe là con đường hiệu quả, an toàn và tiên tiến nhất để đạt được vẻ đẹp bền vững, và vẻ đẹp thực sự bắt nguồn từ một làn da khỏe mạnh.", "text_en": "Believing in health, means looking at skin in a unique way. They believe that health is the most effective, secure and advanced path to sustainable beauty and that true beauty stems from healthy-looking skin." },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-05.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-08.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-10.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-14.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-15.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-16.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-17.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-18.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-19.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-20.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-21.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b25", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-22.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b26", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-23.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b27", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-24.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b28", "type": "image", "src": "/assets/uploads/11-vichy-laboratoires-25.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thực hiện thiết kế hình ảnh cho Vichy (L'Oréal). Vichy khai sinh khái niệm mỹ phẩm dược liệu (dermocosmetics) vào năm 1931 và duy trì hơn 80 năm nghiên cứu chuyên sâu, tiếp nối di sản của người sáng lập — Bác sĩ Haller.",
+        "text_en": "Visual design work for Vichy (L'Oréal). Vichy invented the concept of dermocosmetics in 1931 and has continued over 80 years of research since, building on the legacy of its founder, Dr Haller."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Thương hiệu mang đến các giải pháp được thiết kế phù hợp với nhiều lối sống và loại da khác nhau, đồng hành cùng phụ nữ qua từng giai đoạn cuộc đời.",
+        "text_en": "It offers solutions designed for different lifestyles and skin types, accompanying women throughout each stage of their life."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Các công thức độc đáo của Vichy kết hợp nước khoáng suối nóng giàu khoáng chất với các thành phần da liễu nổi tiếng, được lựa chọn riêng cho từng nhu cầu của làn da.",
+        "text_en": "Vichy's unique formulations combine mineral rich thermal spa water with renowned dermatological ingredients selected for each individual skin need."
+      },
+      {
+        "id": "b4",
+        "type": "text",
+        "text_vi": "Tin vào sức khỏe nghĩa là nhìn nhận làn da theo một cách riêng biệt. Vichy tin rằng sức khỏe là con đường hiệu quả, an toàn và tiên tiến nhất để đạt được vẻ đẹp bền vững, và vẻ đẹp thực sự bắt nguồn từ một làn da khỏe mạnh.",
+        "text_en": "Believing in health, means looking at skin in a unique way. They believe that health is the most effective, secure and advanced path to sustainable beauty and that true beauty stems from healthy-looking skin."
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-17.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-19.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-20.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-21.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-22.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b26",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-23.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b27",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-24.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b28",
+        "type": "image",
+        "src": "/assets/uploads/11-vichy-laboratoires-25.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -353,19 +1310,96 @@
     "link": "#",
     "image": "/assets/uploads/12-beauty-clinic-collection.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thiết kế bài đăng mạng xã hội cho các thương hiệu làm đẹp và phòng khám trong giai đoạn 2019–2022 — The Han, Sian Skin Clinic và Bến Thành Clinic — trải rộng từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa trên kênh mạng xã hội của từng thương hiệu.", "text_en": "Social media post designs for beauty and clinic brands between 2019 and 2022 — The Han, Sian Skin Clinic and Ben Thanh Clinic — covering skincare, cosmetics and medical treatments across each brand's social channels." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/12-beauty-clinic-collection-13.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thiết kế bài đăng mạng xã hội cho các thương hiệu làm đẹp và phòng khám trong giai đoạn 2019–2022 — The Han, Sian Skin Clinic và Bến Thành Clinic — trải rộng từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa trên kênh mạng xã hội của từng thương hiệu.",
+        "text_en": "Social media post designs for beauty and clinic brands between 2019 and 2022 — The Han, Sian Skin Clinic and Ben Thanh Clinic — covering skincare, cosmetics and medical treatments across each brand's social channels."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/12-beauty-clinic-collection-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -382,35 +1416,205 @@
     "link": "https://www.shuyisxc.com/",
     "image": "/assets/uploads/13-shuyi-vietnam.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Tổng quan thương hiệu: Shuyi — 7000 cửa hàng trên toàn quốc.", "text_en": "Brand Overview: Shuyi: 7000 stores nationwide" },
-      { "id": "b2", "type": "text", "text_vi": "Từ năm 2007 đến 2023, Shuyi đã phát triển từ một cửa hàng lên đến 7000 cửa hàng trên toàn quốc. Thương hiệu chuyển mình từ 85°Tea thành Shuyi, biểu trưng cho sự chuyển đổi từ khởi nghiệp đơn lẻ sang khởi nghiệp tập thể. Với cam kết bền vững về chất lượng và đổi mới, Shuyi hướng đến mang lại trải nghiệm mới mẻ về đồ uống trà lành mạnh cho lối sống hiện đại.", "text_en": "From 2007 to 2023, Shuyi grew from one store to 7000 nationwide. It evolved from 85°Tea to Shuyi, symbolizing a transition from solo to collective entrepreneurship. With a steadfast commitment to quality and innovation, Shuyi aims to provide a fresh experience of healthy tea drinks for modern lifestyles." },
-      { "id": "b3", "type": "text", "text_vi": "Năm 2022, thương hiệu nhận được khoản đầu tư gần 1 tỷ nhân dân tệ, củng cố vị thế dẫn đầu trong ngành. Ngày nay, với tám chi nhánh, năm văn phòng và hàng nghìn đối tác nhượng quyền, Shuyi Burnt Grass là một nền tảng khởi nghiệp đang phát triển mạnh mẽ.", "text_en": "In 2022, it secured nearly 1 billion yuan investment, consolidating its leadership position in the industry. Today, with eight branches, five offices, and thousands of franchise partners, Shuyi Burnt Grass stands as a thriving entrepreneurial platform." },
-      { "id": "b4", "type": "text", "text_vi": "Đảm nhận vai trò nhà thiết kế freelance cho Shuyi tại thị trường Việt Nam, phụ trách xây dựng bản sắc thị giác cho sự hiện diện của thương hiệu trong giai đoạn mở rộng.", "text_en": "Worked as a freelance designer on Shuyi's presence in the Vietnamese market, developing the visual identity for the brand's local expansion." },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-11.gif", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-14.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-15.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-16.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-17.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-18.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-19.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-20.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-21.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b25", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-22.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b26", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-23.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b27", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-24.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b28", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-25.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b29", "type": "image", "src": "/assets/uploads/13-shuyi-vietnam-26.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Tổng quan thương hiệu: Shuyi — 7000 cửa hàng trên toàn quốc.",
+        "text_en": "Brand Overview: Shuyi: 7000 stores nationwide"
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Từ năm 2007 đến 2023, Shuyi đã phát triển từ một cửa hàng lên đến 7000 cửa hàng trên toàn quốc. Thương hiệu chuyển mình từ 85°Tea thành Shuyi, biểu trưng cho sự chuyển đổi từ khởi nghiệp đơn lẻ sang khởi nghiệp tập thể. Với cam kết bền vững về chất lượng và đổi mới, Shuyi hướng đến mang lại trải nghiệm mới mẻ về đồ uống trà lành mạnh cho lối sống hiện đại.",
+        "text_en": "From 2007 to 2023, Shuyi grew from one store to 7000 nationwide. It evolved from 85°Tea to Shuyi, symbolizing a transition from solo to collective entrepreneurship. With a steadfast commitment to quality and innovation, Shuyi aims to provide a fresh experience of healthy tea drinks for modern lifestyles."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Năm 2022, thương hiệu nhận được khoản đầu tư gần 1 tỷ nhân dân tệ, củng cố vị thế dẫn đầu trong ngành. Ngày nay, với tám chi nhánh, năm văn phòng và hàng nghìn đối tác nhượng quyền, Shuyi Burnt Grass là một nền tảng khởi nghiệp đang phát triển mạnh mẽ.",
+        "text_en": "In 2022, it secured nearly 1 billion yuan investment, consolidating its leadership position in the industry. Today, with eight branches, five offices, and thousands of franchise partners, Shuyi Burnt Grass stands as a thriving entrepreneurial platform."
+      },
+      {
+        "id": "b4",
+        "type": "text",
+        "text_vi": "Đảm nhận vai trò nhà thiết kế freelance cho Shuyi tại thị trường Việt Nam, phụ trách xây dựng bản sắc thị giác cho sự hiện diện của thương hiệu trong giai đoạn mở rộng.",
+        "text_en": "Worked as a freelance designer on Shuyi's presence in the Vietnamese market, developing the visual identity for the brand's local expansion."
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-11.gif",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-18.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-19.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-20.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-21.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-22.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b26",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-23.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b27",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-24.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b28",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-25.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b29",
+        "type": "image",
+        "src": "/assets/uploads/13-shuyi-vietnam-26.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -427,8 +1631,20 @@
     "link": "https://www.behance.net/gallery/203505649/UIUX-KMS-Career-Landing-Page-Design",
     "image": "/assets/uploads/14-uiux-kms-career-landing-page.png",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/14-uiux-kms-career-landing-page-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/14-uiux-kms-career-landing-page-03.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/14-uiux-kms-career-landing-page-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/14-uiux-kms-career-landing-page-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -445,30 +1661,174 @@
     "link": "#",
     "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-05.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-06.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-07.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-08.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-09.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-10.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-11.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-13.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-14.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-15.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-16.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-17.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-18.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-19.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-20.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-21.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-22.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-23.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-24.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-25.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-17.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-19.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-20.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-21.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-23.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-24.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-25.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -485,15 +1845,67 @@
     "link": "#",
     "image": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Bản nháp banner và icon đồ họa thực hiện cho Abbott để hỗ trợ ra mắt sản phẩm dinh dưỡng \"Ensure Gold\". Công việc tập trung chuyển các lợi ích và tính năng sản phẩm thành hệ thống hình ảnh và icon rõ ràng, dễ đọc.", "text_en": "Draft graphic banners and icons created for Abbott to support the launch of the \"Ensure Gold\" nutrition product. The work focused on translating product benefits and features into a clear, legible visual and icon system." },
-      { "id": "b2", "type": "text", "text_vi": "Dự án này hiện chưa được công bố đầy đủ, mọi quyền được bảo lưu. Các thiết kế và ý tưởng ở đây chỉ nhằm mục đích xem trước, không được sử dụng hoặc sao chép khi chưa có sự cho phép của chủ sở hữu. Mọi hành vi sử dụng hoặc phát tán trái phép đều bị nghiêm cấm.", "text_en": "This project is not yet fully published; all rights are reserved. The designs and concepts shown are for preview only and may not be used or reproduced without the owner's permission. Unauthorized use or distribution is prohibited." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-08.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Bản nháp banner và icon đồ họa thực hiện cho Abbott để hỗ trợ ra mắt sản phẩm dinh dưỡng \"Ensure Gold\". Công việc tập trung chuyển các lợi ích và tính năng sản phẩm thành hệ thống hình ảnh và icon rõ ràng, dễ đọc.",
+        "text_en": "Draft graphic banners and icons created for Abbott to support the launch of the \"Ensure Gold\" nutrition product. The work focused on translating product benefits and features into a clear, legible visual and icon system."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Dự án này hiện chưa được công bố đầy đủ, mọi quyền được bảo lưu. Các thiết kế và ý tưởng ở đây chỉ nhằm mục đích xem trước, không được sử dụng hoặc sao chép khi chưa có sự cho phép của chủ sở hữu. Mọi hành vi sử dụng hoặc phát tán trái phép đều bị nghiêm cấm.",
+        "text_en": "This project is not yet fully published; all rights are reserved. The designs and concepts shown are for preview only and may not be used or reproduced without the owner's permission. Unauthorized use or distribution is prohibited."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -510,9 +1922,27 @@
     "link": "#",
     "image": "/assets/uploads/17-the-love-logo-design.png",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/17-the-love-logo-design-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/17-the-love-logo-design-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/17-the-love-logo-design-04.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/17-the-love-logo-design-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/17-the-love-logo-design-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/17-the-love-logo-design-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -529,30 +1959,174 @@
     "link": "#",
     "image": "/assets/uploads/18-ezviz-camera-social-media-design.png",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-14.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-15.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-16.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-17.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-18.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-19.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-20.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-21.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-22.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-23.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-24.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/18-ezviz-camera-social-media-design-25.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-18.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-19.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-20.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-21.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-22.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-23.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-24.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/18-ezviz-camera-social-media-design-25.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -569,19 +2143,96 @@
     "link": "#",
     "image": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Xây dựng kịch bản, hình ảnh và sản xuất một video hoạt hình cho T-B Fresh — nước súc miệng sát khuẩn hỗ trợ ngừa viêm họng, viêm lợi của Traphaco — nhằm giới thiệu sản phẩm và củng cố nhận diện thương hiệu.", "text_en": "Developed the script, visuals, and production of an animated video for T-B Fresh, Traphaco's antiseptic mouthwash for gum and throat care, to introduce the product and reinforce brand identity." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-13.jpg", "caption_vi": "Khung hình poster của video quảng cáo hoạt hình.", "caption_en": "Poster frame from the animated promotional video." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-12.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Xây dựng kịch bản, hình ảnh và sản xuất một video hoạt hình cho T-B Fresh — nước súc miệng sát khuẩn hỗ trợ ngừa viêm họng, viêm lợi của Traphaco — nhằm giới thiệu sản phẩm và củng cố nhận diện thương hiệu.",
+        "text_en": "Developed the script, visuals, and production of an animated video for T-B Fresh, Traphaco's antiseptic mouthwash for gum and throat care, to introduce the product and reinforce brand identity."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-13.jpg",
+        "caption_vi": "Khung hình poster của video quảng cáo hoạt hình.",
+        "caption_en": "Poster frame from the animated promotional video."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -598,9 +2249,27 @@
     "link": "#",
     "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/20-hand-drawing-idea-sketch-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/20-hand-drawing-idea-sketch-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/20-hand-drawing-idea-sketch-04.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/20-hand-drawing-idea-sketch-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/20-hand-drawing-idea-sketch-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/20-hand-drawing-idea-sketch-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -617,30 +2286,173 @@
     "link": "#",
     "image": "/assets/uploads/21-la-roche-posay.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thực hiện thiết kế hình ảnh cho La Roche-Posay (L'Oréal). Được hơn 25.000 bác sĩ da liễu trên thế giới khuyên dùng, La Roche-Posay là thương hiệu chăm sóc da được giới chuyên môn khuyên dùng số một toàn cầu, thành lập năm 1975 bởi dược sĩ người Pháp René Levayer. Thương hiệu hiện có mặt tại hơn 60 quốc gia với các dòng sản phẩm cho mọi loại da, kể cả da nhạy cảm.", "text_en": "Visual design work for La Roche-Posay (L'Oréal). Recommended by over 25,000 dermatologists worldwide, La Roche-Posay is the top professionally recommended skincare brand globally, founded in 1975 by French pharmacist René Levayer. It is now available in more than 60 countries with product lines for every skin type, including sensitive skin." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/21-la-roche-posay-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/21-la-roche-posay-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/21-la-roche-posay-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/21-la-roche-posay-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/21-la-roche-posay-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/21-la-roche-posay-07.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/21-la-roche-posay-08.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/21-la-roche-posay-09.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/21-la-roche-posay-10.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/21-la-roche-posay-11.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/21-la-roche-posay-12.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/21-la-roche-posay-13.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/21-la-roche-posay-14.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/21-la-roche-posay-15.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/21-la-roche-posay-16.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/21-la-roche-posay-17.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/21-la-roche-posay-18.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/21-la-roche-posay-19.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/21-la-roche-posay-20.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/21-la-roche-posay-21.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/21-la-roche-posay-22.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/21-la-roche-posay-23.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/21-la-roche-posay-24.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thực hiện thiết kế hình ảnh cho La Roche-Posay (L'Oréal). Được hơn 25.000 bác sĩ da liễu trên thế giới khuyên dùng, La Roche-Posay là thương hiệu chăm sóc da được giới chuyên môn khuyên dùng số một toàn cầu, thành lập năm 1975 bởi dược sĩ người Pháp René Levayer. Thương hiệu hiện có mặt tại hơn 60 quốc gia với các dòng sản phẩm cho mọi loại da, kể cả da nhạy cảm.",
+        "text_en": "Visual design work for La Roche-Posay (L'Oréal). Recommended by over 25,000 dermatologists worldwide, La Roche-Posay is the top professionally recommended skincare brand globally, founded in 1975 by French pharmacist René Levayer. It is now available in more than 60 countries with product lines for every skin type, including sensitive skin."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-12.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-19.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-20.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-21.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-22.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-23.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-24.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -657,8 +2469,20 @@
     "link": "#",
     "image": "/assets/uploads/22-jomoo-vietnam-grand-opening.png",
     "blocks": [
-      { "id": "b1", "type": "image", "src": "/assets/uploads/22-jomoo-vietnam-grand-opening-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/22-jomoo-vietnam-grand-opening-03.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/22-jomoo-vietnam-grand-opening-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/22-jomoo-vietnam-grand-opening-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -675,20 +2499,103 @@
     "link": "#",
     "image": "/assets/uploads/23-de-skin-journey-website-renewal.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Bộ hướng dẫn làm mới website cho De Skin Journey tập trung thể hiện cam kết của thương hiệu đối với chăm sóc da dựa trên khoa học, đồng thời sắp xếp lại cấu trúc thông tin để người truy cập dễ tìm thấy nội dung cần thiết hơn.", "text_en": "The website renewal guidelines for De Skin Journey focus on expressing the brand's commitment to science-based skincare, while restructuring the information layout so visitors can find what they need more easily." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-13.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/23-de-skin-journey-website-renewal-14.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Bộ hướng dẫn làm mới website cho De Skin Journey tập trung thể hiện cam kết của thương hiệu đối với chăm sóc da dựa trên khoa học, đồng thời sắp xếp lại cấu trúc thông tin để người truy cập dễ tìm thấy nội dung cần thiết hơn.",
+        "text_en": "The website renewal guidelines for De Skin Journey focus on expressing the brand's commitment to science-based skincare, while restructuring the information layout so visitors can find what they need more easily."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/23-de-skin-journey-website-renewal-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -705,20 +2612,102 @@
     "link": "#",
     "image": "/assets/uploads/24-gogox-main-kv-adaptations.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "GOGOX (trước đây là GOGOVan) là ứng dụng logistics đầu tiên tại châu Á kết nối trực tiếp cá nhân và doanh nghiệp với tài xế đối tác theo thời gian thực.", "text_en": "GOGOX (formerly GOGOVan) is the first logistics app in Asia connecting individuals and businesses directly with real-time driver partners." },
-      { "id": "b2", "type": "text", "text_vi": "Từ Hồng Kông, GOGOX đã mở rộng sang Singapore, Đài Loan, Trung Quốc, Hàn Quốc, Ấn Độ và Việt Nam, hiện có mặt tại hơn 340 thành phố với hơn 4,5 triệu đối tác tài xế.", "text_en": "From Hong Kong, GOGOX has expanded to Singapore, Taiwan, China, South Korea, India, and Vietnam, now operating in more than 340 cities with over 4.5 million driver partners." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-12.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/24-gogox-main-kv-adaptations-13.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "GOGOX (trước đây là GOGOVan) là ứng dụng logistics đầu tiên tại châu Á kết nối trực tiếp cá nhân và doanh nghiệp với tài xế đối tác theo thời gian thực.",
+        "text_en": "GOGOX (formerly GOGOVan) is the first logistics app in Asia connecting individuals and businesses directly with real-time driver partners."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Từ Hồng Kông, GOGOX đã mở rộng sang Singapore, Đài Loan, Trung Quốc, Hàn Quốc, Ấn Độ và Việt Nam, hiện có mặt tại hơn 340 thành phố với hơn 4,5 triệu đối tác tài xế.",
+        "text_en": "From Hong Kong, GOGOX has expanded to Singapore, Taiwan, China, South Korea, India, and Vietnam, now operating in more than 340 cities with over 4.5 million driver partners."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -735,73 +2724,365 @@
     "link": "#",
     "image": "/assets/uploads/25-helen-harper.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Thực hiện thiết kế mạng xã hội cho Helen Harper — thương hiệu chăm sóc phụ nữ chuyên về băng vệ sinh, tấm lót và các sản phẩm liên quan.", "text_en": "Social media design work for Helen Harper, a women's care brand specializing in sanitary pads, panty liners, and related products." },
-      { "id": "b2", "type": "text", "text_vi": "Mạng xã hội là kênh chính để thương hiệu tiếp cận khách hàng.", "text_en": "Social media is the brand's main channel for reaching customers." },
-      { "id": "b3", "type": "text", "text_vi": "Xây dựng hệ thống hình ảnh phản ánh các giá trị thương hiệu: chất lượng, sự thoải mái và độ tin cậy.", "text_en": "Built a visual system reflecting the brand's core values: quality, comfort and reliability." },
-      { "id": "b4", "type": "text", "text_vi": "Helen Harper hướng đến nhóm khách hàng nữ coi trọng độ tin cậy trong các sản phẩm chăm sóc cá nhân hàng ngày.", "text_en": "Helen Harper targets women who prioritize reliability in everyday personal care products." },
-      { "id": "b5", "type": "text", "text_vi": "Các thiết kế sử dụng hình ảnh đời thường, gần với thói quen sinh hoạt thực tế của nhóm khách hàng mục tiêu.", "text_en": "Designs use lifestyle imagery close to the target audience's everyday routines." },
-      { "id": "b6", "type": "text", "text_vi": "Các yếu tố thiết kế chính: bảng màu pastel và trắng; kiểu chữ rõ ràng, hiện đại; ảnh sản phẩm và đời thường chất lượng cao; và việc sử dụng nhất quán logo, kiểu chữ, màu sắc trên toàn bộ ấn phẩm.", "text_en": "Key design elements: a soft pastel and white color palette; clean, modern typography; high-quality product and lifestyle photography; and consistent use of logo, type, and color across all materials." },
-      { "id": "b7", "type": "text", "text_vi": "Một phần nội dung tập trung kể câu chuyện quanh việc chăm sóc bản thân hoặc thông tin sản phẩm, ví dụ bài đăng carousel hướng dẫn sử dụng hoặc infographic so sánh sản phẩm.", "text_en": "Some content centers on self-care storytelling or product information, such as carousel guides on product use or comparison infographics." },
-      { "id": "b8", "type": "text", "text_vi": "Định dạng bài đăng bao gồm: bài đăng tĩnh, carousel nhiều thông tin, story ngắn và reel/video.", "text_en": "Post formats include: static posts, information-dense carousels, short-form stories, and reels/video." },
-      { "id": "b9", "type": "text", "text_vi": "Nội dung được điều chỉnh theo xu hướng mạng xã hội trong khi vẫn giữ đúng hình ảnh thương hiệu của Helen Harper.", "text_en": "Content is adapted to social media trends while staying consistent with Helen Harper's brand image." },
-      { "id": "b10", "type": "text", "text_vi": "Thiết kế được tinh chỉnh qua từng đợt nội dung, giữ nhất quán với hệ thống hình ảnh đã xây dựng.", "text_en": "Designs were refined across content cycles, staying consistent with the visual system already in place." },
-      { "id": "b11", "type": "text", "text_vi": "Từ bài đăng đến carousel, story và reel, hình ảnh thương hiệu Helen Harper giữ một mạch nhất quán xuyên suốt.", "text_en": "From posts to carousels, stories and reels, Helen Harper's brand visuals stayed consistent throughout." },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/25-helen-harper-video-poster-30.jpg", "caption_vi": "Khung hình từ video reel quảng bá.", "caption_en": "Frame from a promotional video reel." },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/25-helen-harper-video-poster-31.jpg", "caption_vi": "Khung hình từ video reel quảng bá.", "caption_en": "Frame from a promotional video reel." },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/25-helen-harper-video-poster-32.jpg", "caption_vi": "Khung hình từ video reel quảng bá.", "caption_en": "Frame from a promotional video reel." },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/25-helen-harper-video-poster-33.jpg", "caption_vi": "Khung hình từ video reel quảng bá.", "caption_en": "Frame from a promotional video reel." },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/25-helen-harper-video-poster-34.jpg", "caption_vi": "Khung hình từ video reel quảng bá.", "caption_en": "Frame from a promotional video reel." },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/25-helen-harper-02.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/25-helen-harper-03.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/25-helen-harper-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/25-helen-harper-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b21", "type": "image", "src": "/assets/uploads/25-helen-harper-06.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b22", "type": "image", "src": "/assets/uploads/25-helen-harper-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b23", "type": "image", "src": "/assets/uploads/25-helen-harper-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b24", "type": "image", "src": "/assets/uploads/25-helen-harper-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b25", "type": "image", "src": "/assets/uploads/25-helen-harper-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b26", "type": "image", "src": "/assets/uploads/25-helen-harper-11.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b27", "type": "image", "src": "/assets/uploads/25-helen-harper-12.jpeg", "caption_vi": "", "caption_en": "" },
-      { "id": "b28", "type": "image", "src": "/assets/uploads/25-helen-harper-13.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b29", "type": "image", "src": "/assets/uploads/25-helen-harper-14.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b30", "type": "image", "src": "/assets/uploads/25-helen-harper-15.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b31", "type": "image", "src": "/assets/uploads/25-helen-harper-16.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Thực hiện thiết kế mạng xã hội cho Helen Harper — thương hiệu chăm sóc phụ nữ chuyên về băng vệ sinh, tấm lót và các sản phẩm liên quan.",
+        "text_en": "Social media design work for Helen Harper, a women's care brand specializing in sanitary pads, panty liners, and related products."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Mạng xã hội là kênh chính để thương hiệu tiếp cận khách hàng.",
+        "text_en": "Social media is the brand's main channel for reaching customers."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Xây dựng hệ thống hình ảnh phản ánh các giá trị thương hiệu: chất lượng, sự thoải mái và độ tin cậy.",
+        "text_en": "Built a visual system reflecting the brand's core values: quality, comfort and reliability."
+      },
+      {
+        "id": "b4",
+        "type": "text",
+        "text_vi": "Helen Harper hướng đến nhóm khách hàng nữ coi trọng độ tin cậy trong các sản phẩm chăm sóc cá nhân hàng ngày.",
+        "text_en": "Helen Harper targets women who prioritize reliability in everyday personal care products."
+      },
+      {
+        "id": "b5",
+        "type": "text",
+        "text_vi": "Các thiết kế sử dụng hình ảnh đời thường, gần với thói quen sinh hoạt thực tế của nhóm khách hàng mục tiêu.",
+        "text_en": "Designs use lifestyle imagery close to the target audience's everyday routines."
+      },
+      {
+        "id": "b6",
+        "type": "text",
+        "text_vi": "Các yếu tố thiết kế chính: bảng màu pastel và trắng; kiểu chữ rõ ràng, hiện đại; ảnh sản phẩm và đời thường chất lượng cao; và việc sử dụng nhất quán logo, kiểu chữ, màu sắc trên toàn bộ ấn phẩm.",
+        "text_en": "Key design elements: a soft pastel and white color palette; clean, modern typography; high-quality product and lifestyle photography; and consistent use of logo, type, and color across all materials."
+      },
+      {
+        "id": "b7",
+        "type": "text",
+        "text_vi": "Một phần nội dung tập trung kể câu chuyện quanh việc chăm sóc bản thân hoặc thông tin sản phẩm, ví dụ bài đăng carousel hướng dẫn sử dụng hoặc infographic so sánh sản phẩm.",
+        "text_en": "Some content centers on self-care storytelling or product information, such as carousel guides on product use or comparison infographics."
+      },
+      {
+        "id": "b8",
+        "type": "text",
+        "text_vi": "Định dạng bài đăng bao gồm: bài đăng tĩnh, carousel nhiều thông tin, story ngắn và reel/video.",
+        "text_en": "Post formats include: static posts, information-dense carousels, short-form stories, and reels/video."
+      },
+      {
+        "id": "b9",
+        "type": "text",
+        "text_vi": "Nội dung được điều chỉnh theo xu hướng mạng xã hội trong khi vẫn giữ đúng hình ảnh thương hiệu của Helen Harper.",
+        "text_en": "Content is adapted to social media trends while staying consistent with Helen Harper's brand image."
+      },
+      {
+        "id": "b10",
+        "type": "text",
+        "text_vi": "Thiết kế được tinh chỉnh qua từng đợt nội dung, giữ nhất quán với hệ thống hình ảnh đã xây dựng.",
+        "text_en": "Designs were refined across content cycles, staying consistent with the visual system already in place."
+      },
+      {
+        "id": "b11",
+        "type": "text",
+        "text_vi": "Từ bài đăng đến carousel, story và reel, hình ảnh thương hiệu Helen Harper giữ một mạch nhất quán xuyên suốt.",
+        "text_en": "From posts to carousels, stories and reels, Helen Harper's brand visuals stayed consistent throughout."
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-video-poster-30.jpg",
+        "caption_vi": "Khung hình từ video reel quảng bá.",
+        "caption_en": "Frame from a promotional video reel."
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-video-poster-31.jpg",
+        "caption_vi": "Khung hình từ video reel quảng bá.",
+        "caption_en": "Frame from a promotional video reel."
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-video-poster-32.jpg",
+        "caption_vi": "Khung hình từ video reel quảng bá.",
+        "caption_en": "Frame from a promotional video reel."
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-video-poster-33.jpg",
+        "caption_vi": "Khung hình từ video reel quảng bá.",
+        "caption_en": "Frame from a promotional video reel."
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-video-poster-34.jpg",
+        "caption_vi": "Khung hình từ video reel quảng bá.",
+        "caption_en": "Frame from a promotional video reel."
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b26",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b27",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-12.jpeg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b28",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b29",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b30",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b31",
+        "type": "image",
+        "src": "/assets/uploads/25-helen-harper-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
     "id": "ef4442ece1c3",
     "order": 26,
-    "title_vi": "Hệ thống cửa hàng WIN - Chiến dịch thiết kế nhận diện thương hiệu",
-    "title_en": "WIN Store System - Brand Identify Design Campaign",
+    "title_vi": "Triển khai hệ thống nhận diện chuỗi cửa hàng WIN",
+    "title_en": "WIN Retail Chain: Identity Rollout",
     "tag1_vi": "Nhận diện thương hiệu",
     "tag1_en": "Brand Identity",
     "tag2_vi": "Bán lẻ",
     "tag2_en": "Retail",
-    "desc_vi": "Là designer đầu tiên triển khai nhận diện WIN mới cho đợt ra mắt tại TP.HCM, thực hiện các ấn phẩm khách hàng — hình ảnh tại cửa hàng, catalogue, tờ rơi, ấn phẩm digital và social — dưới sự chỉ đạo của Creative Manager. Định dạng WIN ra mắt tại 27 cửa hàng ở Hà Nội và TP.HCM, mở rộng lên 102 cửa hàng vào quý 4/2022. Khách hàng: Masan Group.",
-    "desc_en": "First designer to implement the newly introduced WIN identity for its Ho Chi Minh City launch, developing customer-facing assets — store graphics, catalogues, flyers, digital and social — under the Creative Manager. The format debuted across 27 stores in Hanoi and Ho Chi Minh City, expanding to 102 stores by Q4 2022. Client: Masan Group.",
+    "desc_vi": "WIN gộp nhiều dịch vụ không liên quan, từ tạp hoá đến ngân hàng và y tế, dưới một mái nhà. Từ vài key visual ban đầu, tôi xây dựng hệ thống màu riêng cho từng ngành hàng, mở rộng thành hàng trăm ấn phẩm cho chuỗi cửa hàng tăng từ 27 lên 102 điểm trong quý 4/2022.",
+    "desc_en": "WIN brings together services with little in common, from groceries to banking and healthcare, under one roof. From a handful of starting visuals, I built a color system for each category, growing into hundreds of assets for a store rollout from 27 to 102 locations by Q4 2022.",
     "link": "#",
     "image": "/assets/uploads/26-win-store-system-brand-campaign.png",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "WIN là mô hình bán lẻ nâng cấp từ WinMart+, thuộc chiến lược Tiêu dùng – Công nghệ của Masan Group.", "text_en": "WIN is the upgraded retail model from WinMart+, part of Masan Group's Consumer–Technology strategy." },
-      { "id": "b2", "type": "text", "text_vi": "Là designer đầu tiên triển khai nhận diện WIN mới cho đợt ra mắt tại TP.HCM, tôi thực hiện các ấn phẩm khách hàng — hình ảnh tại cửa hàng, catalogue, tờ rơi, ấn phẩm digital và social — dưới sự chỉ đạo của Creative Manager.", "text_en": "As the first designer implementing the newly introduced WIN identity for its Ho Chi Minh City launch, I developed customer-facing assets across store graphics, catalogues, flyers, digital and social under the Creative Manager." },
-      { "id": "b3", "type": "text", "text_vi": "Định dạng WIN ra mắt tại 27 cửa hàng ở Hà Nội và TP.HCM, sau đó mở rộng lên 102 cửa hàng vào quý 4/2022. Khách hàng: Masan Group.", "text_en": "The format debuted across 27 stores in Hanoi and Ho Chi Minh City, expanding to 102 stores by Q4 2022. Client: Masan Group." },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-30.jpg", "caption_vi": "Khung hình từ video chiến dịch.", "caption_en": "Frame from a campaign video." },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-31.jpg", "caption_vi": "Khung hình từ video chiến dịch.", "caption_en": "Frame from a campaign video." },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b13", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b14", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b15", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-11.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b16", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-12.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b17", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-13.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b18", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-14.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b19", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-32.jpg", "caption_vi": "Khung hình từ video chiến dịch.", "caption_en": "Frame from a campaign video." },
-      { "id": "b20", "type": "image", "src": "/assets/uploads/26-win-store-system-brand-campaign-15.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "WIN là mô hình bán lẻ nâng cấp từ WinMart+, thuộc chiến lược Tiêu dùng - Công nghệ của Masan Group, gộp nhiều dịch vụ vốn không liên quan với nhau, từ tạp hoá, cà phê, ngân hàng, viễn thông đến chăm sóc sức khoẻ, dưới một mái nhà. Đợt ra mắt đầu tiên tại TP.HCM bắt đầu từ một vài key visual, chưa có hệ thống thiết kế cụ thể được dựng sẵn.",
+        "text_en": "WIN is Masan Group's retail format upgraded from WinMart+, part of its Consumer-Technology strategy, bringing together services with little in common, from groceries and coffee to banking, mobile and healthcare, under one roof. Its first Ho Chi Minh City launch began with a handful of key visuals, before a complete design system was in place."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Từ những mẫu ban đầu đó, tôi xây dựng một hệ thống màu theo từng ngành hàng: xanh lá cho Phúc Long, đỏ đậm cho ngân hàng, trắng cho viễn thông, đỏ tươi cho tạp hoá, xanh ngọc cho y tế. Màu trở thành ngôn ngữ chung, cho phép khách hàng nhận ra dịch vụ mình cần chỉ bằng một ánh nhìn, không cần đọc thêm chữ nào.",
+        "text_en": "From those starting visuals, I built a color system by category: green for Phuc Long, deep red for banking, white for mobile, bright red for groceries, teal for healthcare. Color became a shared language, letting a customer recognize the service they need at a glance, no reading required."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "text_vi": "Một khung câu hỏi và một vị trí logo được giữ nguyên xuyên suốt, từ banner mạng xã hội, tờ rơi, đến catalogue khai trương in ấn. Hệ thống mở rộng thành hàng trăm ấn phẩm, theo sát chuỗi cửa hàng của Masan Group tăng từ 27 lên 102 điểm trong quý 4/2022. Một tập hợp thương hiệu rời rạc trở thành một hệ sinh thái đọc được ngay từ cái nhìn đầu tiên.",
+        "text_en": "One question format and one logo position hold steady across social banners, flyers and the print catalogue for the store opening. The system grew into hundreds of assets, tracking Masan Group's rollout from 27 to 102 stores by Q4 2022. A scattered mix of brands becomes an ecosystem legible at a glance."
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-30.jpg",
+        "caption_vi": "Khung hình từ video chiến dịch.",
+        "caption_en": "Frame from a campaign video."
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-31.jpg",
+        "caption_vi": "Khung hình từ video chiến dịch.",
+        "caption_en": "Frame from a campaign video."
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-12.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-video-poster-32.jpg",
+        "caption_vi": "Khung hình từ video chiến dịch.",
+        "caption_en": "Frame from a campaign video."
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -818,14 +3099,61 @@
     "link": "#",
     "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Toshiba TV có nhiều dòng sản phẩm với kích thước đa dạng, phù hợp không gian phòng và nhu cầu sử dụng khác nhau. Hình ảnh quảng cáo tập trung thể hiện độ phân giải Ultra HD 4K và màu sắc tự nhiên của sản phẩm.", "text_en": "Toshiba TV offers a range of screen sizes to fit different rooms and needs. The advertising visuals focus on the product's Ultra HD 4K resolution and natural color reproduction." },
-      { "id": "b2", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-04.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-05.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-06.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-07.jpg", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-08.jpg", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Toshiba TV có nhiều dòng sản phẩm với kích thước đa dạng, phù hợp không gian phòng và nhu cầu sử dụng khác nhau. Hình ảnh quảng cáo tập trung thể hiện độ phân giải Ultra HD 4K và màu sắc tự nhiên của sản phẩm.",
+        "text_en": "Toshiba TV offers a range of screen sizes to fit different rooms and needs. The advertising visuals focus on the product's Ultra HD 4K resolution and natural color reproduction."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -842,18 +3170,88 @@
     "link": "#",
     "image": "/assets/uploads/28-mirae-asset-season-campaign.jpg",
     "blocks": [
-      { "id": "b1", "type": "text", "text_vi": "Mirae Asset Financial Group là tập đoàn quản lý tài sản toàn cầu, cung cấp các giải pháp đầu tư.", "text_en": "Mirae Asset Financial Group is a global asset management group offering investment solutions." },
-      { "id": "b2", "type": "text", "text_vi": "Mirae Asset Financial Group được thành lập tại châu Á và hiện có mặt tại 15 quốc gia, cung cấp nền tảng đầu tư đa dạng hóa cho nhà đầu tư cá nhân và tổ chức trên toàn thế giới.", "text_en": "Mirae Asset Financial Group was founded in Asia and now operates in 15 countries, offering a diversified investment platform for individual and institutional investors worldwide." },
-      { "id": "b3", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-02.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b4", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-03.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b5", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-04.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b6", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-05.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b7", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-06.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b8", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-07.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b9", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-08.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b10", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-09.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b11", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-10.png", "caption_vi": "", "caption_en": "" },
-      { "id": "b12", "type": "image", "src": "/assets/uploads/28-mirae-asset-season-campaign-11.png", "caption_vi": "", "caption_en": "" }
+      {
+        "id": "b1",
+        "type": "text",
+        "text_vi": "Mirae Asset Financial Group là tập đoàn quản lý tài sản toàn cầu, cung cấp các giải pháp đầu tư.",
+        "text_en": "Mirae Asset Financial Group is a global asset management group offering investment solutions."
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "text_vi": "Mirae Asset Financial Group được thành lập tại châu Á và hiện có mặt tại 15 quốc gia, cung cấp nền tảng đầu tư đa dạng hóa cho nhà đầu tư cá nhân và tổ chức trên toàn thế giới.",
+        "text_en": "Mirae Asset Financial Group was founded in Asia and now operates in 15 countries, offering a diversified investment platform for individual and institutional investors worldwide."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/28-mirae-asset-season-campaign-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
     ]
   }
 ]
