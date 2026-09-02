@@ -2,34 +2,28 @@
   {
     "id": "64a731ee19dc",
     "order": 2,
-    "title_vi": "BIDV Awards 2025: Nhận diện hình ảnh",
+    "title_vi": "BIDV Awards 2025: Visual Identity",
     "title_en": "BIDV Awards 2025: Visual Identity",
     "tag1_vi": "Nhận diện hình ảnh",
     "tag1_en": "Visual Identity",
     "tag2_vi": "In ấn & Kỹ thuật số",
     "tag2_en": "Print & Digital",
-    "desc_vi": "BIDV Awards 2025 công bố giải Best Forex Bank Vietnam 2025 của BIDV, do Global Banking & Finance Review bình chọn. Tôi dựng một khung hình cúp pha lê trên nền xanh ngọc và vàng đồng, co giãn từ mạng xã hội đến bảng đèn ngoài trời mà vẫn giữ nguyên một hình ảnh.",
-    "desc_en": "BIDV Awards 2025 announces BIDV's Best Forex Bank Vietnam 2025 title, voted by Global Banking & Finance Review. I built one crystal-trophy frame in teal and gold that stretches from social media to an outdoor light box while staying visually the same.",
+    "desc_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
+    "desc_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language.",
     "link": "#",
     "image": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "BIDV Awards 2025 công bố giải Best Forex Bank Vietnam 2025, do tạp chí Global Banking & Finance Review bình chọn cho Ngân hàng TMCP Đầu tư và Phát triển Việt Nam ở năm thứ 15 tổ chức giải. Bộ hình ảnh công bố cần xuất hiện đồng thời trên nhiều điểm chạm, từ màn hình họp nội bộ đến bảng đèn ngoài trời.",
-        "text_en": "BIDV Awards 2025 marks BIDV's Best Forex Bank Vietnam 2025 title, voted by Global Banking & Finance Review in the award's 15th year. The announcement visuals needed to appear across several touchpoints at once, from an internal meeting-room screen to an outdoor light box."
+        "text_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
+        "text_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi dựng một khung hình duy nhất: chiếc cúp pha lê phát sáng đặt giữa nền gradient xanh ngọc lục bảo, phía sau là đường chân trời thành phố mờ ảo. Dòng dẫn màu vàng đồng \"NGÂN HÀNG CUNG CẤP\" kéo mắt người xem xuống dòng tiêu đề trắng đậm, giữ đúng cặp màu xanh và vàng quen thuộc của thương hiệu BIDV.",
-        "text_en": "I built one key frame: a glowing crystal trophy set against an emerald gradient, with a hazy city skyline behind it. A gold eyebrow line, \"the bank offering,\" pulls the eye down to a bold white headline, keeping BIDV's familiar teal and gold pairing intact."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Cùng một khung hình co giãn từ khổ dọc cho mạng xã hội sang khổ ngang cho màn hình số, rồi đặt vào bối cảnh thật: một màn hình họp nội bộ, một bảng đèn tại trạm xe buýt. Một giải thưởng ngành trở thành một hình ảnh nhất quán ở bất kỳ đâu người xem bắt gặp nó.",
-        "text_en": "The same frame stretches from a vertical social format to a horizontal digital banner, then sits inside real settings: a meeting-room screen, a bus-stop light box. One industry award becomes one consistent image wherever a viewer runs into it."
+        "text_vi": "Hệ thống được triển khai xuyên suốt poster, digital banner và các brand graphics, đảm bảo tính nhất quán nhưng vẫn đủ linh hoạt cho nhiều định dạng truyền thông khác nhau.",
+        "text_en": "The resulting system was applied across posters, digital banners and unified campaign graphics, maintaining a consistent visual presence while remaining flexible across different formats and communication needs."
       },
       {
         "id": "b4",
@@ -57,28 +51,28 @@
   {
     "id": "7cec9c81371d",
     "order": 3,
-    "title_vi": "VinWonders: Hình ảnh chủ đạo Master Key",
-    "title_en": "VinWonders: Master Key Visuals",
+    "title_vi": "VinWonders: Master Key Visual",
+    "title_en": "VinWonders: Master Key Visual",
     "tag1_vi": "Key Visual",
     "tag1_en": "Key Visual",
     "tag2_vi": "Giải trí & Du lịch",
     "tag2_en": "Entertainment & Tourism",
-    "desc_vi": "VinWonders cần một hình ảnh chủ đạo mới cho mỗi mùa lễ, đủ linh hoạt để cắt lại thành nhiều khổ và kênh. Tôi giữ một khung kể chuyện lặp lại: gia đình thật ở tâm điểm, tên chiến dịch theo kiểu chữ viết tay lồng in hoa, đổi tông màu và đạo cụ theo mùa, từ lồng đèn Tết đến cánh cửa pháo hoa Giáng sinh.",
-    "desc_en": "VinWonders needed a new key visual for each holiday season, flexible enough to recut across formats and channels. I kept one repeating frame: a real family at the center, the campaign name in a script-meets-caps lockup, swapping tone and props by season, from Tet lanterns to a Christmas firework door.",
+    "desc_vi": "Phát triển master key visual cho VinWonders, chuyển hóa lời hứa về một điểm đến với nhiều trải nghiệm giải trí đa dạng thành một hình ảnh chiến dịch thống nhất.",
+    "desc_en": "Developed a master key visual for VinWonders, translating the brand's promise of diverse entertainment experiences into a single campaign image.",
     "link": "#",
     "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "VinWonders là chuỗi công viên giải trí của Vingroup, trải rộng qua Phú Quốc, Nha Trang, Nam Hội An và nhiều điểm đến khác, với VinWonders Phú Quốc là công viên lớn nhất Việt Nam, chia thành sáu phân khu theo mười hai chủ đề. Mỗi mùa lễ lớn, từ Tết đến Giáng sinh, thương hiệu cần một hình ảnh chủ đạo mới, đủ linh hoạt để cắt lại thành nhiều khổ và nhiều kênh cùng lúc.",
-        "text_en": "VinWonders is Vingroup's theme park chain, spanning Phu Quoc, Nha Trang, Nam Hoi An and other destinations, with VinWonders Phu Quoc as the largest theme park in Vietnam, divided into six zones across twelve themes. Each major holiday, from Tet to Christmas, calls for a new key visual, flexible enough to recut into several formats and channels at once."
+        "text_vi": "Phát triển master key visual cho VinWonders, chuyển hóa lời hứa về một điểm đến với nhiều trải nghiệm giải trí đa dạng thành một hình ảnh chiến dịch thống nhất.",
+        "text_en": "Developed a master key visual for VinWonders, translating the brand's promise of diverse entertainment experiences into a single campaign image."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi giữ một khung kể chuyện lặp lại cho mỗi mùa: một gia đình thật đứng giữa khung cảnh dàn dựng, tên chiến dịch xếp theo kiểu chữ viết tay lồng chữ in hoa, logo VinWonders cố định ở góc trên trái. Bản Tết dùng tông be ấm, lồng đèn đỏ và ảnh tư liệu đen trắng gợi hoài niệm; bản Giáng sinh dùng tông xanh đêm, cánh cửa đỏ mở ra khung pháo hoa và tuyết. Cùng một khung ngang được cắt lại thành khổ vé mời dọc, giữ nguyên logo, tên chiến dịch và gia đình ở tâm điểm, chỉ đổi cách sắp chữ theo từng vị trí sử dụng.",
-        "text_en": "I kept one repeating storytelling frame for each season: a real family standing at the center of a staged scene, the campaign name set in a script-meets-caps lockup, the VinWonders logo fixed at the top left. The Tet version runs warm beige tones, red lanterns and nostalgic black-and-white photos; the Christmas version runs night blue, a red door opening onto fireworks and snow. The same horizontal frame recuts into a vertical ticket-stub format, keeping the logo, campaign name and family at the center while only the type arrangement shifts per placement."
+        "text_vi": "Thiết kế tập trung vào cảm giác phong phú, giàu năng lượng và quy mô của trải nghiệm VinWonders, đồng thời giữ được sự nhận diện của thương hiệu.",
+        "text_en": "The work focused on building a visually rich and energetic composition that could communicate the scale, excitement and variety associated with the destination while remaining anchored to VinWonders' established brand presence."
       },
       {
         "id": "b3",
@@ -99,28 +93,28 @@
   {
     "id": "938e5d8f3668",
     "order": 4,
-    "title_vi": "Tác phẩm số của tôi",
+    "title_vi": "My Digital Artworks",
     "title_en": "My Digital Artworks",
     "tag1_vi": "Minh họa",
     "tag1_en": "Illustration",
     "tag2_vi": "Nghệ thuật số",
     "tag2_en": "Digital Art",
-    "desc_vi": "Bộ sưu tập minh họa cá nhân, nằm ngoài các dự án của khách hàng, gồm nghiên cứu chân dung, một nhân vật chibi tự họa và vài trang thử bút. Tôi thử nhiều lối vẽ trong cùng một bộ sưu tập, từ chân dung tông lạnh dựng kỹ thuật số đến một tự họa chibi vây quanh bởi chữ deadlines, priority, urgent.",
-    "desc_en": "A personal illustration collection outside client work, spanning portrait studies, one chibi self-portrait and a few warm-up sketches. I moved between styles within the set, from a cool-toned digital portrait to a chibi self-portrait surrounded by the words deadlines, priority, urgent.",
+    "desc_vi": "Bộ sưu tập minh họa số cá nhân được thực hiện ngoài các brief thương mại, từ nhân vật chibi, động vật đến đồ ăn và những chủ đề đời thường.",
+    "desc_en": "A personal collection of digital illustrations created outside commercial briefs, ranging from chibi characters and animals to food and everyday subjects.",
     "link": "#",
     "image": "/assets/uploads/03-my-digital-artworks.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Bộ sưu tập minh họa kỹ thuật số này là không gian riêng ngoài các dự án của khách hàng, gồm những nghiên cứu chân dung, một nhân vật chibi tự họa và vài trang thử bút, thực hiện rải rác trong vài năm gần đây.",
-        "text_en": "This digital illustration collection sits outside client work: a set of portrait studies, one chibi self-portrait, and a few warm-up sketches made over the past few years."
+        "text_vi": "Bộ sưu tập minh họa số cá nhân được thực hiện ngoài các brief thương mại, từ nhân vật chibi, động vật đến đồ ăn và những chủ đề đời thường.",
+        "text_en": "A personal collection of digital illustrations created outside commercial briefs, ranging from chibi characters and animals to food and everyday subjects."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi thử nhiều lối vẽ khác nhau trong cùng một bộ sưu tập: chân dung tông xanh lạnh dựng trong Clip Studio Paint, một cô gái áo cổ cao nét mảnh gợi phong cách áo dài, và một nhân vật chibi tự họa ngồi giữa đồng cỏ, vây quanh bởi những chữ deadlines, priority, urgent, sos in phông halftone, sau đó cắt lại thành ảnh đại diện tròn. Vài trang thử bút ghi ngày tháng và chữ ký tay đi kèm một chú mèo nhỏ, giữ lại đúng cảm giác một cuốn sổ phác thảo cá nhân. Nhận vẽ theo yêu cầu cho ai muốn một phong cách tương tự.",
-        "text_en": "I moved between styles within the same collection: a cool-toned portrait built in Clip Studio Paint, a girl in a high-collared, ao-dai-inspired top rendered in fine line work, and a chibi self-portrait sitting in a field, surrounded by the words deadlines, priority, urgent, sos set in halftone type, later recut into a circular profile icon. A few warm-up pages carry dates and a handwritten signature alongside a small cat, keeping the feel of a personal sketchbook. Custom pieces are available on request for a similar style."
+        "text_vi": "Đây là không gian để tôi tự do thử nghiệm tạo hình, màu sắc, biểu cảm và phong cách minh họa, đồng thời duy trì kỹ năng vẽ như một phần trong thực hành thiết kế của mình.",
+        "text_en": "These works are where I explore character, color, expression and drawing styles more freely, keeping illustration as an active part of my visual practice alongside commercial design."
       },
       {
         "id": "b3",
@@ -155,34 +149,28 @@
   {
     "id": "83fadc8ad1dc",
     "order": 5,
-    "title_vi": "247 Express - Thiết kế Mascot",
-    "title_en": "247 Express - Mascot Design",
+    "title_vi": "247 Express: Mascot Design",
+    "title_en": "247 Express: Mascot Design",
     "tag1_vi": "Thiết kế Mascot",
     "tag1_en": "Mascot Design",
     "tag2_vi": "Nhận diện thương hiệu",
     "tag2_en": "Brand Identity",
-    "desc_vi": "247Express vận hành gần 200 bưu cục tại 34 tỉnh thành, cần một gương mặt riêng cho các điểm tiếp xúc khách hàng. Tôi nghiên cứu dáng chạy tham khảo từ The Flash, giữ khuôn mặt luôn lộ rõ, rồi dựng thành mascot shipper với bộ năm biểu cảm, sau này bước ra đời thật qua trang phục thú bông tại các sự kiện ra mắt.",
-    "desc_en": "247Express runs close to 200 post offices across 34 provinces and needed a character of its own for customer touchpoints. I studied running poses referencing The Flash while keeping the face always visible, then built a shipper mascot with five expressions that later stepped into a real plush costume for launch events.",
+    "desc_vi": "Thiết kế mascot shipper theo phong cách chibi cho 247 Express nhằm tạo thêm một nhân vật đại diện dễ nhận diện và gần gũi cho thương hiệu logistics.",
+    "desc_en": "Created a chibi shipper mascot for 247 Express to give the logistics brand a more recognizable and approachable character.",
     "link": "#",
     "image": "/assets/uploads/04-247-express-mascot-design.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "247Express (Công ty CP Hai Bốn Bảy) hoạt động trong lĩnh vực giao nhận từ năm 2005, vận hành gần 200 bưu cục tại 34 tỉnh thành với khoảng 2.000 nhân sự, nằm trong Top 5 công ty logistics uy tín năm 2022. Thương hiệu cần một nhân vật riêng, đủ thân thiện để xuất hiện xuyên suốt các điểm tiếp xúc khách hàng.",
-        "text_en": "247Express (Hai Bon Bay JSC) has operated in delivery since 2005, running close to 200 post offices across 34 provinces with around 2,000 staff, and was named among Vietnam's Top 5 trusted logistics companies in 2022. The brand needed its own character, approachable enough to carry across every customer touchpoint."
+        "text_vi": "Thiết kế mascot shipper theo phong cách chibi cho 247 Express nhằm tạo thêm một nhân vật đại diện dễ nhận diện và gần gũi cho thương hiệu logistics.",
+        "text_en": "Created a chibi shipper mascot for 247 Express to give the logistics brand a more recognizable and approachable character."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi bắt đầu từ việc nghiên cứu dáng chạy, tham khảo tư thế của The Flash nhưng hạ cánh tay phải xuống để không che mất khuôn mặt mà vẫn giữ được khí thế tốc độ. Từ đó, mascot shipper thành hình: đầu tròn đội mũ đỏ, gương mặt biểu cảm rõ, một ba lô in logo 247Express trên lưng, và một bộ năm biểu cảm (cười, ngạc nhiên, đổ mồ hôi, nháy mắt, nghiêm mặt) để dùng cho sticker và trò chuyện trực tuyến.",
-        "text_en": "I started from running-pose research, referencing The Flash but lowering the right arm so it wouldn't cover the face while still reading as fast motion. From there, the shipper mascot took shape: a round head under a red hood, a clearly readable expressive face, a backpack printed with the 247Express mark, and a set of five expressions (laughing, surprised, sweating, winking, stern) for stickers and chat."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Từ bản vẽ, mascot bước ra đời thật dưới dạng bộ trang phục thú bông, xuất hiện bên cạnh xe tải chở hàng mang thương hiệu tại các sự kiện ra mắt. Một shipper hoạt hình trở thành gương mặt đại diện mà khách hàng nhận ra ngay giữa hàng trăm bưu cục trên cả nước.",
-        "text_en": "From the drawing board, the mascot stepped into a plush costume, appearing beside branded delivery vans at launch events. An animated shipper became a face customers recognize among hundreds of post offices nationwide."
+        "text_vi": "Thay vì chỉ dựa trên hệ thống nhận diện doanh nghiệp, mascot trở thành một điểm chạm có tính con người hơn, giúp trải nghiệm giao nhận trở nên thân thiện, dễ nhớ và dễ ứng dụng vào các hoạt động truyền thông.",
+        "text_en": "Rather than relying only on its corporate identity, the mascot introduced a human and friendly touchpoint that could represent the delivery experience across brand communications, helping make a functional service category feel more relatable and memorable."
       },
       {
         "id": "b4",
@@ -252,28 +240,28 @@
   {
     "id": "91ad00c4aeec",
     "order": 6,
-    "title_vi": "POSM Nestlé 2019",
+    "title_vi": "Nestlé POSM 2019",
     "title_en": "Nestlé POSM 2019",
     "tag1_vi": "Thiết kế POSM",
     "tag1_en": "POSM Design",
     "tag2_vi": "Kiểm soát chất lượng",
     "tag2_en": "Production QA",
-    "desc_vi": "Nestlé triển khai giá trưng bày di động (POSM) cho Milo, Nescafé, Maggi tại nhiều điểm bán. Tôi thiết kế bố cục giá theo một khung lặp lại, từ bảng đầu kệ đến chân đế, rồi đối chiếu từng bản in tại xưởng với file gốc trước khi đưa ra điểm bán.",
-    "desc_en": "Nestlé rolled out mobile display racks (POSM) for Milo, Nescafe and Maggi across retail points. I laid out the racks around one repeating frame from header to base panel, then checked each printed piece at the print shop against the original file before release.",
+    "desc_vi": "Thực hiện thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé, bao gồm cả quá trình chuyển từ artwork sang ấn phẩm thực tế tại điểm bán.",
+    "desc_en": "Worked on POSM design and production quality control for Nestlé campaigns, covering the transition from artwork to physical retail materials.",
     "link": "#",
     "image": "/assets/uploads/05-nestle-posm-2019.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Nestlé triển khai chiến dịch hè Cùng Nestlé Lan Tỏa Hè Vui qua một loạt giá trưng bày di động (POSM) cho các dòng Milo, Nescafé, Maggi, đặt tại nhiều điểm bán khác nhau, từ siêu thị đến cửa hàng tiện lợi.",
-        "text_en": "Nestlé ran its Cung Nestle Lan Toa He Vui summer campaign across a set of mobile display racks (POSM) for its Milo, Nescafe and Maggi lines, placed at retail points ranging from supermarkets to convenience stores."
+        "text_vi": "Thực hiện thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé, bao gồm cả quá trình chuyển từ artwork sang ấn phẩm thực tế tại điểm bán.",
+        "text_en": "Worked on POSM design and production quality control for Nestlé campaigns, covering the transition from artwork to physical retail materials."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi thiết kế bố cục giá trưng bày theo một khung lặp lại: bảng đầu kệ giữ trọn key visual mùa hè, kệ giữa xếp sản phẩm theo ngành hàng như sữa, cà phê, nước tăng lực, còn chân đế lặp lại đúng minh họa và dòng chữ của bảng đầu, để mắt nhìn không bị đứt quãng từ trên xuống dưới. Trước khi đưa vào hệ thống điểm bán, từng bản in được đối chiếu trực tiếp tại xưởng với file thiết kế gốc, từ tấm standee Milo, poster khuyến mãi tại Bách Hóa Xanh, đến từng giá trưng bày hoàn chỉnh, kiểm tra màu sắc, chất liệu và độ hoàn thiện trước khi ký nghiệm thu.",
-        "text_en": "I laid out the display rack around one repeating frame: the header panel carries the full summer key visual, the middle shelf groups products by category such as milk, coffee and energy drinks, and the base panel repeats the same illustration and headline as the header, so the eye reads top to bottom without a break. Before release to retail points, every printed piece was checked on-site at the print shop against the original design file, from Milo standees and a Bach Hoa Xanh promotional poster to each finished display rack, checking color, material and finish before sign-off."
+        "text_vi": "Phạm vi công việc không chỉ dừng ở thiết kế mà còn bao gồm kiểm tra output sản xuất, đảm bảo màu sắc, bố cục và các chi tiết nhận diện được giữ nhất quán khi đưa thiết kế từ màn hình ra thành phẩm.",
+        "text_en": "My responsibility extended beyond visual execution to checking production output, helping ensure that colors, layouts and brand details remained consistent when designs moved from screen to final printed materials."
       },
       {
         "id": "b3",
@@ -434,22 +422,28 @@
   {
     "id": "9bb37b82aead",
     "order": 7,
-    "title_vi": "Hội nghị HR Tech 2023",
+    "title_vi": "HR Tech Conference 2023",
     "title_en": "HR Tech Conference 2023",
     "tag1_vi": "Nhận diện sự kiện",
     "tag1_en": "Event Branding",
     "tag2_vi": "Trưởng nhóm thiết kế",
     "tag2_en": "Design Team Lead",
-    "desc_vi": "HR Tech Conference 2023 do TopCV tổ chức tại Landmark 81, quy tụ hơn 800 lãnh đạo doanh nghiệp, nhân sự và 16 diễn giả. Nhận nhiệm vụ có thời hạn, tôi dẫn dắt đội thiết kế 5 người, xây dựng một ngôn ngữ hình ảnh xuyên suốt từ key visual, slide trình bày đến mặt bằng sân khấu.",
-    "desc_en": "HR Tech Conference 2023, organized by TopCV at Landmark 81, brought together more than 800 business and HR leaders and 16 speakers. Taking on a fixed-term engagement, I led a five-person design team, building one visual language across the key visual, presentation slides and the stage floor plan.",
+    "desc_vi": "Dẫn dắt team Graphic Design cho HR Tech Conference 2023 trong suốt hai tháng chuẩn bị và sản xuất sự kiện.",
+    "desc_en": "Led the Graphic Design team for HR Tech Conference 2023 through a two-month event production cycle.",
     "link": "#",
     "image": "/assets/uploads/06-hr-tech-conference-2023.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "HR Tech Conference 2023 do TopCV tổ chức tại Landmark 81 theo hình thức hybrid, quy tụ hơn 800 lãnh đạo doanh nghiệp, nhân sự và 16 diễn giả, xoay quanh chủ đề chuyển đổi số trong quản trị nhân tài. Nhận nhiệm vụ có thời hạn, tôi dẫn dắt đội thiết kế 5 người, xây dựng một ngôn ngữ hình ảnh xuyên suốt: nền tối, mạng lưới số màu xanh lá bao quanh quả cầu và biểu tượng bắt tay, giữ nguyên từ key visual, slide trình bày, đến bản vẽ tay mặt bằng sân khấu tại chỗ. Ngôn ngữ đó theo sát sự kiện từ khâu chuẩn bị không gian đến sản xuất hoàn thiện, đưa hội nghị đi trọn từ bản vẽ đến khoảnh khắc bắt tay trên sân khấu.",
-        "text_en": "HR Tech Conference 2023, organized by TopCV at Landmark 81 in hybrid format, brought together more than 800 business and HR leaders and 16 speakers around the theme of digital transformation in talent management. Taking on a fixed-term engagement, I led a five-person design team, building one visual language throughout: a dark background, a green digital network wrapping a globe and handshake mark, carried from the key visual and presentation slides to the hand-drawn stage floor plan. That language followed the event from venue setup through to final production, carrying the conference from the drawing board to a handshake moment on stage."
+        "text_vi": "Dẫn dắt team Graphic Design cho HR Tech Conference 2023 trong suốt hai tháng chuẩn bị và sản xuất sự kiện.",
+        "text_en": "Led the Graphic Design team for HR Tech Conference 2023 through a two-month event production cycle."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Vai trò của tôi kết hợp giữa trực tiếp thiết kế và điều phối phần triển khai hình ảnh trên nhiều điểm chạm khác nhau, đảm bảo các định dạng và deliverable vẫn thống nhất trong cùng một hệ thống nhận diện sự kiện. Project đòi hỏi cả khả năng giữ creative consistency lẫn kiểm soát execution khi hệ thống visual được mở rộng ra toàn bộ trải nghiệm hội nghị.",
+        "text_en": "My role combined hands-on design with coordinating the visual execution across a large set of conference touchpoints, keeping different formats and deliverables aligned under one event identity. The project required both creative consistency and production discipline as the visual system expanded from core graphics into the full event experience."
       },
       {
         "id": "b2",
@@ -624,22 +618,28 @@
   {
     "id": "22b1e4acb8b1",
     "order": 8,
-    "title_vi": "De Skin Journey: Các dự án freelance",
-    "title_en": "De Skin Journey: Freelance Projects",
+    "title_vi": "De Skin Journey: Brand Renewal & Freelance Projects",
+    "title_en": "De Skin Journey: Brand Renewal & Freelance Projects",
     "tag1_vi": "Nhận diện thương hiệu",
     "tag1_en": "Brand Identity",
     "tag2_vi": "Làm đẹp",
     "tag2_en": "Beauty & Skincare",
-    "desc_vi": "De Skin Journey là dự án nội dung cho một thương hiệu tư vấn chăm sóc da khoa học, hợp tác với SkinCeuticals, Obagi, Image Skincare. Tôi dựng một wordmark riêng, chữ SKIN phóng lớn làm điểm nhấn, cùng hai bảng màu phân vai: đỏ đậm cho khoảnh khắc thương hiệu, be nhạt cho nội dung giáo dục, lặp lại qua từng bài đăng.",
-    "desc_en": "De Skin Journey is a content collection for a science-positioned skincare consultancy, working with SkinCeuticals, Obagi and Image Skincare. I built a dedicated wordmark with SKIN set large as the anchor, alongside two palettes with distinct roles: deep red for brand moments, soft cream for educational content, repeated across every post.",
+    "desc_vi": "Đồng hành cùng De Skin Journey trong quá trình làm mới hình ảnh thương hiệu, từ phát triển visual identity đến thiết kế ấn phẩm in và nội dung social media.",
+    "desc_en": "Worked with De Skin Journey across a broader brand renewal, including visual identity development, print materials and social media communication.",
     "link": "#",
     "image": "/assets/uploads/07-de-skin-journey-freelance.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "De Skin Journey là một dự án nội dung và ấn phẩm cho một thương hiệu tư vấn chăm sóc da định vị theo hướng khoa học, hợp tác với các dòng sản phẩm y tế như SkinCeuticals, Obagi, Image Skincare. Tôi dựng một wordmark riêng: chữ SKIN phóng lớn kiểu serif làm điểm nhấn, De và Journey thu nhỏ đi kèm, lặp lại ở cuối mọi ấn phẩm. Hai bảng màu được dùng phân vai rõ ràng: đỏ đậm cùng họa tiết hoa hồng nét mảnh cho những khoảnh khắc thương hiệu như công bố hợp tác, be nhạt cùng minh họa cam và bàn tay nét mảnh cho nội dung giáo dục về thành phần và sản phẩm. Cùng một khung bố cục, dải chữ tiêu đề, ảnh sản phẩm chụp phẳng, logo ở cuối, chạy xuyên suốt từ bài giới thiệu hoạt chất, thông báo hợp tác chính thức, đến bài hỏi đáp về điều trị sắc tố.",
-        "text_en": "De Skin Journey is a content and print collection for a science-positioned skincare consultancy, working with clinical brands such as SkinCeuticals, Obagi and Image Skincare. I built a dedicated wordmark: SKIN set large in serif type as the anchor, with De and Journey scaled down beside it, repeated at the base of every piece. Two palettes carry distinct roles: deep red with fine rose linework for brand moments such as partnership announcements, and soft cream with citrus and hand illustrations for educational content about ingredients and products. The same layout runs through ingredient explainer posts, the official partnership announcement, and a pigmentation treatment Q&A: a ribbon headline, a flat-lay product shot, the logo fixed at the base."
+        "text_vi": "Đồng hành cùng De Skin Journey trong quá trình làm mới hình ảnh thương hiệu, từ phát triển visual identity đến thiết kế ấn phẩm in và nội dung social media.",
+        "text_en": "Worked with De Skin Journey across a broader brand renewal, including visual identity development, print materials and social media communication."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Mục tiêu là xây dựng một ngôn ngữ thị giác đặc trưng và nhất quán hơn, phù hợp với định vị skincare theo hướng khoa học và bền vững. Thay vì xử lý từng thiết kế như những sản phẩm riêng lẻ, project hướng đến một visual direction có thể tiếp tục mở rộng trên nhiều điểm chạm của thương hiệu.",
+        "text_en": "The goal was to move the brand toward a more distinctive and coherent visual language while supporting its positioning around scientific and sustainable skincare. Rather than treating each asset independently, the work established a visual direction that could continue across different brand touchpoints."
       },
       {
         "id": "b2",
@@ -814,22 +814,28 @@
   {
     "id": "01c678ca5764",
     "order": 9,
-    "title_vi": "Phác thảo dáng chụp: Acecook Zeppin",
+    "title_vi": "Acecook Zeppin: Photoshoot Posing Sketches",
     "title_en": "Acecook Zeppin: Photoshoot Posing Sketches",
     "tag1_vi": "Phác thảo",
     "tag1_en": "Posing Sketches",
     "tag2_vi": "Hợp tác",
     "tag2_en": "Collaboration",
-    "desc_vi": "Hợp tác cùng Furin Creative Lab cho buổi chụp mì Zeppin của Acecook, nhân 50 năm quan hệ Việt Nam - Nhật Bản. Tôi dựng phác thảo dáng theo ba bước, từ tranh cổ điển Nhật Bản tham chiếu đến khối cơ thể có đường gióng và bản phủ kimono màu, giữ đúng dáng đứng cho ảnh chụp thật.",
-    "desc_en": "Working with Furin Creative Lab on Acecook's Zeppin photoshoot, marking 50 years of Vietnam-Japan relations. I built the posing sketch in three steps, from a classical Japanese painting reference to a body guide with alignment lines and a colored kimono render, keeping the same stance for the final photograph.",
+    "desc_vi": "Thực hiện các bản digital sketch định hướng dáng người mẫu cho photoshoot Acecook Zeppin trong quá trình cộng tác cùng Furin Creative Lab.",
+    "desc_en": "Created digital posing sketches for an Acecook Zeppin model photoshoot in collaboration with Furin Creative Lab.",
     "link": "#",
     "image": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Hợp tác cùng Furin Creative Lab cho buổi chụp ảnh mì Zeppin của Acecook, nhân dịp 50 năm quan hệ Việt Nam - Nhật Bản, với người mẫu trong trang phục kimono. Tôi dựng phác thảo dáng theo ba bước: bắt đầu từ một bức tranh cổ điển Nhật Bản làm tham chiếu, dựng khối cơ thể trần với đường gióng thể hiện hướng xoay và tỷ lệ, rồi phủ lên bộ kimono màu để định hình tư thế cuối cùng cho ê kíp chụp hình. Bức ảnh thành phẩm giữ đúng dáng đứng, hướng vai và cách cầm sản phẩm từ bản phác thảo.",
-        "text_en": "Working with Furin Creative Lab on Acecook's Zeppin instant noodle photoshoot, marking 50 years of Vietnam-Japan relations, with a model dressed in kimono. I built the posing sketch in three steps: starting from a classical Japanese painting as reference, constructing a nude body guide with alignment lines showing rotation and proportion, then rendering the final kimono-colored pose for the shoot's crew to match. The finished photograph kept the same stance, shoulder angle and product-holding gesture as the sketch."
+        "text_vi": "Thực hiện các bản digital sketch định hướng dáng người mẫu cho photoshoot Acecook Zeppin trong quá trình cộng tác cùng Furin Creative Lab.",
+        "text_en": "Created digital posing sketches for an Acecook Zeppin model photoshoot in collaboration with Furin Creative Lab."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Các sketch chuyển ý tưởng của từng shot thành reference cụ thể về dáng, cử chỉ và cách tương tác với sản phẩm trước khi chụp, giúp team hình dung và trao đổi composition rõ ràng hơn khi vào set.",
+        "text_en": "The sketches translated shot ideas into clear references for body posture, gesture and product interaction before production, helping the team communicate the intended compositions more precisely on set."
       },
       {
         "id": "b2",
@@ -871,17 +877,29 @@
   {
     "id": "d69dd1b7ad0f",
     "order": 10,
-    "title_vi": "Ứng dụng Tài chính - Khám phá UI cá nhân",
-    "title_en": "Finance App - Personal UI Exploration",
+    "title_vi": "Finance / Banking Mobile App Design",
+    "title_en": "Finance / Banking Mobile App Design",
     "tag1_vi": "Thiết kế UI/UX",
     "tag1_en": "UI/UX Design",
     "tag2_vi": "Ứng dụng di động",
     "tag2_en": "Mobile App",
-    "desc_vi": "Dự án khám phá UI cá nhân cho ứng dụng tài chính, không gắn với client cụ thể. Tôi giữ một nền gradient xanh lá đậm cuộn xoáy làm điểm neo cho số dư và hàng nút thao tác nhanh, lặp lại từ màn hình chủ đến màn hình giao dịch crypto, rồi nối tiếp bằng các widget chi tiêu và tài sản bên dưới. Xem toàn bộ luồng màn hình trên Behance.",
-    "desc_en": "A personal UI exploration for a finance app, not tied to a real client. I kept one dark green swirling gradient as the anchor for the balance and quick-action row, repeated from the home screen to the crypto trading screen, followed by spend and wealth widgets stacked below. See the full screen flow on Behance.",
+    "desc_vi": "Một bài nghiên cứu UI/UX cho trải nghiệm ứng dụng tài chính và ngân hàng trên di động, tập trung vào việc chuyển một lĩnh vực vốn nhiều thông tin thành giao diện rõ ràng và dễ tiếp cận hơn.",
+    "desc_en": "A UI/UX exploration for a finance and banking mobile experience, focusing on turning a traditionally information-heavy category into a cleaner and more approachable interface.",
     "link": "https://www.behance.net/gallery/203515273/FinanceBanking-Mobile-App-Design",
     "image": "/assets/uploads/09-finance-banking-mobile-app-design.png",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Một bài nghiên cứu UI/UX cho trải nghiệm ứng dụng tài chính và ngân hàng trên di động, tập trung vào việc chuyển một lĩnh vực vốn nhiều thông tin thành giao diện rõ ràng và dễ tiếp cận hơn.",
+        "text_en": "A UI/UX exploration for a finance and banking mobile experience, focusing on turning a traditionally information-heavy category into a cleaner and more approachable interface."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Project khai thác hierarchy, tính nhất quán của component và các interaction pattern trên mobile, cân bằng giữa độ rõ ràng, đáng tin cậy của sản phẩm tài chính và trải nghiệm sản phẩm hiện đại hơn.",
+        "text_en": "The project explores visual hierarchy, component consistency and mobile interaction patterns while balancing the clarity and trust expected from a financial product with a more contemporary product experience."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -901,64 +919,28 @@
   {
     "id": "93de9a929181",
     "order": 11,
-    "title_vi": "云译: Bộ hướng dẫn Logo",
-    "title_en": "云译 Logo Guidelines",
+    "title_vi": "云译: Logo & Brand Guidelines",
+    "title_en": "云译: Logo & Brand Guidelines",
     "tag1_vi": "Thiết kế Logo",
     "tag1_en": "Logo Design",
     "tag2_vi": "Bộ nhận diện",
     "tag2_en": "Brand Guidelines",
-    "desc_vi": "云译 là công ty dịch thuật tiếng Trung, tên gọi mang nghĩa Dịch Thuật Đám Mây, lấy cảm hứng từ điện toán đám mây. Tôi dựng chữ 云译 theo lối thư pháp giữ nguyên nét cọ thật, đặt dưới biểu tượng đám mây cách điệu, dùng xanh dương đậm làm màu chủ đạo, cùng một bộ quy định vùng an toàn và cách phối màu để logo đọc đúng trên mọi ấn phẩm.",
-    "desc_en": "云译 is a Chinese translation company whose name means Cloud Translation, inspired by cloud computing. I built the 云译 mark in a calligraphic script that keeps the brush's real texture, set under a stylized cloud icon, in a bold blue as the lead color, with a set of clear-space and color-pairing rules keeping the logo legible across every application.",
+    "desc_vi": "Phát triển logo và hệ thống guideline cho 云译, một công ty dịch thuật Trung Quốc với tên gọi mang nghĩa \"Cloud Translation\".",
+    "desc_en": "Developed the logo and identity guidelines for 云译, a Chinese translation company whose name translates to \"Cloud Translation.\"",
     "link": "#",
     "image": "/assets/uploads/10-yunyi-logo-guidelines.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "云译 là công ty dịch thuật tiếng Trung, tên gọi mang nghĩa Dịch Thuật Đám Mây.",
-        "text_en": "云译 is a Chinese translation company, its name meaning Cloud Translation."
+        "text_vi": "Phát triển logo và hệ thống guideline cho 云译, một công ty dịch thuật Trung Quốc với tên gọi mang nghĩa \"Cloud Translation\".",
+        "text_en": "Developed the logo and identity guidelines for 云译, a Chinese translation company whose name translates to \"Cloud Translation.\""
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Cái tên lấy cảm hứng từ điện toán đám mây, nơi dữ liệu được lưu trữ và xử lý trên máy chủ từ xa thay vì tại chỗ.",
-        "text_en": "The name draws on cloud computing, where data is stored and processed on remote servers rather than on-premise."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Trước khi có một hệ thống nhận diện hoàn chỉnh, công ty cần một logo đọc được ngay là một doanh nghiệp công nghệ đáng tin cậy.",
-        "text_en": "Ahead of having a complete identity system, the company needed a logo that read immediately as a trustworthy technology business."
-      },
-      {
-        "id": "b4",
-        "type": "text",
-        "text_vi": "Tôi dựng chữ 云译 theo lối thư pháp Trung Hoa, giữ lại nét cọ thật, chỗ mực đậm nhạt và vệt sờn tự nhiên, thay vì vẽ lại bằng đường cong vector sạch sẽ, rồi đặt bên dưới một biểu tượng đám mây cách điệu.",
-        "text_en": "I built the 云译 mark in traditional Chinese calligraphy, keeping the brush's real strokes, the uneven ink weight and natural wear, rather than redrawing it in clean vector curves, then set it under a stylized cloud icon."
-      },
-      {
-        "id": "b5",
-        "type": "text",
-        "text_vi": "Màu xanh dương đậm (HEX 1971B9) gợi bầu trời, nơi đám mây ở, đi cùng đen và trắng để giữ độ tương phản trên nhiều chất liệu.",
-        "text_en": "A bold blue (HEX 1971B9) evokes the sky, where clouds sit, paired with black and white to hold contrast across materials."
-      },
-      {
-        "id": "b6",
-        "type": "text",
-        "text_vi": "Logo hoàn chỉnh gồm biểu tượng đám mây phía trên, tên công ty viết bằng thư pháp phía dưới.",
-        "text_en": "The finished mark pairs the cloud icon above with the company name in calligraphic script below."
-      },
-      {
-        "id": "b7",
-        "type": "text",
-        "text_vi": "Bàn giao để sử dụng trên website, danh thiếp, và các ấn phẩm thương hiệu khác, kể cả áo đồng phục in trực tiếp nét thư pháp màu xanh lên nền trắng.",
-        "text_en": "Delivered for use across the website, business cards and other brand materials, including staff t-shirts printed with the blue calligraphy directly on white."
-      },
-      {
-        "id": "b8",
-        "type": "text",
-        "text_vi": "Bộ hướng dẫn ngắn gọn đi kèm quy định vùng an toàn 10mm quanh logo, không cho bất kỳ chữ hay hình nào chen vào khoảng cách đó, cùng cách phối màu trên nền sáng và nền tối, giữ logo đọc đúng dù xuất hiện ở đâu.",
-        "text_en": "A short guideline set defines a 10mm clear space around the logo, off-limits to any type or graphic, along with color pairings for light and dark backgrounds, keeping the mark legible wherever it appears."
+        "text_vi": "Hướng thiết kế kết hợp liên tưởng về công nghệ và dịch vụ nền tảng đám mây với đặc trưng của typography và thư pháp Trung Hoa. Project không dừng ở một logo đơn lẻ mà được phát triển thành hệ thống nhận diện có thể ứng dụng trên các điểm chạm kỹ thuật số và ấn phẩm doanh nghiệp.",
+        "text_en": "The identity combines the technological association of cloud-based services with references to Chinese typography and calligraphic forms. The project extended beyond the logo itself into a usable identity system for applications such as digital communication and business materials."
       },
       {
         "id": "b9",
@@ -1091,40 +1073,28 @@
   {
     "id": "61d86b3e95a2",
     "order": 12,
-    "title_vi": "Vichy Laboratoires - Bao bì & Truyền thông khoa học",
-    "title_en": "Vichy Laboratoires - Packaging & Scientific Communications",
+    "title_vi": "Vichy Laboratoires",
+    "title_en": "Vichy Laboratoires",
     "tag1_vi": "Chăm sóc da",
     "tag1_en": "Skincare",
     "tag2_vi": "Mỹ phẩm dược liệu",
     "tag2_en": "Dermocosmetics",
-    "desc_vi": "Vichy (L'Oréal) khai sinh khái niệm mỹ phẩm dược liệu từ năm 1931. Công việc tại Việt Nam trải từ bao bì quà Tết đến ấn phẩm khoa học cho từng dòng sản phẩm. Tôi giữ một họa tiết mây vàng lặp lại trên bộ hộp quà theo mùa, và dựng lại dữ liệu lab thành hình ảnh dễ đọc, ví dụ mức giảm 62% đốm thâm sau 8 tuần.",
-    "desc_en": "Vichy (L'Oréal) invented the concept of dermocosmetics in 1931. Work for the Vietnam market spans seasonal Tet packaging to scientific pieces for individual product lines. I kept one gold cloud pattern repeating across the seasonal gift boxes, and turned lab data into a readable visual, such as a 62% reduction in dark spots after 8 weeks.",
+    "desc_vi": "Bộ sưu tập các thiết kế truyền thông thực hiện cho Vichy thuộc L'Oréal, trong khuôn khổ một hệ thống nhận diện dermocosmetic toàn cầu đã được xây dựng rất chặt chẽ.",
+    "desc_en": "A collection of visual communication work created for Vichy under L'Oréal, working within an established global dermocosmetic identity.",
     "link": "#",
     "image": "/assets/uploads/11-vichy-laboratoires.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Vichy (L'Oréal) khai sinh khái niệm mỹ phẩm dược liệu (dermocosmetics) từ năm 1931, tiếp nối hơn 80 năm nghiên cứu về chăm sóc da. Công việc tại Việt Nam trải dài từ bao bì quà tặng theo mùa, chiến dịch hợp tác với nhà bán lẻ, đến ấn phẩm truyền thông khoa học cho từng dòng sản phẩm.",
-        "text_en": "Vichy (L'Oréal) invented the concept of dermocosmetics in 1931, continuing more than 80 years of skincare research since. Work for the Vietnam market spans seasonal gift packaging, retailer collaboration campaigns, and scientific communication pieces for individual product lines."
+        "text_vi": "Bộ sưu tập các thiết kế truyền thông thực hiện cho Vichy thuộc L'Oréal, trong khuôn khổ một hệ thống nhận diện dermocosmetic toàn cầu đã được xây dựng rất chặt chẽ.",
+        "text_en": "A collection of visual communication work created for Vichy under L'Oréal, working within an established global dermocosmetic identity."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Cho bộ quà Tết, tôi giữ một họa tiết mây cách điệu màu vàng trên nền xanh dương đậm, lặp lại đúng vị trí và tỷ lệ trên cả ba cỡ hộp, để khi xếp cạnh nhau trên kệ, chúng đọc được như một bộ chứ không phải ba sản phẩm rời.",
-        "text_en": "For the Tet gift set, I kept one stylized gold cloud pattern on a deep teal ground, repeating it at the same position and scale across all three box sizes, so that lined up on a shelf, they read as one set rather than three separate products."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Với các ấn phẩm khoa học như Normaderm Phytosolution, hình ảnh macro của kết cấu sản phẩm (dạng gel xanh, bọt trắng, tinh chất cam) được xếp thành dải màu song song với biểu đồ số liệu thật, ví dụ mức giảm 62% đốm thâm sau mụn trong 8 tuần trên 50 người tham gia thử nghiệm, chuyển dữ liệu phòng lab thành hình ảnh dễ đọc cho người tiêu dùng.",
-        "text_en": "For scientific pieces like Normaderm Phytosolution, macro shots of the formula's texture (green gel, white foam, orange extract) are arranged into parallel color strips alongside a real data chart, a 62% reduction in post-acne dark spots after 8 weeks across 50 trial participants, turning lab data into something a consumer can read at a glance."
-      },
-      {
-        "id": "b4",
-        "type": "text",
-        "text_vi": "Cùng một hệ thống màu theo dòng sản phẩm và cách đặt logo giữ nguyên qua từng chiến dịch hợp tác nhà bán lẻ như Watsons, giúp mọi điểm chạm, dù đối tác hay định dạng nào, vẫn nhận ra ngay là Vichy.",
-        "text_en": "The same color system by product line and logo placement carries through each retailer collaboration, such as the Watsons anniversary campaign, so every touchpoint, whatever the partner or format, still reads immediately as Vichy."
+        "text_vi": "Bài toán không phải tái thiết kế thương hiệu mà là chuyển hóa các tiêu chuẩn hình ảnh có sẵn thành những ấn phẩm phù hợp với thị trường địa phương, đồng thời vẫn giữ được cảm giác rõ ràng, cao cấp và tập trung vào sản phẩm.",
+        "text_en": "The challenge was less about reinventing the brand and more about translating its existing visual standards into communication assets that remained clear, premium and product-focused for the local market."
       },
       {
         "id": "b5",
@@ -1299,22 +1269,28 @@
   {
     "id": "b0dc3d5c5fb3",
     "order": 13,
-    "title_vi": "Bộ sưu tập Làm đẹp & Phòng khám",
+    "title_vi": "Beauty & Clinic Collection",
     "title_en": "Beauty & Clinic Collection",
     "tag1_vi": "Thiết kế mạng xã hội",
     "tag1_en": "Social Media Design",
     "tag2_vi": "Làm đẹp",
     "tag2_en": "Beauty & Clinic",
-    "desc_vi": "Bộ sưu tập bài đăng mạng xã hội (2019 - 2022) cho ba thương hiệu làm đẹp và phòng khám: The Han, Sian Skin Clinic, Bến Thành Clinic. Tôi đổi hệ màu theo từng thương hiệu, đỏ vàng ánh kim cho Sian, be nâu ấm cho The Han, trong khi giữ chung một cấu trúc bố cục xuyên suốt ba năm.",
-    "desc_en": "A collection of social media posts (2019-2022) for three beauty and clinic brands: The Han, Sian Skin Clinic, Ben Thanh Clinic. I switched the color system by brand, red and metallic gold for Sian, warm beige and brown for The Han, while keeping one shared layout structure across three years.",
+    "desc_vi": "Bộ sưu tập thiết kế social media thực hiện trong giai đoạn 2019 đến 2022 cho nhiều thương hiệu beauty và clinic như The Han, Sian Skin Clinic và Ben Thanh Clinic.",
+    "desc_en": "A collection of social media design work produced between 2019 and 2022 for beauty and clinic clients including The Han, Sian Skin Clinic and Ben Thanh Clinic.",
     "link": "#",
     "image": "/assets/uploads/12-beauty-clinic-collection.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Bộ sưu tập bài đăng mạng xã hội (2019 - 2022) cho ba thương hiệu làm đẹp và phòng khám khác nhau: The Han, Sian Skin Clinic, Bến Thành Clinic. Tôi đổi hệ màu theo từng thương hiệu: đỏ và vàng ánh kim cho ưu đãi cao cấp của Sian, be và nâu ấm cho bảng giá và nội dung dưỡng da của The Han, trong khi vẫn giữ chung một cấu trúc bố cục, tiêu đề lớn, ảnh sản phẩm hoặc mẫu, logo cố định một góc. Khung đó lặp lại xuyên suốt ba năm, trải từ chăm sóc da, mỹ phẩm đến các dịch vụ thẩm mỹ y khoa trên kênh mạng xã hội của từng thương hiệu.",
-        "text_en": "A collection of social media posts (2019-2022) for three different beauty and clinic brands: The Han, Sian Skin Clinic, Ben Thanh Clinic. I switched the color system by brand: red and metallic gold for Sian's premium promotions, warm beige and brown for The Han's price lists and skincare content, while keeping one shared layout structure, a large headline, a product or model shot, the logo fixed in one corner. That structure repeated across three years, spanning skincare, cosmetics and medical treatments across each brand's social channels."
+        "text_vi": "Bộ sưu tập thiết kế social media thực hiện trong giai đoạn 2019 đến 2022 cho nhiều thương hiệu beauty và clinic như The Han, Sian Skin Clinic và Ben Thanh Clinic.",
+        "text_en": "A collection of social media design work produced between 2019 and 2022 for beauty and clinic clients including The Han, Sian Skin Clinic and Ben Thanh Clinic."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Việc làm việc với nhiều thương hiệu trong cùng một ngành yêu cầu điều chỉnh ngôn ngữ thị giác theo từng nhóm khách hàng và định vị dịch vụ khác nhau, nhưng vẫn giữ được độ rõ ràng và chỉn chu cần thiết của lĩnh vực làm đẹp và thẩm mỹ.",
+        "text_en": "Working across different brands in the same category required adapting the visual language to different audiences and service positions while maintaining the clarity and polish expected from beauty and clinical communication."
       },
       {
         "id": "b2",
@@ -1405,40 +1381,28 @@
   {
     "id": "6510be0034e5",
     "order": 14,
-    "title_vi": "Shuyi Việt Nam",
+    "title_vi": "Shuyi Vietnam",
     "title_en": "Shuyi Vietnam",
     "tag1_vi": "Nhận diện thương hiệu",
     "tag1_en": "Branding",
     "tag2_vi": "Freelance",
     "tag2_en": "Freelance",
-    "desc_vi": "Shuyi, tiền thân là 85°Tea, mở rộng từ hệ thống 7.000 cửa hàng gốc tại Trung Quốc sang thị trường Việt Nam. Tôi giữ nguyên linh vật thỏ đỏ có cánh xuyên suốt các ấn phẩm tiếng Việt, từ minh họa hero đến sticker mùa lễ, đặt cạnh ảnh người mẫu thật ở các bài khuyến mãi.",
-    "desc_en": "Shuyi, formerly 85°Tea, expanded from its original 7,000-store network in China into the Vietnamese market. I kept the winged red rabbit mascot constant across the Vietnamese-market materials, from hero illustrations to holiday stickers, paired with real model photography in promotional posts.",
+    "desc_vi": "Làm việc với vai trò freelance designer, phụ trách hỗ trợ các thiết kế truyền thông của Shuyi tại thị trường Việt Nam.",
+    "desc_en": "Worked as a freelance designer supporting Shuyi's visual communication for the Vietnamese market.",
     "link": "https://www.shuyisxc.com/",
     "image": "/assets/uploads/13-shuyi-vietnam.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Shuyi, tiền thân là 85°Tea, phát triển từ một cửa hàng ở Trung Quốc thành chuỗi 7.000 cửa hàng trước khi mở rộng sang thị trường Việt Nam.",
-        "text_en": "Shuyi, formerly 85°Tea, grew from one store in China into a chain of 7,000 before expanding into the Vietnamese market."
+        "text_vi": "Làm việc với vai trò freelance designer, phụ trách hỗ trợ các thiết kế truyền thông của Shuyi tại thị trường Việt Nam.",
+        "text_en": "Worked as a freelance designer supporting Shuyi's visual communication for the Vietnamese market."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi giữ nguyên linh vật thương hiệu, một chú thỏ đỏ có cánh và sừng rồng ôm ly trà sữa, xuyên suốt các ấn phẩm tiếng Việt: từ minh họa hero trên nền núi mây kiểu tranh Trung Hoa, đến bộ sticker mùa lễ như quả cầu tuyết Giáng sinh và thiệp chúc năm mới, luôn đặt cạnh icon đầu thỏ và chữ SHUYI ở góc trên trái.",
-        "text_en": "I kept the brand mascot constant, a winged red rabbit with dragon horns holding a milk tea cup, running through the Vietnamese-market materials: from a hero illustration set against a Chinese landscape-painting backdrop, to a holiday sticker pack such as a Christmas snow globe and a New Year card, always paired with the bunny-head icon and SHUYI wordmark in the top left."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Ở các bài đăng khuyến mãi, linh vật minh họa xuất hiện cạnh ảnh người mẫu thật cùng cầm ly nước, tiêu đề tiếng Việt viết theo giọng gần gũi, hướng đến người tiêu dùng trẻ tại thị trường mới.",
-        "text_en": "In promotional posts, the illustrated mascot sits beside a real model holding the same drink, Vietnamese headlines written in a casual, approachable tone aimed at younger consumers in the new market."
-      },
-      {
-        "id": "b4",
-        "type": "text",
-        "text_vi": "Đảm nhận vai trò nhà thiết kế freelance cho Shuyi tại Việt Nam trong giai đoạn thương hiệu mở rộng ra ngoài hệ thống cửa hàng gốc, giữ đúng một linh vật, một bảng màu, dù đổi giọng nói theo văn hóa từng vùng.",
-        "text_en": "Worked as a freelance designer on Shuyi in Vietnam during the brand's expansion beyond its original store network, keeping one mascot and one color palette even as the voice shifted for a new audience."
+        "text_vi": "Trong khuôn khổ hệ thống nhận diện có sẵn, tôi phát triển và điều chỉnh các visual dành cho thị trường địa phương, vừa giữ được đặc trưng của Shuyi vừa đáp ứng nhu cầu nội dung tại Việt Nam. Project là bài toán cân bằng liên tục giữa brand consistency và local communication.",
+        "text_en": "Within an established brand system, my role was to adapt and develop local-facing graphics that kept Shuyi recognizable while making its communication relevant to its Vietnam presence. The work became an ongoing exercise in balancing brand consistency with local content needs."
       },
       {
         "id": "b5",
@@ -1620,17 +1584,29 @@
   {
     "id": "4933a28f3512",
     "order": 15,
-    "title_vi": "Thiết kế UI/UX trang tuyển dụng KMS",
+    "title_vi": "KMS Career Landing Page: UI/UX Design",
     "title_en": "KMS Career Landing Page: UI/UX Design",
     "tag1_vi": "Thiết kế UI/UX",
     "tag1_en": "UI/UX Design",
     "tag2_vi": "Landing Page",
     "tag2_en": "Landing Page",
-    "desc_vi": "Dự án cá nhân thiết kế lại trang tuyển dụng của KMS Technology. Tôi sửa thanh điều hướng từ nhãn sai chính tả và trạng thái active không nhất quán, thành một hệ thống rõ ràng: Careers Home, các mục theo từng nhóm ứng viên, nút All Jobs nổi bật riêng. Xem toàn bộ case study trên Behance.",
-    "desc_en": "A personal redesign of KMS Technology's career landing page. I fixed the navigation bar from a misspelled label and inconsistent active states into one clear system: Careers Home, sections grouped by candidate type, and a standalone All Jobs button. See the full case study on Behance.",
+    "desc_vi": "Thiết kế concept career landing page cho KMS Technology, tập trung vào cách tổ chức employer branding và thông tin tuyển dụng thành một trải nghiệm số rõ ràng hơn.",
+    "desc_en": "Designed a career landing page concept for KMS Technology, exploring how employer branding and recruitment information could be structured into a clearer digital experience.",
     "link": "https://www.behance.net/gallery/203505649/UIUX-KMS-Career-Landing-Page-Design",
     "image": "/assets/uploads/14-uiux-kms-career-landing-page.png",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Thiết kế concept career landing page cho KMS Technology, tập trung vào cách tổ chức employer branding và thông tin tuyển dụng thành một trải nghiệm số rõ ràng hơn.",
+        "text_en": "Designed a career landing page concept for KMS Technology, exploring how employer branding and recruitment information could be structured into a clearer digital experience."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Project chú trọng hierarchy thông tin, tính nhất quán của giao diện và cách kể chuyện bằng hình ảnh, chuyển một lượng lớn nội dung nghề nghiệp thành landing page dễ đọc và dễ điều hướng hơn.",
+        "text_en": "The project focused on information hierarchy, interface consistency and visual storytelling, translating a large amount of career content into a landing page that could be scanned and navigated more naturally."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -1650,17 +1626,29 @@
   {
     "id": "61d43edcd352",
     "order": 16,
-    "title_vi": "AuOii - Định hướng hình ảnh thương hiệu",
-    "title_en": "AuOii Brand Art Direction",
+    "title_vi": "Au Oii Cosmetics: Brand Art Direction",
+    "title_en": "Au Oii Cosmetics: Brand Art Direction",
     "tag1_vi": "Định hướng nghệ thuật",
     "tag1_en": "Art Direction",
     "tag2_vi": "Mỹ phẩm",
     "tag2_en": "Cosmetics",
-    "desc_vi": "AuOii là dòng mỹ phẩm mẹ và bé, xây dựng quanh khái niệm \"Chạm\", sự kết nối giữa hai mẹ con. Tôi dựng hệ thống hình ảnh trọn vẹn: tông màu, ánh sáng, bộ icon và template mạng xã hội với đường viền hình chóp lặp lại trên mọi ấn phẩm.",
-    "desc_en": "AuOii is a mother and baby cosmetics line built around the concept of \"Chạm,\" touch, the bond between mother and child. I built the full visual system: color tone, lighting direction, icon set and a social template carrying a repeating chevron shape across every post.",
+    "desc_vi": "Project art direction phát triển thế giới hình ảnh cho thương hiệu mỹ phẩm Au Oii trên nhiều biểu đạt thương hiệu khác nhau.",
+    "desc_en": "An art direction project exploring the visual world of the Au Oii cosmetics brand across a broader set of brand expressions.",
     "link": "#",
     "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Project art direction phát triển thế giới hình ảnh cho thương hiệu mỹ phẩm Au Oii trên nhiều biểu đạt thương hiệu khác nhau.",
+        "text_en": "An art direction project exploring the visual world of the Au Oii cosmetics brand across a broader set of brand expressions."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Thay vì xem từng asset như một thiết kế độc lập, project tập trung xây dựng một ngôn ngữ thị giác có thể nhận diện thông qua bố cục, màu sắc, hình ảnh và cách xử lý đồ họa nhất quán, tạo nền tảng để thương hiệu tiếp tục mở rộng về sau.",
+        "text_en": "Rather than treating individual assets as isolated designs, the work focuses on creating a recognizable visual language through composition, color, imagery and consistent graphic treatment, establishing a direction that could extend across future brand communication."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -1834,28 +1822,28 @@
   {
     "id": "f6fead43f8bf",
     "order": 17,
-    "title_vi": "Abbott Ensure Gold - Bộ icon và banner truyền thông",
-    "title_en": "Abbott Ensure Gold - Icon & Campaign Graphics",
+    "title_vi": "Abbott Ensure Gold: Graphic Explorations",
+    "title_en": "Abbott Ensure Gold: Graphic Explorations",
     "tag1_vi": "Thiết kế đồ họa",
     "tag1_en": "Graphic Design",
     "tag2_vi": "Hàng tiêu dùng",
     "tag2_en": "FMCG",
-    "desc_vi": "Ensure Gold đã có bộ nhận diện toàn cầu và hai chỉ số khoa học được đặt tên sẵn: HMB, YBG. Tôi chuyển hai chỉ số đó thành cặp icon mạ vàng cùng tông với lon sản phẩm, lặp lại trên banner mạng xã hội và ấn phẩm livestream.",
-    "desc_en": "Ensure Gold already carried Abbott's global identity and two named clinical claims, HMB and YBG. I turned them into a pair of gold icons matching the can's own tone, repeated across social banners and livestream graphics.",
+    "desc_vi": "Phát triển một loạt hướng thiết kế banner và icon cho truyền thông sản phẩm Ensure Gold của Abbott.",
+    "desc_en": "Developed a series of banner and icon explorations for Abbott's Ensure Gold communication.",
     "link": "#",
     "image": "/assets/uploads/16-abbott-ensure-gold-graphic-drafts.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Ensure Gold thuộc hệ thống dinh dưỡng toàn cầu của Abbott, đến với bộ nhận diện đã được quy định sẵn cùng hai chỉ số khoa học đã có tên: HMB cho khối cơ, YBG cho đề kháng. Từ hai chỉ số đó, tôi thiết kế lại thành cặp icon mạ vàng cùng tông với lon sản phẩm, dùng xuyên suốt trên banner mạng xã hội và ấn phẩm livestream, giúp người xem nhận ra lợi ích sản phẩm chỉ qua hình, không cần đọc hết phần chú thích khoa học.",
-        "text_en": "Ensure Gold sits inside Abbott's global nutrition identity, arriving with its visual system already set and two clinical claims already named: HMB for muscle strength, YBG for immunity. I turned those two claims into a pair of gold icons matching the can's own metallic tone, carried across social banners and livestream graphics, so a viewer reads the product's benefit at a glance, without working through the clinical footnotes."
+        "text_vi": "Phát triển một loạt hướng thiết kế banner và icon cho truyền thông sản phẩm Ensure Gold của Abbott.",
+        "text_en": "Developed a series of banner and icon explorations for Abbott's Ensure Gold communication."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Dự án này hiện chưa được công bố đầy đủ, mọi quyền được bảo lưu. Các thiết kế và ý tưởng ở đây chỉ nhằm mục đích xem trước, không được sử dụng hoặc sao chép khi chưa có sự cho phép của chủ sở hữu. Mọi hành vi sử dụng hoặc phát tán trái phép đều bị nghiêm cấm.",
-        "text_en": "This project is not yet fully published; all rights are reserved. The designs and concepts shown are for preview only and may not be used or reproduced without the owner's permission. Unauthorized use or distribution is prohibited."
+        "text_vi": "Các thiết kế tập trung chuyển hóa tính năng và lợi ích sản phẩm thành thông điệp thị giác rõ ràng, đồng thời tuân thủ hệ thống của một thương hiệu dinh dưỡng và chăm sóc sức khỏe đã có nhận diện chặt chẽ. Portfolio chỉ hiển thị một phần quá trình phát triển do giới hạn quyền công bố.",
+        "text_en": "The work focused on translating product features and benefits into clear visual messages while working within the constraints of an established healthcare and nutrition brand. Only selected development work is shown due to publication restrictions."
       },
       {
         "id": "b3",
@@ -1911,17 +1899,29 @@
   {
     "id": "d773346fde85",
     "order": 18,
-    "title_vi": "TheLove - Thiết kế Logo",
-    "title_en": "TheLove - Logo Design",
+    "title_vi": "The Love: Logo Design",
+    "title_en": "The Love: Logo Design",
     "tag1_vi": "Thiết kế Logo",
     "tag1_en": "Logo Design",
     "tag2_vi": "",
     "tag2_en": "",
-    "desc_vi": "TheLove xây dựng danh tính quanh hình trái tim, không phải nét vẽ phẳng mà là khối đá quý nhiều mặt cắt ánh sắc hồng tím. Tôi thiết kế logo dạng khối đó cùng bộ chữ Aleo đi kèm, giữ được sự mềm mại của thông điệp \"yêu và được yêu\" trong một hình khối rõ ràng, dễ nhận ở mọi kích thước.",
-    "desc_en": "TheLove builds its identity around a heart, not drawn flat but faceted like a gemstone in shifting pink and violet tones. I designed that faceted mark alongside its Aleo typeface pairing, keeping the softness of \"love and be loved\" inside a shape that stays clear and legible at any size.",
+    "desc_vi": "Khám phá thiết kế logo cho The Love, tập trung xây dựng một dấu hiệu nhận diện cốt lõi có khả năng trở thành nền tảng cho hệ thống thương hiệu rộng hơn.",
+    "desc_en": "A logo design exploration for The Love, focused on defining a recognizable core mark that could become the starting point for a broader brand identity.",
     "link": "#",
     "image": "/assets/uploads/17-the-love-logo-design.png",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Khám phá thiết kế logo cho The Love, tập trung xây dựng một dấu hiệu nhận diện cốt lõi có khả năng trở thành nền tảng cho hệ thống thương hiệu rộng hơn.",
+        "text_en": "A logo design exploration for The Love, focused on defining a recognizable core mark that could become the starting point for a broader brand identity."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Project hiện được trình bày như một nghiên cứu nhận diện ban đầu và sẽ được bổ sung thêm context cùng các ứng dụng thương hiệu.",
+        "text_en": "This project is currently shown as an early identity study, with further brand context and applications to be added."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -1948,17 +1948,29 @@
   {
     "id": "b41ad51dc9af",
     "order": 19,
-    "title_vi": "EZVIZ - Thiết kế mạng xã hội dòng camera an ninh",
-    "title_en": "EZVIZ Security Camera Social Media Design",
+    "title_vi": "EZVIZ Camera: Social Media Design",
+    "title_en": "EZVIZ Camera: Social Media Design",
     "tag1_vi": "Thiết kế mạng xã hội",
     "tag1_en": "Social Media Design",
     "tag2_vi": "Camera an ninh",
     "tag2_en": "Security Camera",
-    "desc_vi": "EZVIZ đã có bộ nhận diện và tông xanh dương riêng cho từng dòng camera. Tôi dựng một khung bố cục lặp lại, tiêu đề, ảnh sản phẩm cắt nền, dải tính năng, áp dụng cho hàng chục mẫu máy từ H9c Dual đến dòng ống kính kép, giữ toàn bộ nội dung mạng xã hội đồng nhất.",
-    "desc_en": "EZVIZ already carries its own blue tone across each camera line. I built one repeating layout, headline, cutout product shot, feature strip, applied across dozens of models from the H9c Dual to the dual-lens PT series, keeping the entire social feed reading as one system.",
+    "desc_vi": "Thiết kế hệ thống visual social media cho EZVIZ, chuyển các sản phẩm camera và nội dung thiên về công nghệ thành hình ảnh truyền thông dễ tiếp cận với người dùng.",
+    "desc_en": "Created social media visuals for EZVIZ, translating camera products and technology-focused communication into clear, consumer-facing graphics.",
     "link": "#",
     "image": "/assets/uploads/18-ezviz-camera-social-media-design.png",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Thiết kế hệ thống visual social media cho EZVIZ, chuyển các sản phẩm camera và nội dung thiên về công nghệ thành hình ảnh truyền thông dễ tiếp cận với người dùng.",
+        "text_en": "Created social media visuals for EZVIZ, translating camera products and technology-focused communication into clear, consumer-facing graphics."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Bài toán là cân bằng giữa độ nổi bật của sản phẩm, thông tin kỹ thuật và bối cảnh sử dụng thực tế, đồng thời giữ thiết kế nhất quán với hệ thống nhận diện có sẵn của thương hiệu.",
+        "text_en": "The work required balancing product visibility, technical information and everyday use cases while keeping the communication consistent with the brand's established visual identity."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -2132,22 +2144,28 @@
   {
     "id": "6f3f4bc376ef",
     "order": 20,
-    "title_vi": "T-B Fresh - Video hoạt hình quảng cáo",
-    "title_en": "T-B Fresh Animated Ad",
+    "title_vi": "T-B Fresh Mouthwash: Animated Campaign",
+    "title_en": "T-B Fresh Mouthwash: Animated Campaign",
     "tag1_vi": "Hoạt hình",
     "tag1_en": "Animation",
     "tag2_vi": "Sản xuất Video",
     "tag2_en": "Video Production",
-    "desc_vi": "T-B Fresh là nước súc miệng sát khuẩn của Traphaco. Tôi dựng kịch bản và nhân vật chiếc răng hoạt hình, bẩn bám thức ăn rồi sạch bóng lấp lánh sau khi dùng sản phẩm, kể toàn bộ công dụng chỉ bằng một hình ảnh trước/sau, không cần lời thoại giải thích.",
-    "desc_en": "T-B Fresh is Traphaco's antiseptic mouthwash. I wrote the script and built an animated tooth character, dirty with food debris then sparkling clean after the rinse, telling the whole product benefit through one before/after image, no dialogue needed.",
+    "desc_vi": "Phụ trách phát triển dự án video quảng bá dạng animation cho nước súc miệng T-B Fresh từ script đến output hình ảnh cuối cùng.",
+    "desc_en": "Led the development of an animated promotional project for T-B Fresh mouthwash from script to final visual output.",
     "link": "#",
     "image": "/assets/uploads/19-tb-mouthwash-animated-promotion-videos.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "T-B Fresh là nước súc miệng sát khuẩn của Traphaco, hỗ trợ ngừa viêm họng và viêm lợi, chưa có nhân vật hình ảnh riêng để kể câu chuyện công dụng. Tôi viết kịch bản và dựng nhân vật chiếc răng hoạt hình: bẩn, bám mảng thức ăn ở cảnh mở đầu, rồi sạch bóng lấp lánh sau khi súc miệng, chuyển toàn bộ lợi ích sản phẩm thành một hình ảnh trước/sau dễ nhớ, không cần lời thoại dài dòng.",
-        "text_en": "T-B Fresh is Traphaco's antiseptic mouthwash for gum and throat care, with no character of its own yet to carry the product story. I wrote the script and built an animated tooth character: dirty with food residue at the opening, then sparkling clean after the rinse, turning the product's whole benefit into one memorable before/after image, no lengthy dialogue needed."
+        "text_vi": "Phụ trách phát triển dự án video quảng bá dạng animation cho nước súc miệng T-B Fresh từ script đến output hình ảnh cuối cùng.",
+        "text_en": "Led the development of an animated promotional project for T-B Fresh mouthwash from script to final visual output."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Tôi xây dựng kịch bản, phát triển visual direction và thực hiện phần animation, chịu trách nhiệm xuyên suốt quá trình chuyển một ý tưởng truyền thông ban đầu thành sản phẩm motion hoàn chỉnh. Project kết nối concept, thiết kế và chuyển động thành một quy trình liền mạch thay vì các công đoạn execution tách rời.",
+        "text_en": "I developed the script, created the visual direction and produced the animation, taking responsibility for how the product story moved from an initial communication idea into a complete motion piece. The project brought together concept, design and animation as one continuous production process rather than separate execution stages."
       },
       {
         "id": "b2",
@@ -2238,17 +2256,29 @@
   {
     "id": "007cec30c262",
     "order": 21,
-    "title_vi": "Phác thảo tay - Tuyển tập cá nhân",
-    "title_en": "Hand Sketches - Personal Collection",
+    "title_vi": "Hand Drawing & Idea Sketches",
+    "title_en": "Hand Drawing & Idea Sketches",
     "tag1_vi": "Phác thảo",
     "tag1_en": "Sketching",
     "tag2_vi": "Cá nhân",
     "tag2_en": "Personal Work",
-    "desc_vi": "Tôi giữ một góc phác thảo cá nhân, từ phong cảnh vẽ mực đến nhân vật minh hoạ, nơi ý tưởng được thử trước khi đưa vào các dự án khác.",
-    "desc_en": "I keep a personal sketching corner, from ink landscapes to character studies, where ideas get tested before they carry into other projects.",
+    "desc_vi": "Tuyển tập hand drawing và idea sketch ghi lại phần tư duy diễn ra trước khi một thiết kế được hoàn thiện.",
+    "desc_en": "A selection of hand drawings and idea sketches showing the thinking that happens before polished visual execution.",
     "link": "#",
     "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Tuyển tập hand drawing và idea sketch ghi lại phần tư duy diễn ra trước khi một thiết kế được hoàn thiện.",
+        "text_en": "A selection of hand drawings and idea sketches showing the thinking that happens before polished visual execution."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Các bản vẽ trải dài từ những ghi chú concept nhanh đến sketch chi tiết hơn, thể hiện cách tôi thử nghiệm composition, nhân vật, dáng và ý tưởng thị giác trước khi chuyển sang giai đoạn sản xuất digital.",
+        "text_en": "These studies range from quick concept notes to more developed drawings, documenting how composition, character, gesture and visual ideas are explored before moving into digital production."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -2275,22 +2305,28 @@
   {
     "id": "d7345678aa19",
     "order": 22,
-    "title_vi": "La Roche-Posay - Triển khai chiến dịch Tháng Sức Khỏe Làn Da",
-    "title_en": "La Roche-Posay - Skin Health Month Campaign Rollout",
+    "title_vi": "La Roche-Posay",
+    "title_en": "La Roche-Posay",
     "tag1_vi": "Chăm sóc da",
     "tag1_en": "Skincare",
     "tag2_vi": "Dược mỹ phẩm",
     "tag2_en": "Pharmacy Brand",
-    "desc_vi": "La Roche-Posay đã có hệ thống nhận diện dược mỹ phẩm được quy định chặt chẽ: nền xanh dương, biểu tượng dấu cộng từ logo, thông điệp lâm sàng cố định theo từng dòng sản phẩm. Tôi triển khai chiến dịch \"Tháng Sức Khỏe Làn Da\" xuyên suốt hộp quà tặng, standee, ấn phẩm mạng xã hội và tờ thông tin bao bì, giữ đúng bảng màu riêng của từng dòng trên mọi ấn phẩm bán lẻ.",
-    "desc_en": "La Roche-Posay arrives with its pharmacy skincare identity tightly set: signature blue, the plus mark from its own logo, fixed clinical claims per product line. I rolled out the \"Skin Health Month\" campaign across gift boxes, in-store standees, social tiles and back-of-pack panels, keeping each line's color code consistent across every retail piece.",
+    "desc_vi": "Bộ sưu tập các thiết kế truyền thông thực hiện cho La Roche-Posay thuộc L'Oréal, trong khuôn khổ một hệ thống nhận diện skincare toàn cầu đã được xác lập rất rõ.",
+    "desc_en": "A collection of visual communication work created for La Roche-Posay under L'Oréal, within the constraints of a highly established global skincare identity.",
     "link": "#",
     "image": "/assets/uploads/21-la-roche-posay.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "La Roche-Posay đã có một hệ thống nhận diện dược mỹ phẩm được quy định chặt chẽ: chữ trắng trên nền xanh dương, biểu tượng dấu cộng lặp lại từ logo, cùng các thông điệp lâm sàng cố định cho từng dòng sản phẩm. Từ hệ thống đó, tôi triển khai chiến dịch \"Tháng Sức Khỏe Làn Da\" xuyên suốt nhiều định dạng: hộp quà tặng, standee, ấn phẩm mạng xã hội, tờ thông tin mặt sau bao bì, giữ đúng bảng màu theo từng dòng sản phẩm, xanh dương cho da nhạy cảm, cam cho chống nắng, trên mọi ấn phẩm bán lẻ.",
-        "text_en": "La Roche-Posay arrives with its pharmacy skincare identity tightly set: white type on its signature blue, the plus mark repeating from its own logo, and clinical claims fixed for each product line. From that system, I rolled out the \"Skin Health Month\" campaign across formats, gift box, in-store standee, social tiles, back-of-pack info panels, keeping the color code for each line, blue for sensitive skin, orange for sun care, consistent across every retail piece."
+        "text_vi": "Bộ sưu tập các thiết kế truyền thông thực hiện cho La Roche-Posay thuộc L'Oréal, trong khuôn khổ một hệ thống nhận diện skincare toàn cầu đã được xác lập rất rõ.",
+        "text_en": "A collection of visual communication work created for La Roche-Posay under L'Oréal, within the constraints of a highly established global skincare identity."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Các thiết kế tập trung truyền tải sản phẩm và thông tin một cách trực quan, đồng thời giữ được tính khoa học, đáng tin cậy và product-led đặc trưng của thương hiệu trên các ấn phẩm dành cho thị trường địa phương.",
+        "text_en": "The work focused on communicating products and information clearly while preserving the clinical, trustworthy and product-led character of the brand across local marketing materials."
       },
       {
         "id": "b2",
@@ -2458,17 +2494,29 @@
   {
     "id": "40dc7b455412",
     "order": 23,
-    "title_vi": "JOMOO Việt Nam - Lễ khai trương",
-    "title_en": "JOMOO Vietnam - Grand Opening",
+    "title_vi": "JOMOO Vietnam Grand Opening",
+    "title_en": "JOMOO Vietnam Grand Opening",
     "tag1_vi": "Sự kiện",
     "tag1_en": "Event",
     "tag2_vi": "Thiết bị vệ sinh",
     "tag2_en": "Sanitary Ware Brand",
-    "desc_vi": "JOMOO là thương hiệu thiết bị vệ sinh, mở cửa hàng đầu tiên tại Việt Nam. Tôi dựng bộ hình ảnh khai trương: phông nền lát gạch mosaic xanh navy gợi chất liệu phòng tắm, dàn bóng bay navy - vàng - bạc và khối chữ JOMOO nổi khối, lặp lại trên backdrop cửa hàng và thiệp mời cắt băng.",
-    "desc_en": "JOMOO is a sanitary ware brand opening its first Vietnam store. I built the opening visuals: a navy mosaic-tile backdrop echoing bathroom material, a navy, gold and silver balloon system, and dimensional JOMOO letters, carried across the storefront backdrop and the ribbon-cutting invitation card.",
+    "desc_vi": "Phát triển thiết kế truyền thông cho sự kiện Grand Opening của JOMOO tại Việt Nam, chuyển hệ thống nhận diện thương hiệu thành các visual phục vụ một cột mốc ra mắt quan trọng trên thị trường.",
+    "desc_en": "Developed visual communication for JOMOO's Vietnam Grand Opening, translating the brand identity into launch-focused materials for a major market-facing moment.",
     "link": "#",
     "image": "/assets/uploads/22-jomoo-vietnam-grand-opening.png",
     "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Phát triển thiết kế truyền thông cho sự kiện Grand Opening của JOMOO tại Việt Nam, chuyển hệ thống nhận diện thương hiệu thành các visual phục vụ một cột mốc ra mắt quan trọng trên thị trường.",
+        "text_en": "Developed visual communication for JOMOO's Vietnam Grand Opening, translating the brand identity into launch-focused materials for a major market-facing moment."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Project tập trung tạo hình ảnh sự kiện nhất quán và chỉn chu, vừa hỗ trợ việc giới thiệu thương hiệu vừa giữ được ngôn ngữ thị giác vốn có của JOMOO.",
+        "text_en": "The work centered on creating a polished and consistent event presence that could support the brand introduction while remaining aligned with JOMOO's established visual language."
+      },
       {
         "id": "b1",
         "type": "image",
@@ -2488,22 +2536,28 @@
   {
     "id": "5c0fe30497d0",
     "order": 24,
-    "title_vi": "De Skin Journey - Bộ hướng dẫn làm mới website",
-    "title_en": "De Skin Journey - Website Renewal Guidelines",
+    "title_vi": "De Skin Journey: Website Renewal Guidelines",
+    "title_en": "De Skin Journey: Website Renewal Guidelines",
     "tag1_vi": "Thiết kế Web",
     "tag1_en": "Web Design",
     "tag2_vi": "Làm đẹp",
     "tag2_en": "Beauty & Skincare",
-    "desc_vi": "De Skin Journey phân phối nhiều thương hiệu dược mỹ phẩm khác nhau, mỗi thương hiệu một bộ nhận diện riêng. Tôi dựng bảng màu, phông chữ và bộ bảy icon nét mảnh cho từng vấn đề da, cùng một khung banner chung áp dụng cho mọi thương hiệu đối tác trên trang.",
-    "desc_en": "De Skin Journey carries many different skincare brands, each with its own identity. I built the color palette, typeface pairing and a set of seven thin-line icons for each skin concern, along with one shared banner grid applied across every partner brand on the site.",
+    "desc_vi": "Phát triển guideline làm mới website cho De Skin Journey như một phần trong quá trình nâng cấp hình ảnh thương hiệu tổng thể.",
+    "desc_en": "Developed website renewal guidelines for De Skin Journey as part of the brand's broader visual evolution.",
     "link": "#",
     "image": "/assets/uploads/23-de-skin-journey-website-renewal.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "De Skin Journey phân phối nhiều thương hiệu dược mỹ phẩm khác nhau, từ Obagi, SkinCeuticals đến Paula's Choice, mỗi thương hiệu một bộ nhận diện riêng, chưa có hướng dẫn chung để website đọc như một hệ thống. Tôi dựng bảng màu, cặp phông Flatline và Gotham, cùng bộ bảy icon nét mảnh cho từng nhóm vấn đề da, rồi áp khung banner giống nhau, logo trái, sản phẩm giữa, tiêu đề phải, cho mọi thương hiệu đối tác trên trang.",
-        "text_en": "De Skin Journey carries many different skincare brands, from Obagi and SkinCeuticals to Paula's Choice, each with its own identity and no shared guideline to make the site read as one system. I built the color palette, the Flatline and Gotham typeface pairing, and a set of seven thin-line icons for each skin concern, then applied one banner grid, logo left, product center, headline right, across every partner brand on the site."
+        "text_vi": "Phát triển guideline làm mới website cho De Skin Journey như một phần trong quá trình nâng cấp hình ảnh thương hiệu tổng thể.",
+        "text_en": "Developed website renewal guidelines for De Skin Journey as part of the brand's broader visual evolution."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Hướng thiết kế tập trung tạo ra trải nghiệm số hiện đại hơn nhưng vẫn giữ định vị skincare dựa trên khoa học. Tôi xây dựng các nguyên tắc thị giác cho cách nhận diện mới được chuyển lên website, kết nối brand expression, hierarchy thông tin và khả năng sử dụng trong cùng một hệ thống.",
+        "text_en": "The direction focused on creating a more contemporary digital experience while preserving the brand's positioning around scientific skincare. I defined the visual principles for how the renewed identity should translate into the website, helping connect brand expression, information hierarchy and digital usability within one system."
       },
       {
         "id": "b2",
@@ -2601,28 +2655,28 @@
   {
     "id": "95b74f4ae5ff",
     "order": 25,
-    "title_vi": "GoGoX - Bộ Key Visual ra mắt thị trường Việt Nam",
-    "title_en": "GoGoX - Vietnam Launch Key Visual System",
+    "title_vi": "GoGoX: Main Key Visual & Adaptations",
+    "title_en": "GoGoX: Main Key Visual & Adaptations",
     "tag1_vi": "Key Visual",
     "tag1_en": "Key Visual",
     "tag2_vi": "Logistics",
     "tag2_en": "Logistics",
-    "desc_vi": "GoGoX là nền tảng logistics châu Á, mở rộng sang Việt Nam mà chưa có bộ hình ảnh riêng cho thị trường mới. Tôi dựng key visual với linh vật gấu vàng cùng dấu X từ logo lặp lại thành icon ngành hàng, rồi thu nhỏ thành banner web, giữ cùng một hệ màu vàng - xanh dương xuyên suốt.",
-    "desc_en": "GoGoX is an Asian logistics platform expanding into Vietnam without visuals of its own for the new market yet. I built the key visual around its yellow bear mascot, turning the X mark from the logo into a repeating cargo-category icon set, then adapted it down into web banners, keeping one yellow-blue palette throughout.",
+    "desc_vi": "Phát triển hệ thống hình ảnh chiến dịch cho GoGoX từ main key visual đến các adaptation trên nhiều định dạng truyền thông.",
+    "desc_en": "Developed campaign visual work for GoGoX around a main key visual and its adaptations across communication formats.",
     "link": "#",
     "image": "/assets/uploads/24-gogox-main-kv-adaptations.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "GoGoX là nền tảng logistics kết nối trực tiếp cá nhân và doanh nghiệp với tài xế đối tác theo thời gian thực, đã có mặt tại hơn 340 thành phố. Khi mở rộng sang Việt Nam, thương hiệu cần một bộ hình ảnh chào sân riêng cho thị trường mới, chưa có ấn phẩm nào được dựng sẵn cho lần ra mắt này.",
-        "text_en": "GoGoX is a logistics platform connecting individuals and businesses directly with real-time driver partners, already active in more than 340 cities. Its Vietnam expansion needed a welcome visual of its own for the new market, with no launch materials built yet for this rollout."
+        "text_vi": "Phát triển hệ thống hình ảnh chiến dịch cho GoGoX từ main key visual đến các adaptation trên nhiều định dạng truyền thông.",
+        "text_en": "Developed campaign visual work for GoGoX around a main key visual and its adaptations across communication formats."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi dựng key visual quanh linh vật gấu vàng của GoGoX, tay cầm biển tên \"Việt Nam\" giữa nền phố đôi màu vàng - xanh dương đặc trưng thương hiệu, rồi biến dấu X trong logo thành icon lặp lại cho từng nhóm hàng: nông nghiệp, nội thất, nguyên liệu thô. Cùng một khung đó được thu nhỏ thành banner đặt trên các trang tin, giữ nguyên tông màu và vị trí linh vật.",
-        "text_en": "I built the key visual around GoGoX's yellow bear mascot, holding up a \"Vietnam\" street sign against the brand's yellow-blue skyline, then turned the X mark from the logo into a repeating icon for each cargo category: agriculture, furniture, raw materials. The same frame scales down into banners placed on news sites, keeping the same tone and mascot position."
+        "text_vi": "Bài toán là tạo một hình ảnh trung tâm đủ mạnh để giữ được nhận diện khi chuyển sang nhiều kích thước và ứng dụng khác nhau, cân bằng giữa độ nổi bật của campaign và tính nhất quán cần thiết cho quá trình rollout.",
+        "text_en": "The project required establishing a strong central image that could remain recognizable as it moved into different sizes and applications, balancing campaign impact with the practical consistency needed for a multi-format rollout."
       },
       {
         "id": "b3",
@@ -2713,82 +2767,28 @@
   {
     "id": "e93f63321384",
     "order": 26,
-    "title_vi": "Helen Harper - Hệ thống hình ảnh mạng xã hội",
-    "title_en": "Helen Harper - Social Media Visual System",
+    "title_vi": "Helen Harper: Social Media Visuals",
+    "title_en": "Helen Harper: Social Media Visuals",
     "tag1_vi": "Thiết kế mạng xã hội",
     "tag1_en": "Social Media Design",
     "tag2_vi": "Chăm sóc phụ nữ",
     "tag2_en": "Women's Care Brand",
-    "desc_vi": "Helen Harper bán hàng chủ yếu qua mạng xã hội, nơi ảnh sản phẩm chăm sóc cá nhân dễ lẫn vào nền trắng quen thuộc của cả ngành hàng. Tôi dựng một khung hình lặp lại, vòng cung ánh sáng, sương mờ, nền trời gradient pastel, tách màu riêng cho từng dòng sản phẩm, áp dụng xuyên suốt bài đăng, carousel, story và reel.",
-    "desc_en": "Helen Harper sells mainly through social media, where personal care product shots easily blend into the white background common across the category. I built a repeating frame, a light halo, soft mist, pastel sky gradient, with color split by product line, carried across posts, carousels, stories and reels.",
+    "desc_vi": "Thiết kế hệ thống visual social media cho Helen Harper, chuyển các sản phẩm chăm sóc cá nhân dành cho phụ nữ thành nội dung truyền thông rõ ràng, gần gũi và nhất quán với thương hiệu.",
+    "desc_en": "Created ongoing social media visuals for Helen Harper, translating women's personal care products into communication that felt clear, approachable and consistent with the brand.",
     "link": "#",
     "image": "/assets/uploads/25-helen-harper.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Helen Harper là thương hiệu chăm sóc phụ nữ với băng vệ sinh, tấm lót và dòng NAT (Nice and True) chăm sóc vùng kín, bán hàng chủ yếu qua mạng xã hội.",
-        "text_en": "Helen Harper is a women's care brand spanning sanitary pads, panty liners and its NAT (Nice and True) intimate care line, selling mainly through social media."
+        "text_vi": "Thiết kế hệ thống visual social media cho Helen Harper, chuyển các sản phẩm chăm sóc cá nhân dành cho phụ nữ thành nội dung truyền thông rõ ràng, gần gũi và nhất quán với thương hiệu.",
+        "text_en": "Created ongoing social media visuals for Helen Harper, translating women's personal care products into communication that felt clear, approachable and consistent with the brand."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Trên một dòng feed nơi mọi bài đăng nằm cạnh nhau, ảnh sản phẩm chăm sóc cá nhân dễ trộn lẫn vào cùng nền trắng, cùng kiểu ánh sáng studio quen thuộc của cả ngành hàng.",
-        "text_en": "On a feed where every post sits beside the next, personal care product shots tend to blend into the same white background and studio lighting common across the whole category."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Người theo dõi Helen Harper là phụ nữ tìm sự tin cậy ở một sản phẩm dùng mỗi ngày, không phải hình ảnh gây chú ý nhất thời.",
-        "text_en": "Helen Harper's followers are women looking for reliability in a product used every day, not a passing eye-catching image."
-      },
-      {
-        "id": "b4",
-        "type": "text",
-        "text_vi": "Tôi dựng một khung hình lặp lại cho ảnh sản phẩm: vòng cung ánh sáng phía sau, lớp sương mờ dưới chân sản phẩm, nền trời gradient pastel chuyển từ cam đào sang tím nhạt, đặt sản phẩm như đang được nâng lên giữa khung cảnh đó thay vì chụp phẳng trên nền trắng.",
-        "text_en": "I built a repeating frame for product shots: a halo of light behind the product, a soft mist beneath it, a pastel sky gradient shifting from peach to lilac, lifting the product into that scene instead of a flat white-background shot."
-      },
-      {
-        "id": "b5",
-        "type": "text",
-        "text_vi": "Bảng màu tách rõ hai dòng trong cùng hệ thống: hồng và hoạ tiết hoa cho Helen Harper, xanh ngọc và cam san hô cho NAT, để người xem phân biệt được sản phẩm nào thuộc dòng nào chỉ bằng màu, dù khung hình và bố cục vẫn giữ chung một công thức.",
-        "text_en": "The color palette splits the two lines inside one system: pink and floral pattern for Helen Harper, teal and coral for NAT, so a viewer tells the two lines apart by color alone, while the frame and layout keep one shared formula."
-      },
-      {
-        "id": "b6",
-        "type": "text",
-        "text_vi": "Với các bài mang tính hướng dẫn, một dải màu vẽ tay chạy phía sau tiêu đề, giữ được cảm giác viết tay gần gũi thay vì khung chữ cứng nhắc thường thấy ở nội dung sức khoẻ.",
-        "text_en": "For guide-style posts, a hand-painted color stroke runs behind the headline, keeping a handwritten, approachable feel instead of the rigid text box common to health content."
-      },
-      {
-        "id": "b7",
-        "type": "text",
-        "text_vi": "Khung đó mang được nhiều loại nội dung khác nhau: bài hướng dẫn cách dùng, carousel liệt kê điều nên tránh, hay ảnh đời thường một người phụ nữ đang mệt mỏi giữa ngày đèn đỏ.",
-        "text_en": "That frame carries different kinds of content: how-to guides, carousel slides on what to avoid, or a lifestyle shot of a woman tired in the middle of her period."
-      },
-      {
-        "id": "b8",
-        "type": "text",
-        "text_vi": "Cùng một hệ thống đó được kéo dài sang bài tĩnh, carousel nhiều trang, story ngắn và reel, mỗi định dạng một nhịp riêng nhưng cùng đọc ra một thương hiệu.",
-        "text_en": "The same system stretches across static posts, multi-slide carousels, short stories and reels, each format with its own pace but reading as one brand."
-      },
-      {
-        "id": "b9",
-        "type": "text",
-        "text_vi": "Nội dung vẫn bắt kịp xu hướng mạng xã hội theo từng đợt, chỉ đổi cách kể chứ không đổi khung hình hay bảng màu đã dựng.",
-        "text_en": "Content still follows social media trends from one cycle to the next, changing how the story is told without changing the frame or palette already in place."
-      },
-      {
-        "id": "b10",
-        "type": "text",
-        "text_vi": "Qua nhiều đợt nội dung, các chi tiết được tinh chỉnh dần: độ mờ của sương, vị trí vòng cung ánh sáng, cỡ chữ tiêu đề, nhưng khung gốc vẫn giữ nguyên.",
-        "text_en": "Across content cycles, details get refined gradually: the mist's opacity, the halo's position, headline type size, while the original frame stays the same."
-      },
-      {
-        "id": "b11",
-        "type": "text",
-        "text_vi": "Từ một bài đăng đơn lẻ đến một video reel, hình ảnh Helen Harper không còn đọc như quảng cáo y tế mà như một câu chuyện chăm sóc bản thân được kể đều đặn mỗi tuần.",
-        "text_en": "From a single post to a video reel, Helen Harper's visuals no longer read as medical advertising but as a self-care story told steadily, week after week."
+        "text_vi": "Trên nhiều nhóm nội dung khác nhau, thiết kế cân bằng giữa thông tin sản phẩm và hình ảnh lifestyle mềm mại hơn, duy trì một visual presence có tính nhận diện thay vì xử lý mỗi bài đăng như một thiết kế độc lập.",
+        "text_en": "Across different content needs, the work balanced product information with softer lifestyle imagery, maintaining a recognizable visual presence instead of treating every post as an isolated design."
       },
       {
         "id": "b12",
@@ -2935,34 +2935,28 @@
   {
     "id": "ef4442ece1c3",
     "order": 27,
-    "title_vi": "Triển khai hệ thống nhận diện chuỗi cửa hàng WIN",
-    "title_en": "WIN Retail Chain: Identity Rollout",
+    "title_vi": "WIN Store System: Brand Identity Campaign",
+    "title_en": "WIN Store System: Brand Identity Campaign",
     "tag1_vi": "Nhận diện thương hiệu",
     "tag1_en": "Brand Identity",
     "tag2_vi": "Bán lẻ",
     "tag2_en": "Retail",
-    "desc_vi": "WIN gộp nhiều dịch vụ không liên quan, từ tạp hoá đến ngân hàng và y tế, dưới một mái nhà. Từ vài key visual ban đầu, tôi xây dựng hệ thống màu riêng cho từng ngành hàng, mở rộng thành hàng trăm ấn phẩm cho chuỗi cửa hàng tăng từ 27 lên 102 điểm trong quý 4/2022.",
-    "desc_en": "WIN brings together services with little in common, from groceries to banking and healthcare, under one roof. From a handful of starting visuals, I built a color system for each category, growing into hundreds of assets for a store rollout from 27 to 102 locations by Q4 2022.",
+    "desc_vi": "Tham gia phát triển phần visual rollout cho WIN, mô hình bán lẻ mới của Masan được phát triển từ hệ sinh thái WinMart+.",
+    "desc_en": "Contributed to the visual rollout for WIN, Masan's new retail format evolving from the existing WinMart+ ecosystem.",
     "link": "#",
     "image": "/assets/uploads/26-win-store-system-brand-campaign.png",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "WIN là mô hình bán lẻ nâng cấp từ WinMart+, thuộc chiến lược Tiêu dùng - Công nghệ của Masan Group, gộp nhiều dịch vụ vốn không liên quan với nhau, từ tạp hoá, cà phê, ngân hàng, viễn thông đến chăm sóc sức khoẻ, dưới một mái nhà. Đợt ra mắt đầu tiên tại TP.HCM bắt đầu từ một vài key visual, chưa có hệ thống thiết kế cụ thể được dựng sẵn.",
-        "text_en": "WIN is Masan Group's retail format upgraded from WinMart+, part of its Consumer-Technology strategy, bringing together services with little in common, from groceries and coffee to banking, mobile and healthcare, under one roof. Its first Ho Chi Minh City launch began with a handful of key visuals, before a complete design system was in place."
+        "text_vi": "Tham gia phát triển phần visual rollout cho WIN, mô hình bán lẻ mới của Masan được phát triển từ hệ sinh thái WinMart+.",
+        "text_en": "Contributed to the visual rollout for WIN, Masan's new retail format evolving from the existing WinMart+ ecosystem."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Từ những mẫu ban đầu đó, tôi xây dựng một hệ thống màu theo từng ngành hàng: xanh lá cho Phúc Long, đỏ đậm cho ngân hàng, trắng cho viễn thông, đỏ tươi cho tạp hoá, xanh ngọc cho y tế. Màu trở thành ngôn ngữ chung, cho phép khách hàng nhận ra dịch vụ mình cần chỉ bằng một ánh nhìn, không cần đọc thêm chữ nào.",
-        "text_en": "From those starting visuals, I built a color system by category: green for Phuc Long, deep red for banking, white for mobile, bright red for groceries, teal for healthcare. Color became a shared language, letting a customer recognize the service they need at a glance, no reading required."
-      },
-      {
-        "id": "b3",
-        "type": "text",
-        "text_vi": "Một khung câu hỏi và một vị trí logo được giữ nguyên xuyên suốt, từ banner mạng xã hội, tờ rơi, đến catalogue khai trương in ấn. Hệ thống mở rộng thành hàng trăm ấn phẩm, theo sát chuỗi cửa hàng của Masan Group tăng từ 27 lên 102 điểm trong quý 4/2022. Một tập hợp thương hiệu rời rạc trở thành một hệ sinh thái đọc được ngay từ cái nhìn đầu tiên.",
-        "text_en": "One question format and one logo position hold steady across social banners, flyers and the print catalogue for the store opening. The system grew into hundreds of assets, tracking Masan Group's rollout from 27 to 102 stores by Q4 2022. A scattered mix of brands becomes an ecosystem legible at a glance."
+        "text_vi": "Project chuyển định vị bán lẻ mới thành các điểm chạm thương hiệu hướng trực tiếp đến người tiêu dùng khi WIN được triển khai ra hệ thống cửa hàng vật lý. Thiết kế cần mang cảm giác hiện đại và lifestyle hơn, đồng thời đủ thực dụng để ứng dụng trên nhiều điểm chạm khác nhau của môi trường retail.",
+        "text_en": "The project translated a new retail positioning into customer-facing brand communication as WIN expanded into physical stores. The visual work supported a system that needed to feel more contemporary and lifestyle-oriented while remaining practical across the many touchpoints of a retail environment."
       },
       {
         "id": "b4",
@@ -3088,64 +3082,46 @@
   {
     "id": "585f078b9f9a",
     "order": 1,
-    "title_vi": "Toshiba TV Vietnam | Winning IMC Pitch & Campaign",
-    "title_en": "Toshiba TV Vietnam | Winning IMC Pitch & Campaign",
+    "title_vi": "Toshiba TV Vietnam: Winning IMC Pitch & Campaign",
+    "title_en": "Toshiba TV Vietnam: Winning IMC Pitch & Campaign",
     "tag1_vi": "Thiết kế quảng cáo",
     "tag1_en": "Advertising Design",
     "tag2_vi": "Điện tử",
     "tag2_en": "Electronics",
-    "desc_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh nhiều thương hiệu TV cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC của chúng tôi chọn một hướng tiếp cận khác với keyword xuyên suốt: \"Thật\".",
-    "desc_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where many brands competed by pushing brighter colors, sharper images and increasingly enhanced picture processing, our IMC team proposed a different position built around one keyword: \"Thật\" (Real).",
+    "desc_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh các thương hiệu cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC gồm 5 thành viên của chúng tôi chọn một hướng định vị khác xoay quanh keyword \"Thật\", màu thật, hình thật và giá trị thật. Proposal này đã thắng pitch Toshiba.",
+    "desc_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where competitors increasingly promoted brighter colors, sharper images and heavy picture enhancement, our five-person IMC pitch team proposed a different position around one keyword: \"Thật\" (Real), real color, real image and real value. The proposal won the Toshiba account.",
     "link": "#",
     "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
     "blocks": [
       {
-        "id": "b0-role",
+        "id": "p1",
         "type": "text",
-        "text_vi": "<strong>Vai trò: Senior Visual Designer / Visual Lead</strong>",
-        "text_en": "<strong>Role: Senior Visual Designer / Visual Lead</strong>"
+        "text_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh các thương hiệu cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC gồm 5 thành viên của chúng tôi chọn một hướng định vị khác xoay quanh keyword <strong>\"Thật\"</strong>, màu thật, hình thật và giá trị thật. Proposal này đã thắng pitch Toshiba.",
+        "text_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where competitors increasingly promoted brighter colors, sharper images and heavy picture enhancement, our five-person IMC pitch team proposed a different position around one keyword: <strong>\"Thật\" (Real)</strong>, real color, real image and real value. The proposal won the Toshiba account."
       },
       {
-        "id": "b1",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh nhiều thương hiệu TV cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC của chúng tôi chọn một hướng tiếp cận khác với keyword xuyên suốt: <strong>\"Thật\".</strong>",
-        "text_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where many brands competed by pushing brighter colors, sharper images and increasingly enhanced picture processing, our IMC team proposed a different position built around one keyword: <strong>\"Thật\" (Real).</strong>"
+        "text_vi": "Từ campaign platform và copy đã được xác lập, tôi là senior visual phụ trách phát triển concept thị giác, art direction và thực thi hoàn chỉnh cho từng key visual. Mỗi thông điệp có một câu chuyện riêng nhưng cùng dựa trên một nguyên tắc: <strong>trải nghiệm chân thực đến mức những gì xuất hiện trên màn hình vượt khỏi khung TV và hòa vào thế giới thực.</strong>",
+        "text_en": "Working from the campaign platform and copy, I was the senior visual responsible for developing the visual concepts, art direction and final execution for individual key visuals. Each message became its own story while sharing one principle: <strong>the viewing experience feels so real that what happens on screen crosses the TV bezel and enters the physical world.</strong>"
       },
       {
-        "id": "b2",
+        "id": "p3",
         "type": "text",
-        "text_vi": "Concept hướng đến nhóm khách hàng coi trọng màu sắc trung thực, trải nghiệm hình ảnh tự nhiên và giá trị thực, thay vì trả thêm tiền cho hàng loạt tính năng xử lý hình ảnh chủ yếu nhằm khiến hình ảnh trông bắt mắt hơn thực tế.",
-        "text_en": "The idea was to speak to customers who valued true-to-life color, authentic viewing experiences and honest value, rather than paying more for layers of image-enhancing features designed primarily to make pictures look more impressive than reality."
+        "text_vi": "Ở mùa bóng đá, trận đấu tràn vào không gian gia đình, biến trải nghiệm xem tại nhà thành cảm giác như đang có mặt trên sân vận động. Với campaign về âm thanh, tôi xây dựng một thế giới siêu thực lấy cảm hứng từ Alice in Wonderland để diễn tả trải nghiệm âm thanh sống động và kỳ ảo. Các execution khác tiếp tục khai thác màu sắc, chất lượng hình ảnh, Halloween và Tết trên cùng mối quan hệ giữa màn hình và thực tế.",
+        "text_en": "For football season, the match extends into the family living room, making watching from home feel like being at the stadium. For the sound campaign, I built a surreal, Alice in Wonderland-inspired world to express an immersive and almost magical audio experience. Other executions explored color, picture quality, Halloween and Tet through the same relationship between screen and reality."
       },
       {
-        "id": "b3",
+        "id": "p4",
         "type": "text",
-        "text_vi": "Team pitching gồm 5 thành viên: 2 planner, 1 account, 1 creative manager và tôi, senior visual chịu trách nhiệm chuyển hóa chiến lược và các ý tưởng sáng tạo của team thành ngôn ngữ hình ảnh cho proposal. Proposal này đã thắng pitch và trở thành campaign của Toshiba tại Việt Nam.",
-        "text_en": "The five-person pitch team consisted of two planners, one account, one creative manager and myself as the senior visual responsible for translating the team's strategic and creative ideas into campaign visuals. The proposal won the Toshiba account."
+        "text_vi": "Riêng campaign Tết, tôi còn tham gia xuyên suốt phần sản xuất hình ảnh, bao gồm photoshoot studio cùng Gia đình Cam Cam, art direction tại set và hoàn thiện output cuối.",
+        "text_en": "For Tet, I was also involved throughout the visual production process, including the studio shoot with Gia đình Cam Cam, on-set art direction and final campaign output."
       },
       {
-        "id": "b4",
+        "id": "p5",
         "type": "text",
-        "text_vi": "Từ campaign platform và copy đã được xác lập, tôi phát triển concept thị giác, art direction và thực thi hoàn chỉnh cho từng key visual. Mỗi thông điệp có một cách kể chuyện riêng nhưng đều dựa trên cùng một nguyên tắc: <strong>hình ảnh trên TV chân thực đến mức vượt khỏi khung màn hình và hòa vào thế giới thực.</strong>",
-        "text_en": "From the campaign platform and copy, I developed the visual concepts, art direction and final execution for individual key visuals. Each communication objective became its own visual story while sharing one central device: <strong>what appears on the TV screen feels so real that it extends beyond the bezel and becomes part of the physical world.</strong>"
-      },
-      {
-        "id": "b5",
-        "type": "text",
-        "text_vi": "Ở mùa bóng đá, trận đấu tràn khỏi màn hình vào không gian gia đình, biến trải nghiệm xem TV tại nhà thành cảm giác như đang ngồi ngay trên sân vận động. Với campaign về âm thanh, tôi xây dựng một thế giới siêu thực lấy cảm hứng từ Alice in Wonderland để diễn tả trải nghiệm âm thanh sống động và kỳ ảo. Các KV về màu sắc và chất lượng hình ảnh tiếp tục khai thác thủ pháp cảnh vật vượt khỏi màn hình, sau đó được biến đổi theo từng dịp như Halloween, Tết và các campaign theo mùa trong năm.",
-        "text_en": "For football season, the match spills into the family living room, turning home viewing into the feeling of being inside the stadium. For the sound campaign, I created a surreal, Alice in Wonderland-inspired environment to express an immersive and almost magical audio experience. Campaigns focusing on color and picture quality pushed landscapes beyond the screen, while seasonal executions adapted the same principle for Halloween, Tet and other moments throughout the year."
-      },
-      {
-        "id": "b6",
-        "type": "text",
-        "text_vi": "Riêng campaign Tết, tôi tham gia xuyên suốt quá trình sản xuất hình ảnh, từ phát triển visual concept, thực hiện buổi chụp studio cùng Gia đình Cam Cam, art direction tại set cho đến hoàn thiện output cuối cùng.",
-        "text_en": "For the Tet campaign, I was also involved throughout the production process, from visual concept development to the studio photoshoot with Gia đình Cam Cam, on-set art direction and final campaign output."
-      },
-      {
-        "id": "b7",
-        "type": "text",
-        "text_vi": "Kết quả là một hệ thống thị giác có thể liên tục biến đổi theo sản phẩm, tính năng và mùa chiến dịch nhưng vẫn giữ nguyên một lời hứa thương hiệu: <strong>màu thật, trải nghiệm thật, giá trị thật.</strong>",
-        "text_en": "The result was a flexible visual system that allowed Toshiba to communicate different products, features and seasonal stories while consistently reinforcing the same brand promise: <strong>real color, real experience, real value.</strong>"
+        "text_vi": "Toàn bộ chuỗi execution trở thành một hệ thống thị giác đủ linh hoạt để thay đổi theo sản phẩm, thông điệp và mùa chiến dịch nhưng vẫn giữ nguyên một lời hứa: <strong>màu thật, trải nghiệm thật, giá trị thật.</strong>",
+        "text_en": "Together, the executions became a flexible visual system that could evolve across products, messages and seasons while remaining anchored to one promise: <strong>real color, real experience, real value.</strong>"
       },
       {
         "id": "b2",
@@ -3201,28 +3177,28 @@
   {
     "id": "1f2445ac8263",
     "order": 28,
-    "title_vi": "Mirae Asset Securities - Hệ thống banner quảng cáo",
-    "title_en": "Mirae Asset Securities - Advertising Banner System",
+    "title_vi": "Mirae Asset: Seasonal Campaign",
+    "title_en": "Mirae Asset: Seasonal Campaign",
     "tag1_vi": "Thiết kế chiến dịch",
     "tag1_en": "Campaign Design",
     "tag2_vi": "Tài chính",
     "tag2_en": "Finance",
-    "desc_vi": "Mirae Asset Securities chạy nhiều đợt quảng cáo khác nhau trong năm, mỗi đợt một thông điệp riêng. Tôi dựng một khung banner lặp lại, nền cam gradient, con số chính đổ khối nổi bật, thanh chân cố định với mã QR và nút kêu gọi hành động, áp dụng cho mọi đợt quảng cáo.",
-    "desc_en": "Mirae Asset Securities runs many different promotions through the year, each with its own message. I built one repeating banner frame, an orange gradient background, a bold blocked headline number, a fixed footer bar with QR codes and a call-to-action button, applied across every promotion.",
+    "desc_vi": "Phát triển visual cho các seasonal campaign của Mirae Asset, bổ sung lớp nội dung mang tính thời điểm cho truyền thông của một thương hiệu tài chính đã có hình ảnh chuyên nghiệp rõ ràng.",
+    "desc_en": "Developed seasonal campaign visuals for Mirae Asset, bringing a more timely and expressive layer to the communication of an established financial brand.",
     "link": "#",
     "image": "/assets/uploads/28-mirae-asset-season-campaign.jpg",
     "blocks": [
       {
-        "id": "b1",
+        "id": "p1",
         "type": "text",
-        "text_vi": "Mirae Asset Securities là công ty chứng khoán, chạy nhiều đợt quảng cáo khác nhau trong năm: mở tài khoản, hoàn phí giao dịch, đếm ngược ưu đãi, mỗi đợt một thông điệp riêng.",
-        "text_en": "Mirae Asset Securities is a brokerage running many different promotions through the year: account opening, trading cashback, offer countdowns, each with its own message."
+        "text_vi": "Phát triển visual cho các seasonal campaign của Mirae Asset, bổ sung lớp nội dung mang tính thời điểm cho truyền thông của một thương hiệu tài chính đã có hình ảnh chuyên nghiệp rõ ràng.",
+        "text_en": "Developed seasonal campaign visuals for Mirae Asset, bringing a more timely and expressive layer to the communication of an established financial brand."
       },
       {
-        "id": "b2",
+        "id": "p2",
         "type": "text",
-        "text_vi": "Tôi dựng một khung banner lặp lại: nền cam gradient với tia sáng chéo, con số chính được đổ khối và viền dày để bắt mắt trong một dòng feed, cùng thanh chân cố định gồm mã QR và nút kêu gọi hành động, áp dụng cho mọi đợt quảng cáo để người xem nhận ra thương hiệu ngay cả khi đổi thông điệp.",
-        "text_en": "I built one repeating banner frame: an orange gradient background with diagonal light rays, the key number rendered in bold, outlined blocks to stand out in a feed, and a fixed footer bar with QR codes and a call-to-action button, applied across every promotion so a viewer recognizes the brand even as the message changes."
+        "text_vi": "Thiết kế cân bằng giữa câu chuyện theo mùa và độ tin cậy cần có của lĩnh vực đầu tư, tạo hình ảnh đủ phù hợp với từng thời điểm nhưng không làm mất đi tính chuyên nghiệp của thương hiệu.",
+        "text_en": "The work balanced seasonal storytelling with the credibility expected from the investment category, creating campaign imagery that could feel relevant to the moment without losing the brand's professional character."
       },
       {
         "id": "b3",
