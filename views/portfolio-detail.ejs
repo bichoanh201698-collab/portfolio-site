@@ -105,6 +105,11 @@
 
 		<section class="section-tight">
 
+			<% var hasTextBlock = blocks.some(function (b) { return b.type === "text"; }); %>
+			<% if (!hasTextBlock) { %>
+				<p class="detail-content" data-i18n-vi="<%= project.desc_vi %>" data-i18n-en="<%= project.desc_en %>"><%= project.desc_vi %></p>
+			<% } %>
+
 			<% if (blocks.length > 0) { %>
 				<% blocks.forEach(function (b) { %>
 
