@@ -114,7 +114,7 @@
 				<% blocks.forEach(function (b) { %>
 
 					<% if (b.type === "text") { %>
-						<p class="detail-content" data-i18n-vi="<%= b.text_vi %>" data-i18n-en="<%= b.text_en %>"><%= b.text_vi %></p>
+						<p class="detail-content" data-i18n-html-vi="<%= b.text_vi %>" data-i18n-html-en="<%= b.text_en %>"><%- b.text_vi %></p>
 
 					<% } else if (b.type === "image") { %>
 						<figure class="detail-figure">

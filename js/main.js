@@ -303,6 +303,13 @@
 			if (value) el.textContent = value;
 		});
 
+		// Same as data-i18n-vi/-en, but allows inline HTML (e.g. <strong>) inside
+		// CMS-authored copy such as portfolio detail blocks.
+		document.querySelectorAll("[data-i18n-html-vi]").forEach(function (el) {
+			var value = el.getAttribute(lang === "en" ? "data-i18n-html-en" : "data-i18n-html-vi");
+			if (value) el.innerHTML = value;
+		});
+
 		document.querySelectorAll(".lang-btn").forEach(function (btn) {
 			var isActive = btn.getAttribute("data-lang") === lang;
 			btn.classList.toggle("is-active", isActive);
