@@ -56,7 +56,7 @@
 				pageTitle: "Giới thiệu — Shine Tu",
 				eyebrow: "Giới thiệu",
 				heroTitle: "Xin chào, tôi là Shine Tu.",
-				heroDesc: "Tôi là Art Director với 8 năm kinh nghiệm xây dựng nhận diện thương hiệu, chiến dịch và trải nghiệm số. Công việc của tôi bắt đầu từ một ý tưởng, đi qua từng hệ thống hình ảnh mạch lạc, cho đến khi thành hình cuối cùng — luôn giữ một góc nhìn rõ ràng và làm việc trực tiếp trên từng chi tiết.",
+				heroDesc: "Tôi là Art Director với 8 năm kinh nghiệm xây dựng nhận diện thương hiệu, chiến dịch truyền thông và trải nghiệm số. Công việc của tôi bắt đầu từ một ý tưởng, phát triển thành ngôn ngữ thị giác và dần định hình qua hệ thống, không gian và màn hình, luôn được dẫn dắt bởi một góc nhìn rõ ràng và tinh thần trực tiếp làm đến cùng.",
 				btnContact: "Liên hệ với tôi",
 				btnCV: "Tải CV",
 				toc: {
@@ -188,7 +188,7 @@
 				pageTitle: "About — Shine Tu",
 				eyebrow: "About",
 				heroTitle: "Hi, I'm Shine Tu.",
-				heroDesc: "I'm an Art Director with 8 years of experience shaping brand identities, campaigns and digital experiences. My work starts from a first idea, moves through coherent visual systems, and carries all the way to its final form — always with a clear point of view and hands-on craft.",
+				heroDesc: "I'm an Art Director with 8 years of experience shaping brand identities, campaigns and digital experiences. My work begins with an idea, grows into a visual language, and finds its final form across systems, spaces and screens, always guided by a clear point of view and hands-on craft.",
 				btnContact: "Get in touch",
 				btnCV: "Download CV",
 				toc: {
