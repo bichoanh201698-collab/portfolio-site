@@ -242,7 +242,7 @@
 	</div>
 </div>
 
-<div class="modal-overlay" id="cv-modal-overlay" hidden>
+<div class="modal-overlay" id="cv-modal-overlay">
 	<div class="modal-card">
 		<button type="button" class="modal-close" id="cv-modal-close" aria-label="Đóng">&times;</button>
 		<h5 data-i18n-vi="Tải CV của tôi" data-i18n-en="Download my CV">Tải CV của tôi</h5>
@@ -252,7 +252,7 @@
 				<label for="cv-email" data-i18n-vi="Email của bạn" data-i18n-en="Your email">Email của bạn</label>
 				<input type="email" id="cv-email" name="email" required autocomplete="email">
 			</div>
-			<button type="submit" class="btn btn-primary" style="width:100%;" data-i18n-vi="Tải CV ngay" data-i18n-en="Download now">Tải CV ngay</button>
+			<button type="submit" class="btn btn-primary btn-block" data-i18n-vi="Tải CV ngay" data-i18n-en="Download now">Tải CV ngay</button>
 		</form>
 	</div>
 </div>
@@ -265,17 +265,17 @@
 	var emailInput = document.getElementById("cv-email");
 
 	function openModal() {
-		overlay.hidden = false;
+		overlay.classList.add("is-open");
 		emailInput.focus();
 	}
 	function closeModal() {
-		overlay.hidden = true;
+		overlay.classList.remove("is-open");
 	}
 
 	trigger.addEventListener("click", openModal);
 	closeBtn.addEventListener("click", closeModal);
 	overlay.addEventListener("click", function (e) { if (e.target === overlay) closeModal(); });
-	document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !overlay.hidden) closeModal(); });
+	document.addEventListener("keydown", function (e) { if (e.key === "Escape" && overlay.classList.contains("is-open")) closeModal(); });
 
 	form.addEventListener("submit", function (e) {
 		e.preventDefault();

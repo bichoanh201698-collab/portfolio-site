@@ -664,6 +664,14 @@ input:focus, textarea:focus, select:focus {
 	justify-content: center;
 	padding: var(--gutter);
 	z-index: 100;
+	opacity: 0;
+	visibility: hidden;
+	transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+
+.modal-overlay.is-open {
+	opacity: 1;
+	visibility: visible;
 }
 
 .modal-card {
@@ -673,7 +681,15 @@ input:focus, textarea:focus, select:focus {
 	max-width: 420px;
 	width: 100%;
 	position: relative;
+	transform: scale(0.95) translateY(8px);
+	transition: transform 0.2s ease;
 }
+
+.modal-overlay.is-open .modal-card {
+	transform: scale(1) translateY(0);
+}
+
+.btn-block { width: 100%; justify-content: center; }
 
 .modal-close {
 	position: absolute;
