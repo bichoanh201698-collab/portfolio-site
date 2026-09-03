@@ -77,29 +77,29 @@
 				experience: {
 					title: "Kinh nghiệm",
 					entry1: {
-						role: "Brand & Creative Lead — FireGroup",
-						desc: "Định hướng hình ảnh cho TryOpenClaw, ClawExperts và Promer — từ nhận diện thương hiệu, trải nghiệm web-app đến không gian sự kiện, merchandise, social và hậu kỳ, phối hợp cùng đội Growth, Product và Engineering. Promer hiện phục vụ hơn 5.000 merchant, hơn 1 triệu quảng cáo đã tạo, đạt 4.7★ trên Shopify.",
-						period: "09/2024 — Hiện tại"
+						role: "Brand & Creative Lead — Công ty công nghệ",
+						desc: "Định hướng hình ảnh cho các sản phẩm web-app và cộng đồng người dùng — từ nhận diện thương hiệu, trải nghiệm số đến không gian sự kiện, merchandise và hậu kỳ, phối hợp cùng đội Growth, Product và Engineering.",
+						period: "2024 — Hiện tại"
 					},
 					entry2: {
-						role: "Senior Creative Contractor — KMS Technology",
+						role: "Senior Creative Contractor — Hợp đồng ngắn hạn",
 						desc: "Thực hiện các dự án sáng tạo theo hợp đồng: illustration, key visual, tài sản số và trang landing page tuyển dụng, phối hợp cùng đội thiết kế nội bộ để đảm bảo tiến độ và chất lượng.",
-						period: "02/2024 — 08/2024"
+						period: "2024"
 					},
 					entry3: {
-						role: "Design Team Lead — TopCV Vietnam",
+						role: "Design Team Lead — Công ty tuyển dụng trực tuyến",
 						desc: "Dẫn dắt một nhóm 5 designer trong dự án 6 tháng cho HR Tech Conference 2023 — phát triển ngôn ngữ chiến dịch và triển khai từ key visual đến nội dung sân khấu và sản xuất tại chỗ, phục vụ hơn 800 lãnh đạo doanh nghiệp và nhân sự, 16 diễn giả, tại Landmark 81.",
-						period: "07/2023 — 01/2024"
+						period: "2023 — 2024"
 					},
 					entry4: {
-						role: "Senior Creative Art — VCCorp / Admicro",
+						role: "Senior Creative Art — Công ty truyền thông số",
 						desc: "Thực hiện các giải pháp thương hiệu và chiến dịch cho nhiều nền tảng khách hàng — từ ý tưởng, minh hoạ đến tài sản sản xuất hoàn chỉnh, đồng thời tư vấn chất lượng và tính nhất quán hình ảnh cho đội ngũ và khách hàng.",
-						period: "04/2022 — 04/2023"
+						period: "2022 — 2023"
 					},
 					entry5: {
-						role: "Butterflynt, GreenHouse & STITCH Studio",
+						role: "Studio sáng tạo độc lập",
 						desc: "Illustration, nhận diện thương hiệu, nội dung số, hệ thống trình bày và hình ảnh sự kiện.",
-						period: "04/2020 — 05/2022"
+						period: "2020 — 2022"
 					},
 					entry6: {
 						role: "Independent Creative Practice — Freelance",
@@ -130,7 +130,7 @@
 				title: "Hãy cùng tạo nên điều tuyệt vời!",
 				desc: "Bạn có dự án, ý tưởng hợp tác hay chỉ đơn giản muốn chào hỏi? Điền vào biểu mẫu bên dưới hoặc liên hệ trực tiếp qua email, điện thoại, LinkedIn, Behance hay Telegram của tôi.",
 				form: { name: "Họ và tên", subject: "Chủ đề", message: "Nội dung", submit: "Gửi tin nhắn" },
-				info: { locationLabel: "Địa điểm", locationValue: "Việt Nam", socialLabel: "Mạng xã hội", phoneLabel: "Điện thoại" }
+				info: { locationLabel: "Địa điểm", locationValue: "Việt Nam" }
 			}
 		},
 		en: {
@@ -209,29 +209,29 @@
 				experience: {
 					title: "Experience",
 					entry1: {
-						role: "Brand & Creative Lead — FireGroup",
-						desc: "Setting visual direction across TryOpenClaw, ClawExperts and Promer — from brand identity and web-app experiences to event environments, merchandise, social and post-production, working alongside Growth, Product and Engineering. Promer now serves 5,000+ merchants with 1M+ ads generated, at a 4.7★ Shopify rating.",
-						period: "Sep 2024 — Present"
+						role: "Brand & Creative Lead — Technology company",
+						desc: "Setting visual direction for web-app products and their user community — from brand identity and digital experiences to event environments, merchandise and post-production, working alongside Growth, Product and Engineering.",
+						period: "2024 — Present"
 					},
 					entry2: {
-						role: "Senior Creative Contractor — KMS Technology",
+						role: "Senior Creative Contractor — Short-term contract",
 						desc: "Delivered campaign-based creative work under contract — illustration, key visuals, digital assets and a career landing page, partnering with the internal design team on timeline and quality.",
-						period: "Feb 2024 — Aug 2024"
+						period: "2024"
 					},
 					entry3: {
-						role: "Design Team Lead — TopCV Vietnam",
+						role: "Design Team Lead — Online recruitment company",
 						desc: "Led a 5-person design team through a six-month engagement for HR Tech Conference 2023 — developing the campaign language and carrying it from key visual through stage content and on-site production, for 800+ business and HR leaders and 16 speakers at Landmark 81.",
-						period: "Jul 2023 — Jan 2024"
+						period: "2023 — 2024"
 					},
 					entry4: {
-						role: "Senior Creative Art — VCCorp / Admicro",
+						role: "Senior Creative Art — Digital media company",
 						desc: "Created brand and campaign solutions across multiple client platforms — from concepts and illustration to production-ready assets, advising teams and clients on quality and visual consistency.",
-						period: "Apr 2022 — Apr 2023"
+						period: "2022 — 2023"
 					},
 					entry5: {
-						role: "Butterflynt, GreenHouse & STITCH Studio",
+						role: "Independent creative studio",
 						desc: "Illustration, brand identity, digital content, presentation systems and event visuals.",
-						period: "Apr 2020 — May 2022"
+						period: "2020 — 2022"
 					},
 					entry6: {
 						role: "Independent Creative Practice — Freelance",
@@ -262,7 +262,7 @@
 				title: "Let's make great things together!",
 				desc: "Have a project, a collaboration idea, or just want to say hi? Fill out the form below or reach out directly via email, phone, LinkedIn, Behance, or Telegram.",
 				form: { name: "Full name", subject: "Subject", message: "Message", submit: "Send message" },
-				info: { locationLabel: "Location", locationValue: "Vietnam", socialLabel: "Social", phoneLabel: "Phone" }
+				info: { locationLabel: "Location", locationValue: "Vietnam" }
 			}
 		}
 	};
