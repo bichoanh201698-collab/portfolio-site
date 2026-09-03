@@ -38,6 +38,13 @@ function head({ title, description, canonical, ogType = "website", ogTitle, ogDe
 		<meta property="og:url" content="${canonical}">
 		${ogImage ? html`<meta property="og:image" content="${ogImage}">` : ""}
 		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="${ogTitle || title}">
+		<meta name="twitter:description" content="${ogDesc || description}">
+		${ogImage ? html`<meta name="twitter:image" content="${ogImage}">` : ""}
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/icon-32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/icon-16.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon/icon-192.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/icon-180.png">
 		${extraHead || ""}
 		<link rel="stylesheet" href="/css/style.css">
 	`;
@@ -145,7 +152,7 @@ export function portfolioListPage({ projects, siteUrl }) {
 							${projects.map(
 								(p) => html`
 								<div class="card">
-									<a href="/portfolio/${p.id}"><img src="${p.image}" alt=""></a>
+									<a href="/portfolio/${p.id}"><img src="${p.image}" alt="${p.title_vi}"></a>
 									<div class="card-body">
 										<div class="card-tags">
 											${p.tag1_vi || p.tag1_en ? html`<span class="tag" data-i18n-vi="${p.tag1_vi}" data-i18n-en="${p.tag1_en}">${p.tag1_vi}</span>` : ""}
@@ -182,12 +189,12 @@ export function portfolioListPage({ projects, siteUrl }) {
 	});
 }
 
-function detailBlock(b) {
+function detailBlock(b, fallbackAlt) {
 	if (b.type === "text") return null; // handled per-page (raw vs escaped differs)
 	if (b.type === "image") {
 		return html`
 			<figure class="detail-figure">
-				<img class="detail-block-image" src="${b.src}" alt="">
+				<img class="detail-block-image" src="${b.src}" alt="${b.caption_vi || fallbackAlt || ""}">
 				${b.caption_vi || b.caption_en ? html`<figcaption class="detail-caption" data-i18n-vi="${b.caption_vi}" data-i18n-en="${b.caption_en}">${b.caption_vi}</figcaption>` : ""}
 			</figure>
 		`;
@@ -229,7 +236,7 @@ export function portfolioDetailPage({ project, siteUrl }) {
 			</div>
 			<h1 data-i18n-vi="${project.title_vi}" data-i18n-en="${project.title_en}">${project.title_vi}</h1>
 		</section>
-		<img class="detail-image" src="${project.image}" alt="">
+		<img class="detail-image" src="${project.image}" alt="${project.title_vi}">
 		<section class="section-tight">
 			${!hasTextBlock ? html`<p class="detail-content" data-i18n-vi="${project.desc_vi}" data-i18n-en="${project.desc_en}">${project.desc_vi}</p>` : ""}
 			${
@@ -237,7 +244,7 @@ export function portfolioDetailPage({ project, siteUrl }) {
 					? blocks.map((b) =>
 							b.type === "text"
 								? html`<p class="detail-content" data-i18n-html-vi="${b.text_vi}" data-i18n-html-en="${b.text_en}">${raw(b.text_vi || "")}</p>`
-								: detailBlock(b),
+								: detailBlock(b, project.title_vi),
 						)
 					: html`<p class="detail-content" data-i18n-vi="${project.desc_vi}" data-i18n-en="${project.desc_en}">${project.desc_vi}</p>`
 			}
@@ -282,7 +289,7 @@ export function blogListPage({ posts, siteUrl }) {
 							${posts.map(
 								(p) => html`
 								<article class="post-card">
-									<a href="/blog/${p.slug}"><img src="${p.image}" alt=""></a>
+									<a href="/blog/${p.slug}"><img src="${p.image}" alt="${p.title_vi}"></a>
 									${p.tag_vi || p.tag_en ? html`<span class="tag" data-i18n-vi="${p.tag_vi}" data-i18n-en="${p.tag_en}">${p.tag_vi}</span>` : ""}
 									<span class="post-date" data-i18n-vi="${p.date_display_vi}" data-i18n-en="${p.date_display_en}">${p.date_display_vi}</span>
 									<h6 class="post-title"><a href="/blog/${p.slug}" data-i18n-vi="${p.title_vi}" data-i18n-en="${p.title_en}">${p.title_vi}</a></h6>
@@ -327,14 +334,14 @@ export function blogPostPage({ post, siteUrl }) {
 			</div>
 			<h1 data-i18n-vi="${post.title_vi}" data-i18n-en="${post.title_en}">${post.title_vi}</h1>
 		</section>
-		<img class="detail-image" src="${post.image}" alt="">
+		<img class="detail-image" src="${post.image}" alt="${post.title_vi}">
 		<section class="section-tight">
 			${
 				blocks.length > 0
 					? blocks.map((b) =>
 							b.type === "text"
 								? html`<p class="detail-content" data-i18n-vi="${b.text_vi}" data-i18n-en="${b.text_en}">${b.text_vi}</p>`
-								: detailBlock(b),
+								: detailBlock(b, post.title_vi),
 						)
 					: html`<p class="detail-content" data-i18n-vi="${post.excerpt_vi}" data-i18n-en="${post.excerpt_en}">${post.excerpt_vi}</p>`
 			}

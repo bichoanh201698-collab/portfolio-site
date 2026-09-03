@@ -2,10 +2,12 @@
 	"version": 1,
 	"include": ["/*"],
 	"exclude": [
+		"/favicon.ico",
 		"/css/*",
 		"/js/*",
 		"/assets/images/*",
 		"/assets/fonts/*",
+		"/assets/favicon/*",
 		"/assets/cv.pdf"
 	]
 }
