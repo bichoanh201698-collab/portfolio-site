@@ -89,7 +89,7 @@
 				<p data-i18n="about.heroDesc">Tôi là Art Director với 8 năm kinh nghiệm xây dựng nhận diện thương hiệu, chiến dịch và trải nghiệm số. Công việc của tôi bắt đầu từ một ý tưởng, đi qua từng hệ thống hình ảnh mạch lạc, cho đến khi thành hình cuối cùng — luôn giữ một góc nhìn rõ ràng và làm việc trực tiếp trên từng chi tiết.</p>
 				<div class="hero-buttons">
 					<a href="/contact.html" class="btn btn-primary" data-i18n="about.btnContact">Liên hệ với tôi</a>
-					<a href="/assets/cv.pdf" class="btn btn-outline" data-i18n="about.btnCV">Tải CV</a>
+					<button type="button" class="btn btn-outline" id="cv-download-trigger" data-i18n="about.btnCV">Tải CV</button>
 				</div>
 			</div>
 			<div>
@@ -241,6 +241,65 @@
 
 	</div>
 </div>
+
+<div class="modal-overlay" id="cv-modal-overlay" hidden>
+	<div class="modal-card">
+		<button type="button" class="modal-close" id="cv-modal-close" aria-label="Đóng">&times;</button>
+		<h5 data-i18n-vi="Tải CV của tôi" data-i18n-en="Download my CV">Tải CV của tôi</h5>
+		<p class="text-secondary" data-i18n-vi="Để lại email để nhận CV — tôi sẽ không spam, chỉ để biết ai đã ghé xem." data-i18n-en="Leave your email to get the CV — I won't spam you, just good to know who stopped by.">Để lại email để nhận CV — tôi sẽ không spam, chỉ để biết ai đã ghé xem.</p>
+		<form id="cv-modal-form">
+			<div class="form-row">
+				<label for="cv-email" data-i18n-vi="Email của bạn" data-i18n-en="Your email">Email của bạn</label>
+				<input type="email" id="cv-email" name="email" required autocomplete="email">
+			</div>
+			<button type="submit" class="btn btn-primary" style="width:100%;" data-i18n-vi="Tải CV ngay" data-i18n-en="Download now">Tải CV ngay</button>
+		</form>
+	</div>
+</div>
+<script>
+(function () {
+	var trigger = document.getElementById("cv-download-trigger");
+	var overlay = document.getElementById("cv-modal-overlay");
+	var closeBtn = document.getElementById("cv-modal-close");
+	var form = document.getElementById("cv-modal-form");
+	var emailInput = document.getElementById("cv-email");
+
+	function openModal() {
+		overlay.hidden = false;
+		emailInput.focus();
+	}
+	function closeModal() {
+		overlay.hidden = true;
+	}
+
+	trigger.addEventListener("click", openModal);
+	closeBtn.addEventListener("click", closeModal);
+	overlay.addEventListener("click", function (e) { if (e.target === overlay) closeModal(); });
+	document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !overlay.hidden) closeModal(); });
+
+	form.addEventListener("submit", function (e) {
+		e.preventDefault();
+		var btn = form.querySelector("button[type=submit]");
+		btn.disabled = true;
+		fetch("https://formspree.io/f/xnpqvyww", {
+			method: "POST",
+			headers: { Accept: "application/json", "Content-Type": "application/json" },
+			body: JSON.stringify({
+				email: emailInput.value,
+				_subject: "CV download lead",
+				message: "Someone downloaded the CV from the About page.",
+			}),
+		})
+			.catch(function () {})
+			.finally(function () {
+				closeModal();
+				form.reset();
+				btn.disabled = false;
+				window.location.href = "/assets/cv.pdf";
+			});
+	});
+})();
+</script>
 
 <script src="/js/main.js"></script>
 </body>

@@ -653,6 +653,45 @@ input:focus, textarea:focus, select:focus {
 :root[data-theme="dark"] .admin-error { background: #3a2220; color: #f2a29c; }
 :root[data-theme="dark"] .admin-success { background: #1c3524; color: #8fd6a6; }
 
+/* Modal (e.g. CV email gate) -------------------------------------------- */
+
+.modal-overlay {
+	position: fixed;
+	inset: 0;
+	background: rgba(0, 0, 0, 0.5);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: var(--gutter);
+	z-index: 100;
+}
+
+.modal-card {
+	background: var(--color-background);
+	border-radius: 12px;
+	padding: 2rem;
+	max-width: 420px;
+	width: 100%;
+	position: relative;
+}
+
+.modal-close {
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+	width: 28px;
+	height: 28px;
+	padding: 0;
+	background: none;
+	border: none;
+	font-size: 1.5rem;
+	line-height: 1;
+	color: var(--color-secondary);
+	cursor: pointer;
+}
+
+.modal-close:hover { color: var(--color-foreground); }
+
 .admin-table {
 	width: 100%;
 	border-collapse: collapse;
