@@ -168,14 +168,7 @@ export function portfolioListPage({ projects, siteUrl }) {
 						</div>`
 			}
 		</section>
-		<section class="section">
-			<div class="cta-box">
-				<h3 data-i18n="portfolio.cta.title">Có dự án muốn hợp tác?</h3>
-				<p data-i18n="portfolio.cta.desc">Tôi luôn sẵn sàng lắng nghe những ý tưởng mới. Hãy để lại lời nhắn cho tôi.</p>
-				<hr class="separator-small">
-				<a href="/contact.html" class="btn btn-outline" data-i18n="portfolio.cta.btn">Liên hệ ngay</a>
-			</div>
-		</section>
+		${ctaBox()}
 	`;
 	return publicPage({
 		activeNav: "portfolio",
@@ -187,6 +180,19 @@ export function portfolioListPage({ projects, siteUrl }) {
 		},
 		body,
 	});
+}
+
+function ctaBox() {
+	return html`
+		<section class="section">
+			<div class="cta-box">
+				<h3 data-i18n="portfolio.cta.title">Có dự án muốn hợp tác?</h3>
+				<p data-i18n="portfolio.cta.desc">Tôi luôn sẵn sàng lắng nghe những ý tưởng mới. Hãy để lại lời nhắn cho tôi.</p>
+				<hr class="separator-small">
+				<a href="/contact.html" class="btn btn-outline" data-i18n="portfolio.cta.btn">Liên hệ ngay</a>
+			</div>
+		</section>
+	`;
 }
 
 function detailBlock(b, fallbackAlt) {
@@ -254,6 +260,7 @@ export function portfolioDetailPage({ project, siteUrl }) {
 					: ""
 			}
 		</section>
+		${ctaBox()}
 	`;
 	return publicPage({
 		activeNav: "portfolio",

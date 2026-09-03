@@ -118,10 +118,6 @@
 					entry1: { role: "Giải Nhì — Cuộc thi thiết kế \"Redecorate Your Desktop\"", period: "2018" },
 					entry2: { role: "Giải Ba — Lập trình di động, Đại học Công nghệ Thông tin", period: "2017" },
 					languages: "Ngôn ngữ: Tiếng Việt, Tiếng Anh (B2), Tiếng Quan Thoại, Tiếng Quảng Đông"
-				},
-				testimonials: {
-					quote2: "\"Thiết kế là đại sứ thầm lặng của thương hiệu.\"",
-					role2: "Paul Rand, nhà thiết kế đồ hoạ"
 				}
 			},
 			contact: {
@@ -250,10 +246,6 @@
 					entry1: { role: "Second Prize — \"Redecorate Your Desktop\" Desktop Wallpaper Design Contest", period: "2018" },
 					entry2: { role: "Third Prize — Mobile Programming, University of Information Technology", period: "2017" },
 					languages: "Languages: Vietnamese, English (B2), Mandarin, Cantonese"
-				},
-				testimonials: {
-					quote2: "\"Design is the silent ambassador of your brand.\"",
-					role2: "Paul Rand, graphic designer"
 				}
 			},
 			contact: {

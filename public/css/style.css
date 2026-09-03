@@ -527,7 +527,7 @@ html[data-i18n-loading] body { visibility: hidden; }
 /* CTA box ------------------------------------------------------------ */
 
 .cta-box {
-	background: var(--color-primary);
+	background: linear-gradient(rgba(20, 20, 30, 0.55), rgba(20, 20, 30, 0.55)), var(--color-primary) url("/assets/images/cta-bg.jpg") center / cover no-repeat;
 	color: #fff;
 	border-radius: 12px;
 	padding: clamp(32px, 6vh, 64px);
