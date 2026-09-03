@@ -19,7 +19,7 @@
 					btnAbout: "Giới thiệu về tôi"
 				},
 				intro: {
-					p1: "Từ những dự án tự do đầu tiên năm 2017 đến vai trò Brand & Creative Lead tại FireGroup hôm nay, tôi làm việc từ ý tưởng đầu tiên đến hệ thống hình ảnh hoàn chỉnh — luôn bắt đầu từ câu chuyện thật đằng sau mỗi thương hiệu.",
+					p1: "Từ những dự án tự do đầu tiên năm 2017 đến vai trò Brand & Creative Lead tại một công ty công nghệ hôm nay, tôi làm việc từ ý tưởng đầu tiên đến hệ thống hình ảnh hoàn chỉnh — luôn bắt đầu từ câu chuyện thật đằng sau mỗi thương hiệu.",
 					p2: "Ngoài công việc, tôi thích thử nghiệm những ý tưởng nhỏ, viết lại quá trình học hỏi của mình và chia sẻ chúng trên blog cá nhân."
 				},
 				card1: { title: "Xem portfolio", desc: "Khám phá những dự án tôi đã thực hiện và các kỹ năng tôi đã trau dồi.", btn: "Xem thêm" },
@@ -65,8 +65,8 @@
 				},
 				story: {
 					title: "Câu chuyện của tôi",
-					p1: "Tôi bắt đầu từ năm 2017 với những dự án tự do đầu tiên, rồi tiếp tục tại Butterflynt, GreenHouse và STITCH Studio, VCCorp/Admicro, TopCV và KMS Technology — mỗi nơi là một cách nhìn khác về thương hiệu, chiến dịch, và cách một ý tưởng trở thành hình ảnh thật.",
-					p2: "Hiện tại tôi giữ vai trò Brand & Creative Lead tại FireGroup, phụ trách định hướng hình ảnh cho các sản phẩm và cộng đồng của công ty — từ nhận diện, trải nghiệm web-app, đến không gian sự kiện và merchandise. Tôi làm việc trực tiếp trên từng chi tiết, và để kết quả tự nói lên phần còn lại."
+					p1: "Tôi bắt đầu từ năm 2017 với những dự án tự do đầu tiên, rồi tiếp tục tại vài agency và công ty công nghệ — mỗi nơi là một cách nhìn khác về thương hiệu, chiến dịch, và cách một ý tưởng trở thành hình ảnh thật.",
+					p2: "Hiện tại tôi giữ vai trò Brand & Creative Lead tại một công ty công nghệ, phụ trách định hướng hình ảnh cho các sản phẩm và cộng đồng của công ty — từ nhận diện, trải nghiệm web-app, đến không gian sự kiện và merchandise. Tôi làm việc trực tiếp trên từng chi tiết, và để kết quả tự nói lên phần còn lại."
 				},
 				skills: {
 					title: "Kỹ năng",
@@ -151,7 +151,7 @@
 					btnAbout: "About me"
 				},
 				intro: {
-					p1: "From my first freelance projects in 2017 to my current role as Brand & Creative Lead at FireGroup, I work from a first idea through to a complete visual system — always starting from the real story behind each brand.",
+					p1: "From my first freelance projects in 2017 to my current role as Brand & Creative Lead at a technology company, I work from a first idea through to a complete visual system — always starting from the real story behind each brand.",
 					p2: "Outside of work, I enjoy experimenting with small ideas, writing about what I learn, and sharing it on my personal blog."
 				},
 				card1: { title: "View my work", desc: "Explore the projects I've built and the skills I've developed along the way.", btn: "See more" },
@@ -197,8 +197,8 @@
 				},
 				story: {
 					title: "My story",
-					p1: "I started in 2017 with my first freelance projects, then continued at Butterflynt, GreenHouse and STITCH Studio, VCCorp/Admicro, TopCV and KMS Technology — each one a different way of thinking about brand, campaign, and how an idea becomes a real image.",
-					p2: "I'm currently Brand & Creative Lead at FireGroup, setting visual direction for the company's products and community — from identity and web-app experiences to event environments and merchandise. I work hands-on with every detail, and let the results speak for the rest."
+					p1: "I started in 2017 with my first freelance projects, then continued at a few agencies and technology companies — each one a different way of thinking about brand, campaign, and how an idea becomes a real image.",
+					p2: "I'm currently Brand & Creative Lead at a technology company, setting visual direction for the company's products and community — from identity and web-app experiences to event environments and merchandise. I work hands-on with every detail, and let the results speak for the rest."
 				},
 				skills: {
 					title: "Skills",
