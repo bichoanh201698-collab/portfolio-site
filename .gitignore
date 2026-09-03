@@ -3,4 +3,8 @@ data/admin.json
 data/session-secret.txt
 npm-debug.log*
 .env
+.dev.vars
+.wrangler/
 .claude/worktrees/
+migration/seed-data.sql
+migration/failed-uploads.json

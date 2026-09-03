@@ -1,0 +1,12 @@
+name = "portfolio-site"
+compatibility_date = "2026-09-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "portfolio-db"
+database_id = "79fdb9c9-f4e0-4270-af70-824973bc5677"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "portfolio-media"
