@@ -1,419 +1,94 @@
 [
   {
-    "id": "64a731ee19dc",
-    "order": 10,
-    "title_vi": "BIDV Awards 2025: Visual Identity",
-    "title_en": "BIDV Awards 2025: Visual Identity",
-    "tag1_vi": "Nhận diện hình ảnh",
-    "tag1_en": "Visual Identity",
-    "tag2_vi": "In ấn & Kỹ thuật số",
-    "tag2_en": "Print & Digital",
-    "desc_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
-    "desc_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language.",
+    "id": "585f078b9f9a",
+    "order": 1,
+    "title_vi": "Toshiba TV Vietnam: Winning IMC Pitch & Campaign",
+    "title_en": "Toshiba TV Vietnam: Winning IMC Pitch & Campaign",
+    "tag1_vi": "Thiết kế quảng cáo",
+    "tag1_en": "Advertising Design",
+    "tag2_vi": "Điện tử",
+    "tag2_en": "Electronics",
+    "desc_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh các thương hiệu cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC gồm 5 thành viên của chúng tôi chọn một hướng định vị khác xoay quanh keyword \"Thật\", màu thật, hình thật và giá trị thật. Proposal này đã thắng pitch Toshiba.",
+    "desc_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where competitors increasingly promoted brighter colors, sharper images and heavy picture enhancement, our five-person IMC pitch team proposed a different position around one keyword: \"Thật\" (Real), real color, real image and real value. The proposal won the Toshiba account.",
     "link": "#",
-    "image": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png",
+    "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
     "blocks": [
       {
         "id": "p1",
         "type": "text",
-        "text_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
-        "text_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language."
+        "text_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh các thương hiệu cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC gồm 5 thành viên của chúng tôi chọn một hướng định vị khác xoay quanh keyword <strong>\"Thật\"</strong>, màu thật, hình thật và giá trị thật. Proposal này đã thắng pitch Toshiba.",
+        "text_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where competitors increasingly promoted brighter colors, sharper images and heavy picture enhancement, our five-person IMC pitch team proposed a different position around one keyword: <strong>\"Thật\" (Real)</strong>, real color, real image and real value. The proposal won the Toshiba account."
       },
       {
         "id": "p2",
         "type": "text",
-        "text_vi": "Hệ thống được triển khai xuyên suốt poster, digital banner và các brand graphics, đảm bảo tính nhất quán nhưng vẫn đủ linh hoạt cho nhiều định dạng truyền thông khác nhau.",
-        "text_en": "The resulting system was applied across posters, digital banners and unified campaign graphics, maintaining a consistent visual presence while remaining flexible across different formats and communication needs."
+        "text_vi": "Từ campaign platform và copy đã được xác lập, tôi là senior visual phụ trách phát triển concept thị giác, art direction và thực thi hoàn chỉnh cho từng key visual. Mỗi thông điệp có một câu chuyện riêng nhưng cùng dựa trên một nguyên tắc: <strong>trải nghiệm chân thực đến mức những gì xuất hiện trên màn hình vượt khỏi khung TV và hòa vào thế giới thực.</strong>",
+        "text_en": "Working from the campaign platform and copy, I was the senior visual responsible for developing the visual concepts, art direction and final execution for individual key visuals. Each message became its own story while sharing one principle: <strong>the viewing experience feels so real that what happens on screen crosses the TV bezel and enters the physical world.</strong>"
       },
       {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "7cec9c81371d",
-    "order": 11,
-    "title_vi": "VinWonders | Campaign Pitch Key Visual",
-    "title_en": "VinWonders | Campaign Pitch Key Visual",
-    "tag1_vi": "Key Visual",
-    "tag1_en": "Key Visual",
-    "tag2_vi": "Giải trí & Du lịch",
-    "tag2_en": "Entertainment & Tourism",
-    "desc_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái vui chơi và giải trí đa dạng của thương hiệu thành một hình ảnh chiến dịch giàu năng lượng.",
-    "desc_en": "Developed the key visual direction for a VinWonders campaign pitch, translating the destination's broad entertainment offering into a single energetic visual proposition.",
-    "link": "#",
-    "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg",
-    "blocks": [
-      {
-        "id": "p1",
+        "id": "p3",
         "type": "text",
-        "text_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái vui chơi và giải trí đa dạng của thương hiệu thành một hình ảnh chiến dịch giàu năng lượng.",
-        "text_en": "Developed the key visual direction for a VinWonders campaign pitch, translating the destination's broad entertainment offering into a single energetic visual proposition."
+        "text_vi": "Ở mùa bóng đá, trận đấu tràn vào không gian gia đình, biến trải nghiệm xem tại nhà thành cảm giác như đang có mặt trên sân vận động. Với campaign về âm thanh, tôi xây dựng một thế giới siêu thực lấy cảm hứng từ Alice in Wonderland để diễn tả trải nghiệm âm thanh sống động và kỳ ảo. Các execution khác tiếp tục khai thác màu sắc, chất lượng hình ảnh, Halloween và Tết trên cùng mối quan hệ giữa màn hình và thực tế.",
+        "text_en": "For football season, the match extends into the family living room, making watching from home feel like being at the stadium. For the sound campaign, I built a surreal, Alice in Wonderland-inspired world to express an immersive and almost magical audio experience. Other executions explored color, picture quality, Halloween and Tet through the same relationship between screen and reality."
       },
       {
-        "id": "p2",
+        "id": "p4",
         "type": "text",
-        "text_vi": "Concept kết hợp nhiều điểm đến, trải nghiệm và khoảnh khắc cảm xúc trong cùng một master composition, vừa truyền tải được quy mô và sự sôi động của VinWonders, vừa giữ hierarchy rõ ràng. Tôi phụ trách phát triển visual direction và key visual execution để hiện thực hóa campaign idea thành một hướng hình ảnh có khả năng mở rộng trên các điểm chạm truyền thông.",
-        "text_en": "The concept brought multiple attractions, experiences and emotional moments into one master composition, balancing a sense of scale and excitement with a clear visual hierarchy. I developed the visual direction and key visual execution to demonstrate how the campaign idea could come to life across VinWonders' communication."
+        "text_vi": "Riêng campaign Tết, tôi còn tham gia xuyên suốt phần sản xuất hình ảnh, bao gồm photoshoot studio cùng Gia đình Cam Cam, art direction tại set và hoàn thiện output cuối.",
+        "text_en": "For Tet, I was also involved throughout the visual production process, including the studio shoot with Gia đình Cam Cam, on-set art direction and final campaign output."
+      },
+      {
+        "id": "p5",
+        "type": "text",
+        "text_vi": "Toàn bộ chuỗi execution trở thành một hệ thống thị giác đủ linh hoạt để thay đổi theo sản phẩm, thông điệp và mùa chiến dịch nhưng vẫn giữ nguyên một lời hứa: <strong>màu thật, trải nghiệm thật, giá trị thật.</strong>",
+        "text_en": "Together, the executions became a flexible visual system that could evolve across products, messages and seasons while remaining anchored to one promise: <strong>real color, real experience, real value.</strong>"
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-02.png",
+        "caption_vi": "",
+        "caption_en": ""
       },
       {
         "id": "b3",
         "type": "image",
-        "src": "/assets/uploads/02-vinwonders-master-key-visuals-02.jpg",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-03.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b4",
         "type": "image",
-        "src": "/assets/uploads/02-vinwonders-master-key-visuals-03.png",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "938e5d8f3668",
-    "order": 26,
-    "title_vi": "My Digital Artworks",
-    "title_en": "My Digital Artworks",
-    "tag1_vi": "Minh họa",
-    "tag1_en": "Illustration",
-    "tag2_vi": "Nghệ thuật số",
-    "tag2_en": "Digital Art",
-    "desc_vi": "Bộ sưu tập minh họa số cá nhân được thực hiện ngoài các brief thương mại, từ nhân vật chibi, động vật đến đồ ăn và những chủ đề đời thường.",
-    "desc_en": "A personal collection of digital illustrations created outside commercial briefs, ranging from chibi characters and animals to food and everyday subjects.",
-    "link": "#",
-    "image": "/assets/uploads/03-my-digital-artworks.png",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Bộ sưu tập minh họa số cá nhân được thực hiện ngoài các brief thương mại, từ nhân vật chibi, động vật đến đồ ăn và những chủ đề đời thường.",
-        "text_en": "A personal collection of digital illustrations created outside commercial briefs, ranging from chibi characters and animals to food and everyday subjects."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Đây là không gian để tôi tự do thử nghiệm tạo hình, màu sắc, biểu cảm và phong cách minh họa, đồng thời duy trì kỹ năng vẽ như một phần trong thực hành thiết kế của mình.",
-        "text_en": "These works are where I explore character, color, expression and drawing styles more freely, keeping illustration as an active part of my visual practice alongside commercial design."
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/03-my-digital-artworks-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/03-my-digital-artworks-03.png",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-04.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b5",
         "type": "image",
-        "src": "/assets/uploads/03-my-digital-artworks-04.png",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-05.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b6",
         "type": "image",
-        "src": "/assets/uploads/03-my-digital-artworks-05.png",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "83fadc8ad1dc",
-    "order": 9,
-    "title_vi": "247 Express: Mascot Design",
-    "title_en": "247 Express: Mascot Design",
-    "tag1_vi": "Thiết kế Mascot",
-    "tag1_en": "Mascot Design",
-    "tag2_vi": "Nhận diện thương hiệu",
-    "tag2_en": "Brand Identity",
-    "desc_vi": "Thiết kế mascot shipper theo phong cách chibi cho 247 Express nhằm tạo thêm một nhân vật đại diện dễ nhận diện và gần gũi cho thương hiệu logistics.",
-    "desc_en": "Created a chibi shipper mascot for 247 Express to give the logistics brand a more recognizable and approachable character.",
-    "link": "#",
-    "image": "/assets/uploads/04-247-express-mascot-design.png",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Thiết kế mascot shipper theo phong cách chibi cho 247 Express nhằm tạo thêm một nhân vật đại diện dễ nhận diện và gần gũi cho thương hiệu logistics.",
-        "text_en": "Created a chibi shipper mascot for 247 Express to give the logistics brand a more recognizable and approachable character."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Thay vì chỉ dựa trên hệ thống nhận diện doanh nghiệp, mascot trở thành một điểm chạm có tính con người hơn, giúp trải nghiệm giao nhận trở nên thân thiện, dễ nhớ và dễ ứng dụng vào các hoạt động truyền thông.",
-        "text_en": "Rather than relying only on its corporate identity, the mascot introduced a human and friendly touchpoint that could represent the delivery experience across brand communications, helping make a functional service category feel more relatable and memorable."
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-04.jpg",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-06.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b7",
         "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-05.jpg",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-07.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b8",
         "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-06.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b9",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-07.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b10",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-08.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b11",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-09.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/04-247-express-mascot-design-10.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "91ad00c4aeec",
-    "order": 12,
-    "title_vi": "Nestlé POSM 2019",
-    "title_en": "Nestlé POSM 2019",
-    "tag1_vi": "Thiết kế POSM",
-    "tag1_en": "POSM Design",
-    "tag2_vi": "Kiểm soát chất lượng",
-    "tag2_en": "Production QA",
-    "desc_vi": "Thực hiện thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé, bao gồm cả quá trình chuyển từ artwork sang ấn phẩm thực tế tại điểm bán.",
-    "desc_en": "Worked on POSM design and production quality control for Nestlé campaigns, covering the transition from artwork to physical retail materials.",
-    "link": "#",
-    "image": "/assets/uploads/05-nestle-posm-2019.jpg",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Thực hiện thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé, bao gồm cả quá trình chuyển từ artwork sang ấn phẩm thực tế tại điểm bán.",
-        "text_en": "Worked on POSM design and production quality control for Nestlé campaigns, covering the transition from artwork to physical retail materials."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Phạm vi công việc không chỉ dừng ở thiết kế mà còn bao gồm kiểm tra output sản xuất, đảm bảo màu sắc, bố cục và các chi tiết nhận diện được giữ nhất quán khi đưa thiết kế từ màn hình ra thành phẩm.",
-        "text_en": "My responsibility extended beyond visual execution to checking production output, helping ensure that colors, layouts and brand details remained consistent when designs moved from screen to final printed materials."
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-05.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b7",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-06.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b8",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-07.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b9",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-08.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b10",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-09.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b11",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-10.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-11.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b13",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-12.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b14",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-13.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b15",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-14.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b16",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-15.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b17",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-16.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b18",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-17.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b19",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-18.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b20",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-19.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b21",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-20.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b22",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-21.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b23",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-22.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b24",
-        "type": "image",
-        "src": "/assets/uploads/05-nestle-posm-2019-23.jpg",
+        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-08.jpg",
         "caption_vi": "",
         "caption_en": ""
       }
@@ -616,455 +291,484 @@
     ]
   },
   {
-    "id": "22b1e4acb8b1",
-    "order": 13,
-    "title_vi": "De Skin Journey: Brand Renewal & Freelance Projects",
-    "title_en": "De Skin Journey: Brand Renewal & Freelance Projects",
+    "id": "ef4442ece1c3",
+    "order": 3,
+    "title_vi": "WIN Store System | First Retail Rollout of Masan's New Identity",
+    "title_en": "WIN Store System | First Retail Rollout of Masan's New Identity",
     "tag1_vi": "Nhận diện thương hiệu",
     "tag1_en": "Brand Identity",
-    "tag2_vi": "Làm đẹp",
-    "tag2_en": "Beauty & Skincare",
-    "desc_vi": "Đồng hành cùng De Skin Journey trong quá trình làm mới hình ảnh thương hiệu, từ phát triển visual identity đến thiết kế ấn phẩm in và nội dung social media.",
-    "desc_en": "Worked with De Skin Journey across a broader brand renewal, including visual identity development, print materials and social media communication.",
+    "tag2_vi": "Bán lẻ",
+    "tag2_en": "Retail",
+    "desc_vi": "WIN đánh dấu giai đoạn Masan triển khai một mô hình bán lẻ mới, phát triển từ hệ sinh thái WinMart+ thành trải nghiệm cửa hàng mang tính lifestyle rộng hơn.",
+    "desc_en": "WIN marked the introduction of Masan's new retail format, evolving from the existing WinMart+ ecosystem into a broader lifestyle-oriented store experience.",
     "link": "#",
-    "image": "/assets/uploads/07-de-skin-journey-freelance.jpg",
+    "image": "/assets/uploads/26-win-store-system-brand-campaign.png",
     "blocks": [
       {
-        "id": "p1",
+        "id": "r1",
         "type": "text",
-        "text_vi": "Đồng hành cùng De Skin Journey trong quá trình làm mới hình ảnh thương hiệu, từ phát triển visual identity đến thiết kế ấn phẩm in và nội dung social media.",
-        "text_en": "Worked with De Skin Journey across a broader brand renewal, including visual identity development, print materials and social media communication."
+        "text_vi": "<strong>Vai trò: Senior Creative Art</strong>",
+        "text_en": "<strong>Role: Senior Creative Art</strong>"
       },
       {
-        "id": "p2",
+        "id": "r2",
         "type": "text",
-        "text_vi": "Mục tiêu là xây dựng một ngôn ngữ thị giác đặc trưng và nhất quán hơn, phù hợp với định vị skincare theo hướng khoa học và bền vững. Thay vì xử lý từng thiết kế như những sản phẩm riêng lẻ, project hướng đến một visual direction có thể tiếp tục mở rộng trên nhiều điểm chạm của thương hiệu.",
-        "text_en": "The goal was to move the brand toward a more distinctive and coherent visual language while supporting its positioning around scientific and sustainable skincare. Rather than treating each asset independently, the work established a visual direction that could continue across different brand touchpoints."
+        "text_vi": "<strong>Phạm vi: Identity Implementation, Retail Design, Campaign Rollout</strong>",
+        "text_en": "<strong>Scope: Identity Implementation, Retail Design, Campaign Rollout</strong>"
       },
       {
-        "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-02.jpg",
-        "caption_vi": "",
-        "caption_en": ""
+        "id": "p3",
+        "type": "text",
+        "text_vi": "WIN đánh dấu giai đoạn Masan triển khai một mô hình bán lẻ mới, phát triển từ hệ sinh thái WinMart+ thành trải nghiệm cửa hàng mang tính lifestyle rộng hơn.",
+        "text_en": "WIN marked the introduction of Masan's new retail format, evolving from the existing WinMart+ ecosystem into a broader lifestyle-oriented store experience."
       },
       {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-03.png",
-        "caption_vi": "",
-        "caption_en": ""
+        "id": "p4",
+        "type": "text",
+        "text_vi": "Dưới sự định hướng của Creative Manager, tôi là designer đầu tiên triển khai hệ thống nhận diện WIN mới cho đợt launch tại TP.HCM. Công việc của tôi là chuyển bộ nhận diện vừa được xây dựng từ những nguyên tắc trên guideline thành các ứng dụng thực tế hướng trực tiếp đến khách hàng, từ store graphics, catalogue, flyer đến digital asset và social communication.",
+        "text_en": "Working under the Creative Manager, I was the first designer implementing the newly introduced WIN identity for its Ho Chi Minh City launch. My role was to translate the new brand system from identity principles into real customer-facing applications across store graphics, catalogues, flyers, digital assets and social communication."
+      },
+      {
+        "id": "p5",
+        "type": "text",
+        "text_vi": "Bài toán ở đây không phải thiết kế lại identity, mà là xác lập cách một hệ thống nhận diện hoàn toàn mới thực sự vận hành khi được đưa vào môi trường bán lẻ với rất nhiều format và điểm chạm.",
+        "text_en": "The challenge was not to redesign the identity, but to establish how a newly created visual system would actually behave once deployed at scale across a physical retail environment."
+      },
+      {
+        "id": "p6",
+        "type": "text",
+        "text_vi": "WIN ra mắt tại 27 cửa hàng ở Hà Nội và TP.HCM, sau đó mở rộng lên 102 cửa hàng trong Q4/2022, biến ngôn ngữ thiết kế ban đầu thành một retail system có khả năng triển khai ở quy mô lớn.",
+        "text_en": "WIN debuted across 27 stores in Hanoi and Ho Chi Minh City and expanded to 102 stores in Q4 2022, turning the initial design language into a working retail system across multiple customer touchpoints."
       },
       {
         "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-04.png",
-        "caption_vi": "",
-        "caption_en": ""
+        "type": "video",
+        "src": "/assets/uploads/26-win-store-video-1.mp4",
+        "caption_vi": "Video chiến dịch.",
+        "caption_en": "Campaign video."
       },
       {
         "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-05.png",
-        "caption_vi": "",
-        "caption_en": ""
+        "type": "video",
+        "src": "/assets/uploads/26-win-store-video-3.mp4",
+        "caption_vi": "Video chiến dịch.",
+        "caption_en": "Campaign video."
       },
       {
         "id": "b6",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-06.jpg",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-02.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b7",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-07.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-03.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b8",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-08.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-04.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b9",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-09.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-05.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b10",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-10.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-06.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b11",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-11.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-07.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b12",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-12.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-08.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b13",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-13.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-09.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b14",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-14.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-10.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b15",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-15.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-11.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b16",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-16.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-12.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b17",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-17.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-13.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b18",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-18.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-14.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b19",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-19.png",
-        "caption_vi": "",
-        "caption_en": ""
+        "type": "video",
+        "src": "/assets/uploads/26-win-store-video-2.mp4",
+        "caption_vi": "Video chiến dịch.",
+        "caption_en": "Campaign video."
       },
       {
         "id": "b20",
         "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-20.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b21",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-21.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b22",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-22.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b23",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-23.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b24",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-24.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b25",
-        "type": "image",
-        "src": "/assets/uploads/07-de-skin-journey-freelance-25.png",
+        "src": "/assets/uploads/26-win-store-system-brand-campaign-15.jpg",
         "caption_vi": "",
         "caption_en": ""
       }
     ]
   },
   {
-    "id": "01c678ca5764",
-    "order": 8,
-    "title_vi": "Acecook Zeppin: Photoshoot Posing Sketches",
-    "title_en": "Acecook Zeppin: Photoshoot Posing Sketches",
-    "tag1_vi": "Phác thảo",
-    "tag1_en": "Posing Sketches",
-    "tag2_vi": "Hợp tác",
-    "tag2_en": "Collaboration",
-    "desc_vi": "Thực hiện các bản digital sketch định hướng dáng người mẫu cho photoshoot Acecook Zeppin trong quá trình cộng tác cùng Furin Creative Lab.",
-    "desc_en": "Created digital posing sketches for an Acecook Zeppin model photoshoot in collaboration with Furin Creative Lab.",
+    "id": "95b74f4ae5ff",
+    "order": 4,
+    "title_vi": "GoGoX | Key Visual Rework & Campaign Rollout",
+    "title_en": "GoGoX | Key Visual Rework & Campaign Rollout",
+    "tag1_vi": "Key Visual",
+    "tag1_en": "Key Visual",
+    "tag2_vi": "Logistics",
+    "tag2_en": "Logistics",
+    "desc_vi": "GoGoX đến với team chúng tôi khi một dự án key visual trước đó đã bị đình lại và chưa được hoàn thiện. Thay vì bắt đầu từ một brief hoàn toàn mới, bài toán là đánh giá lại hướng hình ảnh đã có, xác định những điểm chưa hiệu quả và đưa campaign đến một visual direction hoàn chỉnh hơn.",
+    "desc_en": "GoGoX came to our team with an existing key visual project that had stalled before completion. Rather than starting from a blank brief, the challenge was to reassess what was already there, identify what was not working and bring the campaign to a more resolved visual direction.",
     "link": "#",
-    "image": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches.jpg",
+    "image": "/assets/uploads/24-gogox-main-kv-adaptations.png",
     "blocks": [
       {
         "id": "p1",
         "type": "text",
-        "text_vi": "Thực hiện các bản digital sketch định hướng dáng người mẫu cho photoshoot Acecook Zeppin trong quá trình cộng tác cùng Furin Creative Lab.",
-        "text_en": "Created digital posing sketches for an Acecook Zeppin model photoshoot in collaboration with Furin Creative Lab."
+        "text_vi": "GoGoX đến với team chúng tôi khi một dự án key visual trước đó đã bị đình lại và chưa được hoàn thiện. Thay vì bắt đầu từ một brief hoàn toàn mới, bài toán là đánh giá lại hướng hình ảnh đã có, xác định những điểm chưa hiệu quả và đưa campaign đến một visual direction hoàn chỉnh hơn.",
+        "text_en": "GoGoX came to our team with an existing key visual project that had stalled before completion. Rather than starting from a blank brief, the challenge was to reassess what was already there, identify what was not working and bring the campaign to a more resolved visual direction."
       },
       {
         "id": "p2",
         "type": "text",
-        "text_vi": "Các sketch chuyển ý tưởng của từng shot thành reference cụ thể về dáng, cử chỉ và cách tương tác với sản phẩm trước khi chụp, giúp team hình dung và trao đổi composition rõ ràng hơn khi vào set.",
-        "text_en": "The sketches translated shot ideas into clear references for body posture, gesture and product interaction before production, helping the team communicate the intended compositions more precisely on set."
+        "text_vi": "Tôi tham gia rework main key visual và phát triển execution cuối cùng của chiến dịch, củng cố composition, visual hierarchy và chất lượng tổng thể trước khi triển khai sang các format khác.",
+        "text_en": "I worked on reworking the main key visual and developing the final campaign execution, strengthening the composition, visual hierarchy and overall finish before adapting the direction across campaign formats."
       },
       {
-        "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-02.png",
-        "caption_vi": "",
-        "caption_en": ""
+        "id": "p3",
+        "type": "text",
+        "text_vi": "Project này thể hiện khá rõ khả năng giải quyết vấn đề trong một brief đã có sẵn: giữ lại những gì còn giá trị, đồng thời tái cấu trúc phần hình ảnh để tạo thành một hệ thống đủ nhất quán và hoàn thiện để tiếp tục rollout.",
+        "text_en": "The project became an exercise in creative problem-solving under an inherited brief: preserving what remained useful while rebuilding the visual into something coherent enough to carry the campaign forward."
       },
       {
         "id": "b3",
         "type": "image",
-        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-03.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-02.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b4",
         "type": "image",
-        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-04.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-03.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b5",
         "type": "image",
-        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-05.jpg",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-04.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b6",
         "type": "image",
-        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-06.jpg",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-05.png",
         "caption_vi": "",
         "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "d69dd1b7ad0f",
-    "order": 28,
-    "title_vi": "Finance / Banking Mobile App Design",
-    "title_en": "Finance / Banking Mobile App Design",
-    "tag1_vi": "Thiết kế UI/UX",
-    "tag1_en": "UI/UX Design",
-    "tag2_vi": "Ứng dụng di động",
-    "tag2_en": "Mobile App",
-    "desc_vi": "Một bài nghiên cứu UI/UX cho trải nghiệm ứng dụng tài chính và ngân hàng trên di động, tập trung vào việc chuyển một lĩnh vực vốn nhiều thông tin thành giao diện rõ ràng và dễ tiếp cận hơn.",
-    "desc_en": "A UI/UX exploration for a finance and banking mobile experience, focusing on turning a traditionally information-heavy category into a cleaner and more approachable interface.",
-    "link": "https://www.behance.net/gallery/203515273/FinanceBanking-Mobile-App-Design",
-    "image": "/assets/uploads/09-finance-banking-mobile-app-design.png",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Một bài nghiên cứu UI/UX cho trải nghiệm ứng dụng tài chính và ngân hàng trên di động, tập trung vào việc chuyển một lĩnh vực vốn nhiều thông tin thành giao diện rõ ràng và dễ tiếp cận hơn.",
-        "text_en": "A UI/UX exploration for a finance and banking mobile experience, focusing on turning a traditionally information-heavy category into a cleaner and more approachable interface."
       },
       {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Project khai thác hierarchy, tính nhất quán của component và các interaction pattern trên mobile, cân bằng giữa độ rõ ràng, đáng tin cậy của sản phẩm tài chính và trải nghiệm sản phẩm hiện đại hơn.",
-        "text_en": "The project explores visual hierarchy, component consistency and mobile interaction patterns while balancing the clarity and trust expected from a financial product with a more contemporary product experience."
-      },
-      {
-        "id": "b1",
+        "id": "b7",
         "type": "image",
-        "src": "/assets/uploads/09-finance-banking-mobile-app-design-02.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-06.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
-        "id": "b2",
+        "id": "b8",
         "type": "image",
-        "src": "/assets/uploads/09-finance-banking-mobile-app-design-03.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-07.png",
         "caption_vi": "",
         "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "93de9a929181",
-    "order": 14,
-    "title_vi": "云译: Logo & Brand Guidelines",
-    "title_en": "云译: Logo & Brand Guidelines",
-    "tag1_vi": "Thiết kế Logo",
-    "tag1_en": "Logo Design",
-    "tag2_vi": "Bộ nhận diện",
-    "tag2_en": "Brand Guidelines",
-    "desc_vi": "Phát triển logo và hệ thống guideline cho 云译, một công ty dịch thuật Trung Quốc với tên gọi mang nghĩa \"Cloud Translation\".",
-    "desc_en": "Developed the logo and identity guidelines for 云译, a Chinese translation company whose name translates to \"Cloud Translation.\"",
-    "link": "#",
-    "image": "/assets/uploads/10-yunyi-logo-guidelines.png",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Phát triển logo và hệ thống guideline cho 云译, một công ty dịch thuật Trung Quốc với tên gọi mang nghĩa \"Cloud Translation\".",
-        "text_en": "Developed the logo and identity guidelines for 云译, a Chinese translation company whose name translates to \"Cloud Translation.\""
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Hướng thiết kế kết hợp liên tưởng về công nghệ và dịch vụ nền tảng đám mây với đặc trưng của typography và thư pháp Trung Hoa. Project không dừng ở một logo đơn lẻ mà được phát triển thành hệ thống nhận diện có thể ứng dụng trên các điểm chạm kỹ thuật số và ấn phẩm doanh nghiệp.",
-        "text_en": "The identity combines the technological association of cloud-based services with references to Chinese typography and calligraphic forms. The project extended beyond the logo itself into a usable identity system for applications such as digital communication and business materials."
       },
       {
         "id": "b9",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-02.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-08.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b10",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-03.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-09.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b11",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-04.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-10.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b12",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-05.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-11.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b13",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-06.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-12.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b14",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-07.png",
+        "src": "/assets/uploads/24-gogox-main-kv-adaptations-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "d7345678aa19",
+    "order": 5,
+    "title_vi": "La Roche-Posay | Campaign & Promotional Design",
+    "title_en": "La Roche-Posay | Campaign & Promotional Design",
+    "tag1_vi": "Chăm sóc da",
+    "tag1_en": "Skincare",
+    "tag2_vi": "Dược mỹ phẩm",
+    "tag2_en": "Pharmacy Brand",
+    "desc_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal.",
+    "desc_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account.",
+    "link": "#",
+    "image": "/assets/uploads/21-la-roche-posay.png",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal.",
+        "text_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Công việc được triển khai từ brief của client và global identity có sẵn của thương hiệu, yêu cầu từng visual tại thị trường địa phương vẫn phải giữ được tính khoa học, rõ ràng, tập trung vào sản phẩm và nhất quán qua nhiều đợt promotion liên tục.",
+        "text_en": "The work was driven by client briefs and the brand's established global identity, requiring each local execution to remain clinically clear, product-focused and consistent across frequent promotional cycles."
+      },
+      {
+        "id": "p3",
+        "type": "text",
+        "text_vi": "Việc đồng thời phụ trách La Roche-Posay và Vichy cũng cho tôi trải nghiệm khá sớm trong việc xử lý song song communication stream của hai thương hiệu thuộc cùng một client, nhưng có visual code, nhóm khách hàng và ưu tiên sản phẩm khác nhau.",
+        "text_en": "Working across both La Roche-Posay and Vichy gave me early exposure to managing parallel communication streams for two brands under the same client, each with its own visual codes, audience and product priorities."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-12.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/21-la-roche-posay-14.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b15",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-08.png",
+        "src": "/assets/uploads/21-la-roche-posay-15.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b16",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-09.png",
+        "src": "/assets/uploads/21-la-roche-posay-16.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b17",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-10.png",
+        "src": "/assets/uploads/21-la-roche-posay-17.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b18",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-11.png",
+        "src": "/assets/uploads/21-la-roche-posay-18.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b19",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-12.png",
+        "src": "/assets/uploads/21-la-roche-posay-19.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b20",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-13.png",
+        "src": "/assets/uploads/21-la-roche-posay-20.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b21",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-14.png",
+        "src": "/assets/uploads/21-la-roche-posay-21.jpg",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b22",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-15.png",
+        "src": "/assets/uploads/21-la-roche-posay-22.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b23",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-16.png",
+        "src": "/assets/uploads/21-la-roche-posay-23.png",
         "caption_vi": "",
         "caption_en": ""
       },
       {
         "id": "b24",
         "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-17.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b25",
-        "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-18.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b26",
-        "type": "image",
-        "src": "/assets/uploads/10-yunyi-logo-guidelines-19.png",
+        "src": "/assets/uploads/21-la-roche-posay-24.jpg",
         "caption_vi": "",
         "caption_en": ""
       }
@@ -1267,6 +971,991 @@
         "id": "b28",
         "type": "image",
         "src": "/assets/uploads/11-vichy-laboratoires-25.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "61d43edcd352",
+    "order": 7,
+    "title_vi": "Au Oii Cosmetics | Winning Brand Identity Pitch",
+    "title_en": "Au Oii Cosmetics | Winning Brand Identity Pitch",
+    "tag1_vi": "Định hướng nghệ thuật",
+    "tag1_en": "Art Direction",
+    "tag2_vi": "Mỹ phẩm",
+    "tag2_en": "Cosmetics",
+    "desc_vi": "Au Oii là một dự án pitching nhận diện thương hiệu mà tôi phụ trách gần như toàn bộ quá trình, từ phát triển concept ban đầu đến thiết kế logo, typography, ngôn ngữ thị giác và xây dựng hoàn chỉnh brand guideline.",
+    "desc_en": "Au Oii was a brand identity pitch that I developed end to end, from the initial creative concept through logo design, typography, visual language and a complete brand guideline system.",
+    "link": "#",
+    "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png",
+    "blocks": [
+      {
+        "id": "r1",
+        "type": "text",
+        "text_vi": "<strong>Vai trò: Brand Identity Lead</strong>",
+        "text_en": "<strong>Project Role: Brand Identity Lead</strong>"
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Au Oii là một dự án pitching nhận diện thương hiệu mà tôi phụ trách gần như toàn bộ quá trình, từ phát triển concept ban đầu đến thiết kế logo, typography, ngôn ngữ thị giác và xây dựng hoàn chỉnh brand guideline.",
+        "text_en": "Au Oii was a brand identity pitch that I developed end to end, from the initial creative concept through logo design, typography, visual language and a complete brand guideline system."
+      },
+      {
+        "id": "p3",
+        "type": "text",
+        "text_vi": "Tôi tự phát triển visual direction, lựa chọn hệ thống font, xây dựng các ứng dụng nhận diện và trực tiếp trình bày proposal với client qua nhiều vòng. Proposal đã thắng pitch và được client lựa chọn, tuy nhiên dự án sau đó được phía khách hàng tạm hoãn trước khi bước vào giai đoạn rollout chính thức.",
+        "text_en": "I owned the visual direction independently, exploring the concept, selecting the type system, building the identity applications and presenting the proposal directly to the client across multiple rounds. The pitch was awarded to our team, validating the proposed direction, although the project was later put on hold by the client before full rollout."
+      },
+      {
+        "id": "p4",
+        "type": "text",
+        "text_vi": "Kết quả là một hệ thống nhận diện hoàn chỉnh, được xây dựng không chỉ quanh một logo mà như nền tảng thị giác có thể tiếp tục mở rộng trên packaging, truyền thông và các điểm chạm thương hiệu về sau.",
+        "text_en": "The result was a complete identity system designed not as a standalone logo, but as a visual foundation that could extend consistently across packaging, communication and future brand touchpoints."
+      },
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-17.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-19.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-20.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-21.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-23.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-24.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-25.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "01c678ca5764",
+    "order": 8,
+    "title_vi": "Acecook Zeppin: Photoshoot Posing Sketches",
+    "title_en": "Acecook Zeppin: Photoshoot Posing Sketches",
+    "tag1_vi": "Phác thảo",
+    "tag1_en": "Posing Sketches",
+    "tag2_vi": "Hợp tác",
+    "tag2_en": "Collaboration",
+    "desc_vi": "Thực hiện các bản digital sketch định hướng dáng người mẫu cho photoshoot Acecook Zeppin trong quá trình cộng tác cùng Furin Creative Lab.",
+    "desc_en": "Created digital posing sketches for an Acecook Zeppin model photoshoot in collaboration with Furin Creative Lab.",
+    "link": "#",
+    "image": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches.jpg",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Thực hiện các bản digital sketch định hướng dáng người mẫu cho photoshoot Acecook Zeppin trong quá trình cộng tác cùng Furin Creative Lab.",
+        "text_en": "Created digital posing sketches for an Acecook Zeppin model photoshoot in collaboration with Furin Creative Lab."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Các sketch chuyển ý tưởng của từng shot thành reference cụ thể về dáng, cử chỉ và cách tương tác với sản phẩm trước khi chụp, giúp team hình dung và trao đổi composition rõ ràng hơn khi vào set.",
+        "text_en": "The sketches translated shot ideas into clear references for body posture, gesture and product interaction before production, helping the team communicate the intended compositions more precisely on set."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/08-acecook-zeppin-photoshoot-sketches-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "83fadc8ad1dc",
+    "order": 9,
+    "title_vi": "247 Express: Mascot Design",
+    "title_en": "247 Express: Mascot Design",
+    "tag1_vi": "Thiết kế Mascot",
+    "tag1_en": "Mascot Design",
+    "tag2_vi": "Nhận diện thương hiệu",
+    "tag2_en": "Brand Identity",
+    "desc_vi": "Thiết kế mascot shipper theo phong cách chibi cho 247 Express nhằm tạo thêm một nhân vật đại diện dễ nhận diện và gần gũi cho thương hiệu logistics.",
+    "desc_en": "Created a chibi shipper mascot for 247 Express to give the logistics brand a more recognizable and approachable character.",
+    "link": "#",
+    "image": "/assets/uploads/04-247-express-mascot-design.png",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Thiết kế mascot shipper theo phong cách chibi cho 247 Express nhằm tạo thêm một nhân vật đại diện dễ nhận diện và gần gũi cho thương hiệu logistics.",
+        "text_en": "Created a chibi shipper mascot for 247 Express to give the logistics brand a more recognizable and approachable character."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Thay vì chỉ dựa trên hệ thống nhận diện doanh nghiệp, mascot trở thành một điểm chạm có tính con người hơn, giúp trải nghiệm giao nhận trở nên thân thiện, dễ nhớ và dễ ứng dụng vào các hoạt động truyền thông.",
+        "text_en": "Rather than relying only on its corporate identity, the mascot introduced a human and friendly touchpoint that could represent the delivery experience across brand communications, helping make a functional service category feel more relatable and memorable."
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/04-247-express-mascot-design-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "64a731ee19dc",
+    "order": 10,
+    "title_vi": "BIDV Awards 2025: Visual Identity",
+    "title_en": "BIDV Awards 2025: Visual Identity",
+    "tag1_vi": "Nhận diện hình ảnh",
+    "tag1_en": "Visual Identity",
+    "tag2_vi": "In ấn & Kỹ thuật số",
+    "tag2_en": "Print & Digital",
+    "desc_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
+    "desc_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language.",
+    "link": "#",
+    "image": "/assets/uploads/01-bidv-awards-2025-visual-identity-02.png",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Phát triển hệ thống nhận diện thị giác và các ấn phẩm truyền thông cho BIDV Awards 2025 trên cả nền tảng in ấn và kỹ thuật số. Bài toán là giữ được sự chuyên nghiệp, uy tín của một thương hiệu tài chính lớn, đồng thời tạo cảm giác hiện đại và phù hợp với tinh thần của một sự kiện vinh danh.",
+        "text_en": "Developed the visual identity and promotional system for BIDV Awards 2025 across print and digital channels. The challenge was to balance the prestige expected from one of Vietnam's leading financial institutions with a more contemporary and celebratory event language."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Hệ thống được triển khai xuyên suốt poster, digital banner và các brand graphics, đảm bảo tính nhất quán nhưng vẫn đủ linh hoạt cho nhiều định dạng truyền thông khác nhau.",
+        "text_en": "The resulting system was applied across posters, digital banners and unified campaign graphics, maintaining a consistent visual presence while remaining flexible across different formats and communication needs."
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/01-bidv-awards-2025-visual-identity-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "7cec9c81371d",
+    "order": 11,
+    "title_vi": "VinWonders | Campaign Pitch Key Visual",
+    "title_en": "VinWonders | Campaign Pitch Key Visual",
+    "tag1_vi": "Key Visual",
+    "tag1_en": "Key Visual",
+    "tag2_vi": "Giải trí & Du lịch",
+    "tag2_en": "Entertainment & Tourism",
+    "desc_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái vui chơi và giải trí đa dạng của thương hiệu thành một hình ảnh chiến dịch giàu năng lượng.",
+    "desc_en": "Developed the key visual direction for a VinWonders campaign pitch, translating the destination's broad entertainment offering into a single energetic visual proposition.",
+    "link": "#",
+    "image": "/assets/uploads/02-vinwonders-master-key-visuals.jpg",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Phát triển key visual direction cho một proposal pitching của VinWonders, với bài toán cô đọng hệ sinh thái vui chơi và giải trí đa dạng của thương hiệu thành một hình ảnh chiến dịch giàu năng lượng.",
+        "text_en": "Developed the key visual direction for a VinWonders campaign pitch, translating the destination's broad entertainment offering into a single energetic visual proposition."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Concept kết hợp nhiều điểm đến, trải nghiệm và khoảnh khắc cảm xúc trong cùng một master composition, vừa truyền tải được quy mô và sự sôi động của VinWonders, vừa giữ hierarchy rõ ràng. Tôi phụ trách phát triển visual direction và key visual execution để hiện thực hóa campaign idea thành một hướng hình ảnh có khả năng mở rộng trên các điểm chạm truyền thông.",
+        "text_en": "The concept brought multiple attractions, experiences and emotional moments into one master composition, balancing a sense of scale and excitement with a clear visual hierarchy. I developed the visual direction and key visual execution to demonstrate how the campaign idea could come to life across VinWonders' communication."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/02-vinwonders-master-key-visuals-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/02-vinwonders-master-key-visuals-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "91ad00c4aeec",
+    "order": 12,
+    "title_vi": "Nestlé POSM 2019",
+    "title_en": "Nestlé POSM 2019",
+    "tag1_vi": "Thiết kế POSM",
+    "tag1_en": "POSM Design",
+    "tag2_vi": "Kiểm soát chất lượng",
+    "tag2_en": "Production QA",
+    "desc_vi": "Thực hiện thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé, bao gồm cả quá trình chuyển từ artwork sang ấn phẩm thực tế tại điểm bán.",
+    "desc_en": "Worked on POSM design and production quality control for Nestlé campaigns, covering the transition from artwork to physical retail materials.",
+    "link": "#",
+    "image": "/assets/uploads/05-nestle-posm-2019.jpg",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Thực hiện thiết kế POSM và kiểm soát chất lượng sản xuất cho các chiến dịch của Nestlé, bao gồm cả quá trình chuyển từ artwork sang ấn phẩm thực tế tại điểm bán.",
+        "text_en": "Worked on POSM design and production quality control for Nestlé campaigns, covering the transition from artwork to physical retail materials."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Phạm vi công việc không chỉ dừng ở thiết kế mà còn bao gồm kiểm tra output sản xuất, đảm bảo màu sắc, bố cục và các chi tiết nhận diện được giữ nhất quán khi đưa thiết kế từ màn hình ra thành phẩm.",
+        "text_en": "My responsibility extended beyond visual execution to checking production output, helping ensure that colors, layouts and brand details remained consistent when designs moved from screen to final printed materials."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-05.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-07.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-08.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-09.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-10.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-11.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-12.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-13.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-14.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-15.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-16.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-17.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-18.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-19.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-20.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-21.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/05-nestle-posm-2019-23.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "22b1e4acb8b1",
+    "order": 13,
+    "title_vi": "De Skin Journey: Brand Renewal & Freelance Projects",
+    "title_en": "De Skin Journey: Brand Renewal & Freelance Projects",
+    "tag1_vi": "Nhận diện thương hiệu",
+    "tag1_en": "Brand Identity",
+    "tag2_vi": "Làm đẹp",
+    "tag2_en": "Beauty & Skincare",
+    "desc_vi": "Đồng hành cùng De Skin Journey trong quá trình làm mới hình ảnh thương hiệu, từ phát triển visual identity đến thiết kế ấn phẩm in và nội dung social media.",
+    "desc_en": "Worked with De Skin Journey across a broader brand renewal, including visual identity development, print materials and social media communication.",
+    "link": "#",
+    "image": "/assets/uploads/07-de-skin-journey-freelance.jpg",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Đồng hành cùng De Skin Journey trong quá trình làm mới hình ảnh thương hiệu, từ phát triển visual identity đến thiết kế ấn phẩm in và nội dung social media.",
+        "text_en": "Worked with De Skin Journey across a broader brand renewal, including visual identity development, print materials and social media communication."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Mục tiêu là xây dựng một ngôn ngữ thị giác đặc trưng và nhất quán hơn, phù hợp với định vị skincare theo hướng khoa học và bền vững. Thay vì xử lý từng thiết kế như những sản phẩm riêng lẻ, project hướng đến một visual direction có thể tiếp tục mở rộng trên nhiều điểm chạm của thương hiệu.",
+        "text_en": "The goal was to move the brand toward a more distinctive and coherent visual language while supporting its positioning around scientific and sustainable skincare. Rather than treating each asset independently, the work established a visual direction that could continue across different brand touchpoints."
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-06.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b7",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b8",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-18.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-19.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-20.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-21.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-22.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-23.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-24.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/07-de-skin-journey-freelance-25.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "93de9a929181",
+    "order": 14,
+    "title_vi": "云译: Logo & Brand Guidelines",
+    "title_en": "云译: Logo & Brand Guidelines",
+    "tag1_vi": "Thiết kế Logo",
+    "tag1_en": "Logo Design",
+    "tag2_vi": "Bộ nhận diện",
+    "tag2_en": "Brand Guidelines",
+    "desc_vi": "Phát triển logo và hệ thống guideline cho 云译, một công ty dịch thuật Trung Quốc với tên gọi mang nghĩa \"Cloud Translation\".",
+    "desc_en": "Developed the logo and identity guidelines for 云译, a Chinese translation company whose name translates to \"Cloud Translation.\"",
+    "link": "#",
+    "image": "/assets/uploads/10-yunyi-logo-guidelines.png",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Phát triển logo và hệ thống guideline cho 云译, một công ty dịch thuật Trung Quốc với tên gọi mang nghĩa \"Cloud Translation\".",
+        "text_en": "Developed the logo and identity guidelines for 云译, a Chinese translation company whose name translates to \"Cloud Translation.\""
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Hướng thiết kế kết hợp liên tưởng về công nghệ và dịch vụ nền tảng đám mây với đặc trưng của typography và thư pháp Trung Hoa. Project không dừng ở một logo đơn lẻ mà được phát triển thành hệ thống nhận diện có thể ứng dụng trên các điểm chạm kỹ thuật số và ấn phẩm doanh nghiệp.",
+        "text_en": "The identity combines the technological association of cloud-based services with references to Chinese typography and calligraphic forms. The project extended beyond the logo itself into a usable identity system for applications such as digital communication and business materials."
+      },
+      {
+        "id": "b9",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b10",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b11",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b12",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b13",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-06.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b14",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-07.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b15",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-08.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b16",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-09.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b17",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-10.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b18",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b19",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-12.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b20",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-13.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b21",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-14.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b22",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-15.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b23",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-16.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b24",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-17.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b25",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-18.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b26",
+        "type": "image",
+        "src": "/assets/uploads/10-yunyi-logo-guidelines-19.png",
         "caption_vi": "",
         "caption_en": ""
       }
@@ -1624,214 +2313,6 @@
         "id": "b2",
         "type": "image",
         "src": "/assets/uploads/14-uiux-kms-career-landing-page-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "61d43edcd352",
-    "order": 7,
-    "title_vi": "Au Oii Cosmetics | Winning Brand Identity Pitch",
-    "title_en": "Au Oii Cosmetics | Winning Brand Identity Pitch",
-    "tag1_vi": "Định hướng nghệ thuật",
-    "tag1_en": "Art Direction",
-    "tag2_vi": "Mỹ phẩm",
-    "tag2_en": "Cosmetics",
-    "desc_vi": "Au Oii là một dự án pitching nhận diện thương hiệu mà tôi phụ trách gần như toàn bộ quá trình, từ phát triển concept ban đầu đến thiết kế logo, typography, ngôn ngữ thị giác và xây dựng hoàn chỉnh brand guideline.",
-    "desc_en": "Au Oii was a brand identity pitch that I developed end to end, from the initial creative concept through logo design, typography, visual language and a complete brand guideline system.",
-    "link": "#",
-    "image": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction.png",
-    "blocks": [
-      {
-        "id": "r1",
-        "type": "text",
-        "text_vi": "<strong>Vai trò: Brand Identity Lead</strong>",
-        "text_en": "<strong>Project Role: Brand Identity Lead</strong>"
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Au Oii là một dự án pitching nhận diện thương hiệu mà tôi phụ trách gần như toàn bộ quá trình, từ phát triển concept ban đầu đến thiết kế logo, typography, ngôn ngữ thị giác và xây dựng hoàn chỉnh brand guideline.",
-        "text_en": "Au Oii was a brand identity pitch that I developed end to end, from the initial creative concept through logo design, typography, visual language and a complete brand guideline system."
-      },
-      {
-        "id": "p3",
-        "type": "text",
-        "text_vi": "Tôi tự phát triển visual direction, lựa chọn hệ thống font, xây dựng các ứng dụng nhận diện và trực tiếp trình bày proposal với client qua nhiều vòng. Proposal đã thắng pitch và được client lựa chọn, tuy nhiên dự án sau đó được phía khách hàng tạm hoãn trước khi bước vào giai đoạn rollout chính thức.",
-        "text_en": "I owned the visual direction independently, exploring the concept, selecting the type system, building the identity applications and presenting the proposal directly to the client across multiple rounds. The pitch was awarded to our team, validating the proposed direction, although the project was later put on hold by the client before full rollout."
-      },
-      {
-        "id": "p4",
-        "type": "text",
-        "text_vi": "Kết quả là một hệ thống nhận diện hoàn chỉnh, được xây dựng không chỉ quanh một logo mà như nền tảng thị giác có thể tiếp tục mở rộng trên packaging, truyền thông và các điểm chạm thương hiệu về sau.",
-        "text_en": "The result was a complete identity system designed not as a standalone logo, but as a visual foundation that could extend consistently across packaging, communication and future brand touchpoints."
-      },
-      {
-        "id": "b1",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-02.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-05.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-06.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-07.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b7",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-08.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b8",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-09.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b9",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-10.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b10",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-11.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b11",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-12.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-13.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b13",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-14.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b14",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-15.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b15",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-16.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b16",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-17.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b17",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-18.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b18",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-19.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b19",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-20.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b20",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-21.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b21",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-22.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b22",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-23.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b23",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-24.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b24",
-        "type": "image",
-        "src": "/assets/uploads/15-au-oii-cosmetics-brand-art-direction-25.jpg",
         "caption_vi": "",
         "caption_en": ""
       }
@@ -2272,250 +2753,6 @@
     ]
   },
   {
-    "id": "007cec30c262",
-    "order": 27,
-    "title_vi": "Hand Drawing & Idea Sketches",
-    "title_en": "Hand Drawing & Idea Sketches",
-    "tag1_vi": "Phác thảo",
-    "tag1_en": "Sketching",
-    "tag2_vi": "Cá nhân",
-    "tag2_en": "Personal Work",
-    "desc_vi": "Tuyển tập hand drawing và idea sketch ghi lại phần tư duy diễn ra trước khi một thiết kế được hoàn thiện.",
-    "desc_en": "A selection of hand drawings and idea sketches showing the thinking that happens before polished visual execution.",
-    "link": "#",
-    "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Tuyển tập hand drawing và idea sketch ghi lại phần tư duy diễn ra trước khi một thiết kế được hoàn thiện.",
-        "text_en": "A selection of hand drawings and idea sketches showing the thinking that happens before polished visual execution."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Các bản vẽ trải dài từ những ghi chú concept nhanh đến sketch chi tiết hơn, thể hiện cách tôi thử nghiệm composition, nhân vật, dáng và ý tưởng thị giác trước khi chuyển sang giai đoạn sản xuất digital.",
-        "text_en": "These studies range from quick concept notes to more developed drawings, documenting how composition, character, gesture and visual ideas are explored before moving into digital production."
-      },
-      {
-        "id": "b1",
-        "type": "image",
-        "src": "/assets/uploads/20-hand-drawing-idea-sketch-02.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/20-hand-drawing-idea-sketch-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/20-hand-drawing-idea-sketch-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "d7345678aa19",
-    "order": 5,
-    "title_vi": "La Roche-Posay | Campaign & Promotional Design",
-    "title_en": "La Roche-Posay | Campaign & Promotional Design",
-    "tag1_vi": "Chăm sóc da",
-    "tag1_en": "Skincare",
-    "tag2_vi": "Dược mỹ phẩm",
-    "tag2_en": "Pharmacy Brand",
-    "desc_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal.",
-    "desc_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account.",
-    "link": "#",
-    "image": "/assets/uploads/21-la-roche-posay.png",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Song song với Vichy, tôi phụ trách thiết kế các campaign và hoạt động promotion thường xuyên cho La Roche-Posay trong cùng account L'Oréal.",
-        "text_en": "Alongside Vichy, I handled ongoing campaign and promotional design for La Roche-Posay as part of the L'Oréal account."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Công việc được triển khai từ brief của client và global identity có sẵn của thương hiệu, yêu cầu từng visual tại thị trường địa phương vẫn phải giữ được tính khoa học, rõ ràng, tập trung vào sản phẩm và nhất quán qua nhiều đợt promotion liên tục.",
-        "text_en": "The work was driven by client briefs and the brand's established global identity, requiring each local execution to remain clinically clear, product-focused and consistent across frequent promotional cycles."
-      },
-      {
-        "id": "p3",
-        "type": "text",
-        "text_vi": "Việc đồng thời phụ trách La Roche-Posay và Vichy cũng cho tôi trải nghiệm khá sớm trong việc xử lý song song communication stream của hai thương hiệu thuộc cùng một client, nhưng có visual code, nhóm khách hàng và ưu tiên sản phẩm khác nhau.",
-        "text_en": "Working across both La Roche-Posay and Vichy gave me early exposure to managing parallel communication streams for two brands under the same client, each with its own visual codes, audience and product priorities."
-      },
-      {
-        "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-03.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-05.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-06.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b7",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-07.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b8",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-08.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b9",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-09.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b10",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-10.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b11",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-11.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-12.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b13",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-13.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b14",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-14.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b15",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-15.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b16",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-16.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b17",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-17.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b18",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-18.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b19",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-19.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b20",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-20.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b21",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-21.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b22",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-22.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b23",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-23.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b24",
-        "type": "image",
-        "src": "/assets/uploads/21-la-roche-posay-24.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
     "id": "40dc7b455412",
     "order": 22,
     "title_vi": "JOMOO Vietnam Grand Opening",
@@ -2671,124 +2908,6 @@
         "id": "b14",
         "type": "image",
         "src": "/assets/uploads/23-de-skin-journey-website-renewal-14.png",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "95b74f4ae5ff",
-    "order": 4,
-    "title_vi": "GoGoX | Key Visual Rework & Campaign Rollout",
-    "title_en": "GoGoX | Key Visual Rework & Campaign Rollout",
-    "tag1_vi": "Key Visual",
-    "tag1_en": "Key Visual",
-    "tag2_vi": "Logistics",
-    "tag2_en": "Logistics",
-    "desc_vi": "GoGoX đến với team chúng tôi khi một dự án key visual trước đó đã bị đình lại và chưa được hoàn thiện. Thay vì bắt đầu từ một brief hoàn toàn mới, bài toán là đánh giá lại hướng hình ảnh đã có, xác định những điểm chưa hiệu quả và đưa campaign đến một visual direction hoàn chỉnh hơn.",
-    "desc_en": "GoGoX came to our team with an existing key visual project that had stalled before completion. Rather than starting from a blank brief, the challenge was to reassess what was already there, identify what was not working and bring the campaign to a more resolved visual direction.",
-    "link": "#",
-    "image": "/assets/uploads/24-gogox-main-kv-adaptations.png",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "GoGoX đến với team chúng tôi khi một dự án key visual trước đó đã bị đình lại và chưa được hoàn thiện. Thay vì bắt đầu từ một brief hoàn toàn mới, bài toán là đánh giá lại hướng hình ảnh đã có, xác định những điểm chưa hiệu quả và đưa campaign đến một visual direction hoàn chỉnh hơn.",
-        "text_en": "GoGoX came to our team with an existing key visual project that had stalled before completion. Rather than starting from a blank brief, the challenge was to reassess what was already there, identify what was not working and bring the campaign to a more resolved visual direction."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Tôi tham gia rework main key visual và phát triển execution cuối cùng của chiến dịch, củng cố composition, visual hierarchy và chất lượng tổng thể trước khi triển khai sang các format khác.",
-        "text_en": "I worked on reworking the main key visual and developing the final campaign execution, strengthening the composition, visual hierarchy and overall finish before adapting the direction across campaign formats."
-      },
-      {
-        "id": "p3",
-        "type": "text",
-        "text_vi": "Project này thể hiện khá rõ khả năng giải quyết vấn đề trong một brief đã có sẵn: giữ lại những gì còn giá trị, đồng thời tái cấu trúc phần hình ảnh để tạo thành một hệ thống đủ nhất quán và hoàn thiện để tiếp tục rollout.",
-        "text_en": "The project became an exercise in creative problem-solving under an inherited brief: preserving what remained useful while rebuilding the visual into something coherent enough to carry the campaign forward."
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-03.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-05.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b7",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-06.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b8",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-07.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b9",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-08.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b10",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-09.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b11",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-10.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-11.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b13",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-12.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b14",
-        "type": "image",
-        "src": "/assets/uploads/24-gogox-main-kv-adaptations-13.png",
         "caption_vi": "",
         "caption_en": ""
       }
@@ -2963,272 +3082,6 @@
     ]
   },
   {
-    "id": "ef4442ece1c3",
-    "order": 3,
-    "title_vi": "WIN Store System | First Retail Rollout of Masan's New Identity",
-    "title_en": "WIN Store System | First Retail Rollout of Masan's New Identity",
-    "tag1_vi": "Nhận diện thương hiệu",
-    "tag1_en": "Brand Identity",
-    "tag2_vi": "Bán lẻ",
-    "tag2_en": "Retail",
-    "desc_vi": "WIN đánh dấu giai đoạn Masan triển khai một mô hình bán lẻ mới, phát triển từ hệ sinh thái WinMart+ thành trải nghiệm cửa hàng mang tính lifestyle rộng hơn.",
-    "desc_en": "WIN marked the introduction of Masan's new retail format, evolving from the existing WinMart+ ecosystem into a broader lifestyle-oriented store experience.",
-    "link": "#",
-    "image": "/assets/uploads/26-win-store-system-brand-campaign.png",
-    "blocks": [
-      {
-        "id": "r1",
-        "type": "text",
-        "text_vi": "<strong>Vai trò: Senior Creative Art</strong>",
-        "text_en": "<strong>Role: Senior Creative Art</strong>"
-      },
-      {
-        "id": "r2",
-        "type": "text",
-        "text_vi": "<strong>Phạm vi: Identity Implementation, Retail Design, Campaign Rollout</strong>",
-        "text_en": "<strong>Scope: Identity Implementation, Retail Design, Campaign Rollout</strong>"
-      },
-      {
-        "id": "p3",
-        "type": "text",
-        "text_vi": "WIN đánh dấu giai đoạn Masan triển khai một mô hình bán lẻ mới, phát triển từ hệ sinh thái WinMart+ thành trải nghiệm cửa hàng mang tính lifestyle rộng hơn.",
-        "text_en": "WIN marked the introduction of Masan's new retail format, evolving from the existing WinMart+ ecosystem into a broader lifestyle-oriented store experience."
-      },
-      {
-        "id": "p4",
-        "type": "text",
-        "text_vi": "Dưới sự định hướng của Creative Manager, tôi là designer đầu tiên triển khai hệ thống nhận diện WIN mới cho đợt launch tại TP.HCM. Công việc của tôi là chuyển bộ nhận diện vừa được xây dựng từ những nguyên tắc trên guideline thành các ứng dụng thực tế hướng trực tiếp đến khách hàng, từ store graphics, catalogue, flyer đến digital asset và social communication.",
-        "text_en": "Working under the Creative Manager, I was the first designer implementing the newly introduced WIN identity for its Ho Chi Minh City launch. My role was to translate the new brand system from identity principles into real customer-facing applications across store graphics, catalogues, flyers, digital assets and social communication."
-      },
-      {
-        "id": "p5",
-        "type": "text",
-        "text_vi": "Bài toán ở đây không phải thiết kế lại identity, mà là xác lập cách một hệ thống nhận diện hoàn toàn mới thực sự vận hành khi được đưa vào môi trường bán lẻ với rất nhiều format và điểm chạm.",
-        "text_en": "The challenge was not to redesign the identity, but to establish how a newly created visual system would actually behave once deployed at scale across a physical retail environment."
-      },
-      {
-        "id": "p6",
-        "type": "text",
-        "text_vi": "WIN ra mắt tại 27 cửa hàng ở Hà Nội và TP.HCM, sau đó mở rộng lên 102 cửa hàng trong Q4/2022, biến ngôn ngữ thiết kế ban đầu thành một retail system có khả năng triển khai ở quy mô lớn.",
-        "text_en": "WIN debuted across 27 stores in Hanoi and Ho Chi Minh City and expanded to 102 stores in Q4 2022, turning the initial design language into a working retail system across multiple customer touchpoints."
-      },
-      {
-        "id": "b4",
-        "type": "video",
-        "src": "/assets/uploads/26-win-store-video-1.mp4",
-        "caption_vi": "Video chiến dịch.",
-        "caption_en": "Campaign video."
-      },
-      {
-        "id": "b5",
-        "type": "video",
-        "src": "/assets/uploads/26-win-store-video-3.mp4",
-        "caption_vi": "Video chiến dịch.",
-        "caption_en": "Campaign video."
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b7",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-03.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b8",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-04.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b9",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-05.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b10",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-06.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b11",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-07.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b12",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-08.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b13",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-09.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b14",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-10.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b15",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-11.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b16",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-12.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b17",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-13.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b18",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-14.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b19",
-        "type": "video",
-        "src": "/assets/uploads/26-win-store-video-2.mp4",
-        "caption_vi": "Video chiến dịch.",
-        "caption_en": "Campaign video."
-      },
-      {
-        "id": "b20",
-        "type": "image",
-        "src": "/assets/uploads/26-win-store-system-brand-campaign-15.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
-    "id": "585f078b9f9a",
-    "order": 1,
-    "title_vi": "Toshiba TV Vietnam: Winning IMC Pitch & Campaign",
-    "title_en": "Toshiba TV Vietnam: Winning IMC Pitch & Campaign",
-    "tag1_vi": "Thiết kế quảng cáo",
-    "tag1_en": "Advertising Design",
-    "tag2_vi": "Điện tử",
-    "tag2_en": "Electronics",
-    "desc_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh các thương hiệu cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC gồm 5 thành viên của chúng tôi chọn một hướng định vị khác xoay quanh keyword \"Thật\", màu thật, hình thật và giá trị thật. Proposal này đã thắng pitch Toshiba.",
-    "desc_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where competitors increasingly promoted brighter colors, sharper images and heavy picture enhancement, our five-person IMC pitch team proposed a different position around one keyword: \"Thật\" (Real), real color, real image and real value. The proposal won the Toshiba account.",
-    "link": "#",
-    "image": "/assets/uploads/27-toshiba-the-leading-will-be-back.jpg",
-    "blocks": [
-      {
-        "id": "p1",
-        "type": "text",
-        "text_vi": "Toshiba TV chuẩn bị trở lại thị trường Việt Nam sau một thời gian dài vắng bóng. Trong bối cảnh các thương hiệu cạnh tranh bằng hình ảnh ngày càng rực rỡ, sắc nét và được xử lý mạnh hơn thực tế, team IMC gồm 5 thành viên của chúng tôi chọn một hướng định vị khác xoay quanh keyword <strong>\"Thật\"</strong>, màu thật, hình thật và giá trị thật. Proposal này đã thắng pitch Toshiba.",
-        "text_en": "Toshiba TV was preparing its return to the Vietnamese market after a long absence. In a category where competitors increasingly promoted brighter colors, sharper images and heavy picture enhancement, our five-person IMC pitch team proposed a different position around one keyword: <strong>\"Thật\" (Real)</strong>, real color, real image and real value. The proposal won the Toshiba account."
-      },
-      {
-        "id": "p2",
-        "type": "text",
-        "text_vi": "Từ campaign platform và copy đã được xác lập, tôi là senior visual phụ trách phát triển concept thị giác, art direction và thực thi hoàn chỉnh cho từng key visual. Mỗi thông điệp có một câu chuyện riêng nhưng cùng dựa trên một nguyên tắc: <strong>trải nghiệm chân thực đến mức những gì xuất hiện trên màn hình vượt khỏi khung TV và hòa vào thế giới thực.</strong>",
-        "text_en": "Working from the campaign platform and copy, I was the senior visual responsible for developing the visual concepts, art direction and final execution for individual key visuals. Each message became its own story while sharing one principle: <strong>the viewing experience feels so real that what happens on screen crosses the TV bezel and enters the physical world.</strong>"
-      },
-      {
-        "id": "p3",
-        "type": "text",
-        "text_vi": "Ở mùa bóng đá, trận đấu tràn vào không gian gia đình, biến trải nghiệm xem tại nhà thành cảm giác như đang có mặt trên sân vận động. Với campaign về âm thanh, tôi xây dựng một thế giới siêu thực lấy cảm hứng từ Alice in Wonderland để diễn tả trải nghiệm âm thanh sống động và kỳ ảo. Các execution khác tiếp tục khai thác màu sắc, chất lượng hình ảnh, Halloween và Tết trên cùng mối quan hệ giữa màn hình và thực tế.",
-        "text_en": "For football season, the match extends into the family living room, making watching from home feel like being at the stadium. For the sound campaign, I built a surreal, Alice in Wonderland-inspired world to express an immersive and almost magical audio experience. Other executions explored color, picture quality, Halloween and Tet through the same relationship between screen and reality."
-      },
-      {
-        "id": "p4",
-        "type": "text",
-        "text_vi": "Riêng campaign Tết, tôi còn tham gia xuyên suốt phần sản xuất hình ảnh, bao gồm photoshoot studio cùng Gia đình Cam Cam, art direction tại set và hoàn thiện output cuối.",
-        "text_en": "For Tet, I was also involved throughout the visual production process, including the studio shoot with Gia đình Cam Cam, on-set art direction and final campaign output."
-      },
-      {
-        "id": "p5",
-        "type": "text",
-        "text_vi": "Toàn bộ chuỗi execution trở thành một hệ thống thị giác đủ linh hoạt để thay đổi theo sản phẩm, thông điệp và mùa chiến dịch nhưng vẫn giữ nguyên một lời hứa: <strong>màu thật, trải nghiệm thật, giá trị thật.</strong>",
-        "text_en": "Together, the executions became a flexible visual system that could evolve across products, messages and seasons while remaining anchored to one promise: <strong>real color, real experience, real value.</strong>"
-      },
-      {
-        "id": "b2",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-02.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b3",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-03.png",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b4",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-04.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b5",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-05.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b6",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-06.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b7",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-07.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      },
-      {
-        "id": "b8",
-        "type": "image",
-        "src": "/assets/uploads/27-toshiba-the-leading-will-be-back-08.jpg",
-        "caption_vi": "",
-        "caption_en": ""
-      }
-    ]
-  },
-  {
     "id": "1f2445ac8263",
     "order": 25,
     "title_vi": "Mirae Asset: Seasonal Campaign",
@@ -3321,6 +3174,153 @@
         "id": "b12",
         "type": "image",
         "src": "/assets/uploads/28-mirae-asset-season-campaign-11.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "938e5d8f3668",
+    "order": 26,
+    "title_vi": "My Digital Artworks",
+    "title_en": "My Digital Artworks",
+    "tag1_vi": "Minh họa",
+    "tag1_en": "Illustration",
+    "tag2_vi": "Nghệ thuật số",
+    "tag2_en": "Digital Art",
+    "desc_vi": "Bộ sưu tập minh họa số cá nhân được thực hiện ngoài các brief thương mại, từ nhân vật chibi, động vật đến đồ ăn và những chủ đề đời thường.",
+    "desc_en": "A personal collection of digital illustrations created outside commercial briefs, ranging from chibi characters and animals to food and everyday subjects.",
+    "link": "#",
+    "image": "/assets/uploads/03-my-digital-artworks.png",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Bộ sưu tập minh họa số cá nhân được thực hiện ngoài các brief thương mại, từ nhân vật chibi, động vật đến đồ ăn và những chủ đề đời thường.",
+        "text_en": "A personal collection of digital illustrations created outside commercial briefs, ranging from chibi characters and animals to food and everyday subjects."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Đây là không gian để tôi tự do thử nghiệm tạo hình, màu sắc, biểu cảm và phong cách minh họa, đồng thời duy trì kỹ năng vẽ như một phần trong thực hành thiết kế của mình.",
+        "text_en": "These works are where I explore character, color, expression and drawing styles more freely, keeping illustration as an active part of my visual practice alongside commercial design."
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b4",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-03.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b5",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-04.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b6",
+        "type": "image",
+        "src": "/assets/uploads/03-my-digital-artworks-05.png",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "007cec30c262",
+    "order": 27,
+    "title_vi": "Hand Drawing & Idea Sketches",
+    "title_en": "Hand Drawing & Idea Sketches",
+    "tag1_vi": "Phác thảo",
+    "tag1_en": "Sketching",
+    "tag2_vi": "Cá nhân",
+    "tag2_en": "Personal Work",
+    "desc_vi": "Tuyển tập hand drawing và idea sketch ghi lại phần tư duy diễn ra trước khi một thiết kế được hoàn thiện.",
+    "desc_en": "A selection of hand drawings and idea sketches showing the thinking that happens before polished visual execution.",
+    "link": "#",
+    "image": "/assets/uploads/20-hand-drawing-idea-sketch.jpg",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Tuyển tập hand drawing và idea sketch ghi lại phần tư duy diễn ra trước khi một thiết kế được hoàn thiện.",
+        "text_en": "A selection of hand drawings and idea sketches showing the thinking that happens before polished visual execution."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Các bản vẽ trải dài từ những ghi chú concept nhanh đến sketch chi tiết hơn, thể hiện cách tôi thử nghiệm composition, nhân vật, dáng và ý tưởng thị giác trước khi chuyển sang giai đoạn sản xuất digital.",
+        "text_en": "These studies range from quick concept notes to more developed drawings, documenting how composition, character, gesture and visual ideas are explored before moving into digital production."
+      },
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/20-hand-drawing-idea-sketch-02.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/20-hand-drawing-idea-sketch-03.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b3",
+        "type": "image",
+        "src": "/assets/uploads/20-hand-drawing-idea-sketch-04.jpg",
+        "caption_vi": "",
+        "caption_en": ""
+      }
+    ]
+  },
+  {
+    "id": "d69dd1b7ad0f",
+    "order": 28,
+    "title_vi": "Finance / Banking Mobile App Design",
+    "title_en": "Finance / Banking Mobile App Design",
+    "tag1_vi": "Thiết kế UI/UX",
+    "tag1_en": "UI/UX Design",
+    "tag2_vi": "Ứng dụng di động",
+    "tag2_en": "Mobile App",
+    "desc_vi": "Một bài nghiên cứu UI/UX cho trải nghiệm ứng dụng tài chính và ngân hàng trên di động, tập trung vào việc chuyển một lĩnh vực vốn nhiều thông tin thành giao diện rõ ràng và dễ tiếp cận hơn.",
+    "desc_en": "A UI/UX exploration for a finance and banking mobile experience, focusing on turning a traditionally information-heavy category into a cleaner and more approachable interface.",
+    "link": "https://www.behance.net/gallery/203515273/FinanceBanking-Mobile-App-Design",
+    "image": "/assets/uploads/09-finance-banking-mobile-app-design.png",
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "text",
+        "text_vi": "Một bài nghiên cứu UI/UX cho trải nghiệm ứng dụng tài chính và ngân hàng trên di động, tập trung vào việc chuyển một lĩnh vực vốn nhiều thông tin thành giao diện rõ ràng và dễ tiếp cận hơn.",
+        "text_en": "A UI/UX exploration for a finance and banking mobile experience, focusing on turning a traditionally information-heavy category into a cleaner and more approachable interface."
+      },
+      {
+        "id": "p2",
+        "type": "text",
+        "text_vi": "Project khai thác hierarchy, tính nhất quán của component và các interaction pattern trên mobile, cân bằng giữa độ rõ ràng, đáng tin cậy của sản phẩm tài chính và trải nghiệm sản phẩm hiện đại hơn.",
+        "text_en": "The project explores visual hierarchy, component consistency and mobile interaction patterns while balancing the clarity and trust expected from a financial product with a more contemporary product experience."
+      },
+      {
+        "id": "b1",
+        "type": "image",
+        "src": "/assets/uploads/09-finance-banking-mobile-app-design-02.png",
+        "caption_vi": "",
+        "caption_en": ""
+      },
+      {
+        "id": "b2",
+        "type": "image",
+        "src": "/assets/uploads/09-finance-banking-mobile-app-design-03.png",
         "caption_vi": "",
         "caption_en": ""
       }
