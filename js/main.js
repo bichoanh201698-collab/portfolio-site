@@ -320,7 +320,7 @@
 			var saved = localStorage.getItem("site-lang");
 			if (saved === "vi" || saved === "en") return saved;
 		} catch (e) {}
-		return "vi";
+		return "en";
 	}
 
 	document.addEventListener("DOMContentLoaded", function () {

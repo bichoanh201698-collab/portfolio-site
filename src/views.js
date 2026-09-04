@@ -21,7 +21,7 @@ const ICON_EMAIL = raw(
 );
 
 const THEME_BOOTSTRAP_SCRIPT = raw(
-	`<script>document.documentElement.setAttribute('data-i18n-loading', '');(function(){try{var t=localStorage.getItem('theme');if(t!=='light'&&t!=='dark'){t=(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>`,
+	`<script>document.documentElement.setAttribute('data-i18n-loading', '');(function(){try{var t=localStorage.getItem('theme');if(t!=='light'&&t!=='dark'){t='light';}document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>`,
 );
 
 function head({ title, description, canonical, ogType = "website", ogTitle, ogDesc, ogImage, extraHead }) {
