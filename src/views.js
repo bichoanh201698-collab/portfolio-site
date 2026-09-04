@@ -136,10 +136,31 @@ ${footerAndClose()}
 // Public: Portfolio
 // ---------------------------------------------------------------------------
 
+function cardGrid(projects) {
+	return html`<div class="grid">
+		${projects.map(
+			(p) => html`
+			<div class="card">
+				<a href="/portfolio/${p.id}"><img src="${p.image}" alt="${p.title_vi}"></a>
+				<div class="card-body">
+					<div class="card-tags">
+						${p.tag1_vi || p.tag1_en ? html`<span class="tag" data-i18n-vi="${p.tag1_vi}" data-i18n-en="${p.tag1_en}">${p.tag1_vi}</span>` : ""}
+						${p.tag2_vi || p.tag2_en ? html`<span class="tag" data-i18n-vi="${p.tag2_vi}" data-i18n-en="${p.tag2_en}">${p.tag2_vi}</span>` : ""}
+					</div>
+					<h6 data-i18n-vi="${p.title_vi}" data-i18n-en="${p.title_en}">${p.title_vi}</h6>
+					<p data-i18n-vi="${p.desc_vi}" data-i18n-en="${p.desc_en}">${p.desc_vi}</p>
+					<div><a href="/portfolio/${p.id}" class="btn btn-dark" data-i18n="portfolio.viewDetails">Xem chi tiết</a></div>
+				</div>
+			</div>
+		`,
+		)}
+	</div>`;
+}
+
 export function portfolioListPage({ projects, siteUrl }) {
 	const body = html`
 		<section class="section-tight">
-			<p class="eyebrow" data-i18n="portfolio.eyebrow">Sản phẩm của tôi</p>
+			<p class="eyebrow" data-i18n-vi="Sản phẩm nổi bật" data-i18n-en="Featured Work">Sản phẩm nổi bật</p>
 			<h1>Portfolio</h1>
 			<p data-i18n="portfolio.desc">Tuyển chọn các dự án nhận diện thương hiệu, chiến dịch và trải nghiệm số tôi đã trực tiếp thực hiện, từ concept đầu tiên đến sản phẩm hoàn chỉnh.</p>
 		</section>
@@ -148,25 +169,23 @@ export function portfolioListPage({ projects, siteUrl }) {
 			${
 				projects.length === 0
 					? html`<p class="text-secondary" data-i18n-vi="Chưa có dự án nào. Vào trang quản trị để thêm dự án đầu tiên." data-i18n-en="No projects yet. Go to the admin dashboard to add your first project.">Chưa có dự án nào. Vào trang quản trị để thêm dự án đầu tiên.</p>`
-					: html`<div class="grid">
+					: html`<div class="featured-list">
 							${projects.map(
-								(p) => html`
-								<div class="card">
-									<a href="/portfolio/${p.id}"><img src="${p.image}" alt="${p.title_vi}"></a>
-									<div class="card-body">
-										<div class="card-tags">
-											${p.tag1_vi || p.tag1_en ? html`<span class="tag" data-i18n-vi="${p.tag1_vi}" data-i18n-en="${p.tag1_en}">${p.tag1_vi}</span>` : ""}
-											${p.tag2_vi || p.tag2_en ? html`<span class="tag" data-i18n-vi="${p.tag2_vi}" data-i18n-en="${p.tag2_en}">${p.tag2_vi}</span>` : ""}
-										</div>
-										<h6 data-i18n-vi="${p.title_vi}" data-i18n-en="${p.title_en}">${p.title_vi}</h6>
-										<p data-i18n-vi="${p.desc_vi}" data-i18n-en="${p.desc_en}">${p.desc_vi}</p>
-										<div><a href="/portfolio/${p.id}" class="btn btn-dark" data-i18n="portfolio.viewDetails">Xem chi tiết</a></div>
+								(p, i) => html`
+								<a href="/portfolio/${p.id}" class="featured-item">
+									<span class="featured-number">${String(i + 1).padStart(2, "0")}</span>
+									<div class="featured-info">
+										<h3 data-i18n-vi="${p.title_vi}" data-i18n-en="${p.title_en}">${p.title_vi}</h3>
+										<p class="featured-tags">
+											${[p.tag1_vi, p.tag2_vi].filter(Boolean).join(" / ")}
+										</p>
 									</div>
-								</div>
+								</a>
 							`,
 							)}
 						</div>`
 			}
+			<p class="archive-link"><a href="/portfolio/archive" data-i18n-vi="Archive / Các dự án trước đây →" data-i18n-en="Archive / Selected Earlier Works →">Archive / Các dự án trước đây →</a></p>
 		</section>
 		${ctaBox()}
 	`;
@@ -177,6 +196,35 @@ export function portfolioListPage({ projects, siteUrl }) {
 			description: "Portfolio thiết kế của Shine Tu — tổng hợp các dự án Graphic Design, Branding và Creative Direction cho nhiều thương hiệu trong và ngoài nước.",
 			canonical: `${siteUrl}/portfolio`,
 			ogDesc: "Tổng hợp các dự án Graphic Design, Branding và Creative Direction của Shine Tu.",
+		},
+		body,
+	});
+}
+
+export function portfolioArchivePage({ projects, siteUrl }) {
+	const body = html`
+		<section class="section-tight">
+			<a href="/portfolio" class="detail-back" data-i18n-vi="← Quay lại Portfolio" data-i18n-en="← Back to Portfolio">← Quay lại Portfolio</a>
+			<p class="eyebrow" data-i18n-vi="Lưu trữ" data-i18n-en="Archive">Lưu trữ</p>
+			<h1 data-i18n-vi="Các dự án trước đây" data-i18n-en="Selected Earlier Works">Các dự án trước đây</h1>
+			<p data-i18n-vi="Những dự án nhỏ hơn hoặc thực hiện sớm hơn trong sự nghiệp, vẫn đáng để xem qua." data-i18n-en="Smaller or earlier projects from across my career, still worth a look.">Những dự án nhỏ hơn hoặc thực hiện sớm hơn trong sự nghiệp, vẫn đáng để xem qua.</p>
+		</section>
+		<hr class="separator">
+		<section class="section">
+			${
+				projects.length === 0
+					? html`<p class="text-secondary" data-i18n-vi="Chưa có dự án nào trong lưu trữ." data-i18n-en="Nothing in the archive yet.">Chưa có dự án nào trong lưu trữ.</p>`
+					: cardGrid(projects)
+			}
+		</section>
+	`;
+	return publicPage({
+		activeNav: "portfolio",
+		head: {
+			title: "Archive — Portfolio — Shine Tu",
+			description: "Các dự án trước đây trong sự nghiệp của Shine Tu — nhận diện thương hiệu, chiến dịch và trải nghiệm số.",
+			canonical: `${siteUrl}/portfolio/archive`,
+			ogDesc: "Các dự án trước đây trong sự nghiệp của Shine Tu.",
 		},
 		body,
 	});
@@ -487,7 +535,7 @@ export function adminDashboardPage({ projects, username }) {
 				? html`<p class="text-secondary">Chưa có dự án nào. Bấm "Thêm dự án mới" để bắt đầu.</p>`
 				: html`<div style="overflow-x:auto;">
 						<table class="admin-table">
-							<thead><tr><th>Ảnh</th><th>Thứ tự</th><th>Tên dự án (VI / EN)</th><th>Hành động</th></tr></thead>
+							<thead><tr><th>Ảnh</th><th>Thứ tự</th><th>Tên dự án (VI / EN)</th><th>Trạng thái</th><th>Hành động</th></tr></thead>
 							<tbody>
 								${projects.map(
 									(p) => html`
@@ -495,6 +543,11 @@ export function adminDashboardPage({ projects, username }) {
 										<td><img src="${p.image}" alt=""></td>
 										<td>${p.sort_order}</td>
 										<td>${p.title_vi}<br><span class="text-secondary">${p.title_en}</span></td>
+										<td>
+											<form method="POST" action="/portfolio/admin/${p.id}/toggle-featured">
+												<button type="submit" class="badge-toggle ${p.featured ? "is-featured" : ""}">${p.featured ? "★ Nổi bật" : "Lưu trữ"}</button>
+											</form>
+										</td>
 										<td>
 											<div class="admin-table-actions">
 												<a href="/portfolio/admin/${p.id}/edit" class="btn btn-outline btn-small">Sửa</a>

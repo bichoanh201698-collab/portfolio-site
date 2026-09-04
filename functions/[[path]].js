@@ -128,6 +128,11 @@ app.post("/portfolio/admin/:id/delete", requireAuth, async (c) => {
 	return c.redirect("/portfolio/admin");
 });
 
+app.post("/portfolio/admin/:id/toggle-featured", requireAuth, async (c) => {
+	await db.toggleProjectFeatured(c.env.DB, c.req.param("id"));
+	return c.redirect("/portfolio/admin");
+});
+
 app.post("/portfolio/admin/:id/blocks", requireAuth, async (c) => {
 	const id = c.req.param("id");
 	const body = await c.req.parseBody();
@@ -179,8 +184,13 @@ app.post("/portfolio/admin/:id/blocks/:blockId/move", requireAuth, async (c) => 
 // ---------------------------------------------------------------------------
 
 app.get("/portfolio", async (c) => {
-	const projects = await db.getProjects(c.env.DB);
+	const projects = await db.getFeaturedProjects(c.env.DB);
 	return c.html(views.portfolioListPage({ projects, siteUrl: siteUrlOf(c) }));
+});
+
+app.get("/portfolio/archive", async (c) => {
+	const projects = await db.getArchivedProjects(c.env.DB);
+	return c.html(views.portfolioArchivePage({ projects, siteUrl: siteUrlOf(c) }));
 });
 
 app.get("/portfolio/:id", async (c) => {

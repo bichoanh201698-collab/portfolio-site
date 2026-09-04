@@ -81,6 +81,20 @@ export async function getProjects(db) {
 	return results;
 }
 
+export async function getFeaturedProjects(db) {
+	const { results } = await db.prepare("SELECT * FROM projects WHERE featured = 1 ORDER BY sort_order ASC").all();
+	return results;
+}
+
+export async function getArchivedProjects(db) {
+	const { results } = await db.prepare("SELECT * FROM projects WHERE featured = 0 ORDER BY sort_order ASC").all();
+	return results;
+}
+
+export async function toggleProjectFeatured(db, id) {
+	await db.prepare("UPDATE projects SET featured = 1 - featured WHERE id = ?").bind(id).run();
+}
+
 export async function getProject(db, id) {
 	const project = await db.prepare("SELECT * FROM projects WHERE id = ?").bind(id).first();
 	if (!project) return null;
