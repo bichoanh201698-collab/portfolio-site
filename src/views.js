@@ -234,16 +234,16 @@ export function portfolioDetailPage({ project, siteUrl }) {
 		creator: { "@type": "Person", name: "Shine Tu" },
 	});
 	const body = html`
-		<section class="section-tight">
-			<a href="/portfolio" class="detail-back" data-i18n-vi="← Quay lại Portfolio" data-i18n-en="← Back to Portfolio">← Quay lại Portfolio</a>
-			<div class="card-tags" style="margin-top:1.5em;">
+		<a href="/portfolio" class="detail-back" data-i18n-vi="← Quay lại Portfolio" data-i18n-en="← Back to Portfolio">← Quay lại Portfolio</a>
+		<section class="section-tight detail-text">
+			<div class="card-tags">
 				${project.tag1_vi || project.tag1_en ? html`<span class="tag" data-i18n-vi="${project.tag1_vi}" data-i18n-en="${project.tag1_en}">${project.tag1_vi}</span>` : ""}
 				${project.tag2_vi || project.tag2_en ? html`<span class="tag" data-i18n-vi="${project.tag2_vi}" data-i18n-en="${project.tag2_en}">${project.tag2_vi}</span>` : ""}
 			</div>
 			<h1 data-i18n-vi="${project.title_vi}" data-i18n-en="${project.title_en}">${project.title_vi}</h1>
 		</section>
 		<img class="detail-image" src="${project.image}" alt="${project.title_vi}">
-		<section class="section-tight">
+		<section class="section-tight detail-text">
 			${!hasTextBlock ? html`<p class="detail-content" data-i18n-vi="${project.desc_vi}" data-i18n-en="${project.desc_en}">${project.desc_vi}</p>` : ""}
 			${
 				blocks.length > 0
@@ -333,16 +333,16 @@ export function blogPostPage({ post, siteUrl }) {
 		author: { "@type": "Person", name: "Oanh Tu" },
 	});
 	const body = html`
-		<section class="section-tight">
-			<a href="/blog.html" class="detail-back" data-i18n-vi="← Quay lại Blog" data-i18n-en="← Back to Blog">← Quay lại Blog</a>
-			<div class="card-tags" style="margin-top:1.5em;">
+		<a href="/blog.html" class="detail-back" data-i18n-vi="← Quay lại Blog" data-i18n-en="← Back to Blog">← Quay lại Blog</a>
+		<section class="section-tight detail-text">
+			<div class="card-tags">
 				${post.tag_vi || post.tag_en ? html`<span class="tag" data-i18n-vi="${post.tag_vi}" data-i18n-en="${post.tag_en}">${post.tag_vi}</span>` : ""}
 				<span class="post-date" data-i18n-vi="${post.date_display_vi}" data-i18n-en="${post.date_display_en}">${post.date_display_vi}</span>
 			</div>
 			<h1 data-i18n-vi="${post.title_vi}" data-i18n-en="${post.title_en}">${post.title_vi}</h1>
 		</section>
 		<img class="detail-image" src="${post.image}" alt="${post.title_vi}">
-		<section class="section-tight">
+		<section class="section-tight detail-text">
 			${
 				blocks.length > 0
 					? blocks.map((b) =>

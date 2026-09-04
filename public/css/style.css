@@ -41,6 +41,7 @@
 	--gutter: clamp(24px, 5vw, 64px);
 	--sidebar-width: 260px;
 	--content-max: 1120px;
+	--content-narrow: 700px;
 
 	--fs-tiny: clamp(14px, 1.4vw, 16px);
 	--fs-small: clamp(16px, 1.6vw, 18px);
@@ -753,13 +754,18 @@ input:focus, textarea:focus, select:focus {
 /* Portfolio detail page ------------------------------------------------- */
 
 .detail-back {
-	display: inline-flex;
+	position: sticky;
+	top: 0;
+	z-index: 5;
+	display: flex;
 	align-items: center;
 	gap: 0.4em;
 	font-size: var(--fs-small);
 	font-weight: 600;
 	text-decoration: none;
 	color: var(--color-secondary);
+	background: var(--color-background);
+	padding: 1em 0;
 }
 
 .detail-back:hover { color: var(--color-foreground); }
@@ -771,6 +777,11 @@ input:focus, textarea:focus, select:focus {
 	border-radius: 16px;
 	margin: 1.5em 0;
 }
+
+/* Narrower reading column for the title/text/blocks of a project or blog
+   post — keeps line length comfortable on wide screens. The cover image
+   deliberately stays outside this and spans the full content width. */
+.detail-text { max-width: var(--content-narrow); margin-left: auto; margin-right: auto; }
 
 .detail-content { white-space: pre-line; margin-bottom: 1.75em; }
 
