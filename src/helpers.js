@@ -91,6 +91,7 @@ const MIME_BY_EXT = {
 	".mp4": "video/mp4",
 	".webm": "video/webm",
 	".mov": "video/quicktime",
+	".pdf": "application/pdf",
 };
 export function mimeOf(filename) {
 	return MIME_BY_EXT[extOf(filename)] || "application/octet-stream";
