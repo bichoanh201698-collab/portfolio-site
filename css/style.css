@@ -839,7 +839,7 @@ input:focus, textarea:focus, select:focus {
 
 .detail-content { white-space: pre-line; margin-bottom: 1.75em; }
 
-.detail-actions { margin-top: 2em; }
+.detail-actions { margin-top: 2em; display: flex; gap: 1em; flex-wrap: wrap; }
 
 .detail-figure { margin: 0 0 1.75em; }
 

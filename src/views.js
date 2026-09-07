@@ -303,8 +303,13 @@ export function portfolioDetailPage({ project, siteUrl }) {
 					: html`<p class="detail-content" data-i18n-vi="${project.desc_vi}" data-i18n-en="${project.desc_en}">${project.desc_vi}</p>`
 			}
 			${
-				project.link && project.link !== "#"
-					? html`<div class="detail-actions"><a href="${project.link}" target="_blank" rel="noopener" class="btn btn-primary" data-i18n-vi="Xem liên kết ngoài ↗" data-i18n-en="View external link ↗">Xem liên kết ngoài ↗</a></div>`
+				(project.link && project.link !== "#") || project.pdf_link
+					? html`
+						<div class="detail-actions">
+							${project.link && project.link !== "#" ? html`<a href="${project.link}" target="_blank" rel="noopener" class="btn btn-primary" data-i18n-vi="Xem liên kết ngoài ↗" data-i18n-en="View external link ↗">Xem liên kết ngoài ↗</a>` : ""}
+							${project.pdf_link ? html`<a href="${project.pdf_link}" target="_blank" rel="noopener" class="btn btn-outline" data-i18n-vi="Xem toàn bộ brand book (PDF) ↗" data-i18n-en="View full brand book (PDF) ↗">Xem toàn bộ brand book (PDF) ↗</a>` : ""}
+						</div>
+					`
 					: ""
 			}
 		</section>
