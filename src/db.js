@@ -81,14 +81,32 @@ export async function getProjects(db) {
 	return results;
 }
 
+// Projects listed in some other project's child_ids are sub-cases reachable
+// only through that project's hub page, so they're excluded from both the
+// featured and archived listings.
+const NOT_A_CHILD_CLAUSE = `id NOT IN (
+	SELECT je.value FROM projects p2, json_each(p2.child_ids) je WHERE p2.child_ids IS NOT NULL
+)`;
+
 export async function getFeaturedProjects(db) {
-	const { results } = await db.prepare("SELECT * FROM projects WHERE featured = 1 ORDER BY sort_order ASC").all();
+	const { results } = await db.prepare(`SELECT * FROM projects WHERE featured = 1 AND ${NOT_A_CHILD_CLAUSE} ORDER BY sort_order ASC`).all();
 	return results;
 }
 
 export async function getArchivedProjects(db) {
-	const { results } = await db.prepare("SELECT * FROM projects WHERE featured = 0 ORDER BY sort_order ASC").all();
+	const { results } = await db.prepare(`SELECT * FROM projects WHERE featured = 0 AND ${NOT_A_CHILD_CLAUSE} ORDER BY sort_order ASC`).all();
 	return results;
+}
+
+export async function getProjectsByIds(db, ids) {
+	if (!ids || !ids.length) return [];
+	const placeholders = ids.map(() => "?").join(", ");
+	const { results } = await db
+		.prepare(`SELECT * FROM projects WHERE id IN (${placeholders})`)
+		.bind(...ids)
+		.all();
+	const byId = new Map(results.map((r) => [r.id, r]));
+	return ids.map((id) => byId.get(id)).filter(Boolean);
 }
 
 export async function toggleProjectFeatured(db, id) {

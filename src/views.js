@@ -329,6 +329,37 @@ export function portfolioDetailPage({ project, siteUrl }) {
 	});
 }
 
+export function portfolioHubPage({ project, children, siteUrl }) {
+	const body = html`
+		<a href="/portfolio" class="detail-back" data-i18n-vi="← Quay lại Portfolio" data-i18n-en="← Back to Portfolio">← Quay lại Portfolio</a>
+		<section class="section-tight detail-text">
+			<div class="card-tags">
+				${project.tag1_vi || project.tag1_en ? html`<span class="tag" data-i18n-vi="${project.tag1_vi}" data-i18n-en="${project.tag1_en}">${project.tag1_vi}</span>` : ""}
+				${project.tag2_vi || project.tag2_en ? html`<span class="tag" data-i18n-vi="${project.tag2_vi}" data-i18n-en="${project.tag2_en}">${project.tag2_vi}</span>` : ""}
+			</div>
+			<h1 data-i18n-vi="${project.title_vi}" data-i18n-en="${project.title_en}">${project.title_vi}</h1>
+		</section>
+		<img class="detail-image" src="${project.image}" alt="${project.title_vi}">
+		<section class="section-tight detail-text">
+			<p class="detail-content" data-i18n-vi="${project.desc_vi}" data-i18n-en="${project.desc_en}">${project.desc_vi}</p>
+		</section>
+		<section class="section">
+			${children.length === 0 ? "" : cardGrid(children)}
+		</section>
+		${ctaBox()}
+	`;
+	return publicPage({
+		activeNav: "portfolio",
+		head: {
+			title: `${project.title_vi} — Shine Tu`,
+			description: project.desc_vi,
+			canonical: `${siteUrl}/portfolio/${project.id}`,
+			ogImage: siteUrl + project.image,
+		},
+		body,
+	});
+}
+
 // ---------------------------------------------------------------------------
 // Public: Blog
 // ---------------------------------------------------------------------------

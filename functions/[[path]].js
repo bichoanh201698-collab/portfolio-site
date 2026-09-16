@@ -196,6 +196,10 @@ app.get("/portfolio/archive", async (c) => {
 app.get("/portfolio/:id", async (c) => {
 	const project = await db.getProject(c.env.DB, c.req.param("id"));
 	if (!project) return c.redirect("/portfolio");
+	if (project.child_ids) {
+		const children = await db.getProjectsByIds(c.env.DB, JSON.parse(project.child_ids));
+		return c.html(views.portfolioHubPage({ project, children, siteUrl: siteUrlOf(c) }));
+	}
 	project.blocks = (project.blocks || []).map((b) => (b.type === "video" ? { ...b, video: resolveVideoBlock(b) } : b));
 	return c.html(views.portfolioDetailPage({ project, siteUrl: siteUrlOf(c) }));
 });
