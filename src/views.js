@@ -269,7 +269,7 @@ function detailBlock(b, fallbackAlt) {
 	return "";
 }
 
-export function portfolioDetailPage({ project, siteUrl }) {
+export function portfolioDetailPage({ project, parent, siteUrl }) {
 	const blocks = project.blocks || [];
 	const hasTextBlock = blocks.some((b) => b.type === "text");
 	const jsonLd = JSON.stringify({
@@ -281,8 +281,11 @@ export function portfolioDetailPage({ project, siteUrl }) {
 		url: `${siteUrl}/portfolio/${project.id}`,
 		creator: { "@type": "Person", name: "Shine Tu" },
 	});
+	const backHref = parent ? `/portfolio/${parent.id}` : "/portfolio";
+	const backVi = parent ? `← Quay lại ${parent.title_vi}` : "← Quay lại Portfolio";
+	const backEn = parent ? `← Back to ${parent.title_en}` : "← Back to Portfolio";
 	const body = html`
-		<a href="/portfolio" class="detail-back" data-i18n-vi="← Quay lại Portfolio" data-i18n-en="← Back to Portfolio">← Quay lại Portfolio</a>
+		<a href="${backHref}" class="detail-back" data-i18n-vi="${backVi}" data-i18n-en="${backEn}">${backVi}</a>
 		<section class="section-tight detail-text">
 			<div class="card-tags">
 				${project.tag1_vi || project.tag1_en ? html`<span class="tag" data-i18n-vi="${project.tag1_vi}" data-i18n-en="${project.tag1_en}">${project.tag1_vi}</span>` : ""}

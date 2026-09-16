@@ -201,7 +201,8 @@ app.get("/portfolio/:id", async (c) => {
 		return c.html(views.portfolioHubPage({ project, children, siteUrl: siteUrlOf(c) }));
 	}
 	project.blocks = (project.blocks || []).map((b) => (b.type === "video" ? { ...b, video: resolveVideoBlock(b) } : b));
-	return c.html(views.portfolioDetailPage({ project, siteUrl: siteUrlOf(c) }));
+	const parent = await db.getParentProject(c.env.DB, project.id);
+	return c.html(views.portfolioDetailPage({ project, parent, siteUrl: siteUrlOf(c) }));
 });
 
 // ---------------------------------------------------------------------------

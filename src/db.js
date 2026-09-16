@@ -109,6 +109,15 @@ export async function getProjectsByIds(db, ids) {
 	return ids.map((id) => byId.get(id)).filter(Boolean);
 }
 
+export async function getParentProject(db, childId) {
+	return db
+		.prepare(
+			`SELECT * FROM projects WHERE child_ids IS NOT NULL AND EXISTS (SELECT 1 FROM json_each(projects.child_ids) je WHERE je.value = ?) LIMIT 1`,
+		)
+		.bind(childId)
+		.first();
+}
+
 export async function toggleProjectFeatured(db, id) {
 	await db.prepare("UPDATE projects SET featured = 1 - featured WHERE id = ?").bind(id).run();
 }
